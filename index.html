@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Library</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <style>
+        body { 
+            font-family: Arial; 
+            padding: 20px; 
+            background: #f5f5f5;
+        }
+        .btn { 
+            display: block; 
+            width: 100%; 
+            background: #0088cc; 
+            color: white; 
+            border: none; 
+            padding: 15px; 
+            margin: 10px 0; 
+            border-radius: 10px; 
+            font-size: 16px; 
+        }
+        .back { 
+            background: #666; 
+            margin-bottom: 20px; 
+        }
+        .content { 
+            background: white; 
+            padding: 20px; 
+            border-radius: 10px; 
+            margin-top: 20px; 
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <h1>📚 Простая библиотека</h1>
+        <div id="menu">
+            <button class="btn" onclick="openFolder('programming')">💻 Программирование</button>
+            <button class="btn" onclick="openFolder('music')">🎵 Музыка</button>
+        </div>
+    </div>
+
+    <script>
+        let currentLevel = 'main';
+        
+        function openFolder(folder) {
+            currentLevel = folder;
+            updateMenu();
+        }
+        
+        function showContent(text) {
+            document.getElementById('app').innerHTML = `
+                <button class="btn back" onclick="goBack()">⬅ Назад</button>
+                <div class="content">
+                    <h3>📄 Содержимое:</h3>
+                    <p>${text}</p>
+                </div>
+            `;
+        }
+        
+        function goBack() {
+            currentLevel = 'main';
+            updateMenu();
+        }
+        
+        function updateMenu() {
+            if (currentLevel === 'main') {
+                document.getElementById('app').innerHTML = `
+                    <h1>📚 Простая библиотека</h1>
+                    <div id="menu">
+                        <button class="btn" onclick="openFolder('programming')">💻 Программирование</button>
+                        <button class="btn" onclick="openFolder('music')">🎵 Музыка</button>
+                    </div>
+                `;
+            }
+            else if (currentLevel === 'programming') {
+                document.getElementById('app').innerHTML = `
+                    <button class="btn back" onclick="goBack()">⬅ Назад</button>
+                    <h2>💻 Программирование</h2>
+                    <button class="btn" onclick="showContent('Python - простой язык. Установка: python.org')">🐍 Python основы</button>
+                    <button class="btn" onclick="showContent('JavaScript - для веб-сайтов. console.log(\"Hello\")')">📜 JavaScript гайд</button>
+                `;
+            }
+            else if (currentLevel === 'music') {
+                document.getElementById('app').innerHTML = `
+                    <button class="btn back" onclick="goBack()">⬅ Назад</button>
+                    <h2>🎵 Музыка</h2>
+                    <button class="btn" onclick="showContent('Классика: Бетховен, Моцарт, Чайковский')">🎹 Классика</button>
+                    <button class="btn" onclick="showContent('Рок: Queen, Beatles, Led Zeppelin')">🎸 Рок</button>
+                `;
+            }
+        }
+
+        // Инициализация Telegram
+        if (window.Telegram?.WebApp) {
+            window.Telegram.WebApp.ready();
+            window.Telegram.WebApp.expand();
+        }
+    </script>
+</body>
+</html>
