@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Library</title>
+    <title>Library Test App</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <style>
@@ -12,24 +12,26 @@
             -webkit-tap-highlight-color: transparent;
         }
         
+        /* основные стили */
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            padding: 16px;
-            background: var(--tg-theme-bg-color, #ffffff);
-            color: var(--tg-theme-text-color, #000000);
+            padding: px;
+            background: var(--tg-theme-bg-color, #000000);
+            color: var(--tg-theme-text-color, #dddddd);
             min-height: 100vh;
             line-height: 1.4;
         }
         
+        /* стили кнопок */
         .btn {
             display: block;
             width: 100%;
-            background: var(--tg-theme-button-color, #0088cc);
-            color: var(--tg-theme-button-text-color, #ffffff);
+            background: var(--tg-theme-button-color, #c2c2c2);
+            color: var(--tg-theme-button-text-color, #000000);
             border: none;
             padding: 18px 16px;
             margin: 12px 0;
-            border-radius: 12px;
+            border-radius: 0px;
             font-size: 17px;
             font-weight: 500;
             text-align: left;
@@ -51,6 +53,7 @@
             font-size: 16px;
         }
         
+        /* стиль контента */
         .content {
             background: var(--tg-theme-secondary-bg-color, #f0f0f0);
             padding: 20px;
@@ -60,6 +63,7 @@
             line-height: 1.6;
         }
         
+        /* заголовки */
         h1 {
             font-size: 24px;
             margin-bottom: 8px;
@@ -79,7 +83,7 @@
             font-size: 15px;
         }
 
-        /* Для очень маленьких экранов */
+        /* для очень маленьких экранов */
         @media (max-width: 360px) {
             body {
                 padding: 12px;
@@ -96,20 +100,31 @@
 </head>
 <body>
     <div id="app">
-        <h1>📚 Моя библиотека</h1>
-        <div class="subtitle">Выберите раздел для просмотра</div>
+        <!-- начальный экран -->
+         <div>
+            <h1>
+                *лого:
+            </h1>
+         </div>
+        <div style="text-align: center; margin-bottom: 10px;">
+            <img src="https://static.tildacdn.com/tild6166-3737-4633-b339-633337633036/4.png"
+            alt="Логотип"
+            style="max-width: 104px; height: auto;">
+        </div>
+        
         <div id="menu">
+            <h1>*разделы</h1>
             <button class="btn" onclick="openFolder('programming')">
-                <span style="font-size: 20px; margin-right: 10px;">💻</span>
-                Программирование
+                <span style="font-size: 20px; margin-right: 10px;">📚</span>
+                Библиотека
             </button>
             <button class="btn" onclick="openFolder('music')">
-                <span style="font-size: 20px; margin-right: 10px;">🎵</span>
-                Музыка
+                <span style="font-size: 20px; margin-right: 10px;">>>></span>
+                Ядро
             </button>
             <button class="btn" onclick="openFolder('books')">
-                <span style="font-size: 20px; margin-right: 10px;">📖</span>
-                Книги
+                <span style="font-size: 20px; margin-right: 10px;">>>></span>
+                Система
             </button>
         </div>
     </div>
@@ -149,20 +164,23 @@
             
             if (window.currentLevel === 'main') {
                 document.getElementById('app').innerHTML = `
-                    <h1>📚 Моя библиотека</h1>
-                    <div class="subtitle">Выберите раздел для просмотра</div>
+                    <div style="text-align: center; margin-bottom: 10px;">
+                        <img src="https://static.tildacdn.com/tild6166-3737-4633-b339-633337633036/4.png"
+                        alt="Логотип"
+                        style="max-width: 104px; height: auto;">
+                    </div>
                     <div id="menu">
                         <button class="btn" onclick="openFolder('programming')">
-                            <span style="font-size: 20px; margin-right: 10px;">💻</span>
-                            Программирование
+                            <span style="font-size: 20px; margin-right: 10px;"></span>
+                            Библиотека***
                         </button>
                         <button class="btn" onclick="openFolder('music')">
-                            <span style="font-size: 20px; margin-right: 10px;">🎵</span>
-                            Музыка
+                            <span style="font-size: 20px; margin-right: 10px;"></span>
+                            Ядро***
                         </button>
                         <button class="btn" onclick="openFolder('books')">
-                            <span style="font-size: 20px; margin-right: 10px;">📖</span>
-                            Книги
+                            <span style="font-size: 20px; margin-right: 10px;"></span>
+                            Система*** (далее сюда перекопировать визуальный код)
                         </button>
                     </div>
                 `;
@@ -173,7 +191,7 @@
                         <span style="font-size: 18px; margin-right: 8px;">⬅</span>
                         Назад
                     </button>
-                    <h2>💻 Программирование</h2>
+                    <h2>📚 Библиотека </h2>
                     <button class="btn" onclick="showContent('Python - высокоуровневый язык программирования.\\n\\nОсновы:\\n• Простой синтаксис\\n• Динамическая типизация\\n• Большое сообщество\\n• Много библиотек')">
                         <span style="font-size: 20px; margin-right: 10px;">🐍</span>
                         Python основы
