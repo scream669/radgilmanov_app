@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Library Test App</title>
+    <title>Personal Library</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="app.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <style>
         * {
@@ -12,244 +13,176 @@
             -webkit-tap-highlight-color: transparent;
         }
         
-        /* основные стили */
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            padding: px;
-            background: var(--tg-theme-bg-color, #000000);
-            color: var(--tg-theme-text-color, #dddddd);
+            padding: 20px;
+            background: var(--tg-theme-bg-color, #ffffff);
+            color: var(--tg-theme-text-color, #000000);
             min-height: 100vh;
             line-height: 1.4;
         }
         
-        /* стили кнопок */
-        .btn {
-            display: block;
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .logo {
+            width: 80px;
+            height: 80px;
+            border-radius: 20px;
+            margin: 0 auto 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            color: white;
+        }
+        
+        h1 {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        
+        .subtitle {
+            font-size: 16px;
+            color: var(--tg-theme-hint-color, #8e8e93);
+            margin-bottom: 30px;
+        }
+        
+        .goal-btn {
+            display: flex;
+            align-items: center;
             width: 100%;
-            background: var(--tg-theme-button-color, #c2c2c2);
-            color: var(--tg-theme-button-text-color, #000000);
-            border: none;
-            padding: 18px 16px;
-            margin: 12px 0;
-            border-radius: 0px;
+            background: var(--tg-theme-secondary-bg-color, #f2f2f7);
+            border: 2px solid transparent;
+            padding: 16px;
+            margin: 8px 0;
+            border-radius: 12px;
             font-size: 17px;
             font-weight: 500;
             text-align: left;
             cursor: pointer;
             transition: all 0.2s;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
         
-        .btn:active {
-            transform: scale(0.98);
-            background: var(--tg-theme-button-color, #0066aa);
+        .goal-btn.selected {
+            background: #007aff;
+            color: white;
+            border-color: #007aff;
         }
         
-        .back {
-            background: var(--tg-theme-secondary-bg-color, #f0f0f0);
-            color: var(--tg-theme-text-color, #000000);
-            margin-bottom: 20px;
-            text-align: center;
-            font-size: 16px;
-        }
-        
-        /* стиль контента */
-        .content {
-            background: var(--tg-theme-secondary-bg-color, #f0f0f0);
-            padding: 20px;
-            border-radius: 16px;
-            margin-top: 20px;
-            font-size: 16px;
-            line-height: 1.6;
-        }
-        
-        /* заголовки */
-        h1 {
-            font-size: 24px;
-            margin-bottom: 8px;
-            text-align: center;
-        }
-        
-        h2 {
+        .goal-btn .emoji {
             font-size: 20px;
-            margin-bottom: 16px;
-            text-align: center;
+            margin-right: 12px;
         }
         
-        .subtitle {
-            text-align: center;
-            color: var(--tg-theme-hint-color, #999999);
-            margin-bottom: 24px;
-            font-size: 15px;
+        .goal-btn .check {
+            margin-left: auto;
+            opacity: 0;
         }
-
-        /* для очень маленьких экранов */
-        @media (max-width: 360px) {
-            body {
-                padding: 12px;
-            }
-            .btn {
-                padding: 16px 14px;
-                font-size: 16px;
-            }
-            h1 {
-                font-size: 22px;
-            }
+        
+        .goal-btn.selected .check {
+            opacity: 1;
+        }
+        
+        .action-btn {
+            width: 100%;
+            background: #007aff;
+            color: white;
+            border: none;
+            padding: 16px;
+            margin: 20px 0;
+            border-radius: 12px;
+            font-size: 17px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .action-btn:disabled {
+            background: var(--tg-theme-secondary-bg-color, #c6c6c8);
+            color: var(--tg-theme-hint-color, #8e8e93);
+            cursor: not-allowed;
+        }
+        
+        .action-btn:active {
+            transform: scale(0.98);
+        }
+        
+        .counter {
+            text-align: center;
+            color: var(--tg-theme-hint-color, #8e8e93);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        
+        /* Стили для библиотеки */
+        .folder-btn {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: var(--tg-theme-secondary-bg-color, #f2f2f7);
+            border: none;
+            padding: 18px;
+            margin: 8px 0;
+            border-radius: 12px;
+            font-size: 17px;
+            font-weight: 500;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .folder-btn:active {
+            transform: scale(0.98);
+            background: var(--tg-theme-bg-color, #e5e5ea);
+        }
+        
+        .folder-btn .icon {
+            font-size: 22px;
+            margin-right: 15px;
+        }
+        
+        .folder-btn .arrow {
+            margin-left: auto;
+            color: var(--tg-theme-hint-color, #8e8e93);
+        }
+        
+        .back-btn {
+            display: flex;
+            align-items: center;
+            background: none;
+            border: none;
+            color: #007aff;
+            font-size: 17px;
+            font-weight: 500;
+            margin-bottom: 20px;
+            cursor: pointer;
+            padding: 8px 0;
+        }
+        
+        .content-card {
+            background: var(--tg-theme-secondary-bg-color, #f2f2f7);
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <div id="app">
-        <!-- начальный экран -->
-            <h1>*лого:</h1>
-        <div style="text-align: center; margin-bottom: 10px;">
-            <img src="https://static.tildacdn.com/tild6166-3737-4633-b339-633337633036/4.png"
-            alt="Логотип"
-            style="max-width: 200px; height: auto;">
-        </div>
-        
-
-        <!-- разделы на старте -->
-        <div id="menu">
-            <h1>*разделы</h1>
-            <button class="btn" onclick="openFolder('programming')">
-                <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                Библиотека
-            </button>
-            <button class="btn" onclick="openFolder('music')">
-                <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                Ядро
-            </button>
-            <button class="btn" onclick="openFolder('books')">
-                <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                Система
-            </button>
+    <div class="container">
+        <div id="app">
+            <!-- Контент генерируется через app.js -->
         </div>
     </div>
-
-    <script>
-        // Объявляем переменные и функции глобально
-        window.currentLevel = 'main';
-        
-        window.openFolder = function(folder) {
-            console.log('Opening folder:', folder);
-            window.currentLevel = folder;
-            updateMenu();
-        };
-        
-        window.showContent = function(text) {
-            console.log('Showing content:', text);
-            document.getElementById('app').innerHTML = `
-                <button class="btn back" onclick="goBack()">
-                    <span style="font-size: 18px; margin-right: 8px;">⬅</span>
-                    Назад
-                </button>
-                <div class="content">
-                    <h3>📄 Содержимое:</h3>
-                    <p>${text}</p>
-                </div>
-            `;
-        };
-        
-        window.goBack = function() {
-            console.log('Going back');
-            window.currentLevel = 'main';
-            updateMenu();
-        };
-        
-        window.updateMenu = function() {
-            console.log('Updating menu, current level:', window.currentLevel);
-            
-            // разделы при возврате //
-            if (window.currentLevel === 'main') {
-                document.getElementById('app').innerHTML = `
-                    <div>
-                    <h1>
-                        *лого:
-                    </h1>
-                    </div>
-                    <div style="text-align: center; margin-bottom: 10px;">
-                        <img src="https://static.tildacdn.com/tild6166-3737-4633-b339-633337633036/4.png"
-                        alt="Логотип"
-                        style="max-width: 104px; height: auto;">
-                    </div>
-                    <div id="menu">
-                        <h1>*разделы:</h1>
-                        <button class="btn" onclick="openFolder('programming')">
-                            <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                            Библиотека
-                        </button>
-                        <button class="btn" onclick="openFolder('music')">
-                            <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                            Ядро
-                        </button>
-                        <button class="btn" onclick="openFolder('books')">
-                            <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                            Система
-                        </button>
-                    </div>
-                `;
-            }
-            else if (window.currentLevel === 'programming') {
-                document.getElementById('app').innerHTML = `
-                    <button class="btn back" onclick="goBack()">
-                        <span style="font-size: 18px; margin-right: 8px;"><<<</span>
-                        Назад
-                    </button>
-                    <h2>Библиотека </h2>
-                    <button class="btn" onclick="showContent('*контент внутри подраздела 1')">
-                        <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                        *подраздел 1
-                    </button>
-                    <button class="btn" onclick="showContent('*контент внутри подраздела 2')">
-                        <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                        *подраздел 2
-                    </button>
-                `;
-            }
-            else if (window.currentLevel === 'music') {
-                document.getElementById('app').innerHTML = `
-                    <button class="btn back" onclick="goBack()">
-                        <span style="font-size: 18px; margin-right: 8px;"><<<</span>
-                        Назад
-                    </button>
-                    <h2>Ядро</h2>
-                    <button class="btn" onclick="showContent('*контент внутри подраздела 1')">
-                        <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                        *подраздел 1
-                    </button>
-                    <button class="btn" onclick="showContent('*контент внутри подраздела 2')">
-                        <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                        *подраздел 2
-                    </button>
-                `;
-            }
-            else if (window.currentLevel === 'books') {
-                document.getElementById('app').innerHTML = `
-                    <button class="btn back" onclick="goBack()">
-                        <span style="font-size: 18px; margin-right: 8px;"><<<</span>
-                        Назад
-                    </button>
-                    <h2>Система</h2>
-                    <button class="btn" onclick="showContent('*контент внутри подраздела 1')">
-                        <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                        *подраздел 1
-                    </button>
-                    <button class="btn" onclick="showContent('*контент внутри подраздела 2')">
-                        <span style="font-size: 20px; margin-right: 10px;">>>></span>
-                        *подраздел 2
-                    </button>
-                `;
-            }
-        }
-
-        // Инициализация Telegram
-        if (window.Telegram?.WebApp) {
-            window.Telegram.WebApp.ready();
-            window.Telegram.WebApp.expand();
-        }
-
-        console.log('App loaded successfully!');
-    </script>
 </body>
 </html>
+
