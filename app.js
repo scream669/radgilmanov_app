@@ -242,7 +242,7 @@ const app = {
         );
         
         const html = `
-            <button class="back-btn" onclick="app.showRouteReady()">
+            <button class="back-btn" onclick="app.showFullLibrary()">
                 ← Назад
             </button>
             
