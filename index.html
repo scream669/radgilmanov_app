@@ -302,15 +302,17 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            transition: background 0.2s;
         }
-        
+
         .text-size-btn.active {
             background: #007aff;
         }
-        
-        .text-size-btn:nth-child(1) { font-size: 14px; }
-        .text-size-btn:nth-child(2) { font-size: 16px; }
-        .text-size-btn:nth-child(3) { font-size: 18px; }
+
+        /* Убедимся что активный класс применяется правильно */
+        .text-size-btn:nth-child(1).active { background: #007aff; }
+        .text-size-btn:nth-child(2).active { background: #007aff; }
+        .text-size-btn:nth-child(3).active { background: #007aff; }
         
         /* Светлая тема */
         .light-theme {
@@ -338,14 +340,103 @@
         }
         
         /* Размеры текста */
+                /* === НОВЫЕ СТИЛИ РАЗМЕРА ТЕКСТА === */
+        /* Базовые размеры для body */
         .text-size-small { font-size: 14px; }
         .text-size-medium { font-size: 16px; }
         .text-size-large { font-size: 18px; }
         
-        .text-size-small .article-content { font-size: 14px; }
-        .text-size-medium .article-content { font-size: 16px; }
-        .text-size-large .article-content { font-size: 18px; }
+        /* Относительные размеры для сохранения пропорций */
+        .text-size-small h1 { font-size: 1.5em; }  /* 21px */
+        .text-size-small h2 { font-size: 1.3em; }  /* 18px */
+        .text-size-small .subtitle { font-size: 0.9em; } /* 13px */
+        
+        .text-size-medium h1 { font-size: 1.5em; } /* 24px */
+        .text-size-medium h2 { font-size: 1.3em; } /* 21px */  
+        .text-size-medium .subtitle { font-size: 0.9em; } /* 14px */
+        
+        .text-size-large h1 { font-size: 1.5em; } /* 27px */
+        .text-size-large h2 { font-size: 1.3em; } /* 23px */
+        .text-size-large .subtitle { font-size: 0.9em; } /* 16px */
+        
+        /* Убедимся что все текстовые элементы наследуют размер */
+        .text-size-small *,
+        .text-size-medium *, 
+        .text-size-large * {
+            font-size: inherit;
+        }
+        /* === КОНЕЦ НОВЫХ СТИЛЕЙ === */
 
+
+                /* === СТИЛИ ДЛЯ МЕНЮ НАСТРОЕК === */
+        .menu-btn {
+            background: none;
+            border: none;
+            color: #007aff;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            cursor: pointer;
+            padding: 8px 0;
+        }
+        
+        .settings-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-end;
+            z-index: 1000;
+        }
+        
+        .settings-panel {
+            background: linear-gradient(90deg, #2c2c2e 0%, #1c1c1e 100%);
+            width: 300px;
+            height: 100vh;
+            padding: 20px;
+            border-left: 1px solid #38383a;
+            overflow-y: auto;
+        }
+        
+        .settings-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        
+        .settings-header h3 {
+            margin: 0;
+            font-size: 20px;
+        }
+        
+        .close-btn {
+            background: none;
+            border: none;
+            color: #8e8e93;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        
+        .settings-action-btn {
+            background: #007aff;
+            color: white;
+            border: none;
+            padding: 10px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        
+        .light-theme .settings-panel {
+            background: linear-gradient(90deg, #f2f2f7 0%, #e5e5ea 100%);
+            border-left-color: #c6c6c8;
+        }
+        /* === КОНЕЦ СТИЛЕЙ МЕНЮ === */
     </style>
 </head>
 <body>
