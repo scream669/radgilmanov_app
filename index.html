@@ -3,6 +3,7 @@
 <head>
     <title>Personal Route</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="content-data.js"></script>
     <script src="app.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <style>
@@ -221,6 +222,130 @@
             line-height: 1.4;
             text-align: left;
         }
+        
+        .goal-title {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            text-align: left;
+        }
+        
+        .category-btn {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: linear-gradient(90deg, #2c2c2e 0%, #1c1c1e 100%);
+            border: 1px solid #38383a;
+            padding: 16px;
+            margin: 8px 0;
+            border-radius: 12px;
+            font-size: 17px;
+            font-weight: 500;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: #ffffff;
+        }
+        
+        .category-btn .arrow {
+            margin-left: auto;
+            color: #8e8e93;
+        }
+
+        .settings-section {
+            background: linear-gradient(90deg, #2c2c2e 0%, #1c1c1e 100%);
+            padding: 20px;
+            border-radius: 12px;
+            margin: 20px 0;
+            border: 1px solid #38383a;
+        }
+        
+        .setting-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .setting-item:last-child {
+            margin-bottom: 0;
+        }
+        
+        .theme-toggle {
+            background: #007aff;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        
+        .theme-toggle.active {
+            background: #0056cc;
+        }
+        
+        .text-size-controls {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .text-size-btn {
+            background: #48484a;
+            color: white;
+            border: none;
+            width: 32px;
+            height: 32px;
+            border-radius: 6px;
+            font-size: 14px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .text-size-btn.active {
+            background: #007aff;
+        }
+        
+        .text-size-btn:nth-child(1) { font-size: 14px; }
+        .text-size-btn:nth-child(2) { font-size: 16px; }
+        .text-size-btn:nth-child(3) { font-size: 18px; }
+        
+        /* Светлая тема */
+        .light-theme {
+            background: #ffffff;
+            color: #000000;
+        }
+        
+        .light-theme .goal-btn,
+        .light-theme .route-btn,
+        .light-theme .category-btn,
+        .light-theme .content-card,
+        .light-theme .settings-section {
+            background: linear-gradient(90deg, #f2f2f7 0%, #e5e5ea 100%);
+            border-color: #c6c6c8;
+            color: #000000;
+        }
+        
+        .light-theme .subtitle {
+            color: #8e8e93;
+        }
+        
+        .light-theme .article-link {
+            color: #007aff;
+            border-color: #c6c6c8;
+        }
+        
+        /* Размеры текста */
+        .text-size-small { font-size: 14px; }
+        .text-size-medium { font-size: 16px; }
+        .text-size-large { font-size: 18px; }
+        
+        .text-size-small .article-content { font-size: 14px; }
+        .text-size-medium .article-content { font-size: 16px; }
+        .text-size-large .article-content { font-size: 18px; }
+
     </style>
 </head>
 <body>
@@ -231,4 +356,3 @@
     </div>
 </body>
 </html>
-
