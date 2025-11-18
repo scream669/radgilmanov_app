@@ -42,18 +42,23 @@ const app = {
     init() {
         // Загружаем сохраненные цели
         const savedGoals = JSON.parse(localStorage.getItem('selectedGoals') || '[]');
-        if (savedGoals.length > 0) {
-            this.selectedGoals = savedGoals;
-            this.showRouteReady();
-        } else {
-            this.showGoalSelection();
-        }
+        this.selectedGoals = savedGoals;
         
+        // Загружаем настройки темы и текста
         const savedTheme = localStorage.getItem('appTheme') || 'dark';
         const savedTextSize = localStorage.getItem('textSize') || 'medium';
         this.currentTheme = savedTheme;
         this.textSize = savedTextSize;
         this.applySettings();
+        
+        // === НОВАЯ ЛОГИКА СТАРТОВОЙ СТРАНИЦЫ ===
+        if (this.selectedGoals.length > 0) {
+            // ЕСТЬ выбранные цели → База знаний
+            this.showFullLibrary();
+        } else {
+            // НЕТ целей → Выбор целей
+            this.showGoalSelection();
+        }
 
         // Инициализация Telegram Web App
         if (window.Telegram?.WebApp) {
@@ -70,6 +75,53 @@ const app = {
         document.body.classList.add('text-size-' + this.textSize);
     },
     
+        // === ДОБАВИТЬ ЭТУ ФУНКЦИЮ ===
+    showSettingsMenu() {
+        const html = `
+            <div class="settings-overlay" onclick="app.hideSettingsMenu()">
+                <div class="settings-panel" onclick="event.stopPropagation()">
+                    <div class="settings-header">
+                        <h3>Настройки</h3>
+                        <button class="close-btn" onclick="app.hideSettingsMenu()">×</button>
+                    </div>
+                    <div class="setting-item">
+                        <span>Тема:</span>
+                        <button class="theme-toggle ${this.currentTheme === 'dark' ? 'active' : ''}" 
+                                onclick="app.toggleTheme()">
+                            ${this.currentTheme === 'dark' ? '☀️ Светлая' : '🌙 Тёмная'}
+                        </button>
+                    </div>
+                    <div class="setting-item">
+                        <span>Размер текста:</span>
+                        <div class="text-size-controls">
+                            <button class="text-size-btn ${this.textSize === 'small' ? 'active' : ''}" 
+                                    onclick="app.changeTextSize('small')">A</button>
+                            <button class="text-size-btn ${this.textSize === 'medium' ? 'active' : ''}" 
+                                    onclick="app.changeTextSize('medium')">A</button>
+                            <button class="text-size-btn ${this.textSize === 'large' ? 'active' : ''}" 
+                                    onclick="app.changeTextSize('large')">A</button>
+                        </div>
+                    </div>
+                    <div class="setting-item">
+                        <span>Цели развития:</span>
+                        <button class="settings-action-btn" onclick="app.showGoalSelection(); app.hideSettingsMenu()">
+                            ${this.selectedGoals.length > 0 ? 'Изменить цели' : 'Выбрать цели'}
+                        </button>
+                    </div>
+                </div>
+            </div>
+        `;
+        document.body.insertAdjacentHTML('beforeend', html);
+    },
+    
+    hideSettingsMenu() {
+        const overlay = document.querySelector('.settings-overlay');
+        if (overlay) {
+            overlay.remove();
+        }
+    },
+    // === КОНЕЦ ДОБАВЛЕНИЯ ===
+
     toggleTheme() {
         this.currentTheme = this.currentTheme === 'dark' ? 'light' : 'dark';
         localStorage.setItem('appTheme', this.currentTheme);
@@ -270,10 +322,11 @@ const app = {
         document.getElementById('app').innerHTML = html;
     },
     
-    showFullLibrary() {
+        showFullLibrary() {
         const html = `
-            <button class="back-btn" onclick="app.showRouteReady()">
-                ← Назад
+            <!-- === ЗАМЕНИТЬ КНОПКУ НАЗАД НА МЕНЮ === -->
+            <button class="menu-btn" onclick="app.showSettingsMenu()">
+                ☰
             </button>
             
             <div class="header">
@@ -281,27 +334,8 @@ const app = {
                 <div class="subtitle">Все доступные материалы по категориям</div>
             </div>
             
-        <div class="settings-section">
-                <div class="setting-item">
-                    <span>Тема:</span>
-                    <button class="theme-toggle ${this.currentTheme === 'dark' ? 'active' : ''}" 
-                            onclick="app.toggleTheme()">
-                        ${this.currentTheme === 'dark' ? '🌙 Тёмная' : '☀️ Светлая'}
-                    </button>
-                </div>
-                <div class="setting-item">
-                    <span>Размер текста:</span>
-                    <div class="text-size-controls">
-                        <button class="text-size-btn ${this.textSize === 'small' ? 'active' : ''}" 
-                                onclick="app.changeTextSize('small')">A</button>
-                        <button class="text-size-btn ${this.textSize === 'medium' ? 'active' : ''}" 
-                                onclick="app.changeTextSize('medium')">A</button>
-                        <button class="text-size-btn ${this.textSize === 'large' ? 'active' : ''}" 
-                                onclick="app.changeTextSize('large')">A</button>
-                    </div>
-                </div>
-            </div>
-
+            <!-- === УБРАТЬ БЛОК НАСТРОЕК ОТСЮДА === -->
+            
             <button class="category-btn" onclick="app.showPersonalRoute()">
                 <span class="emoji">📋</span>
                 Ваша подборка
