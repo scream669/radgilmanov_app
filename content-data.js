@@ -217,7 +217,7 @@ const contentData = {
                                     <p>Я проснулся сегодня без мелких/горящих задач – все уже решено вчера.</p>
                                     <p>Я заряжен и готов к новому рывку.</p>
                                     
-                                    <img src="https://3.downloader.disk.yandex.ru/preview/21f765861f14c8538fc5ebbc72a225dab9be55a44eceed0071715dbf921a668b/inf/3ZUh31F46qQJASj6CVhKc3MUuk_GiQPKJH0Q6uRr9LoHSBWVTRaYLSrdVCWZlQCt5OHMwtaNMPH9bCiCHdMpTw%3D%3D?uid=1753033261&filename=photo_2024-11-30_15-37-03.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1753033261&tknv=v3&size=2530x1446"
+                                    <img src="https://downloader.disk.yandex.ru/preview/d3ed941b498d0fd5c285f57d855940d7fc0ca1fe50840d46341041656f779b95/69230d1d/3ZUh31F46qQJASj6CVhKc3MUuk_GiQPKJH0Q6uRr9LoHSBWVTRaYLSrdVCWZlQCt5OHMwtaNMPH9bCiCHdMpTw%3D%3D?uid=0&filename=photo_2024-11-30_15-37-03.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&size=2048x2048"
                                         alt="Via-negativa" 
                                         style="max-width: 100%">
                                     <img src="https://1.downloader.disk.yandex.ru/preview/fca59c4c63e999d79d8ca1484021e1bfacd7b930679e0954b7892038516b9223/inf/9EidMqRG7ra2vzyw9t00kP5NiUaqtNai3KIzeLC2yBOG06xacdbjnwsjqdUjR6Hif-7kvk5DJgSnJNC8NjRLkw%3D%3D?uid=1753033261&filename=photo_2024-11-30_15-37-04.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1753033261&tknv=v3&size=2530x1446"
