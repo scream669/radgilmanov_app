@@ -330,6 +330,7 @@ const app = {
             </button>
             
             <div class="header">
+                <img src="https://static.tildacdn.com/tild6166-3737-4633-b339-633337633036/4.png" class="logo-image" alt="Логотип">
                 <h1>Вся база знаний</h1>
                 <div class="subtitle">Все доступные материалы по категориям</div>
             </div>
