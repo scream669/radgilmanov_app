@@ -126,7 +126,7 @@ const contentData = {
                                 title: "Убийство режима Бога", 
                                 content: `
                                     <div class="article-image">
-                                        <img src="https://2.downloader.disk.yandex.ru/preview/0a49783bc00537c6a89acb1f3e7abd214f1a0b85b8dd9d6ce9b219f4dc5a5a2e/inf/FCPiJWnsB_6kwePOHdkCJqAx4lyKc1bYMQQCdICl5KvvmrmVcGSuaCVWrHqjCBNUO4hSxfhPXHVjOeA5fOA3Cg%3D%3D?uid=1753033261&filename=Убийство%20режима%20бога.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1753033261&tknv=v3&size=2560x1446" 
+                                        <img src="https://github.com/scream669/radgilmanov_app/blob/main/photo_2024-11-21_14-00-41.jpg?raw=true" 
                                             alt="Убийство режима Бога" 
                                             style="max-width: 100%">
                                         <img src="https://4.downloader.disk.yandex.ru/preview/d6eaedd4bfc872afa3141dc4d820fcced8cb322d458f26f3fa7b11db3e547ab4/inf/rNb_kZwrMlTM8kX8ftXvPnSqg6_pgDwMOmKU_iffp0LFUQjpETzne1qUuj8JFZl3UuNCUkx0QBxlWHS3wsxbrQ%3D%3D?uid=1753033261&filename=photo_2024-11-21_14-00-41.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1753033261&tknv=v3&size=2560x1446" 
