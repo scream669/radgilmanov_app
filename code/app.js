@@ -576,10 +576,44 @@ const app = {
         `;
         
         document.getElementById('app').innerHTML = html;
+    },
+    // === ДОБАВЬ ЗДЕСЬ НОВУЮ ФУНКЦИЮ ===
+    showPhotoViewer(photoUrl, photoTitle) {
+        // Сохраняем текущее состояние перед открытием фото
+        if (this.currentPage) {
+            this.navigationHistory.push(this.currentPage);
+        }
+        
+        const html = `
+            <div style="position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: #000000; z-index: 1000; overflow-y: auto;">
+                <div style="position: sticky; top: 0; background: rgba(0,0,0,0.8); padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; z-index: 1001;">
+                    <button onclick="app.navigateBack()" style="background: none; border: none; color: #007aff; font-size: 17px; font-weight: 500; cursor: pointer;">
+                        ← Назад
+                    </button>
+                    <div style="color: white; font-size: 16px; font-weight: 500; text-align: center; flex: 1; margin: 0 15px;">
+                        ${photoTitle}
+                    </div>
+                    <div style="width: 60px;"></div>
+                </div>
+                
+                <div style="padding: 20px; min-height: 100vh; display: flex; align-items: center; justify-content: center;">
+                    <img src="${photoUrl}" 
+                         alt="${photoTitle}" 
+                         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+                </div>
+            </div>
+        `;
+        
+        document.getElementById('app').innerHTML = html;
+        
+        // Запоминаем текущую страницу как просмотр фото
+        this.currentPage = { 
+            function: 'showPhotoViewer', 
+            args: [photoUrl, photoTitle] 
+        };
     }
-};
-
-
+    // === КОНЕЦ ДОБАВЛЕНИЯ ===
+}; // <- Эта фигурная скобка закрывает объект app
 // Инициализация при загрузке
 document.addEventListener('DOMContentLoaded', function() {
     app.init();
