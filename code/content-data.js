@@ -17,37 +17,7 @@ const contentData = {
                             { 
                                 id: 'miro_map_1', 
                                 title: '📌 Навигационная карта РАД', 
-                                content: `<div class="article-source">
-        <strong>🗺️ Ссылка на карту:</strong> <a href="https://miro.com/app/board/uXjVJqKyXxw=/?share_link_id=434098608523" target="_blank">Открыть в Miro</a>
-    </div>
-
-    <div class="content-card">
-        <h3 style="margin-bottom: 20px;">Карта мышления РАД</h3>
-        
-        <div style="margin: 20px 0; padding: 15px; text-align: center; background: rgba(0,122,255,0.1); border-radius: 8px;">
-            <p style="margin-bottom: 15px;"><strong>Полная визуализация всех концепций и их связей</strong></p>
-            <p><strong>Интерактивная карта для навигации по философии РАД</strong></p>
-        </div>
-        
-        <div style="margin: 25px 0; padding: 20px; text-align: center;">
-            <a href="https://miro.com/app/board/uXjVJqKyXxw=/?share_link_id=434098608523" 
-            target="_blank" 
-            style="display: inline-block; background: #007aff; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1em;">
-            🗺️ Открыть карту Miro
-            </a>
-        </div>
-        
-        <div style="margin: 20px 0; padding: 15px; border: 1px solid #e5e5ea; border-radius: 8px;">
-            <p style="margin-bottom: 10px;"><strong>Что на карте:</strong></p>
-            <ul>
-                <li>Все основные концепции (Режим Бога, Via Negativa и др.)</li>
-                <li>Связи между идеями</li>
-                <li>Визуальная структура знаний</li>
-                <li>Интерактивные элементы для изучения</li>
-            </ul>
-        </div>
-    </div>
-                                `
+                                content: ``
                             }
                         ]
                     }
@@ -68,171 +38,173 @@ const contentData = {
                         title: "Режим Бога",
                         articles: [
                             { id: 'godmode_1', title: '"Как родился Режим Бога"', content: `<div class="article-source">
-    <strong>Ссылка на статью:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на статью:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="lead">Добро пожаловать на <strong>тёмную сторону</strong> моей личности.</div>
-<p>Эта история довольно приватная, но уже прошло время, и я пишу её как напоминание себе и, <strong>возможно, помощь другим</strong>.</p>
-
-<h3>Ситуация до прорыва</h3>
-<div class="content-card">
-    <p>Всё шло <strong>ни шатко ни валко</strong>.</p>
-    <p>После оглушительного успеха коротких видео <strong>(40 млн просмотров)</strong> длинный контент оставался для меня загадкой.</p>
-    <p>Я думал, что не хватает скиллов, а оказалось — нужен был лишь <strong>небольшой толчок, всплеск энергии</strong>.</p>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Как родился Режим Бога</h1>
     
-    <div class="danger-zone">
-        <h4>Вводные данные:</h4>
-        <ul>
-            <li><strong>Прилетел с Бали в Манилу рано утром</strong></li>
-            <li><strong>Сразу поехал на встречи</strong></li>
-            <li><strong>0 часов сна за последние 48 часов</strong></li>
-            <li>Получил драматичное сообщение от девушки, которая мне нравилась</li>
-            <li><strong>Осознал бардак в личной жизни</strong></li>
-        </ul>
-    </div>
-</div>
-
-<h3>Переломный момент</h3>
-<div class="content-card">
-    <p><strong>Я понял: нужно расставлять точки над «и»</strong>, иначе эмоциональные горки не доведут до добра.</p>
+    <p style="font-size: 1.1em; margin: 0 0 25px 0; line-height: 1.6;">Добро пожаловать на тёмную сторону моей личности. Эта история довольно приватная, но уже прошло время, и я пишу её как напоминание себе и, возможно, помощь другим.</p>
     
-    <div class="dialogue">
-        <h4>Мысли в тот момент:</h4>
-        <ul>
-            <li><strong>"Я злюсь, что попал в капкан"</strong></li>
-            <li><strong>"Койот отгрызает лапу, чтобы выбраться"</strong></li>
-            <li><strong>"Действие всегда бьёт бездействие"</strong></li>
-            <li><strong>"Успех — единственная форма мести"</strong></li>
-            <li><strong>"Окей, будешь смотреть меня на Ютубе тогда"</strong></li>
-        </ul>
-    </div>
-</div>
-
-<h3>Рождение "Режима Бога"</h3>
-<div class="content-card">
-    <p>Открыл запланированный ролик <strong>«Как включить "Режим Бога" в реальной жизни?»</strong>.</p>
-    <p>Он был отснят и смонтирован, но после просмотра стало ясно — <strong>это лажа, нужно переделывать</strong>.</p>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Ситуация до прорыва</h2>
     
-    <div class="comparison" style="margin: 25px 0; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-        <div class="comparison-item negative">
-            <h4>Старый ролик:</h4>
-            <ul>
-                <li><strong>Готовый контент</strong></li>
-                <li><strong>Но низкого качества</strong></li>
-            </ul>
-        </div>
-        <div class="comparison-item positive">
-            <h4>Новый подход:</h4>
-            <ul>
-                <li><strong>Полная перезапись</strong></li>
-                <li><strong>С нуля</strong></li>
-            </ul>
-        </div>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Всё шло ни шатко ни валко.</p>
     
-    <div class="affirmations" style="margin: 20px 0;">
-        <h4>Что сделал:</h4>
-        <ul>
-            <li><strong>Полностью переработал сценарий</strong></li>
-            <li><strong>Удалил всё ненужное</strong></li>
-            <li><strong>В 9 вечера, без сна за 48 часов, начал запись</strong></li>
-            <li><strong>2 часа чернового контента → 18 минут финального ролика</strong></li>
-        </ul>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">После оглушительного успеха коротких видео (40 млн просмотров) длинный контент оставался для меня загадкой.</p>
     
-    <div class="quote" style="margin: 20px 0;">
-        <h4>Результат:</h4>
-        <p><strong>Через 5 месяцев — 535,841 просмотр</strong></p>
-    </div>
-</div>
-
-<h3>Последствия и трансформация</h3>
-<div class="content-card">
-    <div class="comparison" style="margin: 25px 0; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-        <div class="comparison-item negative">
-            <h4>До прорыва:</h4>
-            <ul>
-                <li><strong>Старая команда</strong></li>
-                <li><strong>Короткий контент</strong></li>
-                <li><strong>Старая система</strong></li>
-            </ul>
-        </div>
-        <div class="comparison-item positive">
-            <h4>После прорыва:</h4>
-            <ul>
-                <li><strong>Новая команда</strong></li>
-                <li><strong>Длинный контент</strong></li>
-                <li><strong>Новая система</strong></li>
-            </ul>
-        </div>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Я думал, что не хватает скиллов, а оказалось — нужен был лишь небольшой толчок, всплеск энергии.</p>
     
-    <div class="conclusion" style="margin: 25px 0;">
-        <h4>Итог:</h4>
-        <p><strong>Та первоначальная мотивация и энергия ушли, но осталась система.</strong></p>
-        <p><strong>Энергия не исчезает — она трансформируется.</strong></p>
-        <p><strong>В тот день энергия трансформировалась в систему.</strong></p>
-    </div>
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Вводные данные:</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Прилетел с Бали в Манилу рано утром</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Сразу поехал на встречи</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>0 часов сна за последние 48 часов</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Получил драматичное сообщение от девушки, которая мне нравилась</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Осознал бардак в личной жизни</strong></li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Переломный момент</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я понял: нужно расставлять точки над «и», иначе эмоциональные горки не доведут до добра.</strong></p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Мысли в тот момент:</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>"Я злюсь, что попал в капкан"</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>"Койот отгрызает лапу, чтобы выбраться"</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>"Действие всегда бьёт бездействие"</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>"Успех — единственная форма мести"</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>"Окей, будешь смотреть меня на Ютубе тогда"</strong></li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Рождение "Режима Бога"</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Открыл запланированный ролик <strong>«Как включить "Режим Бога" в реальной жизни?»</strong>.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Он был отснят и смонтирован, но после просмотра стало ясно — <strong>это лажа, нужно переделывать</strong>.</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Что сделал:</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Полностью переработал сценарий</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Удалил всё ненужное</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>В 9 вечера, без сна за 48 часов, начал запись</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>2 часа чернового контента → 18 минут финального ролика</strong></li>
+    </ul>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Результат:</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Через 5 месяцев — 535,841 просмотр</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Последствия и трансформация</h2>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Что изменилось после этого успеха:</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Разогнал прошлую команду</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Перестал делать короткий контент</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Перелопатил всю систему</strong></li>
+    </ul>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Итог</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Та первоначальная мотивация и энергия ушли, но осталась система.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Энергия не исчезает — она трансформируется.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В тот день энергия трансформировалась в систему.</strong></p>
 </div>` },
                             { id: 'godmode_2', title: "РАДкаст №19", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
 </div>
 
-<h3>Телефон сразу после пробуждения - убийство "Режима Бога" собственными руками. РАДкаст №0019</h3>
-
-<div class="content-card">
-    <p><strong>Это напоминание:</strong> мы все знаем, что телефон с утра убивает продуктивность.</p>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Телефон сразу после пробуждения - убийство "Режима Бога" собственными руками</h1>
     
-    <div class="danger-zone">
-        <p><strong>Взяв его, мы потребляем дешевый дофамин — удовольствие без усилий.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>РАДкаст №0019</strong></p>
     
-    <div style="margin: 25px 0; max-width: 100%; overflow-wrap: break-word;">
-        <div class="comparison" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 100%;">
-            <div class="comparison-item negative" style="max-width: 100%; overflow-wrap: break-word;">
-                <h4>Что убивает "Режим Бога":</h4>
-                <ul>
-                    <li><strong>Телефон с утра</strong></li>
-                    <li><strong>Дешевый дофамин</strong></li>
-                    <li><strong>Удовольствие без усилий</strong></li>
-                </ul>
-            </div>
-            <div class="comparison-item positive" style="max-width: 100%; overflow-wrap: break-word;">
-                <h4>Что создает "Режим Бога":</h4>
-                <ul>
-                    <li><strong>Легкая пробежка</strong></li>
-                    <li><strong>Медитация</strong></li>
-                    <li><strong>Очистка рецепторов</strong></li>
-                </ul>
-            </div>
-        </div>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это напоминание:</strong> мы все знаем, что телефон с утра убивает продуктивность.</p>
     
-    <div class="affirmations">
-        <p><strong>Вместо этого я делаю легкую пробежку.</strong></p>
-        <p>Для меня это медитация и <strong>«очистка рецепторов»</strong>.</p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Взяв его, мы потребляем дешевый дофамин — удовольствие без усилий.</strong></p>
     
-    <div class="conclusion">
-        <h4>Система:</h4>
-        <p><strong>1. У меня есть строго отведенное время раз в день для проверки всего.</strong></p>
-        <p><strong>2. Утром же — медитация в берушах и полное отстранение от внешнего мира.</strong></p>
-    </div>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Что убивает "Режим Бога":</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Телефон с утра</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Дешевый дофамин</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Удовольствие без усилий</strong></li>
+    </ul>
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Что создает "Режим Бога":</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Легкая пробежка</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Медитация</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Очистка рецепторов</strong></li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Вместо этого я делаю легкую пробежку.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">Для меня это медитация и <strong>«очистка рецепторов»</strong>.</p>
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Система:</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>1. У меня есть строго отведенное время раз в день для проверки всего.</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>2. Утром же — медитация в берушах и полное отстранение от внешнего мира.</strong></li>
+    </ul>
 </div>` },
-                            { id: 'godmode_3', title: "Убийство режима бога", content: `<div class="article-image" style="margin: 20px 0; text-align: center;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_1.jpg?raw=true" alt="Описание фото 1" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;">
-</div>
-
-<div class="article-image" style="margin: 20px 0; text-align: center;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_2.jpg?raw=true" alt="Описание фото 2" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;">
-</div>
-
-<div class="article-image" style="margin: 20px 0; text-align: center;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_3.jpg?raw=true" alt="Описание фото 3" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;">
-</div>
-
-<div class="article-image" style="margin: 20px 0; text-align: center;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_4.jpg?raw=true" alt="Описание фото 4" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+                            { id: 'godmode_3', title: "Убийство режима бога", content: `<div style="margin: 25px 0;">
+    <div style="text-align: center; margin-bottom: 25px;">
+        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_1.jpg?raw=true" 
+           data-lightbox="godmode-photos" 
+           data-title="Убийство режима бога - Фото 1">
+            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_1.jpg?raw=true" 
+                 alt="Убийство режима бога - Фото 1" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        </a>
+    </div>
+    
+    <div style="text-align: center; margin-bottom: 25px;">
+        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_2.jpg?raw=true" 
+           data-lightbox="godmode-photos" 
+           data-title="Убийство режима бога - Фото 2">
+            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_2.jpg?raw=true" 
+                 alt="Убийство режима бога - Фото 2" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        </a>
+    </div>
+    
+    <div style="text-align: center; margin-bottom: 25px;">
+        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_3.jpg?raw=true" 
+           data-lightbox="godmode-photos" 
+           data-title="Убийство режима бога - Фото 3">
+            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_3.jpg?raw=true" 
+                 alt="Убийство режима бога - Фото 3" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        </a>
+    </div>
+    
+    <div style="text-align: center;">
+        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_4.jpg?raw=true" 
+           data-lightbox="godmode-photos" 
+           data-title="Убийство режима бога - Фото 4">
+            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/killing_gm_4.jpg?raw=true" 
+                 alt="Убийство режима бога - Фото 4" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        </a>
+    </div>
 </div>` }
                         ]
                     },
@@ -243,157 +215,161 @@ const contentData = {
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<h3>Via Negativa</h3>
-
-<div class="content-card">
-    <div class="danger-zone">
-        <p><strong>Управление людьми – это один из сложнейших скиллов.</strong></p>
-        <p><strong>Ты должен быть примером для сотрудников – лучшей версией себя.</strong></p>
-        <p><strong>(Если ты конечно хочешь быть лидером, а не менеджером)</strong></p>
-    </div>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Via Negativa</h1>
     
-    <p>При этом я не люблю говорить формальностями – мне легче перейти сразу к делу.</p>
-</div>
-
-<div class="stage-title">Что было сделано:</div>
-<div class="content-card">
-    <div class="affirmations">
-        <ul>
-            <li><strong>Нанял 4 новых сотрудников</strong></li>
-            <li><strong>Выпустил самое большое количество контента</strong></li>
-            <li><strong>6 недель потратил на воркбук для "Режима Бога"</strong></li>
-            <li><strong>Начал внедрение новых идей в сообществе "Олимп"</strong></li>
-            <li><strong>Записываю по одному подкасту в день для тренировки речи</strong></li>
-            <li><strong>Перебрался на Бали с активной социальной жизнью</strong></li>
-        </ul>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Управление людьми – это один из сложнейших скиллов.</strong></p>
     
-    <div class="warning-text">
-        <p><strong>По всем фронтам – огромный объем работы.</strong></p>
-        <p><strong>В такие моменты рано или поздно перегреваешься – теряешь фокус, начинаешь перескакивать с задачи на задачу.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ты должен быть примером для сотрудников – лучшей версией себя.</strong></p>
     
-    <div class="quote">
-        <p><strong>Именно в такой момент я понимаю, что пришло время сделать паузу.</strong></p>
-        <p><strong>Скушать твикс.</strong></p>
-        <p><strong>Тогда я иду путем Via Negativa.</strong></p>
-    </div>
-</div>
-
-<div class="stage-title">Что такое Via Negativa?</div>
-<div class="content-card">
-    <p><strong>Есть два пути: Via Positiva и Via Negativa.</strong></p>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>(Если ты конечно хочешь быть лидером, а не менеджером)</strong></p>
     
-    <div class="comparison" style="margin: 25px 0; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-        <div class="comparison-item negative">
-            <h4>Via Positiva</h4>
-            <p><strong>Пример:</strong></p>
-            <p>У тебя болит нога. Ты приходишь к врачу, и он прописывает тебе обезболивающее.</p>
-            <p><strong>Это Via Positiva – ты добавил что-то в свою жизнь, замаскировал боль, но не решил причину.</strong></p>
-        </div>
-        
-        <div class="comparison-item positive">
-            <h4>Via Negativa</h4>
-            <p><strong>Пример:</strong></p>
-            <p>Ты можешь убрать из ботинка камень, который причиняет тебе боль.</p>
-            <p><strong>Это Via Negativa – путь вычитания.</strong></p>
-        </div>
-    </div>
-</div>
-
-<div class="stage-title">Мой путь Via Negativa при перегреве</div>
-<div class="content-card">
-    <div class="principle">
-        <h4>1. Анализ рутины</h4>
-        <p><strong>Удаляю весь личный календарь и анализирую, как на меня повлияла рутина.</strong></p>
-        <ul>
-            <li>Могу ли я продолжать в том же темпе?</li>
-            <li>Что надо поменять?</li>
-            <li>Надо ли вообще что-то менять?</li>
-        </ul>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">При этом я не люблю говорить формальностями – мне легче перейти сразу к делу.</p>
     
-    <div class="principle">
-        <h4>2. Очистка операционной памяти</h4>
-        <p><strong>Выписываю все мелкие дела и выделяю 3-4 часа на их окончательное решение:</strong></p>
-        <ul>
-            <li>Заказать вещи домой</li>
-            <li>Забронировать авиабилеты</li>
-            <li>Разгрести чаты</li>
-        </ul>
-    </div>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <div class="principle">
-        <h4>3. Финансовый аудит</h4>
-        <p><strong>Открываю свои расходы и сравниваю с бюджетом.</strong></p>
-        <p>Так я держу руку на пульсе финансов, чтобы не испытывать беспокойство из-за денег.</p>
-        <p><strong>Особенно важно, когда повышаешь уровень жизни:</strong></p>
-        <ul>
-            <li>Куда уходят деньги?</li>
-            <li>Есть ли пробоины в бюджете?</li>
-        </ul>
-    </div>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Что было сделано:</h2>
     
-    <div class="principle">
-        <h4>4. День перезагрузки</h4>
-        <p><strong>Закрываю все обязательства на день и провожу день сам с собой, записывая мысли.</strong></p>
-        <p><strong>В такой день будет:</strong></p>
-        <ul>
-            <li>Много спорта</li>
-            <li>Баня</li>
-            <li>Качественная еда</li>
-        </ul>
-    </div>
-</div>
-
-<div class="conclusion">
-    <h4>Результат:</h4>
-    <p><strong>Я проснулся сегодня без мелких/горящих задач – все уже решено вчера.</strong></p>
-    <p><strong>Я заряжен и готов к новому рывку.</strong></p>
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Нанял 4 новых сотрудников</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Выпустил самое большое количество контента</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>6 недель потратил на воркбук для "Режима Бога"</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Начал внедрение новых идей в сообществе "Олимп"</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Записываю по одному подкасту в день для тренировки речи</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Перебрался на Бали с активной социальной жизнью</strong></li>
+    </ul>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>По всем фронтам – огромный объем работы.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В такие моменты рано или поздно перегреваешься – теряешь фокус, начинаешь перескакивать с задачи на задачу.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Именно в такой момент я понимаю, что пришло время сделать паузу.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Скушать твикс.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Тогда я иду путем Via Negativa.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Что такое Via Negativa?</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Есть два пути: Via Positiva и Via Negativa.</strong></p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Via Positiva</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Пример:</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">У тебя болит нога. Ты приходишь к врачу, и он прописывает тебе обезболивающее.</p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это Via Positiva – ты добавил что-то в свою жизнь, замаскировал боль, но не решил причину.</strong></p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Via Negativa</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Пример:</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Ты можешь убрать из ботинка камень, который причиняет тебе боль.</p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это Via Negativa – путь вычитания.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Мой путь Via Negativa при перегреве</h2>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">1. Анализ рутины</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Удаляю весь личный календарь и анализирую, как на меня повлияла рутина.</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Могу ли я продолжать в том же темпе?</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Что надо поменять?</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Надо ли вообще что-то менять?</li>
+    </ul>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">2. Очистка операционной памяти</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Выписываю все мелкие дела и выделяю 3-4 часа на их окончательное решение:</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Заказать вещи домой</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Забронировать авиабилеты</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Разгрести чаты</li>
+    </ul>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">3. Финансовый аудит</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Открываю свои расходы и сравниваю с бюджетом.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Так я держу руку на пульсе финансов, чтобы не испытывать беспокойство из-за денег.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Особенно важно, когда повышаешь уровень жизни:</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Куда уходят деньги?</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Есть ли пробоины в бюджете?</li>
+    </ul>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">4. День перезагрузки</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Закрываю все обязательства на день и провожу день сам с собой, записывая мысли.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В такой день будет:</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Много спорта</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Баня</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Качественная еда</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Результат:</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я проснулся сегодня без мелких/горящих задач – все уже решено вчера.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Я заряжен и готов к новому рывку.</strong></p>
 </div>` },
                             { id: 'vianegativa_2', title: "РАДкаст №22", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<h3>РАДкаст №22</h3>
-
-<div class="content-card">
-    <div class="lead">
-        <p><strong>Коротко о главном:</strong></p>
-        <p><strong>После долгой и трудной работы я могу «перегреться»: появляется расфокус, теряются приоритеты.</strong></p>
-        <p><strong>Вернуть порядок в свою «операционную систему» можно двумя путями:</strong></p>
-    </div>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">РАДкаст №22</h1>
     
-    <div class="comparison" style="margin: 25px 0; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-        <div class="comparison-item negative">
-            <h4>Via Positiva</h4>
-            <p><strong>Когда мы что-то добавляем в жизнь.</strong></p>
-            <div class="warning-text">
-                <p><strong>Спроси себя:</strong></p>
-                <p><strong>«А это новое действительно влияет на результат или просто крадет время?»</strong></p>
-            </div>
-        </div>
-        
-        <div class="comparison-item positive">
-            <h4>Via Negativa (мой выбор)</h4>
-            <p><strong>Когда мы что-то убираем.</strong></p>
-        </div>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Коротко о главном:</strong></p>
     
-    <div class="affirmations">
-        <h4>Мой путь Via Negativa:</h4>
-        <ul>
-            <li><strong>Чищу личный календарь</strong> (задачи, кроме деловых созвонов).</li>
-            <li><strong>Выписываю все мелкие задачи и делаю их за 3-4 часа</strong>, чтобы они не воровали фокус.</li>
-            <li><strong>Анализирую свою «дельту»</strong> (доходы минус расходы).</li>
-            <li><strong>Отстраняюсь от мира, закрыв все обязательства.</strong> Никаких соцсетей и чатов.</li>
-            <li><strong>Записываю мысли, занимаюсь спортом, иду в баню.</strong> Накопляю энергию.</li>
-        </ul>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>После долгой и трудной работы я могу «перегреться»: появляется расфокус, теряются приоритеты.</strong></p>
     
-    <div class="conclusion">
-        <p><strong>Операционная система очищена.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Вернуть порядок в свою «операционную систему» можно двумя путями:</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Via Positiva</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Когда мы что-то добавляем в жизнь.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Спроси себя: «А это новое действительно влияет на результат или просто крадет время?»</strong></p>
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Via Negativa (мой выбор)</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Когда мы что-то убираем.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Мой путь Via Negativa:</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Чищу личный календарь</strong> (задачи, кроме деловых созвонов).</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Выписываю все мелкие задачи и делаю их за 3-4 часа</strong>, чтобы они не воровали фокус.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Анализирую свою «дельту»</strong> (доходы минус расходы).</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Отстраняюсь от мира, закрыв все обязательства.</strong> Никаких соцсетей и чатов.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Записываю мысли, занимаюсь спортом, иду в баню.</strong> Накопляю энергию.</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Результат:</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Операционная система очищена.</strong></p>
 </div>` }
                         ]
                     },
@@ -404,205 +380,143 @@ const contentData = {
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">Диджитал стоицизм – твой единственный выход</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Диджитал стоицизм – твой единственный выход</h1>
     
-    <p style="margin-bottom: 15px;"><strong>Никто уже не наслаждается жизнью – все ради показухи в Инстаграме.</strong></p>
-    <p style="margin-bottom: 25px;"><strong>В 2024 году человек от 18 до 40 лет проводит за экраном телефона 4 часа 49 минут в день.</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Никто уже не наслаждается жизнью – все ради показухи в Инстаграме.</strong></p>
     
-    <div style="margin: 25px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 10px;"><strong>А сколько проводишь ты?</strong></p>
-        <p style="margin-bottom: 5px;"><strong>3 часа?</strong></p>
-        <p style="margin-bottom: 5px;"><strong>5?</strong></p>
-        <p style="margin-bottom: 15px;"><strong>7?</strong></p>
-        
-        <p style="margin-bottom: 10px;"><strong>А как ты чувствуешь себя после такого залипания в соцсетях?</strong></p>
-        <p><strong>Паршивенько, не правда ли?</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В 2024 году человек от 18 до 40 лет проводит за экраном телефона 4 часа 49 минут в день.</strong></p>
     
-    <div style="margin: 30px 0; padding: 15px; border-left: 4px solid #ff4444; background: rgba(255,68,68,0.1);">
-        <p style="margin-bottom: 10px;"><strong>Если у тебя есть хоть капля осознанности, то ты должен уже догадаться:</strong></p>
-        <p style="margin-bottom: 5px;"><strong>Идет война.</strong></p>
-        <p><strong>Война за твой разум.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>А сколько проводишь ты?</strong></p>
     
-    <div style="margin: 25px 0; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px; text-align: center;">
-        <p style="margin-bottom: 10px;"><strong>И чтобы ее выиграть, тебе нужна новая, рабочая ментальная модель.</strong></p>
-        <p style="font-size: 1.2em;"><strong>Диджитал стоицизм.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 15px; color: #007aff;">Что это такое?</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>3 часа?</strong></p>
     
-    <p style="margin-bottom: 15px; line-height: 1.6;"><strong>Диджитал стоик — современный человек, использующий принципы древнегреческих стоиков для управления технологиями.</strong></p>
-    <p style="margin-bottom: 20px; line-height: 1.6;"><strong>Или другими словами: НЕ РАБ современных технологий.</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>5?</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p style="margin-bottom: 10px;"><strong>Ответы на все жизненные вопросы были даны древнегреческими стоиками в 3 веке до нашей эры.</strong></p>
-        <p><strong>Поэтому мы начнем с тактик, которые легко применить в современном мире.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Тактики диджитал стоицизма</h4>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>7?</strong></p>
     
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>Никаких новостей</strong></li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>Отключи уведомления</strong></li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>Соцсети как источник образования, а не быстрого дофамина</strong></li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>Больше активности без телефона</strong> (намеренно забывай телефон дома)</li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>Чтение вместо залипания</strong></li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>Фокус вместо отвлечения</strong></li>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>А как ты чувствуешь себя после такого залипания в соцсетях?</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Паршивенько, не правда ли?</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если у тебя есть хоть капля осознанности, то ты должен уже догадаться:</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Идет война.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Война за твой разум.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>И чтобы ее выиграть, тебе нужна новая, рабочая ментальная модель.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Диджитал стоицизм.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Что это такое?</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Диджитал стоик — современный человек, использующий принципы древнегреческих стоиков для управления технологиями.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Или другими словами: НЕ РАБ современных технологий.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ответы на все жизненные вопросы были даны древнегреческими стоиками в 3 веке до нашей эры.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Поэтому мы начнем с тактик, которые легко применить в современном мире.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Тактики диджитал стоицизма</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Никаких новостей</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Отключи уведомления</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Соцсети как источник образования, а не быстрого дофамина</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Больше активности без телефона</strong> (намеренно забывай телефон дома)</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Чтение вместо залипания</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Фокус вместо отвлечения</strong></li>
     </ul>
     
-    <div style="margin: 25px 0; padding: 20px; background: rgba(255,255,255,0.05); border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-        <p style="margin-bottom: 10px; font-style: italic; font-size: 1.1em;"><strong>"Если ты не знаешь ни врага, ни себя, то потерпишь поражение в каждой битве."</strong></p>
-        <p style="color: #8e8e93; text-align: right;"><strong>— Сунь Цзы, «Искусство войны»</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>"Если ты не знаешь ни врага, ни себя, то потерпишь поражение в каждой битве."</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>— Сунь Цзы, «Искусство войны»</strong></p>
 </div>` },
-                            { id: 'digitalstoicism_2', title: "Современный стоический мудрец", content: `<div class="article-source">
+{ id: 'digitalstoicism_2', title: "Современный стоический мудрец", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">Современный стоический мудрец</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Современный стоический мудрец</h1>
     
-    <p style="margin-bottom: 15px;"><strong>Представим кружку Yite (это такие модные среди западных дам термокружки).</strong></p>
-    <p style="margin-bottom: 20px;"><strong>Основная функция этих кружек - сохранять температуру внутри, несмотря на температуру окружающей среды.</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Представим кружку Yite (это такие модные среди западных дам термокружки). Основная функция этих кружек - сохранять температуру внутри, несмотря на температуру окружающей среды.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Я рассматриваю стоика как кружку Yite.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Несмотря на температуру окружающей среды, стоик:</strong></p>
-        <p style="margin-bottom: 5px;"><strong>А) регулирует свою внутреннюю температуру;</strong></p>
-        <p><strong>Б) если внутренняя температура повышается, имеет буферную зону между эмоциями и действием;</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я рассматриваю стоика как кружку Yite.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #ff9500;">
-        <p><strong>Часто стоиков воспринимают как бесчувственных роботов, но это далеко от правды.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Определение современного стоика</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Несмотря на температуру окружающей среды, стоик:</strong></p>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Нассим Талеб в своей книге «Антихрупкость» даёт точнейшее определение современного стоика.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Современный стоический мудрец - это человек, который превращает:</strong></p>
-    </div>
-    
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>страх в благоразумие</strong></li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>боль в информацию</strong></li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>ошибки в уроки</strong></li>
-        <li style="margin-bottom: 12px; padding-left: 5px;"><strong>желания в действия</strong></li>
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>А) регулирует свою внутреннюю температуру;</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Б) если внутренняя температура повышается, имеет буферную зону между эмоциями и действием;</strong></li>
     </ul>
     
-    <div style="margin: 25px 0; padding: 15px; text-align: center; background: rgba(88,86,214,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em;"><strong>Это ли не сделает тебя опаснейшим оппонентом в любой сфере человеческой жизни!?</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Основные принципы стоицизма</h4>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Часто стоиков воспринимают как бесчувственных роботов, но это далеко от правды.</strong></p>
     
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Менеджмент эмоций</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">События сами по себе нейтральны - важно, как мы их воспринимаем и реагируем на них.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Разделение контроля</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Понимание разницы между тем, что мы можем контролировать и тем, что вне нашей власти. Мы способны управлять своими мыслями, решениями и действиями, но не можем влиять на внешние обстоятельства, мнения других людей или случайные события.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Дисциплина съедает мотивацию на завтрак</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Стоик опирается на дисциплину, так как это в его власти; мотивация же - это временный, неконтролируемый ресурс.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Минимализм</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Фокус на том, что действительно важно.</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>«Мементо мори»</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Понимание того, что жизнь коротка и жить нужно здесь и сейчас.</p>
-        </li>
-    </ul>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Топ-5 книг по стоицизму (Библиотека РАД)</h4>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>«Размышления» Марк Аврелий</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Практическое руководство для внутренней гармонии и мудрого отношения к внешним обстоятельствам от Римского императора.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>«Антихрупкость» Нассим Талеб</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Как получить выгоду из хаоса (Глава №10 про стоицизм).</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>«Препятствие как путь» Райан Холидей</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Препятствия - это возможность для роста, и принятие их с мужеством и дисциплиной ведёт к личной трансформации.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>«Дневник стоика» Райан Холидей</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Стоические мудрости на 365 дней в году.</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>«Сила спокойствия» Райан Холидей</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Истинное спокойствие и ясность разума - это основа для достижения успеха и гармонии в жизни.</p>
-        </li>
-    </ul>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Как практиковать стоицизм</h4>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Определение современного стоика</h2>
     
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Медитации</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Медитация тренирует в человеке «мышцы» между импульсом и действием. Нужно просто закрыть глаза на 15 минут и держать фокус на дыхании.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Кардио-тренировки</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Во время тренировок на выносливость будет миллион моментов, когда захочется сдаться. Каждый такой момент - это возможность научиться игнорировать дискомфорт.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Вести дневник или писать заметки</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Наш мозг похож на клубок ниток. Один из лучших способов размотать этот клубок - начать писать.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Рассматривать эмоции как тест</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">В большинстве случаев всё, что нам нужно - сменить перспективу. Например, можно рассматривать стресс как что-то плохое, а можно - как вызов стать лучше.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Проводить самоанализ</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Понимать, как ты отреагировал на те или иные события и как это повлияло на твою жизнь.</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>Рассматривать события в перспективе</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Не придавать большого значения сиюминутным трудностям или успехам.</p>
-        </li>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Нассим Талеб в своей книге «Антихрупкость» даёт точнейшее определение современного стоика.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Современный стоический мудрец - это человек, который превращает:</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>страх в благоразумие</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>боль в информацию</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>ошибки в уроки</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>желания в действия</strong></li>
     </ul>
     
-    <div style="margin-top: 25px; padding: 20px; text-align: center; background: rgba(52,199,89,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em;"><strong>В современном мире, где постоянный стресс, неопределённость, эмоциональные горки стали абсолютной нормой, философия стоицизма будет решением.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это ли не сделает тебя опаснейшим оппонентом в любой сфере человеческой жизни!?</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Основные принципы стоицизма</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Менеджмент эмоций</strong> - События сами по себе нейтральны - важно, как мы их воспринимаем и реагируем на них.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Разделение контроля</strong> - Понимание разницы между тем, что мы можем контролировать и тем, что вне нашей власти. Мы способны управлять своими мыслями, решениями и действиями, но не можем влиять на внешние обстоятельства, мнения других людей или случайные события.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Дисциплина съедает мотивацию на завтрак</strong> - Стоик опирается на дисциплину, так как это в его власти; мотивация же - это временный, неконтролируемый ресурс.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Минимализм</strong> - Фокус на том, что действительно важно.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>«Мементо мори»</strong> - Понимание того, что жизнь коротка и жить нужно здесь и сейчас.</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Топ-5 книг по стоицизму (Библиотека РАД)</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>«Размышления» Марк Аврелий</strong> - Практическое руководство для внутренней гармонии и мудрого отношения к внешним обстоятельствам от Римского императора.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>«Антихрупкость» Нассим Талеб</strong> - Как получить выгоду из хаоса (Глава №10 про стоицизм).</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>«Препятствие как путь» Райан Холидей</strong> - Препятствия - это возможность для роста, и принятие их с мужеством и дисциплиной ведёт к личной трансформации.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>«Дневник стоика» Райан Холидей</strong> - Стоические мудрости на 365 дней в году.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>«Сила спокойствия» Райан Холидей</strong> - Истинное спокойствие и ясность разума - это основа для достижения успеха и гармонии в жизни.</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Как практиковать стоицизм</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Медитации</strong> - Медитация тренирует в человеке «мышцы» между импульсом и действием. Нужно просто закрыть глаза на 15 минут и держать фокус на дыхании.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Кардио-тренировки</strong> - Во время тренировок на выносливость будет миллион моментов, когда захочется сдаться. Каждый такой момент - это возможность научиться игнорировать дискомфорт.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Вести дневник или писать заметки</strong> - Наш мозг похож на клубок ниток. Один из лучших способов размотать этот клубок - начать писать.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Рассматривать эмоции как тест</strong> - В большинстве случаев всё, что нам нужно - сменить перспективу. Например, можно рассматривать стресс как что-то плохое, а можно - как вызов стать лучше.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Проводить самоанализ</strong> - Понимать, как ты отреагировал на те или иные события и как это повлияло на твою жизнь.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Рассматривать события в перспективе</strong> - Не придавать большого значения сиюминутным трудностям или успехам.</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В современном мире, где постоянный стресс, неопределённость, эмоциональные горки стали абсолютной нормой, философия стоицизма будет решением.</strong></p>
 </div>` }
                         ]
                     },
@@ -613,166 +527,159 @@ const contentData = {
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">Разрушающая человека ментальная модель №1</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Разрушающая человека ментальная модель №1</h1>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Тяжело понять, что именно ведет человека к успеху.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Нельзя повторить чей-то путь.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Нельзя даже повторить свой собственный.</strong></p>
-        <p><strong>Даже люди, которые уже добились успеха, не могут его декорировать.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Тяжело понять, что именно ведет человека к успеху.</strong></p>
     
-    <p style="margin-bottom: 20px;"><strong>Поэтому важно понимать не только позитивные ментальные модели, но и негативные.</strong></p>
-    <p style="margin-bottom: 25px;"><strong>Ведь мы точно знаем, что не ведет человека к успеху.</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Нельзя повторить чей-то путь.</strong></p>
     
-    <div style="margin: 25px 0; padding: 15px; text-align: center; background: rgba(255,68,68,0.15); border-radius: 8px; border: 2px solid rgba(255,68,68,0.3);">
-        <p style="font-size: 1.2em;"><strong>Одна из главных разрушающих человека ментальных моделей – жалеть самого себя.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Пример и ключевое отличие</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Нельзя даже повторить свой собственный.</strong></p>
     
-    <p style="margin-bottom: 15px;"><strong>В моем телеграмме есть рубрика ответов на вопросы.</strong></p>
-    <p style="margin-bottom: 15px;"><strong>И под таким постом написал один парень:</strong></p>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Даже люди, которые уже добились успеха, не могут его декорировать.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px; font-style: italic;">
-        <p style="margin-bottom: 10px;">"В пандемию уволили с работы. Устроился на другую. Ушел оттуда.</p>
-        <p style="margin-bottom: 10px;">Вышел на фриланс, началось СВО, все потерял.</p>
-        <p style="margin-bottom: 10px;">Что мне делать в жизни? За что не возьмусь – ничего не получается."</p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Поэтому важно понимать не только позитивные ментальные модели, но и негативные.</strong></p>
     
-    <p style="margin-bottom: 15px;"><strong>Очень похоже на мою историю.</strong></p>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Ведь мы точно знаем, что не ведет человека к успеху.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p><strong>Но есть одно ключевое отличие: Я никогда не брал на себя роль жертвы.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Саморазрушение через жалость</h4>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Одна из главных разрушающих человека ментальных моделей – жалеть самого себя.</strong></p>
     
-    <p style="margin-bottom: 20px;"><strong>Это и есть саморазрушение через жалость.</strong></p>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>В мире, где очень много хищников, ты не можешь позволить себе быть жертвой – тебя просто съедят.</strong></p>
-        <p style="margin-bottom: 15px;"><strong>Жизнь сама является хищником, и если ты будешь жертвой – она съест тебя и даже не поперхнется.</strong></p>
-        <p><strong>В любой ситуации ты должен быть выжившим.</strong></p>
-    </div>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Пример и ключевое отличие</h2>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p><strong>Ты можешь жалеть других людей, но только не самого себя.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Как мы программируем себя на роль жертвы</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В моем телеграмме есть рубрика ответов на вопросы.</strong></p>
     
-    <p style="margin-bottom: 15px;"><strong>Если ты можешь программировать себя быть выжившим, то также можешь и быть жертвой.</strong></p>
-    <p style="margin-bottom: 20px;"><strong>И это программирование может идти и от других людей...</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>И под таким постом написал один парень:</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Один мой друг недавно начал жалеть себя.</strong></p>
-        <p style="margin-bottom: 15px;"><strong>Если посмотреть на факты – у него все отлично, но он начал искать какие-то поводы для жалости к себе.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7; font-style: italic;">"В пандемию уволили с работы. Устроился на другую. Ушел оттуда.</p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #ff9500;">
-        <p style="margin-bottom: 10px;"><strong>Я ответил, что у меня есть вот такие способы решения, и я могу постараться тебе помочь.</strong></p>
-        <p><strong>Но действительно помочь себе можешь только ты сам.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7; font-style: italic;">Вышел на фриланс, началось СВО, все потерял.</p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 10px;"><strong>Еще немного, и ты будешь программировать меня – я же, не позволю впускать в себя негативную энергию.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Да, я эгоист.</strong></p>
-        <p><strong>Но это эгоизм, который нужен чтобы помогать другим.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7; font-style: italic;">Что мне делать в жизни? За что не возьмусь – ничего не получается."</p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(52,199,89,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 10px;"><strong>Я сказал другу, что он не может быть жертвой, и пока не перестанет ей быть – мы не будем общаться.</strong></p>
-        <p><strong>Через 2 месяца он мне позвонил – все круто, дела пошли. Поблагодарил.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Что делать?</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Очень похоже на мою историю.</strong></p>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p><strong>Негативная энергия заразна.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но есть одно ключевое отличие: Я никогда не брал на себя роль жертвы.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p style="margin-bottom: 15px;"><strong>Ты не можешь жалеть себя:</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Кто-то уже был в твоем положении, и у него получилось.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Может, у него даже было хуже.</strong></p>
-        <p><strong>Но он добился того, что хотел.</strong></p>
-    </div>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <div style="margin: 25px 0; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Порекомендую книгу от человека, у которого 100% было хуже:</strong></p>
-        <p style="margin-bottom: 15px; font-size: 1.1em;"><strong>"Скажи жизни "Да"" Виктора Франкла.</strong></p>
-        <p><strong>📚 <a href="#" style="color: #007aff;">Ссылка на библиотеку РАД</a></strong></p>
-    </div>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Саморазрушение через жалость</h2>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Это одна из моих любимых книг, и одна из самых тяжелых.</strong></p>
-        <p style="margin-bottom: 15px;"><strong>Это автобиография про жизнь в концлагере.</strong></p>
-        <p><strong>Если вы считаете, что у вас что-то не получается – прочтите эту книгу.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это и есть саморазрушение через жалость.</strong></p>
     
-    <div style="margin: 25px 0; padding: 20px; text-align: center; background: rgba(88,86,214,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em; margin-bottom: 10px;"><strong>Главный урок этой книги – между стимулом и реакцией есть пространство.</strong></p>
-        <p style="font-size: 1.1em;"><strong>Это и есть место для вашего стратегического выбора.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Финальный вывод</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В мире, где очень много хищников, ты не можешь позволить себе быть жертвой – тебя просто съедят.</strong></p>
     
-    <div style="margin: 20px 0; padding: 20px; background: rgba(52,199,89,0.1); border-radius: 8px; text-align: center;">
-        <p style="font-size: 1.1em; margin-bottom: 15px;"><strong>Разум – это только ваша зона ответственности, вы владеете им полностью.</strong></p>
-        <p style="font-size: 1.1em;"><strong>Если вы в жопе – то это по вашей вине.</strong></p>
-        <p style="font-size: 1.1em; margin-top: 10px;"><strong>Но значит и успех – тоже ваша вина.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Жизнь сама является хищником, и если ты будешь жертвой – она съест тебя и даже не поперхнется.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В любой ситуации ты должен быть выжившим.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Ты можешь жалеть других людей, но только не самого себя.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Как мы программируем себя на роль жертвы</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если ты можешь программировать себя быть выжившим, то также можешь и быть жертвой.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>И это программирование может идти и от других людей...</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Один мой друг недавно начал жалеть себя.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Если посмотреть на факты – у него все отлично, но он начал искать какие-то поводы для жалости к себе.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я ответил, что у меня есть вот такие способы решения, и я могу постараться тебе помочь.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но действительно помочь себе можешь только ты сам.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Еще немного, и ты будешь программировать меня – я же, не позволю впускать в себя негативную энергию.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Да, я эгоист.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но это эгоизм, который нужен чтобы помогать другим.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я сказал другу, что он не может быть жертвой, и пока не перестанет ей быть – мы не будем общаться.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Через 2 месяца он мне позвонил – все круто, дела пошли. Поблагодарил.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Что делать?</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Негативная энергия заразна.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ты не можешь жалеть себя:</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Кто-то уже был в твоем положении, и у него получилось.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Может, у него даже было хуже.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но он добился того, что хотел.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Порекомендую книгу от человека, у которого 100% было хуже:</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>"Скажи жизни "Да"" Виктора Франкла.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>📚 <a href="#" style="color: inherit; text-decoration: underline;">Ссылка на библиотеку РАД</a></strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Это одна из моих любимых книг, и одна из самых тяжелых.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Это автобиография про жизнь в концлагере.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Если вы считаете, что у вас что-то не получается – прочтите эту книгу.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Главный урок этой книги – между стимулом и реакцией есть пространство.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это и есть место для вашего стратегического выбора.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Финальный вывод</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Разум – это только ваша зона ответственности, вы владеете им полностью.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если вы в жопе – то это по вашей вине.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но значит и успех – тоже ваша вина.</strong></p>
 </div>` },
                             { id: 'mentalmodels_2', title: "РАДкаст №23", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">РАДкаст №23</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">РАДкаст №23</h1>
     
-    <div style="margin-bottom: 25px; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Коротко о главном:</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Ты не повторишь путь другого успешного человека.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Ты не повторишь даже свой собственный путь — всегда будет элемент случайности.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Коротко о главном:</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Но есть ментальные модели, которые рушат любой путь.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Главная из них — жалеть себя.</strong></p>
-        <p><strong>Ты должен быть выжившим, а не жертвой.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ты не повторишь путь другого успешного человека.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p style="margin-bottom: 10px;"><strong>Ты сам выбираешь, как программировать свое сознание.</strong></p>
-        <p><strong>Это программирование может идти и от других.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Ты не повторишь даже свой собственный путь — всегда будет элемент случайности.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 10px;"><strong>Если человек играет в жертву — я делаю ему предупреждение или прекращаю общение.</strong></p>
-        <p><strong>Однажды я так поступил с другом на 2 месяца — ему помогло.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Но есть ментальные модели, которые рушат любой путь.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Если вам кажется, что все плохо, прочтите «Скажи жизни "Да!"» Виктора Франкла.</strong></p>
-        <p><strong>Его страдания сделают ваши проблемы мелкими.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Главная из них — жалеть себя.</strong></p>
     
-    <div style="margin: 25px 0; padding: 20px; text-align: center; background: rgba(88,86,214,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em; margin-bottom: 15px;"><strong>Знайте: если вы на дне — это ваша вина.</strong></p>
-        <p style="font-size: 1.1em;"><strong>Но достигнуть успеха — тоже ваша заслуга.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Ты должен быть выжившим, а не жертвой.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ты сам выбираешь, как программировать свое сознание.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это программирование может идти и от других.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если человек играет в жертву — я делаю ему предупреждение или прекращаю общение.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Однажды я так поступил с другом на 2 месяца — ему помогло.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если вам кажется, что все плохо, прочтите «Скажи жизни "Да!"» Виктора Франкла.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Его страдания сделают ваши проблемы мелкими.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Знайте: если вы на дне — это ваша вина.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но достигнуть успеха — тоже ваша заслуга.</strong></p>
 </div>` }
                         ]
                     },
@@ -783,175 +690,99 @@ const contentData = {
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">Современный стоический мудрец</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Современный стоический мудрец</h1>
     
-    <div style="margin-bottom: 25px;">
-        <h4 style="margin-bottom: 15px; color: #007aff;">4 категории обучающихся</h4>
-        
-        <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-            <li style="margin-bottom: 20px; padding-left: 5px;">
-                <strong>Необучаемые</strong>
-                <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Не делает выводов, не становится лучше. Жизнь обучает нас двум урокам - тяжелому и тяжелейшему уроку. Например, ты физически прихворнул и организм дает тебе понять, что что-то не так. Если ты ничего не предпримешь, то дальше будет тяжелейший урок, после которого будет уже трудно исправить ситуацию.</p>
-            </li>
-            
-            <li style="margin-bottom: 20px; padding-left: 5px;">
-                <strong>Новичок</strong>
-                <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Он обучается только после тяжелейшего урока.</p>
-            </li>
-            
-            <li style="margin-bottom: 20px; padding-left: 5px;">
-                <strong>Профессионал</strong>
-                <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Обучается после тяжелого урока. Небольшой тяжелый урок и он учится, не сталкиваясь с тяжелейшим уроком.</p>
-            </li>
-            
-            <li style="margin-bottom: 10px; padding-left: 5px;">
-                <strong>Монстр</strong>
-                <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Такому типу не нужны внешние воздействия, чтобы менять свое поведение. Старается не ходить там, где он может упасть. Предугадывает все наперед. Примерно так я и выиграл свой грант в Китай, готовясь перед занятием заранее и отвечая правильно на вопросы преподавателя.</p>
-            </li>
-        </ul>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Как я пришел к стоицизму?</h4>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">4 категории обучающихся</h2>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Однажды я влез в драку с двумя пьяными людьми и сломал руку.</strong></p>
-        <p><strong>2 месяца не могу играть в баскетбол.</strong></p>
-    </div>
-    
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Также на сдаче зачета в вузе я разозлился и выбил дверь в аудитории.</strong></p>
-        <p><strong>Это стоило мне еще 100 часов дополнительной работы к пересдаче.</strong></p>
-    </div>
-    
-    <div style="margin: 25px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p><strong>После этих двух случаев я пришел к философии стоицизма.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Стоик как термос</h4>
-    
-    <div style="margin: 20px 0; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Я рассматриваю стоика как термос.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Внутри сохраняет температуру несмотря на внешнюю температуру.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Он регулирует свою собственную температуру и имеет буферную зону между эмоциями и действиями в случае изменения внешней температуры.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Тем самым он не поддается эмоциональному импульсу.</strong></p>
-        <p><strong>Это не бесчувственный робот.</strong></p>
-    </div>
-    
-    <div style="margin: 25px 0; padding: 20px; background: rgba(88,86,214,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Нассим Талеб называет стоиками людей, которые превращают:</strong></p>
-        <p style="margin-bottom: 10px;"><strong>• страх в благоразумие</strong></p>
-        <p style="margin-bottom: 10px;"><strong>• боль в информацию</strong></p>
-        <p style="margin-bottom: 10px;"><strong>• ошибки в уроки</strong></p>
-        <p style="margin-bottom: 15px;"><strong>• желания в действия</strong></p>
-        <p style="font-size: 1.1em;"><strong>Представляете, каким сильным игроком вы станете, овладев стоицизмом?</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">5 принципов стоицизма</h4>
-    
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Менеджмент эмоций</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">События и реальность сами по себе нейтральные. Поэтому важно, как мы воспринимаем реальность.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Разделение контроля</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Что вообще мы можем контролировать, а что вообще вне нашей власти? Мы не можем влиять на внешние обстоятельства - мнения людей, случайные события. Поэтому просто возьмите и оставьте внешние обстоятельства вне зоны нашего контроля.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Дисциплина</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Она в вашей власти. Мотивация инструмент мощный, но ветреный. Работа начинается там, где заканчивается мотивация.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Минимализм</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Фокус на том, что действительно важно. Это не только про покупки вещей, это про образ жизни.</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>Memento mori (помни о смерти)</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Понимание того, что жизнь коротка и нужно жить здесь и сейчас. Например, я 50 процентов денег трачу так, будто мне осталось жить 50 дней, а другие 50 процентов будто осталось 50 лет.</p>
-        </li>
-    </ul>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Топ-5 книг по стоицизму</h4>
-    
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Размышления Марка Аврелия</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Личный дневник римского императора. Его личные переживания обычного человека, а не всемогущего императора.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Антихрупкость Нассима Талеба</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">А именно 10 глава, которая полностью посвящена стоицизму. Вообще смысл антихрупкости в том, чтобы получить выгоду из хаоса.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Препятствие как путь Раяна Холидея</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Препятствие - это возможность к росту. Если мы принимаем его с мужеством и достоинством, то это приведет нас к личной трансформации.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Дневник стоика (стоицизм на каждый день)</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">365 мудростей на каждый день.</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>Сила спокойствия Раяна Холидея</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Спокойствие и ясность разума - это ключи к достижению успеха и гармонии.</p>
-        </li>
-    </ul>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Как правильно практиковать стоицизм?</h4>
-    
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Медитация</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Тренирующая в человеке мышцу между импульсом и действием. Закройте глаза на 15 минут и держите фокус на дыхании. Однажды во время медитации мне на ногу сел комар и высосал всю кровь, которую мог втянуть. Медитировать мне нужно было еще 40 минут и я воспринял чесание ноги как испытание и терпел.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Кардиотренировки (выносливость, бег)</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Это возможность игнорировать дискомфорт, когда есть большое желание сдаться.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Вести личный дневник</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Для записи и распутывания клубка своих мыслей.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Рассматривать эмоции как тест</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Ведь это возможность стать лучше.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Проводить самоанализ</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">И наблюдать за вашими реакциями в тех или иных ситуациях.</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>Рассматривайте события в перспективе</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Мы не можем соединить точки, смотря вперед. Мы можем это сделать, смотря назад. Порой нам кажется, что то, что мы делаем, не имеет смысла. Но успешные люди работают в долгосрочную перспективу. Через год вы посмотрите на себя прошлого и поймете, что все эти события привели вас к тому, что вы стали лучше.</p>
-        </li>
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Необучаемые</strong> - Не делает выводов, не становится лучше. Жизнь обучает нас двум урокам - тяжелому и тяжелейшему уроку. Например, ты физически прихворнул и организм дает тебе понять, что что-то не так. Если ты ничего не предпримешь, то дальше будет тяжелейший урок, после которого будет уже трудно исправить ситуацию.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Новичок</strong> - Он обучается только после тяжелейшего урока.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Профессионал</strong> - Обучается после тяжелого урока. Небольшой тяжелый урок и он учится, не сталкиваясь с тяжелейшим уроком.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Монстр</strong> - Такому типу не нужны внешние воздействия, чтобы менять свое поведение. Старается не ходить там, где он может упасть. Предугадывает все наперед. Примерно так я и выиграл свой грант в Китай, готовясь перед занятием заранее и отвечая правильно на вопросы преподавателя.</li>
     </ul>
     
-    <div style="margin-top: 25px; padding: 20px; text-align: center; background: rgba(52,199,89,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em;"><strong>Итог: в современном эмоциональном мире стоицизм станет вашим помощником на пути к лучшей версии себя.</strong></p>
-    </div>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Как я пришел к стоицизму?</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Однажды я влез в драку с двумя пьяными людьми и сломал руку.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>2 месяца не могу играть в баскетбол.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Также на сдаче зачета в вузе я разозлился и выбил дверь в аудитории.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это стоило мне еще 100 часов дополнительной работы к пересдаче.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>После этих двух случаев я пришел к философии стоицизма.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Стоик как термос</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я рассматриваю стоика как термос.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Внутри сохраняет температуру несмотря на внешнюю температуру.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Он регулирует свою собственную температуру и имеет буферную зону между эмоциями и действиями в случае изменения внешней температуры.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Тем самым он не поддается эмоциональному импульсу.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Это не бесчувственный робот.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Нассим Талеб называет стоиками людей, которые превращают:</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>• страх в благоразумие</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>• боль в информацию</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>• ошибки в уроки</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>• желания в действия</strong></li>
+    </ul>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Представляете, каким сильным игроком вы станете, овладев стоицизмом?</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">5 принципов стоицизма</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Менеджмент эмоций</strong> - События и реальность сами по себе нейтральные. Поэтому важно, как мы воспринимаем реальность.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Разделение контроля</strong> - Что вообще мы можем контролировать, а что вообще вне нашей власти? Мы не можем влиять на внешние обстоятельства - мнения людей, случайные события. Поэтому просто возьмите и оставьте внешние обстоятельства вне зоны нашего контроля.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Дисциплина</strong> - Она в вашей власти. Мотивация инструмент мощный, но ветреный. Работа начинается там, где заканчивается мотивация.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Минимализм</strong> - Фокус на том, что действительно важно. Это не только про покупки вещей, это про образ жизни.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Memento mori (помни о смерти)</strong> - Понимание того, что жизнь коротка и нужно жить здесь и сейчас. Например, я 50 процентов денег трачу так, будто мне осталось жить 50 дней, а другие 50 процентов будто осталось 50 лет.</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Топ-5 книг по стоицизму</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Размышления Марка Аврелия</strong> - Личный дневник римского императора. Его личные переживания обычного человека, а не всемогущего императора.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Антихрупкость Нассима Талеба</strong> - А именно 10 глава, которая полностью посвящена стоицизму. Вообще смысл антихрупкости в том, чтобы получить выгоду из хаоса.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Препятствие как путь Раяна Холидея</strong> - Препятствие - это возможность к росту. Если мы принимаем его с мужеством и достоинством, то это приведет нас к личной трансформации.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Дневник стоика (стоицизм на каждый день)</strong> - 365 мудростей на каждый день.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Сила спокойствия Раяна Холидея</strong> - Спокойствие и ясность разума - это ключи к достижению успеха и гармонии.</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Как правильно практиковать стоицизм?</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Медитация</strong> - Тренирующая в человеке мышцу между импульсом и действием. Закройте глаза на 15 минут и держите фокус на дыхании. Однажды во время медитации мне на ногу сел комар и высосал всю кровь, которую мог втянуть. Медитировать мне нужно было еще 40 минут и я воспринял чесание ноги как испытание и терпел.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Кардиотренировки (выносливость, бег)</strong> - Это возможность игнорировать дискомфорт, когда есть большое желание сдаться.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Вести личный дневник</strong> - Для записи и распутывания клубка своих мыслей.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Рассматривать эмоции как тест</strong> - Ведь это возможность стать лучше.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Проводить самоанализ</strong> - И наблюдать за вашими реакциями в тех или иных ситуациях.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Рассматривайте события в перспективе</strong> - Мы не можем соединить точки, смотря вперед. Мы можем это сделать, смотря назад. Порой нам кажется, что то, что мы делаем, не имеет смысла. Но успешные люди работают в долгосрочную перспективу. Через год вы посмотрите на себя прошлого и поймете, что все эти события привели вас к тому, что вы стали лучше.</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В современном эмоциональном мире стоицизм станет вашим помощником на пути к лучшей версии себя.</strong></p>
 </div>` }
                         ]
                     }
@@ -967,223 +798,178 @@ const contentData = {
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">РАДкаст №12</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">РАДкаст №12</h1>
     
-    <div style="margin-bottom: 25px; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Коротко о главном:</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Я ориентируюсь в неопределенности, полагаясь на опыт.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Знания = знания других + личный опыт.</strong></p>
-        <p><strong>Когда личный опыт перевешивает, я отбрасываю чужие советы.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Коротко о главном:</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Диджитал-потребление — это когда мы потребляем контента больше, чем создаем.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Так мы теряем вкус к жизни и ее смысл.</strong></p>
-        <p><strong>Если постоянно есть, еда теряет вкус.</strong></p>
-        <p style="margin-top: 10px;"><strong>Если потрудился и проголодался — любая еда покажется деликатесом.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Как потреблять осознанно</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я ориентируюсь в неопределенности, полагаясь на опыт.</strong></p>
     
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Потребляю контент с фейкового профиля</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Чтобы алгоритмы не могли меня зацепить. Я не марионетка соцсетей! Сохраняю ссылки на контент, чтобы не заходить на главную страницу YouTube.</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Потребляю контент с ноутбука</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">С телефона это слишком удобно и затягивает.</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>Выделил в расписании 30 минут в день на бесцельное потребление</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">Жесткие рамки — лучшая защита.</p>
-        </li>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Знания = знания других + личный опыт.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Когда личный опыт перевешивает, я отбрасываю чужие советы.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Диджитал-потребление — это когда мы потребляем контента больше, чем создаем.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Так мы теряем вкус к жизни и ее смысл.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если постоянно есть, еда теряет вкус.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Если потрудился и проголодался — любая еда покажется деликатесом.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Как потреблять осознанно</h2>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Потребляю контент с фейкового профиля</strong> - Чтобы алгоритмы не могли меня зацепить. Я не марионетка соцсетей! Сохраняю ссылки на контент, чтобы не заходить на главную страницу YouTube.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Потребляю контент с ноутбука</strong> - С телефона это слишком удобно и затягивает.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Выделил в расписании 30 минут в день на бесцельное потребление</strong> - Жесткие рамки — лучшая защита.</li>
     </ul>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Производство контента должно быть у каждого!</h4>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(52,199,89,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Каждый человек уникален и может создать свое комьюнити.</strong></p>
-        <p><strong>Нужно научиться продавать себя, а для этого — писать, читать и говорить.</strong></p>
-    </div>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #ff9500;">
-        <p style="margin-bottom: 10px;"><strong>Ведение своего канала — это мощный инструмент доверия.</strong></p>
-        <p><strong>При знакомстве человек сразу видит, чем ты живешь.</strong></p>
-    </div>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Производство контента должно быть у каждого!</h2>
     
-    <div style="margin: 25px 0; padding: 20px; text-align: center; background: rgba(88,86,214,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em;"><strong>Итог: производите контент.</strong></p>
-        <p style="font-size: 1.1em; margin-top: 10px;"><strong>Пусть немного, но постоянно.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Каждый человек уникален и может создать свое комьюнити.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Нужно научиться продавать себя, а для этого — писать, читать и говорить.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ведение своего канала — это мощный инструмент доверия.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>При знакомстве человек сразу видит, чем ты живешь.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Производите контент.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Пусть немного, но постоянно.</strong></p>
 </div>` },
                             { id: 'digitalconsumption_2', title: "Общество диджитал потребления", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">Общество диджитал-потребления</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Общество диджитал-потребления</h1>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Я определенно ориентируюсь в неопределенности.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Попробуем соединить несоединимое: стоицизм, контент, общество потребления и философию Бодрийяра.</strong></p>
-        <p><strong>Я всегда стараюсь давать словам свои определения.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я определенно ориентируюсь в неопределенности.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p style="margin-bottom: 10px;"><strong>По моему: знания = личный опыт + знания других людей.</strong></p>
-        <p><strong>Если мой опыт перевешивает — знание других удаляется.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Новая реальность</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Попробуем соединить несоединимое: стоицизм, контент, общество потребления и философию Бодрийяра.</strong></p>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>В 2024 году мы все — общество потребления.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Этот термин ввел философ Жан Бодрийяр.</strong></p>
-        <p><strong>Но теперь появился новый концепт — диджитал-потребление.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Я всегда стараюсь давать словам свои определения.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Сколько часов проводишь ты перед экраном?</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Телефоны, телевизоры, компьютеры — нас окружает информация.</strong></p>
-        <p><strong>Она проникает в наши головы.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>По моему: знания = личный опыт + знания других людей.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>В 2024 мы потребляем больше контента, чем производим.</strong></p>
-        <p><strong>Когда постоянно объедаешься — еда теряет вкус.</strong></p>
-        <p style="margin-top: 10px;"><strong>Но когда проголодался после работы — она становится максимально вкусной.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Если мой опыт перевешивает — знание других удаляется.</strong></p>
     
-    <div style="margin: 25px 0; padding: 15px; text-align: center; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em;"><strong>Потребление должно быть осознанным.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Антидоты против алгоритмов</h4>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Алгоритмы Ютуба и Инстаграма очень хороши:</strong></p>
-        <p><strong>Пока ты в соцсетях, они изучают тебя.</strong></p>
-        <p style="margin-top: 10px;"><strong>Лайки и комментарии помогают им загонять тебя глубже в цифровую кроличью нору.</strong></p>
-    </div>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Новая реальность</h2>
     
-    <div style="margin-bottom: 25px;">
-        <p style="margin-bottom: 15px; font-weight: bold;">Мои методы защиты:</p>
-        
-        <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-            <li style="margin-bottom: 15px; padding-left: 5px;">
-                <strong>Потребляю информацию только с фейкового аккаунта</strong>
-                <p style="margin-top: 5px; margin-bottom: 0; color: #e5e5ea;">(без друзей и переписок)</p>
-            </li>
-            
-            <li style="margin-bottom: 15px; padding-left: 5px;">
-                <strong>Собираю список ссылок вместо просмотра главной страницы Ютуба</strong>
-            </li>
-            
-            <li style="margin-bottom: 15px; padding-left: 5px;">
-                <strong>Не потребляю контент с телефона — слишком удобно</strong>
-            </li>
-            
-            <li style="margin-bottom: 5px; padding-left: 5px;">
-                <strong>Таймер на беспорядочное потребление: 30 минут в день</strong>
-            </li>
-        </ul>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Производство контента как философия</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В 2024 году мы все — общество потребления.</strong></p>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p><strong>Большинство людей не производят ничего, только потребляют.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Этот термин ввел философ Жан Бодрийяр.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p style="margin-bottom: 10px;"><strong>Но я пришел к выводу: каждый должен иметь свою библиотеку контента.</strong></p>
-        <p><strong>Я уверен на 100%: каждый человек интересен.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но теперь появился новый концепт — диджитал-потребление.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>В Китае я знал парня, который играл в видеоигры.</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Мне это неинтересно, но если разобраться — открывается целая вселенная.</strong></p>
-        <p><strong>Таких людей с похожими увлечениями миллионы.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">3 ключевых навыка</h4>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сколько часов проводишь ты перед экраном?</strong></p>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p><strong>Для создания библиотеки нужны 3 простых, но сложных навыка:</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Телефоны, телевизоры, компьютеры — нас окружает информация.</strong></p>
     
-    <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Читать</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">— пропускать через себя нужную информацию</p>
-        </li>
-        
-        <li style="margin-bottom: 20px; padding-left: 5px;">
-            <strong>Писать</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">— структурировать мысли на "бумаге"</p>
-        </li>
-        
-        <li style="margin-bottom: 10px; padding-left: 5px;">
-            <strong>Говорить</strong>
-            <p style="margin-top: 8px; margin-bottom: 0; color: #e5e5ea;">— интересно рассказывать истории</p>
-        </li>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Она проникает в наши головы.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В 2024 мы потребляем больше контента, чем производим.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Когда постоянно объедаешься — еда теряет вкус.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но когда проголодался после работы — она становится максимально вкусной.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Потребление должно быть осознанным.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Антидоты против алгоритмов</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Алгоритмы Ютуба и Инстаграма очень хороши:</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Пока ты в соцсетях, они изучают тебя.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Лайки и комментарии помогают им загонять тебя глубже в цифровую кроличью нору.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Мои методы защиты:</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Потребляю информацию только с фейкового аккаунта</strong> (без друзей и переписок)</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Собираю список ссылок вместо просмотра главной страницы Ютуба</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Не потребляю контент с телефона — слишком удобно</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Таймер на беспорядочное потребление: 30 минут в день</strong></li>
     </ul>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Зачем это нужно?</h4>
     
-    <div style="margin-bottom: 20px; padding: 15px; border-left: 4px solid #ff9500;">
-        <p style="margin-bottom: 10px;"><strong>Библиотека контента упрощает жизнь.</strong></p>
-        <p><strong>Контент работает за тебя.</strong></p>
-    </div>
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Если человек зайдет на мой ютуб-канал с часами контента — это как поговорить со мной лично.</strong></p>
-        <p><strong>Когда я нанимаю сотрудников — смотрю их соцсети.</strong></p>
-        <p style="margin-top: 10px;"><strong>Так можно быстро понять человека.</strong></p>
-    </div>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Производство контента как философия</h2>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(52,199,89,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 10px;"><strong>Цель библиотеки — не просмотры, а накопление контента, которое может стать возможностью.</strong></p>
-        <p><strong>Когда понимаешь мотивы человека — не можешь его хейтить.</strong></p>
-        <p style="margin-top: 10px;"><strong>Чем больше контента создаешь — тем больше доверия формируешь.</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Система вместо вдохновения</h4>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Большинство людей не производят ничего, только потребляют.</strong></p>
     
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p><strong>Да, создание контента — это работа.</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Но я пришел к выводу: каждый должен иметь свою библиотеку контента.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; border-left: 4px solid #34C759;">
-        <p style="margin-bottom: 10px;"><strong>Но с системой и дисциплиной все щелкается как орешки.</strong></p>
-        <p><strong>Даже одно видео в месяц — уже огромное достижение.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Я уверен на 100%: каждый человек интересен.</strong></p>
     
-    <div style="margin: 20px 0; padding: 15px; text-align: center; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>И потребление, и производство контента должно быть осознанным выбором каждого.</strong></p>
-        <p><strong>Выбор — это фокус внимания.</strong></p>
-        <p style="margin-top: 10px; font-size: 1.1em;"><strong>На чем сегодня твой фокус внимания?</strong></p>
-    </div>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В Китае я знал парня, который играл в видеоигры.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Мне это неинтересно, но если разобраться — открывается целая вселенная.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Таких людей с похожими увлечениями миллионы.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">3 ключевых навыка</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Для создания библиотеки нужны 3 простых, но сложных навыка:</strong></p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Читать</strong> — пропускать через себя нужную информацию</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Писать</strong> — структурировать мысли на "бумаге"</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Говорить</strong> — интересно рассказывать истории</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Зачем это нужно?</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Библиотека контента упрощает жизнь.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Контент работает за тебя.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если человек зайдет на мой ютуб-канал с часами контента — это как поговорить со мной лично.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Когда я нанимаю сотрудников — смотрю их соцсети.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Так можно быстро понять человека.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Цель библиотеки — не просмотры, а накопление контента, которое может стать возможностью.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Когда понимаешь мотивы человека — не можешь его хейтить.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Чем больше контента создаешь — тем больше доверия формируешь.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Система вместо вдохновения</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Да, создание контента — это работа.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Но с системой и дисциплиной все щелкается как орешки.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Даже одно видео в месяц — уже огромное достижение.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>И потребление, и производство контента должно быть осознанным выбором каждого.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Выбор — это фокус внимания.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>На чем сегодня твой фокус внимания?</strong></p>
 </div>` }
                         ]
                     },
@@ -1194,91 +980,87 @@ const contentData = {
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="content-card">
-    <h3 style="margin-bottom: 20px;">Время в соцсетях обратно пропорционально уровню счастья</h3>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Время в соцсетях обратно пропорционально уровню счастья</h1>
     
-    <div style="margin: 20px 0; padding: 15px; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Недавно провел эксперимент.</strong></p>
-    </div>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Недавно провел эксперимент.</strong></p>
     
-    <div style="margin-bottom: 25px;">
-        <h4 style="margin-bottom: 15px; color: #007aff;">Исходные данные:</h4>
-        
-        <ul style="margin: 0 0 20px 0; padding-left: 20px;">
-            <li style="margin-bottom: 15px; padding-left: 5px;">
-                <strong>Обычное экранное время: 1.5-2 часа</strong>
-            </li>
-            
-            <li style="margin-bottom: 15px; padding-left: 5px;">
-                <strong>На телефоне нет соцсетей, только мессенджеры</strong>
-            </li>
-            
-            <li style="margin-bottom: 5px; padding-left: 5px;">
-                <strong>Уровень счастья: высокий</strong>
-            </li>
-        </ul>
-    </div>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Исходные данные:</h2>
     
-    <div style="margin: 25px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p><strong>Ход эксперимента:</strong></p>
-        <p style="margin-top: 10px;"><strong>Скачал Tinder, Instagram и другие соцсети чтобы посмотреть, как будет работать мозг.</strong></p>
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Обычное экранное время: 1.5-2 часа</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>На телефоне нет соцсетей, только мессенджеры</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Уровень счастья: высокий</strong></li>
+    </ul>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ход эксперимента:</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Скачал Tinder, Instagram и другие соцсети чтобы посмотреть, как будет работать мозг.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Результаты эксперимента</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>А) Зависимость формируется за 1 день</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Лучшие умы человечества тратят миллиарды долларов, чтобы удержать тебя внутри приложений.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Б) Способность фокусироваться падает</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Свободная секунда — проверю инсту.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Под постоянной атакой мозг не восстанавливается, фокусироваться становится труднее.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>В) Уровень счастья снижается</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>За неделю активного использования соцсетей заметил увеличение негативных мыслей.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Выводы</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Информационная диета так же важна, как и пищевая</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Нужно следить за тем, что поступает в мозг.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Главный вопрос:</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>"Делает ли это меня лучше?"</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В YouTube-видео "Как отлипнуть от телефона" <a href="https://youtu.be/-ASB6bccG2E" style="color: inherit; text-decoration: underline;">(https://youtu.be/-ASB6bccG2E)</a> дал пошаговый алгоритм борьбы с зависимостью.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Информативная выжимка из видео:</strong></p>
+    
+    <div class="article-image" style="margin: 20px 0; text-align: center;">
+        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_1.png?raw=true" 
+           data-lightbox="dependence-photos" 
+           data-title="Фото 1">
+            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_1.png?raw=true" 
+                 alt="Фото 1" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        </a>
     </div>
-</div>
 
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Результаты эксперимента</h4>
-    
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>А) Зависимость формируется за 1 день</strong></p>
-        <p><strong>Лучшие умы человечества тратят миллиарды долларов, чтобы удержать тебя внутри приложений.</strong></p>
+    <div class="article-image" style="margin: 20px 0; text-align: center;">
+        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_2.png?raw=true" 
+           data-lightbox="dependence-photos" 
+           data-title="Фото 2">
+            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_2.png?raw=true" 
+                 alt="Фото 2" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        </a>
     </div>
-    
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>Б) Способность фокусироваться падает</strong></p>
-        <p style="margin-bottom: 10px;"><strong>Свободная секунда — проверю инсту.</strong></p>
-        <p><strong>Под постоянной атакой мозг не восстанавливается, фокусироваться становится труднее.</strong></p>
-    </div>
-    
-    <div style="margin: 20px 0; padding: 15px; background: rgba(255,68,68,0.1); border-radius: 8px;">
-        <p style="margin-bottom: 15px;"><strong>В) Уровень счастья снижается</strong></p>
-        <p><strong>За неделю активного использования соцсетей заметил увеличение негативных мыслей.</strong></p>
-    </div>
-</div>
 
-<div class="content-card">
-    <h4 style="margin-bottom: 20px; color: #007aff;">Выводы</h4>
-    
-    <div style="margin-bottom: 20px; padding: 15px; border-left: 4px solid #34C759;">
-        <p style="margin-bottom: 10px;"><strong>Информационная диета так же важна, как и пищевая</strong></p>
-        <p><strong>Нужно следить за тем, что поступает в мозг.</strong></p>
+    <div class="article-image" style="margin: 20px 0; text-align: center;">
+        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_3.png?raw=true" 
+           data-lightbox="dependence-photos" 
+           data-title="Фото 3">
+            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_3.png?raw=true" 
+                 alt="Фото 3" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        </a>
     </div>
-    
-    <div style="margin: 25px 0; padding: 20px; text-align: center; background: rgba(0,122,255,0.1); border-radius: 8px;">
-        <p style="font-size: 1.1em;"><strong>Главный вопрос:</strong></p>
-        <p style="font-size: 1.1em; margin-top: 10px;"><strong>"Делает ли это меня лучше?"</strong></p>
-    </div>
-</div>
-
-<div class="content-card">
-    <div style="margin-bottom: 20px; padding: 15px; background: rgba(52,199,89,0.1); border-radius: 8px;">
-        <p><strong>В YouTube-видео "Как отлипнуть от телефона" <a href="https://youtu.be/-ASB6bccG2E" style="color: #007aff;">(https://youtu.be/-ASB6bccG2E)</a> дал пошаговый алгоритм борьбы с зависимостью.</strong></p>
-    </div>
-    
-    <div style="margin: 25px 0; padding: 20px; background: rgba(88,86,214,0.1); border-radius: 8px; text-align: center;">
-        <p style="font-size: 1.1em;"><strong>Информативная выжимка из видео:</strong></p>
-    </div>
-</div>    
-<div class="article-image" style="margin: 20px 0;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_1.png?raw=true" alt="Фото 1" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-    </div>
-    
-    <div class="article-image" style="margin: 20px 0;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_2.png?raw=true" alt="Фото 2" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-    </div>
-    
-    <div class="article-image" style="margin: 20px 0;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_3.png?raw=true" alt="Фото 3" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-    </div>` }
+</div>` }
                         ]
                     },
                     {
