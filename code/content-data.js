@@ -167,44 +167,56 @@ const contentData = {
 </div>` },
                             { id: 'godmode_3', title: "Убийство режима бога", content: `<div style="margin: 25px 0;">
     <div style="text-align: center; margin-bottom: 25px;">
-        <a href="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg" 
-           data-lightbox="godmode-photos" 
-           data-title="Убийство режима бога - Фото 1">
+        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg', 'Убийство режима бога - Фото 1')">
             <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg" 
                  alt="Убийство режима бога - Фото 1" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        </a>
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+        </button>
+    </div>
+    
+    <div style="margin: 25px 0;">
+    <div style="text-align: center; margin-bottom: 25px;">
+        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg', 'Убийство режима бога - Фото 1')">
+            <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg" 
+                 alt="Убийство режима бога - Фото 1" 
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+        </button>
     </div>
     
     <div style="text-align: center; margin-bottom: 25px;">
-        <a href="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_2.jpg" 
-           data-lightbox="godmode-photos" 
-           data-title="Убийство режима бога - Фото 2">
+        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_2.jpg', 'Убийство режима бога - Фото 2')">
             <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_2.jpg" 
                  alt="Убийство режима бога - Фото 2" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        </a>
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+        </button>
     </div>
     
     <div style="text-align: center; margin-bottom: 25px;">
-        <a href="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_3.jpg" 
-           data-lightbox="godmode-photos" 
-           data-title="Убийство режима бога - Фото 3">
+        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_3.jpg', 'Убийство режима бога - Фото 3')">
             <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_3.jpg" 
                  alt="Убийство режима бога - Фото 3" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        </a>
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+        </button>
     </div>
     
     <div style="text-align: center;">
-        <a href="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg" 
-           data-lightbox="godmode-photos" 
-           data-title="Убийство режима бога - Фото 4">
+        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg', 'Убийство режима бога - Фото 4')">
             <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg" 
                  alt="Убийство режима бога - Фото 4" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        </a>
+                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+        </button>
     </div>
+</div>
 </div>` }
                         ]
                     },
@@ -1031,35 +1043,35 @@ const contentData = {
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Информативная выжимка из видео:</strong></p>
     
-    <div class="article-image" style="margin: 20px 0; text-align: center;">
-        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_1.png?raw=true" 
-           data-lightbox="dependence-photos" 
-           data-title="Фото 1">
-            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_1.png?raw=true" 
-                 alt="Фото 1" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        </a>
-    </div>
+    <div style="margin: 20px 0; text-align: center;">
+    <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+            onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_1.png', 'Зависимость от телефона - Фото 1')">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_1.png" 
+             alt="Зависимость от телефона - Фото 1" 
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+    </button>
+</div>
 
-    <div class="article-image" style="margin: 20px 0; text-align: center;">
-        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_2.png?raw=true" 
-           data-lightbox="dependence-photos" 
-           data-title="Фото 2">
-            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_2.png?raw=true" 
-                 alt="Фото 2" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        </a>
-    </div>
+<div style="margin: 20px 0; text-align: center;">
+    <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+            onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_2.png', 'Зависимость от телефона - Фото 2')">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_2.png" 
+             alt="Зависимость от телефона - Фото 2" 
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+    </button>
+</div>
 
-    <div class="article-image" style="margin: 20px 0; text-align: center;">
-        <a href="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_3.png?raw=true" 
-           data-lightbox="dependence-photos" 
-           data-title="Фото 3">
-            <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_3.png?raw=true" 
-                 alt="Фото 3" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        </a>
-    </div>
+<div style="margin: 20px 0; text-align: center;">
+    <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+            onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_3.png', 'Зависимость от телефона - Фото 3')">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_3.png" 
+             alt="Зависимость от телефона - Фото 3" 
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
+        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+    </button>
+</div>
 </div>` }
                         ]
                     },
