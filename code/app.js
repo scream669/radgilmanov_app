@@ -47,7 +47,16 @@ const app = {
         
         return false;
     },
-
+    saveCurrentState() {
+    if (this.currentPage && this.currentPage.function !== 'showFullLibrary') {
+        const lastInHistory = this.navigationHistory[this.navigationHistory.length - 1];
+        if (!lastInHistory || 
+            lastInHistory.function !== this.currentPage.function ||
+            JSON.stringify(lastInHistory.args) !== JSON.stringify(this.currentPage.args)) {
+            this.navigationHistory.push({...this.currentPage});
+        }
+    }
+},
     navigateTo(pageFunction, ...args) {
         // Сохраняем текущую страницу в историю
         if (this.currentPage) {
@@ -62,25 +71,12 @@ const app = {
     },
 
     navigateBack() {
+    console.log('Назад. История:', this.navigationHistory.length);
+    
     if (this.navigationHistory.length > 0) {
         const previousPage = this.navigationHistory.pop();
         this.currentPage = previousPage;
-        
-        // Проверяем, не ведет ли нас назад на страницу с прямой ссылкой
-        if (previousPage.function === 'showCategory' && 
-            this.content[previousPage.args[0]]?.directLink) {
-            // Если это страница с прямой ссылкой (Miro), пропускаем ее
-            // и идем дальше назад или на главную
-            if (this.navigationHistory.length > 0) {
-                const earlierPage = this.navigationHistory.pop();
-                this.currentPage = earlierPage;
-                this[earlierPage.function].apply(this, earlierPage.args);
-            } else {
-                this.navigateTo('showFullLibrary');
-            }
-        } else {
-            this[previousPage.function].apply(this, previousPage.args);
-        }
+        this[previousPage.function].apply(this, previousPage.args);
     } else {
         this.navigateTo('showFullLibrary');
     }
@@ -496,7 +492,9 @@ const app = {
         const singleArticle = singleTopic.articles[0];
         
         // Показываем статью сразу
-        this.showArticleContent(singleArticle.id);
+        this.saveCurrentState(); // ← ДОБАВЬТЕ ЭТУ СТРОЧКУ
+this.currentPage = { function: 'showCategory', args: [categoryId] };
+this.showArticleContent(singleArticle.id);
         return;
     }
     
@@ -510,7 +508,9 @@ const app = {
             const singleTopic = singleSubsection.topics[0];
             const singleArticle = singleTopic.articles[0];
             
-            this.showArticleContent(singleArticle.id);
+            this.saveCurrentState(); // ← ДОБАВЬТЕ ЭТУ СТРОЧКУ
+this.currentPage = { function: 'showCategory', args: [categoryId] };
+this.showArticleContent(singleArticle.id);
             return;
         }
         
@@ -654,6 +654,9 @@ const app = {
     },
 
         showArticleContent(articleId) {
+        if (this.currentPage && this.currentPage.function !== 'showArticleContent') {
+            this.saveCurrentState();
+        }
         console.log('showArticleContent работает!', articleId);
         
         // Универсальный поиск статьи
