@@ -169,17 +169,7 @@ const contentData = {
         <li style="margin-bottom: 10px; line-height: 1.6;"><strong>2. Утром же — медитация в берушах и полное отстранение от внешнего мира.</strong></li>
     </ul>
 </div>` },
-                            { id: 'godmode_3', title: "Убийство режима бога", content: `<div style="margin: 25px 0;">
-    <div style="text-align: center; margin-bottom: 25px;">
-        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
-                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg', 'Убийство режима бога - Фото 1')">
-            <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg" 
-                 alt="Убийство режима бога - Фото 1" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        </button>
-    </div>
-    
+                            { id: 'godmode_3', title: "Убийство режима бога", content: `
     <div style="margin: 25px 0;">
     <div style="text-align: center; margin-bottom: 25px;">
         <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
@@ -810,7 +800,7 @@ const contentData = {
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В современном эмоциональном мире стоицизм станет вашим помощником на пути к лучшей версии себя.</strong></p>
 </div>` }
@@ -871,7 +861,7 @@ const contentData = {
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог:</h2>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Производите контент.</strong></p>
     
@@ -1549,7 +1539,7 @@ const contentData = {
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог:</h2>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Быть адекватным в сети – через личный опыт и действия строить свой остров доверия.</strong></p>
     
@@ -1698,7 +1688,7 @@ const contentData = {
                         title: "Дисциплина и тумблер",
                         articles: [
                             { id: 'discipline_1', title: "Как включить тумблер дисциплины", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/203" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1783,11 +1773,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Дискомфорт в моменте окупается готовностью разума к новым вызовам</strong></p>
 </div>` },
                             { id: 'discipline_2', title: "Топ-7 книг по дисциплине", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div class="article-source" style="margin-top: 15px;">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/326" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1868,7 +1858,7 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Эти 7 книг — пошаговый план по превращению дисциплины из абстрактной концепции в повседневную практику.</strong></p>
 </div>` },
                             { id: 'discipline_3', title: "От дисциплины к системе: как стать лучшей версией себя без насилия", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/424" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1944,7 +1934,7 @@ const contentData = {
                         title: "Режим дня", 
                         articles: [
                             { id: 'routine_1', title: "Режим Дня. Бонус №1", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/60" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2061,11 +2051,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Сделайте это упражнение — и вы получите первый и самый главный инструмент управления своей жизнью.</p>
 </div>` },
                             { id: 'routine_2', title: "РАДкаст №2", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
 </div>
 
 <div class="article-source" style="margin-top: 15px;">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/99" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2127,11 +2117,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Системный подход к режиму дня — это самый мощный инструмент для трансформации вашей жизни от хаоса к структуре и результатам.</strong></p>
 </div>` },
                             { id: 'routine_3', title: "РАДкаст №11", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/166" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source" style="margin-top: 15px;">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2171,11 +2161,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Именно об этом я говорю в своем тренинге и канале.</p>
 </div>` },
                             { id: 'routine_4', title: "Режим дня с 0 до 2 млн руб/месяц", content: `<div class="article-source">
-    <strong>🎬 Ссылка на видео:</strong> <a href="https://youtube.com/..." target="_blank">Открыть YouTube</a>
+    <strong>🎬 Ссылка на видео:</strong> <a href="https://www.youtube.com/watch?v=giaAic9bdJU" target="_blank">Открыть YouTube</a>
 </div>
 
 <div class="article-source" style="margin-top: 15px;">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/237" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2462,11 +2452,11 @@ const contentData = {
                         title: "Магия утра",
                         articles: [
                             { id: 'morning_1', title: "РАДкаст №3", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/107" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2611,11 +2601,11 @@ const contentData = {
                         title: "Привычка заканчивать дела",
                         articles: [
                             { id: 'finish_1', title: "Привычка заканчивать дела", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/94" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://onedrive.live.com/redir?cid=8338045a46991313&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2665,11 +2655,11 @@ const contentData = {
                         title: "Делай по своему",
                         articles: [
                             { id: 'yourway_1', title: "РАДкаст №34", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/439" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2687,7 +2677,7 @@ const contentData = {
                         title: "С чего начать если вообще не знаешь что делать?",
                         articles: [
                             { id: 'start_1', title: "С чего начать если вообще не знаешь что делать?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2784,7 +2774,7 @@ const contentData = {
                         title: "Тайм-менеджмент",
                         articles: [
                             { id: 'timemanagement_1', title: "Тайм-менеджмент — это абсолютный бред если нет энергии", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/48" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2816,7 +2806,7 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Создать жизнь, от которой не нужно брать выходные.</strong></p>
 </div>` },
                             { id: 'timemanagement_2', title: "Тайм-менеджмент — это абсолютный бред в 2026, если у тебя нет самого главного", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/402" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2887,7 +2877,7 @@ const contentData = {
                         title: "Программирование главного процессора",
                         articles: [
                             { id: 'processor_1', title: "Запрограммируй главный процессор", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/197" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2974,11 +2964,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Ты станешь тем, что пропустишь в свой главный процессор.</p>
 </div>` },
                             { id: 'processor_2', title: "РАДкаст №20", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/311" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3004,7 +2994,7 @@ const contentData = {
                         title: "Формула везения",
                         articles: [
                             { id: 'luck_1', title: "Формула везения", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/188" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3073,11 +3063,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Максимизируешь все три аспекта – удача станет твоей судьбой.</p>
 </div>` },
                             { id: 'luck_2', title: "РАДкаст №17", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/226" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3112,11 +3102,11 @@ const contentData = {
                         title: "Элемент случайности", 
                         articles: [
                             { id: 'randomness_1', title: "РАДкаст №10", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/141" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3138,7 +3128,7 @@ const contentData = {
                         title: "Приоритет(ы)",
                         articles: [
                             { id: 'priority_1', title: "Приоритет(ы)", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/373" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3192,11 +3182,11 @@ const contentData = {
                         title: "Метрика №1",
                         articles: [
                             { id: 'metric_1', title: "РАДкаст №35", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/450" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3223,11 +3213,11 @@ const contentData = {
                         title: "Этот пост был запланирован за 33 дня",
                         articles: [
                             { id: 'planned_1', title: "Этот пост был запланирован за 33 дня", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/53" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть здесь</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?v=faN0_3F2U0I&feature=youtu.be" target="_blank">Смотреть здесь</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3292,7 +3282,7 @@ const contentData = {
                         title: "Твоя энергия — твоя валюта",
                         articles: [
                             { id: 'energycurrency_1', title: "Твоя энергия — твоя валюта", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/368" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3366,7 +3356,7 @@ const contentData = {
                         title: "Как правильно отдыхать",
                         articles: [
                             { id: 'restproperly_1', title: "Как правильно отдыхать", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/47" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3391,7 +3381,7 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Рекомендации и протокол восстановления будут в прикрепленном файле.</p>
 </div>` },
                             { id: 'restproperly_2', title: "Как правильно отдыхать 2", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/409" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3415,11 +3405,11 @@ const contentData = {
                         title: "Режим дикаря",
                         articles: [
                             { id: 'savagemode_1', title: "Режим дикаря", content: `<div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть видео</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?si=TlNsfRAhMTnu7d2E&v=C4Qp1J_Q1b0&feature=youtu.be" target="_blank">Смотреть видео</a>
 </div>
 
 <div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/52" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3514,7 +3504,7 @@ const contentData = {
                         title: "Занятие ерундой",
                         articles: [
                             { id: 'nonsense_1', title: "РАДкаст №8", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3549,11 +3539,11 @@ const contentData = {
                         title: "Что делать с эмоциями?",
                         articles: [
                             { id: 'emotions_1', title: "РАДкаст №27", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/374" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3581,7 +3571,7 @@ const contentData = {
                         title: "Эксперименты со сном",
                         articles: [
                             { id: 'sleepexperiments_1', title: "Эксперименты со сном", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/389" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3663,7 +3653,7 @@ const contentData = {
                         title: '"Ты устал"',
                         articles: [
                             { id: 'youtired_1', title: '"Ты устал"', content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/508" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3724,7 +3714,7 @@ const contentData = {
                         title: "Неочевидный элемент продуктивности",
                         articles: [
                             { id: 'productivityelement_1', title: "Неочевидный элемент продуктивности", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/217" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3786,7 +3776,7 @@ const contentData = {
                         title: "Музыка для продуктивности",
                         articles: [
                             { id: 'musicproductivity_1', title: "Музыка для продуктивности", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/57" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3893,7 +3883,7 @@ const contentData = {
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Вместо покалеченной версии себя — получишь лучшую версию себя</p>
     
@@ -3905,11 +3895,11 @@ const contentData = {
                         title: "Ходячая классная комната",
                         articles: [
                             { id: 'walkingclassroom_1', title: "РАДкаст №26", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/372" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3939,7 +3929,7 @@ const contentData = {
                         title: "Выходные",
                         articles: [
                             { id: 'weekends_1', title: "Выходные", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/51" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4012,11 +4002,11 @@ const contentData = {
                         title: "Основной урок бизнеса",
                         articles: [
                             { id: 'businesslesson_1', title: "РАДкаст №5", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045a46991313&ithint=folder&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g" target="_blank">Открыть</a>
 </div>
 
 <div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/116" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4036,11 +4026,11 @@ const contentData = {
                         title: "Машина по достижению целей",
                         articles: [
                             { id: 'goalmachine_1', title: "РАДкаст №6", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/119" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4067,7 +4057,7 @@ const contentData = {
                         title: "Из записок предпринимателя",
                         articles: [
                             { id: 'entrepreneurnotes_1', title: "Из записок предпринимателя", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/147" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4163,7 +4153,7 @@ const contentData = {
                         title: "Как продавать",
                         articles: [
                             { id: 'selling_1', title: "Как продавать", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/50" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4185,11 +4175,11 @@ const contentData = {
                         title: "Искусство превращать буквы в деньги",
                         articles: [
                             { id: 'writingmoney_1', title: "РАДкаст №32", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/392" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4239,7 +4229,7 @@ const contentData = {
                         title: "ТОП-14 перспективных профессий по РАД",
                         articles: [
                             { id: 'professions_1', title: "ТОП-14 перспективных профессий по РАД", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/495" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4375,7 +4365,7 @@ const contentData = {
                         title: "Упорный труд vs Шарик в небо",
                         articles: [
                             { id: 'hardworkvsluck_1', title: "Упорный труд vs Шарик в небо", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/413" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4447,9 +4437,46 @@ const contentData = {
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Аномалии:</strong></p>
     
     <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
-        <li style="margin-bottom: 10px; line-height: 1.6;">«Ты НАВСЕГДА перестанешь смотреть Reels, Shorts, TikTok»<br>(https://youtu.be/c2zSpjpCHfY)</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">«18 чит-кодов для "Режима Бога"»<br>(https://youtu.be/ae_UMYKiPho) — 11 месяцев назад</li>
-    </ul>
+    <li style="margin-bottom: 15px; line-height: 1.6; padding: 12px; background: rgba(0, 122, 255, 0.1); border-radius: 8px;">
+        <div style="display: flex; align-items: flex-start;">
+            <span style="font-size: 20px; margin-right: 10px;">🎬</span>
+            <div style="flex: 1;">
+                <a href="https://youtu.be/c2zSpjpCHfY" 
+                   target="_blank" 
+                   style="color: #007aff; text-decoration: none; font-weight: 600; display: block; margin-bottom: 5px;">
+                    «Ты НАВСЕГДА перестанешь смотреть Reels, Shorts, TikTok»
+                </a>
+                <div style="font-size: 14px; color: #8e8e93;">
+                    <a href="https://youtu.be/c2zSpjpCHfY" 
+                       target="_blank" 
+                       style="color: #8e8e93; text-decoration: none;">
+                        🔗 https://youtu.be/c2zSpjpCHfY
+                    </a>
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li style="margin-bottom: 15px; line-height: 1.6; padding: 12px; background: rgba(0, 122, 255, 0.1); border-radius: 8px;">
+        <div style="display: flex; align-items: flex-start;">
+            <span style="font-size: 20px; margin-right: 10px;">🎯</span>
+            <div style="flex: 1;">
+                <a href="https://youtu.be/ae_UMYKiPho" 
+                   target="_blank" 
+                   style="color: #007aff; text-decoration: none; font-weight: 600; display: block; margin-bottom: 5px;">
+                    «18 чит-кодов для "Режима Бога"»
+                </a>
+                <div style="font-size: 14px; color: #8e8e93;">
+                    <a href="https://youtu.be/ae_UMYKiPho" 
+                       target="_blank" 
+                       style="color: #8e8e93; text-decoration: none;">
+                        🔗 https://youtu.be/ae_UMYKiPho
+                    </a>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Между аномалиями:</strong></p>
     
@@ -4459,7 +4486,7 @@ const contentData = {
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Финальная мысль</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Финальная мысль:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Я знаю: следующая аномалия где-то очень близко.</p>
 </div>` }
@@ -4469,7 +4496,7 @@ const contentData = {
                         title: "Правило Парето",
                         articles: [
                             { id: 'pareto_1', title: "Правило Парето", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/371" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4551,11 +4578,11 @@ const contentData = {
                         title: "4 сезона в жизни/бизнесе",
                         articles: [
                             { id: 'seasons_1', title: "РАДкаст №7", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/120" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4582,11 +4609,11 @@ const contentData = {
                         title: "Когда меньше - это лучше",
                         articles: [
                             { id: 'lessismore_1', title: "РАДкаст №21", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/342" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4627,11 +4654,11 @@ const contentData = {
                         title: "Кто твой герой?",
                         articles: [
                             { id: 'hero_1', title: "РАДкаст №18", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/256" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подскастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подскастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4658,7 +4685,7 @@ const contentData = {
                         title: "52 вопроса самому себе",
                         articles: [
                             { id: '52questions_1', title: "52 вопроса самому себе", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/268" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4762,11 +4789,11 @@ const contentData = {
                         title: "Найди дело жизни",
                         articles: [
                             { id: 'lifepurpose_1', title: "РАДкаст №28", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/376" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4786,7 +4813,7 @@ const contentData = {
                         title: "Уроки за 2024",
                         articles: [
                             { id: 'lessons2024_1', title: "Урок №1 — Счастье можно купить.", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/274" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
@@ -4890,11 +4917,11 @@ const contentData = {
     </ul>
 </div>` },
                             { id: 'lessons2024_2', title: "Урок №2 — Мы все умрем.", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/276" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть видео</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?v=LY4IJtT-4BA" target="_blank">Смотреть видео</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4998,11 +5025,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Будет тяжело, но ты справишься.</p>
 </div>` },
                             { id: 'lessons2024_3', title: "Урок №3", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/278" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть видео</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?si=J5lJmnFzZAp3KAfq&v=LY4IJtT-4BA&feature=youtu.be" target="_blank">Смотреть видео</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5084,11 +5111,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">настоящие изменения приходят, когда теория превращается в действие.</p>
 </div>` },
                             { id: 'lessons2024_4', title: "Урок №4", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/279" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть видео</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?v=LY4IJtT-4BA" target="_blank">Смотреть видео</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5173,11 +5200,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Иначе она будет утекать просто так.</p>
 </div>` },
                             { id: 'lessons2024_5', title: "Урок №5", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/280" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть видео</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?v=LY4IJtT-4BA" target="_blank">Смотреть видео</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5278,11 +5305,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Если освоишь эти три навыка – в новой экономике тебе бояться нечего.</p>
 </div>` },
                             { id: 'lessons2024_6', title: "Урок №6", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/281" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть видео</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?v=LY4IJtT-4BA" target="_blank">Смотреть видео</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5381,11 +5408,11 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">а путешествие возможно только в уединении.</p>
 </div>` },
                             { id: 'lessons2024_7', title: "Урок №7", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/282" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть видео</a>
+    <strong>🎬 Ссылка на ютуб видео:</strong> <a href="https://www.youtube.com/watch?v=LY4IJtT-4BA" target="_blank">Смотреть видео</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5456,7 +5483,7 @@ const contentData = {
                         title: "Внутренний ментор",
                         articles: [
                             { id: 'innermentor_1', title: "Внутренний ментор", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/365" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5558,11 +5585,11 @@ const contentData = {
                         title: "Что значит быть успешным?",
                         articles: [
                             { id: 'success_1', title: "РАДкаст №13", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/193" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5583,7 +5610,7 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Все имеет накопительный эффект. Качался 5 лет — мышцы будут расти легче.</p>
 </div>` },
                             { id: 'success_2', title: "Что значит быть успешным?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/262" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5687,11 +5714,11 @@ const contentData = {
                         title: "Новичок vs. Любитель vs. Профи",
                         articles: [
                             { id: 'levels_1', title: "РАДкаст №25", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/370" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5714,11 +5741,11 @@ const contentData = {
                         title: "33 совета самому себе за 33 года",
                         articles: [
                             { id: '33advices_1', title: "33 совета самому себе за 33 года", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/54" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📺 Ссылка на видео YouTube:</strong> <a href="https://youtube.com/..." target="_blank">Смотреть на YouTube</a>
+    <strong>📺 Ссылка на видео YouTube:</strong> <a href="https://www.youtube.com/watch?si=BEhcaRhlWKqwTO7w&v=faN0_3F2U0I&feature=youtu.be" target="_blank">Смотреть на YouTube</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5799,11 +5826,11 @@ const contentData = {
                         title: "Самое важное слово в русском языке",
                         articles: [
                             { id: 'importantword_1', title: "РАДкаст №24", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/367" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5827,7 +5854,7 @@ const contentData = {
                         title: "Дедушка а как ты провел свою жизнь?",
                         articles: [
                             { id: 'grandpa_1', title: "Дедушка а как ты провел свою жизнь?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/448" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5854,10 +5881,42 @@ const contentData = {
     <p style="margin: 0 0 18px 0; line-height: 1.7;">Вот 3 статьи, которые помогут разорвать эту зависимость:</p>
     
     <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
-        <li style="margin-bottom: 10px; line-height: 1.6;">Утренняя рутина современного Хомо Сапиенса (https://t.me/c/1635501098/421)</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">Почему зависимость от телефона настолько сильная? (https://t.me/c/1635501098/351)</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">Простой лайфхак как оторвать себя от телефона (https://t.me/c/1635501098/61)</li>
-    </ul>
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/421" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            Утренняя рутина современного Хомо Сапиенса
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/421)
+        </small>
+    </li>
+    
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/351" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            Почему зависимость от телефона настолько сильная?
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/351)
+        </small>
+    </li>
+    
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/61" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            Простой лайфхак как оторвать себя от телефона
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/61)
+        </small>
+    </li>
+</ul>
 </div>` }
                         ]
                     },
@@ -5865,7 +5924,7 @@ const contentData = {
                         title: "Арка Героя",
                         articles: [
                             { id: 'heroarc_1', title: "Арка Героя", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/472" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5922,7 +5981,7 @@ const contentData = {
                         title: "Овладей свободой финансов, времени и местоположения",
                         articles: [
                             { id: 'freedom_1', title: "Овладей свободой финансов, времени и местоположения", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/476" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6009,11 +6068,11 @@ const contentData = {
                         title: "Ожидания от жизни",
                         articles: [
                             { id: 'expectations_1', title: "РАДкаст №17", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/235" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6035,7 +6094,7 @@ const contentData = {
                         title: "Как прожить антисимметричную жизнь?",
                         articles: [
                             { id: 'asymmetric_1', title: "Как прожить антисимметричную жизнь?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/378" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6083,7 +6142,17 @@ const contentData = {
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;">Эту идею асимметричной жизни раскрыл в своей лекции Грэм Уивер.</p>
     
-    <p style="margin: 0 0 25px 0; line-height: 1.7;">(лекция на английском) (https://youtu.be/dZxbVGhpEkI?si=HQMms5YEBYZIDuVg)</p>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+    <a href="https://youtu.be/dZxbVGhpEkI?si=HQMms5YEBYZIDuVg" 
+       target="_blank" 
+       style="color: #007aff; text-decoration: none; font-weight: 600;">
+        (лекция на английском)
+    </a> 
+    <br>
+    <small style="color: #8e8e93;">
+        https://youtu.be/dZxbVGhpEkI?si=HQMms5YEBYZIDuVg
+    </small>
+</p>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;">Грэм выделяет 4 принципа той самой асимметричной жизни:</p>
     
@@ -6126,7 +6195,7 @@ const contentData = {
                         title: "Диагностика интеллекта",
                         articles: [
                             { id: 'intelligence_1', title: "Диагностика интеллекта", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/380" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6187,7 +6256,7 @@ const contentData = {
                         title: "Простейший совет самому себе",
                         articles: [
                             { id: 'simpleadvice_1', title: "Простейший совет самому себе", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/395" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6249,7 +6318,7 @@ const contentData = {
                         title: "Эссе. Почему Зидан не альфач, а самая настоящая бич",
                         articles: [
                             { id: 'zidane_1', title: "Эссе. Почему Зидан не альфач, а самая настоящая бич", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1869993274/3162" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6334,7 +6403,7 @@ const contentData = {
                         title: "Как накачаться, хихикая с другом",
                         articles: [
                             { id: 'trainingfun_1', title: "Как накачаться, хихикая с другом", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/358" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6426,7 +6495,7 @@ const contentData = {
                         title: "Тренировка Демон",
                         articles: [
                             { id: 'demontraining_1', title: "Тренировка Демон", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/506" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6438,11 +6507,11 @@ const contentData = {
                         title: "Побочки высокого уровня тестостерона",
                         articles: [
                             { id: 'testosterone_1', title: "Побочки высокого уровня тестостерона", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост (видео):</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост (видео):</strong> <a href="https://t.me/c/1635501098/468" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6454,7 +6523,7 @@ const contentData = {
                         title: "Бонус к челленджу Тестостероновый Буст",
                         articles: [
                             { id: 'testosteroneboost_1', title: "Бонус к челленджу Тестостероновый Буст", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/462" target="_blank">Открыть в Телеграмм</a>
 </div>` }
                         ]
                     },
@@ -6462,7 +6531,7 @@ const contentData = {
                         title: "Протокол БАДов для максимизации физической формы и энергии по РАД",
                         articles: [
                             { id: 'supplements_1', title: "Протокол БАДов для максимизации физической формы и энергии", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/530" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6563,7 +6632,7 @@ const contentData = {
                         title: "Как начать много читать?",
                         articles: [
                             { id: 'startreading_1', title: "Как начать много читать?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/403" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6647,7 +6716,7 @@ const contentData = {
                         title: "Как влюбиться в книги?",
                         articles: [
                             { id: 'lovebooks_1', title: "Как влюбиться в книги?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/405" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6698,14 +6767,109 @@ const contentData = {
                     {
                         title: "Где найти время на чтение в современном мире?",
                         articles: [
-                            { id: 'rememberreading_123423', title: "Где найти время на чтение в современном мире?", content: '...'}
+                            { id: 'rememberreading_123423', title: "Где найти время на чтение в современном мире?", content: `<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/..." target="_blank">Открыть в Телеграмм</a>
+</div>
+
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Где найти время для чтения в современном мире?</h1>
+    
+    <p style="font-size: 1.1em; margin: 0 0 25px 0; line-height: 1.6; font-style: italic;">
+        Там же, где ты его и потерял.
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">Всякий раз, когда люди говорят мне, что у них нет на что-то времени, я говорю:</p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Открой свой телефон, там есть функция «экранное время». Посмотри, сколько времени ты тратишь за экраном телефона.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Проблема не во времени</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">В 2025 году уж точно нельзя отмазаться отсутствием времени:</p>
+    
+    <div style="background: rgba(255, 59, 48, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0; border-left: 4px solid #FF3B30;">
+        <p style="margin: 0; line-height: 1.6; font-weight: 600; font-size: 1.1em;">
+            Твоя проблема не во времени, твоя проблема – в приоритетности.
+        </p>
+    </div>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Что такое приоритетность?</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Это слово происходит от лат. «предшествование».</p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>То есть то, что выполняется раньше всего.</strong></p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">Поэтому я всегда читаю утром – я знаю, что в течение дня буду занят другими делами + мой мозг настолько разгоняется, что вечером у меня уже не получается держать фокус на чтении.</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Личный опыт: 5 лет и 250 книг</h2>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">В течение 5 лет я читал сразу после пробуждения, и как результат – прочитал 250 книг.</p>
+    
+    <div style="background: rgba(52, 199, 89, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0; text-align: center;">
+        <div style="font-size: 2.5em; font-weight: 700; color: #34C759; margin-bottom: 10px;">250</div>
+        <div style="font-size: 1.1em; font-weight: 600;">книг за 5 лет</div>
+    </div>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">Сейчас мои приоритеты изменились – я начал писать сценарии, приоритетность этих сценариев выше, и поэтому чтение происходит после письма.</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Система приоритетности работает во всем</h2>
+    
+    <div style="background: rgba(0, 122, 255, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0; border-left: 4px solid #007AFF;">
+        <p style="margin: 0; line-height: 1.6; font-weight: 600; font-size: 1.1em;">
+            Делай самые важные дела раньше остальных.
+        </p>
+    </div>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">Таким образом я выучил китайский и английский языки – потому что вставал в 5 утра и занимался этим приоритетно перед всеми остальными делами.</p>
+    
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 25px 0;">
+        <div style="background: rgba(88, 86, 214, 0.1); padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #5856D6;">
+            <div style="font-size: 1.3em; font-weight: 700; margin-bottom: 5px;">🇨🇳</div>
+            <div style="font-weight: 600;">Китайский</div>
+            <div style="font-size: 0.9em; color: #8e8e93; margin-top: 5px;">Изучен приоритетно</div>
+        </div>
+        <div style="background: rgba(88, 86, 214, 0.1); padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #5856D6;">
+            <div style="font-size: 1.3em; font-weight: 700; margin-bottom: 5px;">🇺🇸</div>
+            <div style="font-weight: 600;">Английский</div>
+            <div style="font-size: 0.9em; color: #8e8e93; margin-top: 5px;">Изучен приоритетно</div>
+        </div>
+    </div>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    
+    <div style="background: rgba(255, 204, 0, 0.1); padding: 25px; border-radius: 12px; margin: 30px 0; text-align: center; border: 2px solid #FFCC00;">
+        <p style="margin: 0 0 15px 0; line-height: 1.6; font-size: 1.1em;">
+            Какой вывод?
+        </p>
+        <p style="margin: 0; line-height: 1.6; font-weight: 700; font-size: 1.3em; color: #FF9500;">
+            Забей в календарь свое железное время для чтения.
+        </p>
+    </div>
+    
+    <div style="margin: 30px 0; padding: 20px; background: rgba(142, 142, 147, 0.1); border-radius: 10px;">
+        <h3 style="font-size: 1.2em; font-weight: 600; margin: 0 0 15px 0; line-height: 1.3;">Практическое задание:</h3>
+        <ol style="margin: 15px 0 0 0; padding-left: 20px;">
+            <li style="margin-bottom: 10px; line-height: 1.6;">Проверь «экранное время» в своем телефоне</li>
+            <li style="margin-bottom: 10px; line-height: 1.6;">Определи 30-60 минут, которые можешь заменить на чтение</li>
+            <li style="margin-bottom: 10px; line-height: 1.6;">Поставь в календарь как «железное время»</li>
+            <li style="line-height: 1.6;">Начни с первой книги завтра утром</li>
+        </ol>
+    </div>
+</div>`}
                         ]
                     },
                     {
                         title: "Как запоминать прочитанное?",
                         articles: [
                             { id: 'rememberreading_1', title: "Как запоминать прочитанное?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/417" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6798,11 +6962,11 @@ const contentData = {
                         title: "У тебя же есть книга, на которой ты застрял?",
                         articles: [
                             { id: 'stuckbook_1', title: "У тебя же есть книга, на которой ты застрял?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/431" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
-    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://t.me/..." target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6848,13 +7012,67 @@ const contentData = {
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Используй мои подборки:</p>
     
-    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
-        <li style="margin-bottom: 10px; line-height: 1.6;">2 книги, обязательные к прочтению в новой экономике (https://t.me/c/1635501098/386)</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">3 книги для тех, кто хочет стать предпринимателем (https://t.me/c/1635501098/79)</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">5 книг для современного стоического мудреца (https://t.me/c/1635501098/418)</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">7 книг для железной дисциплины (https://t.me/c/1635501098/326)</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">25 книг, которые делят жизнь на «до» и «после» (https://t.me/c/1635501098/293)</li>
-    </ul>
+<ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/386" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            2 книги, обязательные к прочтению в новой экономике
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/386)
+        </small>
+    </li>
+    
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/79" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            3 книги для тех, кто хочет стать предпринимателем
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/79)
+        </small>
+    </li>
+    
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/418" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            5 книг для современного стоического мудреца
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/418)
+        </small>
+    </li>
+    
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/326" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            7 книг для железной дисциплины
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/326)
+        </small>
+    </li>
+    
+    <li style="margin-bottom: 10px; line-height: 1.6;">
+        <a href="https://t.me/c/1635501098/293" 
+           target="_blank" 
+           style="color: #007aff; text-decoration: none; font-weight: 600;">
+            25 книг, которые делят жизнь на «до» и «после»
+        </a>
+        <br>
+        <small style="color: #8e8e93;">
+            (https://t.me/c/1635501098/293)
+        </small>
+    </li>
+</ul>
 </div>` }
                         ]
                     }
@@ -6873,7 +7091,7 @@ const contentData = {
                         title: "Где местоположение счастья?",
                         articles: [
                             { id: 'happylocation_1', title: "Где местоположение счастья?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/221" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7022,7 +7240,7 @@ const contentData = {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Счастье, фокус, “сейчас” – это только внутреннее состояние.</p>
 </div>` },
                             { id: 'happylocation_2', title: "РАДкаст №22", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/347" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7055,7 +7273,7 @@ const contentData = {
                         title: "Деньги не приносят счастья",
                         articles: [
                             { id: 'moneynothappy_1', title: "Деньги не приносят счастья", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/393" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7128,7 +7346,7 @@ const contentData = {
                         title: "Послание для тех, кто не боится забрать СВОЕ в этой жизни",
                         articles: [
                             { id: 'takeyours_1', title: "Послание для тех, кто не боится забрать СВОЕ в этой жизни", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/477" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7140,7 +7358,7 @@ const contentData = {
                         title: "Эй, парень, тебе 18-35 лет? Это послание для тебя",
                         articles: [
                             { id: 'youngman_1', title: "Эй, парень, тебе 18-35 лет? Это послание для тебя", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/483" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7152,7 +7370,7 @@ const contentData = {
                         title: "Играешь в глупые игры - получаешь глупые призы",
                         articles: [
                             { id: 'stupidgames_1', title: "Играешь в глупые игры - получаешь глупые призы", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/484" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7224,7 +7442,7 @@ const contentData = {
                         title: "Суперсила в 2025 году",
                         articles: [
                             { id: 'superpower_1', title: "Суперсила в 2025 году", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/353" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7286,9 +7504,26 @@ const contentData = {
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <p style="margin: 0 0 18px 0; line-height: 1.7;">Приятного просмотра. (https://youtu.be/AeXTQx_0BA0?si=CTcYEbu-1Gda_2gU)</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">
+    <a href="https://youtu.be/AeXTQx_0BA0?si=CTcYEbu-1Gda_2gU" 
+       target="_blank" 
+       style="color: #007aff; text-decoration: none; font-weight: 600;">
+        🎬 Приятного просмотра
+    </a>
+</p>
     
-    <p style="margin: 0 0 25px 0; line-height: 1.7;">P.S. бонус из этого видео лежит здесь (https://t.me/c/1635501098/326). (171 человек поделился этим бонусом с кем-то другим, судя по статистике поста)</p>
+<p style="margin: 0 0 25px 0; line-height: 1.7;">
+    P.S. бонус из этого видео лежит 
+    <a href="https://t.me/c/1635501098/326" 
+       target="_blank" 
+       style="color: #007aff; text-decoration: none; font-weight: 600;">
+        здесь
+    </a>. 
+    <br>
+    <small style="color: #8e8e93; font-style: italic;">
+        (171 человек поделился этим бонусом с кем-то другим, судя по статистике поста)
+    </small>
+</p>
 </div></hr>` }
                         ]
                     },
@@ -7296,7 +7531,7 @@ const contentData = {
                         title: "Похулиганим?",
                         articles: [
                             { id: 'mischief_1', title: "Похулиганим?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/461" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7362,7 +7597,7 @@ const contentData = {
                         title: "Грант от РАД",
                         articles: [
                             { id: 'grant_1', title: "Грант от РАД", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/470" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7428,7 +7663,7 @@ const contentData = {
                         title: "Помнишь я пропал со всех радаров на 2 месяца?",
                         articles: [
                             { id: 'disappeared_1', title: "Помнишь я пропал со всех радаров на 2 месяца?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/487" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7504,7 +7739,7 @@ const contentData = {
                         title: "GOD MODE - это не курс",
                         articles: [
                             { id: 'godmode_1', title: "GOD MODE - это не курс", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/486" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7587,7 +7822,7 @@ const contentData = {
                         title: "Что делает историю интереснее?",
                         articles: [
                             { id: 'interestingstory_1', title: "Что делает историю интереснее?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/69" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -7647,7 +7882,7 @@ const contentData = {
                         title: "Первое видео на YouTube",
                         articles: [
                             { id: 'firstvideo_1', title: "Первое видео на YouTube", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/88" target="_blank">Открыть в Телеграмм</a>
 </div>` }
                         ]
                     }
@@ -7665,19 +7900,352 @@ const contentData = {
                     {
                         title: "Как использовать нейросети для личного бренда в 2025",
                         articles: [
-                            { id: 'ainetworks_1', title: "Как использовать нейросети для личного бренда в 2025", content: '' }
+                            { id: 'ainetworks_1', title: "Как использовать нейросети для личного бренда в 2025", content: `<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/394" target="_blank">Открыть в Телеграмм</a>
+</div>
+
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Как использовать нейросети для личного бренда в 2025</h1>
+    
+    <p style="font-size: 1.1em; margin: 0 0 25px 0; line-height: 1.6;">НИКАК! ПИШИ САМ! Прошу прощения что на повышенных, просто хотел достучаться.</p>
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Проблема нейросетей</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Да нейросети могут что-то там написать, и вроде бы и грамматика правильная и логика верная, но…</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Когда програмка пишет за тебя, атрофируется самая главная мышца твоего мозга</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>КРЕАТИВНОСТЬ.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Ты теряешь то, что не используешь. А без креативности, чем ты будешь отличаться от миллиона других копий ИИ?</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Сила индивидуальности</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">У каждого из нас свой личный опыт, свои истории, даже формат подачи черт побери свой - и ведь это и делает нас уникальными.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Мы совершенно по-другому воспринимаем материал, когда там есть индивидуальность.</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Например: личные истории.</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Никто другой кроме меня не расскажет как я хотел делать контент с самого первого дня как у меня появился новенький Sony Ericsson K700i с камерой 0.3 мегапикселя. Я до сих пор помню как он лежит в руке.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Самое главное слово в любом формате контента это слово "например".</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">И с развитием нейросетей вес этого слова будет только расти.</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вопрос о кратком содержании</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">У тебя может возникнуть вопрос:</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><em>"А что насчет краткого содержания? ИИ же может выдавать краткое содержание и экономить время?"</em></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Тогда у меня к тебе встречный вопрос:</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>"Помнишь ли ты книги, которые прочитал в кратком содержании в школе?"</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>То-то и оно.</strong></p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Почему это плохая идея:</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Самое большое воздействие на мозг произведет не сама идея, а время проведенное над идей.</strong> Именно поэтому когда ты читаешь книгу, а не получаешь выжимку на одну страницу, голова начинает работать, соединять причинно-следственные связи, вспоминать свои примеры из жизни.</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Если ты не профессионал в своей деятельности, ты просто не поймешь где нейросеть повела тебя по ложному следу.</strong></li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Правильное использование нейросетей</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Нейросети могут быть полезны, но только в качестве ассистента.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Цель этого ассистента забрать все монотонные, повторяющиеся действия.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Чтобы ты остался 1 на 1 с самым главным - своей креативностью.</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Личное откровение</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Само написание этого поста подтолкнуло меня к тому, чтобы перестать проверять грамматику и пунктуацию через нейросети.</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Пусть здесь будут ошибки, зато оригинальность контента - 100% (в отличие от тех педиков, которые копируют мой контент в свои телеграмм каналы)</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>P.S.S. В эпоху ChatGPT единственное, что нельзя скопировать - это ТЫ.</strong></p>
+</div>` }
                         ]
                     },
                     {
                         title: "Как пользоваться телефоном и соцсетями с пользой",
                         articles: [
-                            { id: 'phonesocial_1', title: "Как пользоваться телефоном и соцсетями с пользой", content: "" }
+                            { id: 'phonesocial_1', title: "Как пользоваться телефоном и соцсетями с пользой", content: `<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/436" target="_blank">Открыть в Телеграмм</a>
+</div>
+
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Как пользоваться телефоном и соц сетями с пользой для себя</h1>
+    
+    <p style="font-size: 1.1em; margin: 0 0 25px 0; line-height: 1.6;">Телефон и соцсети - это гениальное изобретение человечества. Что уж тут греха таить - они сделали из меня миллионера.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Но как же использовать эти инструменты с пользой для себя? Ведь мы уже знаем, что они с легкостью могут разрушить жизнь человека.</p>
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Проблема сегодняшнего дня</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Просто посмотри:</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Миллионы, да что миллионы, миллиарды людей как зомби листают ленту, играют в тупые игры и смотрят короткие видосы для дегенератов, при этом напрочь забыв о своих мечтах.</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Мой протокол использования соцсетей</h2>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">1) Никаких соцсетей и мессенджеров утром:</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Утро - это самое важное время дня, и я не могу отдать свой фокус внимания кому-то другому.</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">2) Никаких уведомлений:</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Либо есть запланированное время для уведомлений.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Уведомления просто дробят фокус внимания, именно поэтому современному человеку так тяжело фокусироваться.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">На моем телефоне уведомления стоят только на вотсапе, потому что мой вотсап есть только у семьи, близких друзей и членов моей команды.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Напомню - у меня 2 больших проекта: ютуб и агентство. Всего это 11 человек в найме.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Правило: «Чтобы написать Радику на вотсап - это должна быть ситуация жизни или смерти».</strong></p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Поэтому за все время была всего пара случаев, когда действительно было что-то срочное.</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">3) Никаких соцсетей на телефоне:</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">В моем понимании с дьяволом лучше не играть.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Но, если вдруг соцсети связаны с твоей работой, ты можешь управлять временем пользования соцсетями с помощью настроек телефона.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">И я пожелаю тебе в этом большой удачи, потому что это потребует очень большой дисциплины.</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">4) Использование телефона против самого себя:</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><a href="https://one-sec.app/" target="_blank" style="color: #007aff; text-decoration: none; font-weight: 600;">One sec app</a> и черно-белый режим.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Если мне нужно использовать соцсети, пусть телефон сам поможет мне не стать супер-зависимым от него.</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Сознательное потребление контента</h2>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">5) Потребление контента должно быть осознанным:</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Что это значит?</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Я - продукт образования в интернете - это курсы и бесплатный материал на ютубе.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Именно поэтому я открыто создаю образовательный контент: как строить бизнес, 4 шага на фрилансе и так далее.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Я как бы отдаю должное контенту, который помог мне получить некоторые результаты в жизни - я возвращаю свои знания в общий багаж знаний в интернете.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Не надо путать образовательный контент с бессознательным просмотром тупых и развлекательных видосов.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Но, чтобы мой мозг меня не одурачил, я потребляю контент с компа + создал закладки с образовательным контентом.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Именно так я сознательно потребляю ту информацию, которая полезна мне.</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">6) Дозированное потребление контента:</h3>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Я не робот. Иногда я просто хочу позалипать в соцсетях, но для этого должен выставить себе таймер - например, 20 минут.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Я делаю это в вечернее время, потому что утро - это самое важное время для фокуса.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Бывает, что инстаграм стоит на моем телефоне неделю - чаще всего это происходит, когда я отпускаю вожжи и даю себе расслабиться, но я всегда знаю, что в конце концов бессознательное использование соцсетей будет негативно влиять на меня.</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итоговый диалог</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Знаешь что? Жить осознанную жизнь нелегко, но выбора другого нет - ты либо возьмешь свою жизнь в фокус, либо однажды, когда конец игры будет не так далеко, ты станешь участником вот такого диалога:</p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Дедушка а как ты провел свою жизнь?</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Внучек, я листал соцсети и смотрел тупые короткие видосы целыми днями, у меня украли мой фокус внимания, поэтому мне даже нечего тебе рассказать…</strong></li>
+    </ul>
+</div>` }
                         ]
                     },
                     {
                         title: "4 города для комфортной жизни за границей",
                         articles: [
-                            { id: 'citiesabroad_1', title: "4 города для комфортной жизни за границей", content: "" }
+                            { id: 'citiesabroad_1', title: "4 города для комфортной жизни за границей", content: `<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/435" target="_blank">Открыть в Телеграмм</a>
+</div>
+
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">4 лучших города для начинающих цифровых кочевников</h1>
+    
+    <p style="font-size: 1.1em; margin: 0 0 25px 0; line-height: 1.6;">Коротко о главном: Если вы только начинаете свои путешествия - обязательно нужно приехать в эти 4 города.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Я разберу их детально по нескольким критериям:</p>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 8px; line-height: 1.6;">Виза (как легко получить)</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Наличие комьюнити (в том числе русскоязычного)</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Еда</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Тренажёрные залы</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Сервис</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Дамы</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Погода</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Сумма по всем баллам</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">Бюджет (минимальный и комфортный)</li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">1. Бали (Чангу)</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Виза:</strong> 10/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">По приезде даётся 30-дневная виза за 30 долларов. Потом доплачиваем 30-40 долларов и получаем ещё месяц жизни на Бали. Получить визу легко.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Наличие комьюнити:</strong> 10/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Огромное русскоязычное комьюнити, все дружелюбные, конфликтов в основном не бывает.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Еда:</strong> 10/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Вкусная, разнообразная, даже есть сырники.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Тренажёрные залы:</strong> 10/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Космического уровня, дороже чем в России, но это того стоит. Оснащены бассейнами, спа-зоной.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сервис:</strong> 9/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Чуть медленнее, чем в Москве.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Дамы:</strong> 10/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Красивые, интересные, много одиноких.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Погода:</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Два сезона - сухой и мокрый. Мокрый (сезон дождей) проходит с декабря по апрель. На Бали чаще едут летом в сухой сезон. Погода специфичная.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сумма:</strong> 59 баллов</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Бюджет (минимальный):</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Гостевой дом: <strong>500$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Виза на 2 месяца: <strong>60$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Еда в месяц: <strong>600$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Тренажёрный зал: <strong>200$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Итого: 1330$</strong></li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">2. Чианг Май (Северный Таиланд)</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Жизнь медленная, энергия спокойная. Население - 100 000 человек, удобные дороги, рядом горы и нет моря.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Виза:</strong> 10/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Даётся по прибытии сразу на 60 дней, она бесплатная. Есть виза digital кочевника, которая даётся сразу на 5 лет, по ней можно находиться в Таиланде 6 месяцев безвыездно.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Наличие комьюнити:</strong> 7/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Большое англоязычное комьюнити, но русскоязычного немного.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Еда:</strong> 9/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Много международных ресторанов, сырников там нет, как и русскоязычной кухни.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Тренажёрные залы:</strong> 8/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">С Бали не сравниться, но зато много бокса.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сервис:</strong> 9/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Стандартный тайский сервис, сопоставим с Бали.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Дамы:</strong> 7/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Не так много девушек, которые постоянно живут здесь.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Погода:</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Мокрый, сухой сезон и сезон пожаров. Сезон пожаров - март, апрель, май. Не нужно ехать туда в сезон пожаров - дышать невозможно. Сезон дождей - июнь, июль, август, сентябрь. С октября - замечательная погода.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сумма:</strong> 50 баллов</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Бюджет (минимальный):</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Жильё: <strong>300$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Виза: <strong>бесплатно</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Еда: <strong>450$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Тренажёрный зал: <strong>100$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Итого: 850$</strong></li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">3. Белград</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Виза:</strong> 8/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Даётся на 30 дней, продлять её нельзя.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Наличие комьюнити:</strong> 9/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Очень хорошо относятся к русскоязычным, много русскоязычных проживают.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Еда:</strong> 9/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Много ресторанов, много кафе, вкусные сладости.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Тренажёрные залы:</strong> 6/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Не тот уровень, что на Бали. Чтобы получить тренажерный зал со спа - нужно очень много заплатить.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сервис:</strong> 8/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Достойный.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Дамы:</strong> 10/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Лояльно относятся к русским, красивые.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Погода:</strong></p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Очень жаркое лето, жарче чем в Азии, но к вечеру холоднее.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сумма:</strong> 50 баллов</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Бюджет (минимальный):</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Жильё: <strong>600$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Еда: <strong>600$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Тренажёрный зал: <strong>летом можно заниматься на улице, всё оснащено</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Итого: 1200$</strong></li>
+    </ul>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">4. Дананг</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Красивый, имеет длинную пляжную зону, вдоль которой приятно бегать.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Виза:</strong> 6/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Даётся на 45 дней, что неудобно при аренде жилья.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Наличие комьюнити:</strong> 8/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Много русскоязычных и иностранцев.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Еда:</strong> 7/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Сложно найти кафе на свой вкус.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Тренажёрные залы:</strong> 7/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Не такие, как на Бали.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сервис:</strong> 8/10</p>
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Стандартный, но вьетнамцы могут показаться грубоватыми, так как громкие.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Дамы:</strong> 7/10</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Сумма:</strong> 43 балла</p>
+    
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">Бюджет (минимальный):</h3>
+    
+    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;">Жильё: <strong>400$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;">Еда: <strong>450$</strong></li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Итого: 850$</strong></li>
+    </ul>
+</div>` }
                         ]
                     }
                 ]
