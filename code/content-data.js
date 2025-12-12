@@ -1,7 +1,7 @@
 const contentData = {
 // ==================== ПЕРСОНАЛИЗИРОВАННЫЕ БЛОКИ ====================
 personal: {
-    description: "Ваша подборка",
+    description: "Чтобы цели обновились — перезапустите приложение 😉",
     subsections: [
         {
             id: "discipline_1",
@@ -363,48 +363,39 @@ personal: {
     </ul>
 </div>` },
                             { id: 'godmode_3', title: "Убийство режима бога", content: `
-    <div style="margin: 25px 0;">
+<div style="margin: 25px 0;">
+
     <div style="text-align: center; margin-bottom: 25px;">
-        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
-                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg', 'Убийство режима бога - Фото 1')">
-            <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg" 
-                 alt="Убийство режима бога - Фото 1" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        </button>
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg"
+             onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg')"
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
-    
+
     <div style="text-align: center; margin-bottom: 25px;">
-        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
-                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_2.jpg', 'Убийство режима бога - Фото 2')">
-            <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_2.jpg" 
-                 alt="Убийство режима бога - Фото 2" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        </button>
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_2.jpg"
+             onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_2.jpg')"
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
-    
+
     <div style="text-align: center; margin-bottom: 25px;">
-        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
-                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_3.jpg', 'Убийство режима бога - Фото 3')">
-            <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_3.jpg" 
-                 alt="Убийство режима бога - Фото 3" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        </button>
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_3.jpg"
+             onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_3.jpg')"
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
-    
+
     <div style="text-align: center;">
-        <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
-                onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg', 'Убийство режима бога - Фото 4')">
-            <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg" 
-                 alt="Убийство режима бога - Фото 4" 
-                 style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
-            <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        </button>
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg"
+             onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg')"
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
+
 </div>
-</div>` },
+`},
+
                         ]
                     },
                     {
