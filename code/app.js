@@ -12,6 +12,7 @@ const app = {
     currentPage: null, // { function: 'showFullLibrary', args: [...] }
 
 openImage(url) {
+
     const viewer = document.createElement("div");
     viewer.className = "image-viewer-overlay";
     viewer.innerHTML = `
@@ -21,69 +22,203 @@ openImage(url) {
             <button class="image-viewer-close" onclick="app.closeImageViewer()">×</button>
         </div>
     `;
-
     document.body.appendChild(viewer);
 
     const img = viewer.querySelector(".image-viewer-photo");
 
+    // === APPEAR ANIMATION ===
+    requestAnimationFrame(() => {
+        viewer.classList.add("visible");
+        img.classList.add("visible");
+    });
+
+    // ================================
+    //     CONFIG + INTERNAL STATE
+    // ================================
+
     let scale = 1;
+    let minScale = 1;
+    let maxScale = 4;
     let lastScale = 1;
-    let startDistance = 0;
 
     let posX = 0, posY = 0;
     let lastPosX = 0, lastPosY = 0;
+
     let startX = 0, startY = 0;
 
-    // ---- Pinch start ----
+    let startDistance = 0;
+
+    let velocityX = 0, velocityY = 0;
+    let lastMoveTime = 0;
+
+    let isDragging = false;
+    let isZooming = false;
+
+    let lastTapTime = 0;
+
+    // ============================
+    //      HELPERS
+    // ============================
+
+    function clampPosition() {
+        const rect = img.getBoundingClientRect();
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+
+        const maxX = (rect.width - vw) / 2;
+        const maxY = (rect.height - vh) / 2;
+
+        if (rect.width <= vw) posX = 0;
+        else posX = Math.max(-maxX, Math.min(maxX, posX));
+
+        if (rect.height <= vh) posY = 0;
+        else posY = Math.max(-maxY, Math.min(maxY, posY));
+    }
+
+    function applyTransform() {
+        clampPosition();
+        img.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
+    }
+
+    function distance(e) {
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        return Math.sqrt(dx * dx + dy * dy);
+    }
+
+    // ================================
+    //       DOUBLE TAP ZOOM
+    // ================================
+    img.addEventListener("touchend", (e) => {
+        const now = Date.now();
+
+        if (now - lastTapTime < 250 && e.touches.length === 0) {
+            // DOUBLE TAP DETECTED
+
+            const tapX = e.changedTouches[0].clientX - window.innerWidth / 2;
+            const tapY = e.changedTouches[0].clientY - window.innerHeight / 2;
+
+            if (scale === 1) {
+                scale = 2;
+                posX = -tapX;
+                posY = -tapY;
+            } else if (scale < 3) {
+                scale = 3;
+                posX = -tapX * 1.3;
+                posY = -tapY * 1.3;
+            } else {
+                scale = 1;
+                posX = 0;
+                posY = 0;
+            }
+
+            applyTransform();
+        }
+
+        lastTapTime = now;
+    });
+
+
+    // ================================
+    //         TOUCH START
+    // ================================
     img.addEventListener("touchstart", (e) => {
         if (e.touches.length === 2) {
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            startDistance = Math.sqrt(dx * dx + dy * dy);
-        } else if (e.touches.length === 1 && scale > 1) {
+            // pinch start
+            startDistance = distance(e);
+            isZooming = true;
+        } else if (e.touches.length === 1) {
+            // pan start
+            isDragging = true;
             startX = e.touches[0].clientX - lastPosX;
             startY = e.touches[0].clientY - lastPosY;
+            velocityX = velocityY = 0;
+            lastMoveTime = Date.now();
         }
     });
 
-    // ---- Pinch + Pan ----
+
+    // ================================
+    //          TOUCH MOVE
+    // ================================
     img.addEventListener("touchmove", (e) => {
         e.preventDefault();
 
-        if (e.touches.length === 2) {
-            // Pinch zoom
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            let distance = Math.sqrt(dx * dx + dy * dy);
-
-            scale = Math.min(4, Math.max(1, lastScale * (distance / startDistance)));
-
-        } else if (e.touches.length === 1 && scale > 1) {
-            // One-finger drag
-            posX = e.touches[0].clientX - startX;
-            posY = e.touches[0].clientY - startY;
+        if (isZooming && e.touches.length === 2) {
+            let dist = distance(e);
+            scale = Math.min(maxScale, Math.max(minScale, lastScale * (dist / startDistance)));
+            applyTransform();
+            return;
         }
 
-        updateTransform();
+        if (isDragging && e.touches.length === 1 && scale > 1) {
+            let newX = e.touches[0].clientX - startX;
+            let newY = e.touches[0].clientY - startY;
+
+            velocityX = newX - posX;
+            velocityY = newY - posY;
+
+            posX = newX;
+            posY = newY;
+
+            applyTransform();
+        }
     });
 
-    // ---- Touch end ----
+
+    // ================================
+    //         TOUCH END
+    // ================================
     img.addEventListener("touchend", () => {
-        lastScale = scale;
-        lastPosX = posX;
-        lastPosY = posY;
+
+        if (isZooming) {
+            lastScale = scale;
+            isZooming = false;
+        }
+
+        if (isDragging) {
+            lastPosX = posX;
+            lastPosY = posY;
+            isDragging = false;
+            startInertia();
+        }
     });
 
-    // ---- Apply transforms ----
-    function updateTransform() {
-        img.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
+
+    // ================================
+    //          INERTIA
+    // ================================
+    function startInertia() {
+        function animate() {
+            velocityX *= 0.93;
+            velocityY *= 0.93;
+
+            posX += velocityX;
+            posY += velocityY;
+
+            applyTransform();
+
+            if (Math.abs(velocityX) > 0.1 || Math.abs(velocityY) > 0.1) {
+                requestAnimationFrame(animate);
+            }
+        }
+
+        requestAnimationFrame(animate);
     }
 },
 
 closeImageViewer() {
     const viewer = document.querySelector(".image-viewer-overlay");
-    if (viewer) viewer.remove();
+    if (!viewer) return;
+
+    viewer.classList.remove("visible");
+
+    setTimeout(() => {
+        viewer.remove();
+    }, 200);
 },
+
+
 
 enablePinchZoom(img) {
     let scale = 1;
