@@ -50,41 +50,6 @@ enablePinchZoom(img) {
     };
 
     // Зум двумя пальцами
-    img.addEventListener('touchstart', (e) => {
-        if (e.touches.length === 2) {
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            startDistance = Math.sqrt(dx*dx + dy*dy);
-        } else if (e.touches.length === 1 && scale > 1) {
-            isDragging = true;
-            startX = e.touches[0].clientX - lastPosX;
-            startY = e.touches[0].clientY - lastPosY;
-        }
-    });
-
-    img.addEventListener('touchmove', (e) => {
-        if (e.touches.length === 2) {
-            e.preventDefault(); // только для двух пальцев
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            const distance = Math.sqrt(dx*dx + dy*dy);
-            const delta = distance / startDistance;
-            scale = Math.min(Math.max(1, delta), 4);
-            update();
-        } else if (isDragging && e.touches.length === 1) {
-            posX = e.touches[0].clientX - startX;
-            posY = e.touches[0].clientY - startY;
-            update();
-        }
-    }, { passive: false });
-
-    img.addEventListener('touchend', (e) => {
-        if (e.touches.length < 2) {
-            lastPosX = posX;
-            lastPosY = posY;
-            isDragging = false;
-        }
-    });
 
     img.addEventListener('touchmove', (e) => {
         if (e.touches.length === 2) {
