@@ -1162,18 +1162,43 @@
     cursor: pointer;
     box-shadow: 0 2px 5px rgba(0,0,0,0.4);
 }
-button, .goal-btn, .menu-btn, .article-link, .miro-map-btn {
-    touch-action: manipulation;
-    -webkit-tap-highlight-color: transparent;
-}
-.settings-overlay,
 .image-viewer-overlay {
-    pointer-events: auto; /* чтобы overlay реагировал только если видим */
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999999;
 }
 
-body:not(.overlay-open) .settings-overlay,
-body:not(.overlay-open) .image-viewer-overlay {
-    display: none;
+.image-viewer-container {
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+.image-viewer-photo {
+    max-width: 100%;
+    max-height: 100%;
+    user-select: none;
+    touch-action: none; /* super important */
+    transform-origin: center center;
+}
+
+.image-viewer-close {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    background: #007aff;
+    border: none;
+    color: white;
+    font-size: 26px;
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    cursor: pointer;
 }
 
     </style>
@@ -1198,31 +1223,6 @@ body:not(.overlay-open) .image-viewer-overlay {
         });
     });
 </script>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Открытие меню настроек
-    const menuBtn = document.querySelector('.menu-btn');
-    const closeBtn = document.querySelector('.close-btn');
-    const imageCloseBtn = document.querySelector('.image-close-btn');
 
-    if (menuBtn) {
-        menuBtn.addEventListener('click', () => {
-            document.body.classList.add('overlay-open');
-        });
-    }
-
-    if (closeBtn) {
-        closeBtn.addEventListener('click', () => {
-            document.body.classList.remove('overlay-open');
-        });
-    }
-
-    if (imageCloseBtn) {
-        imageCloseBtn.addEventListener('click', () => {
-            document.body.classList.remove('overlay-open');
-        });
-    }
-});
-</script>
 </body>
 </html>
