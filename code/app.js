@@ -11,80 +11,28 @@ const app = {
     navigationHistory: [],
     currentPage: null, // { function: 'showFullLibrary', args: [...] }
 
-openImage(url) {
-    const viewer = document.createElement("div");
-    viewer.className = "image-viewer-overlay";
-    viewer.innerHTML = `
-        <div class="image-viewer-backdrop"></div>
-        <div class="image-viewer-container">
-            <img src="${url}" class="image-viewer-photo">
-            <button class="image-viewer-close" onclick="app.closeImageViewer()">×</button>
+    openImage(src) {
+    const overlay = document.createElement('div');
+    overlay.className = 'image-viewer-overlay';
+
+    overlay.innerHTML = `
+        <div class="image-viewer">
+            <img src="${src}" class="zoomable-image" />
+            <button class="image-close-btn" onclick="app.closeImageViewer()">✕</button>
         </div>
     `;
+        
+    document.body.appendChild(overlay);
 
-    document.body.appendChild(viewer);
-
-    const img = viewer.querySelector(".image-viewer-photo");
-
-    let scale = 1;
-    let lastScale = 1;
-    let startDistance = 0;
-
-    let posX = 0, posY = 0;
-    let lastPosX = 0, lastPosY = 0;
-    let startX = 0, startY = 0;
-
-    // ---- Pinch start ----
-    img.addEventListener("touchstart", (e) => {
-        if (e.touches.length === 2) {
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            startDistance = Math.sqrt(dx * dx + dy * dy);
-        } else if (e.touches.length === 1 && scale > 1) {
-            startX = e.touches[0].clientX - lastPosX;
-            startY = e.touches[0].clientY - lastPosY;
-        }
-    });
-
-    // ---- Pinch + Pan ----
-    img.addEventListener("touchmove", (e) => {
-        e.preventDefault();
-
-        if (e.touches.length === 2) {
-            // Pinch zoom
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            let distance = Math.sqrt(dx * dx + dy * dy);
-
-            scale = Math.min(4, Math.max(1, lastScale * (distance / startDistance)));
-
-        } else if (e.touches.length === 1 && scale > 1) {
-            // One-finger drag
-            posX = e.touches[0].clientX - startX;
-            posY = e.touches[0].clientY - startY;
-        }
-
-        updateTransform();
-    });
-
-    // ---- Touch end ----
-    img.addEventListener("touchend", () => {
-        lastScale = scale;
-        lastPosX = posX;
-        lastPosY = posY;
-    });
-
-    // ---- Apply transforms ----
-    function updateTransform() {
-        img.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
-    }
+    // Включаем жесты зума
+    const img = overlay.querySelector('.zoomable-image');
+    this.enablePinchZoom(img);
 },
 
-closeImageViewer() {
-    const viewer = document.querySelector(".image-viewer-overlay");
-    if (viewer) viewer.remove();
+    closeImageViewer() {
+    const overlay = document.querySelector('.image-viewer-overlay');
+    if (overlay) overlay.remove();
 },
-
 enablePinchZoom(img) {
     let scale = 1;
     let startDistance = 0;
