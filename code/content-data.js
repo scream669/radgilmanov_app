@@ -2845,7 +2845,7 @@ personal: {
 
     <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_morning_4.jpg?raw=true"
-             onclick="https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_morning_4.jpg?raw=true')"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_morning_4.jpg?raw=true')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
@@ -3030,7 +3030,7 @@ personal: {
                     {
                         title: "Алгоритм обучения",
                         articles: [
-                            { id: 'learning_1', title: "Алгоритм обучения", content: `
+                            { id: 'learning_2', title: "Алгоритм обучения", content: `
                                 <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_1.jpg?raw=true"
              onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_1.jpg?raw=true')"
@@ -4652,7 +4652,7 @@ personal: {
 
     <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/8.png?raw=true"
-             onclick="https://github.com/scream669/radgilmanov_app/blob/main/pictures/8.png?raw=true')"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/8.png?raw=true')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
