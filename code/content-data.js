@@ -734,13 +734,6 @@ personal: {
     <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В современном мире, где постоянный стресс, неопределённость, эмоциональные горки стали абсолютной нормой, философия стоицизма будет решением.</strong></p>
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/stoicwise.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/stoicwise.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -866,19 +859,13 @@ personal: {
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Финальный вывод:</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Финальный вывод</h2>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Разум – это только ваша зона ответственности, вы владеете им полностью.</strong></p>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если вы в жопе – то это по вашей вине.</strong></p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Но значит и успех – тоже ваша вина.</strong></p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/mental_model.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/mental_model.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` },
                             { id: 'mentalmodels_2', title: "РАДкаст №23", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
@@ -1021,13 +1008,6 @@ personal: {
     <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Итог:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>В современном эмоциональном мире стоицизм станет вашим помощником на пути к лучшей версии себя.</strong></p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/stoicwise.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/stoicwise.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
 </div>` }
                         ]
                     }
@@ -1288,26 +1268,35 @@ personal: {
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Информативная выжимка из видео:</strong></p>
     
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_1.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_1.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin: 20px 0; text-align: center;">
+    <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+            onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_1.png', 'Зависимость от телефона - Фото 1')">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_1.png" 
+             alt="Зависимость от телефона - Фото 1" 
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
+    </button>
+</div>
 
-<div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_2.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_2.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+<div style="margin: 20px 0; text-align: center;">
+    <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+            onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_2.png', 'Зависимость от телефона - Фото 2')">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_2.png" 
+             alt="Зависимость от телефона - Фото 2" 
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
+    </button>
+</div>
 
-<div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_3.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/dependence_phone_3.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+<div style="margin: 20px 0; text-align: center;">
+    <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+            onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_3.png', 'Зависимость от телефона - Фото 3')">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/dependence_phone_3.png" 
+             alt="Зависимость от телефона - Фото 3" 
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
+    </button>
+</div>
 </div>` }
                         ]
                     },
@@ -1315,12 +1304,13 @@ personal: {
                         title: "Открытые петли", 
                         articles: [
                             { id: 'openloops_1', title: "Открытые петли", content: `<div style="margin: 20px 0; text-align: center;">
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/open_loops.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/open_loops.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <button style="background: none; border: none; padding: 0; cursor: pointer; width: 100%;" 
+            onclick="app.showPhotoViewer('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg', 'Убийство режима бога - Фото 1')">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/open_loops.jpg" 
+             alt="Убийство режима бога - Фото 1" 
+             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
+    </button>
 </div>` }
                         ]
                     },
@@ -1610,12 +1600,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>А затем этот человек вытаскивает тебя из трудностей.</strong></p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Потому что этот человек — тот, кем ты стал.</strong></p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/special_type.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/special_type.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -1992,12 +1976,6 @@ personal: {
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>После этих практик появляется место для дисциплины.</strong></p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Дискомфорт в моменте окупается готовностью разума к новым вызовам</strong></p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/how_to_on_discipline.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/how_to_on_discipline.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` },
                             { id: 'discipline_2', title: "Топ-7 книг по дисциплине", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
@@ -2821,34 +2799,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Если не выделить время на восстановление – ты не сможешь максимизировать "Режим Бога".</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">"Режим Бога" и режим восстановления неделимы.</p>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_moring_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_moring_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_moring_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/how_to_on_discipline.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_moring_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_moring_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_morning_4.jpg?raw=true"
-             onclick="https://github.com/scream669/radgilmanov_app/blob/main/pictures/magic_of_morning_4.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -3011,14 +2961,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">И разобраться с этим легче всего через инверсию.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Не практикуй то, кем не хочешь стать.</strong></p>
-    <div style="text-align: center; margin-bottom: 25px;">
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/from_the_wordst_version_to_better.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/from_the_wordst_version_to_better.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     }
@@ -3030,34 +2972,7 @@ personal: {
                     {
                         title: "Алгоритм обучения",
                         articles: [
-                            { id: 'learning_1', title: "Алгоритм обучения", content: `
-                                <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_4.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_4.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>` }
+                            { id: 'learning_1', title: "Алгоритм обучения", content: `` }
                         ]
                     },
                     {
@@ -3252,12 +3167,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Нужно научиться самому программировать свой главный процессор – мозг.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Ты станешь тем, что пропустишь в свой главный процессор.</p>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/your_main_processor.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/your_main_processor.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>` },
                             { id: 'processor_2', title: "РАДкаст №20", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/311" target="_blank">Открыть в Телеграмм</a>
@@ -3391,30 +3300,7 @@ personal: {
         <li style="margin-bottom: 10px; line-height: 1.6;">Подготовка — это 3-й тип.</li>
     </ul>
 </div>` },
-                            { id: 'luck_3', title: "Как стать везунчиком", content: `
-                                <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        
-        <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        
-        <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-        
-        <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_4.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_4.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>` }
+                            { id: 'luck_3', title: "Как стать везунчиком", content: `` }
                         ]
                     },
                     {
@@ -3698,36 +3584,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Человек, зарабатывающий своим мозгом, обязан научить свое тело правильно отдыхать.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Рекомендации и протокол восстановления будут в прикрепленном файле.</p>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_1.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_1.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_4.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_4.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    
 </div>` },
                             { id: 'restproperly_2', title: "Как правильно отдыхать 2", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/409" target="_blank">Открыть в Телеграмм</a>
@@ -3747,28 +3603,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Но на самом деле это что-то другое.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Человек, зарабатывающий своим мозгом, обязан научить свое тело правильно отдыхать.</p>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_5.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_5.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_6.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_6.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_7.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/have_a_rest_7.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
 </div>` }
                         ]
                     },
@@ -3903,62 +3737,6 @@ personal: {
         <li style="margin-bottom: 10px; line-height: 1.6;">3 урока</li>
         <li style="margin-bottom: 10px; line-height: 1.6;">3 метаморфозы</li>
     </ul>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_4.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_4.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_5.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_5.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_6.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_6.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_7.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_7.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_8.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/boring_8.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -4411,12 +4189,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Стандартные выходные - это выдумка современного общества. Человек не создан, чтобы работать от звонка до звонка и отдыхать по субботам и воскресеньям.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">P. S. привет всем кто работает в воскресенье, я с вами</p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/sunday.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/sunday.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     }
@@ -4601,62 +4373,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">https://youtu.be/-CVwbyz04Dk</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Как всегда, основная информативная выжимка — в прикрепленном файле.</p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/1.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/1.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/2.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/2.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/3.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/3.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/4.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/4.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/5.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/5.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/6.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/6.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/7.png?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/7.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/8.png?raw=true"
-             onclick="https://github.com/scream669/radgilmanov_app/blob/main/pictures/8.png?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
 </div>` }
                         ]
                     },
@@ -4842,21 +4558,6 @@ personal: {
         <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Почему:</strong> в таком варианте сделаешь очень много действий, именно это и приведет к результатам х100-х10000</li>
         <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Потенциал дохода:</strong> ∞</li>
     </ul>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/top_professions_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/top_professions_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/top_professions_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/top_professions_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
 </div>` }
                         ]
                     }
@@ -5106,37 +4807,7 @@ personal: {
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
     <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">4 времени года в жизни и бизнесе</h2>
-    
-</div>` },
-                    { id: 'seasons_2', title: "4 времени года в жизни и бизнесе", content: `
-                        <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_4.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_4.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>` 
-                    }
+</div>` }
                         ]
                     },
                     {
@@ -6241,27 +5912,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Быть успешным – через действия идти к лучшей версии себя.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Это и есть концепт «Режима Бога» в реальной жизни.</p>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/what_mean_be_successful_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/what_mean_be_successful_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/what_mean_be_successful_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/what_mean_be_successful_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/what_mean_be_successful_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/what_mean_be_successful_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -6472,14 +6122,6 @@ personal: {
         </small>
     </li>
 </ul>
-
-<div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/arch_of_hero.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/arch_of_hero.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-
 </div>` }
                         ]
                     },
@@ -6537,13 +6179,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">А затем этот человек вытаскивает тебя из трудностей.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Потому что этот человек - тот, кем ты стал.</p>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/that_you_become.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/that_you_become.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -6631,12 +6266,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Принципы.</strong></p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Тебе нужны принципы.</p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/give_a_free.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/give_a_free.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -6961,12 +6590,6 @@ personal: {
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Если ты совершаешь постыдный поступок ради удовольствия, удовольствие проходит быстро, но стыд остается навсегда. Если же ты совершаешь достойный поступок ради добродетели, боль быстро проходит, а честь остается навсегда.</strong></p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">© Гай Музоний Руф - древнеримский философ-стоик</p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/zidan.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/zidan.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     }
@@ -7820,13 +7443,6 @@ personal: {
     <p style="margin: 0 0 18px 0; line-height: 1.7;">Но через несколько дней это покажется обыденностью.</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Счастье, фокус, “сейчас” – это только внутреннее состояние.</p>
-
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/where_is_a_happiness.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/where_is_a_happiness.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` },
                             { id: 'happylocation_2', title: "РАДкаст №22", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/347" target="_blank">Открыть в Телеграмм</a>
@@ -8024,12 +7640,6 @@ personal: {
     <p style="margin: 0 0 18px 0; line-height: 1.7;">Чтобы в любой момент, когда тебе что-то не нравится, когда что-то идет в разрез с твоими моральными ценностями, ты бы мог не прогибаться под изменчивый мир, а сказать ему</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>"ФАК Ю."</strong></p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/in_what_game_do_you_play.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/in_what_game_do_you_play.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -8251,18 +7861,6 @@ personal: {
     <p style="margin: 0 0 25px 0; line-height: 1.7;">«Ебанный лентяй» - подходит достаточно точно (произносится через ё).</p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Если же не лентяй, молод, голоден до побед и хочешь получить грант от РАД - добавляйся в этот ТГК "Грант от РАД"</p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/instagram.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/instagram.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/diploma.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/diploma.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 </div>` }
                         ]
                     },
@@ -8272,13 +7870,6 @@ personal: {
                             { id: 'disappeared_1', title: "Помнишь я пропал со всех радаров на 2 месяца?", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/487" target="_blank">Открыть в Телеграмм</a>
 </div>
-
-<div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/three_radiks.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/three_radiks.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Помнишь я пропал со всех радаров на 2 месяца?</h1>
@@ -8355,13 +7946,6 @@ personal: {
                             { id: 'godmode_1', title: "GOD MODE - это не курс", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/486" target="_blank">Открыть в Телеграмм</a>
 </div>
-
-<div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/god_mode.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/god_mode.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">GOD MODE - это не курс.</h1>
@@ -8504,27 +8088,7 @@ personal: {
                         articles: [
                             { id: 'firstvideo_1', title: "Первое видео на YouTube", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/88" target="_blank">Открыть в Телеграмм</a>
-</div>
-<div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_1.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_2.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_3.jpg?raw=true')"
-             style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
-        <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>` }
+</div>` }
                         ]
                     }
                 ]
