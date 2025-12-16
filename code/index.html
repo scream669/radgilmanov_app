@@ -1181,6 +1181,22 @@
     color: rgb(111, 111, 111);
     font-size: 20px;
     cursor: pointer;
+    
+}
+/* Универсальный эффект нажатия для всех кнопок */
+button, 
+.home-btn, 
+.miro-map-btn, 
+.article-link {
+    transition: all 0.1s ease; /* быстрее анимация */
+}
+
+button:active,
+.home-btn:active,
+.miro-map-btn:active,
+.article-link:active {
+    opacity: 0.7;
+    transform: scale(0.97); /* чуть сильнее эффект нажатия */
 }
 
 
