@@ -11,6 +11,7 @@ const app = {
     navigationHistory: [],
     currentPage: null, // { function: 'showFullLibrary', args: [...] }
 
+    
 openImage(url) {
     const viewer = document.createElement("div");
     viewer.className = "image-viewer-overlay";
@@ -48,24 +49,23 @@ openImage(url) {
 
     // ---- Pinch + Pan ----
     img.addEventListener("touchmove", (e) => {
-        e.preventDefault();
+    if (e.touches.length === 2) {
+        e.preventDefault(); // ✅ ТОЛЬКО ДЛЯ PINCH
+        
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        let distance = Math.sqrt(dx * dx + dy * dy);
 
-        if (e.touches.length === 2) {
-            // Pinch zoom
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            let distance = Math.sqrt(dx * dx + dy * dy);
+        scale = Math.min(4, Math.max(1, lastScale * (distance / startDistance)));
 
-            scale = Math.min(4, Math.max(1, lastScale * (distance / startDistance)));
+    } else if (e.touches.length === 1 && scale > 1) {
+        posX = e.touches[0].clientX - startX;
+        posY = e.touches[0].clientY - startY;
+    }
 
-        } else if (e.touches.length === 1 && scale > 1) {
-            // One-finger drag
-            posX = e.touches[0].clientX - startX;
-            posY = e.touches[0].clientY - startY;
-        }
+    updateTransform();
+}, { passive: false });
 
-        updateTransform();
-    });
 
     // ---- Touch end ----
     img.addEventListener("touchend", () => {
@@ -85,35 +85,8 @@ closeImageViewer() {
     if (viewer) viewer.remove();
 },
 
-enablePinchZoom(img) {
-    let scale = 1;
-    let startDistance = 0;
-
-    img.addEventListener('touchstart', (e) => {
-        if (e.touches.length === 2) {
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-            startDistance = Math.sqrt(dx * dx + dy * dy);
-        }
-    });
-
-    img.addEventListener('touchmove', (e) => {
-        if (e.touches.length === 2) {
-            e.preventDefault();
-
-            const dx = e.touches[0].clientX - e.touches[1].clientX;
-            const dy = e.touches[0].clientY - e.touches[1].clientY;
-
-            const newDistance = Math.sqrt(dx * dx + dy * dy);
-            const delta = newDistance / startDistance;
-
-            scale = Math.min(Math.max(1, delta), 4); // ограничение масштаба
-
-            img.style.transform = `scale(${scale})`;
-        }
-    }, { passive: false });
-},
     shouldSkipLevel(item) {
+        
         if (!item) return false;
         if (item.directLink) return false;
 
@@ -186,6 +159,7 @@ enablePinchZoom(img) {
 
     // Назад: восстанавливаем предыдущую страницу из стека
     navigateBack() {
+        
         console.log('NAVIGATE BACK');
         if (this.navigationHistory.length > 0) {
             const prev = this.navigationHistory.pop();
@@ -209,6 +183,18 @@ enablePinchZoom(img) {
 },
 
     getBackButton() {
+    // ❗️ В ЭТОЙ статье вообще НЕТ кнопки "Назад"
+    if (this.currentArticle?.id === 'miro_map_1') {
+        return `
+            <div class="nav-buttons">
+                <button class="homereturn-btn" onclick="app.goHome()">
+                    ⤹ На главную
+                </button>
+            </div>
+        `;
+    }
+
+    // ✅ ВЕЗДЕ ОСТАЛЬНОЕ — как было
     return `
         <div class="nav-buttons">
             <button class="back-btn" onclick="app.navigateBack()">← Назад</button>
@@ -809,6 +795,70 @@ saveGoalsAndContinue() {
         document.getElementById('app').innerHTML = html;
     },
 
+
+
+
+
+    openArticle(articleId) {
+    const article = this.findArticleById(articleId);
+    if (!article) {
+        console.warn("Статья не найдена:", articleId);
+        return;
+    }
+
+    this.currentArticle = article;
+
+    const appDiv = document.getElementById("app");
+    appDiv.innerHTML = `
+    ${this.getBackButton()}
+    <h1>${article.title}</h1>
+    <div class="article-content">${article.content}</div>
+`;
+},
+
+findArticleById(id) {
+    function search(obj) {
+        if (!obj) return null;
+
+        // Проверяем articles
+        if (obj.articles) {
+            for (let a of obj.articles) {
+                if (a.id === id) return a;
+            }
+        }
+
+        // Проверяем topics
+        if (obj.topics) {
+            for (let t of obj.topics) {
+                const res = search(t);
+                if (res) return res;
+            }
+        }
+
+        // Проверяем subsections
+        if (obj.subsections) {
+            for (let s of obj.subsections) {
+                const res = search(s);
+                if (res) return res;
+            }
+        }
+
+        return null;
+    }
+
+    for (let key in this.content) {
+        const res = search(this.content[key]);
+        if (res) return res;
+    }
+
+    return null;
+},
+
+
+
+
+
+
     // Photo viewer как overlay — НЕ добавляется в историю
     showPhotoViewer(photoUrl, photoTitle) {
         if (document.getElementById('photo-viewer-overlay')) return;
@@ -847,6 +897,8 @@ saveGoalsAndContinue() {
     initPhotoZoom() { /* реализация зума/панинга — можно вставить прежнюю логику */ },
 
 };
+
+
 
 // Инициализация
 document.addEventListener('DOMContentLoaded', function() { app.init(); });
