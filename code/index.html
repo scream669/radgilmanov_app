@@ -487,9 +487,9 @@
         }
 
         .lead {
-    font-size: 1.2em;
-    font-style: italic;
-    margin-bottom: 1em;
+            font-size: 1.2em;
+            font-style: italic;
+            margin-bottom: 1em;
         }
 
         .highlight {
@@ -1182,8 +1182,8 @@
     font-size: 20px;
     cursor: pointer;
     
+
 }
-/* Универсальный эффект нажатия для всех кнопок */
 button, 
 .home-btn, 
 .miro-map-btn, 
@@ -1225,6 +1225,32 @@ button:active,
         });
     });
 </script>
+<script>
+document.addEventListener("touchstart", function (e) {
+    const target = e.target.closest(
+        ".miro-map-btn, button, .article-link"
+    );
+    if (!target) return;
+    target.classList.add("is-pressed");
+}, { passive: true });
+
+document.addEventListener("touchend", function (e) {
+    const target = e.target.closest(
+        ".miro-map-btn, button, .article-link"
+    );
+    if (!target) return;
+    target.classList.remove("is-pressed");
+}, { passive: true });
+
+document.addEventListener("touchcancel", function (e) {
+    const target = e.target.closest(
+        ".miro-map-btn, button, .article-link"
+    );
+    if (!target) return;
+    target.classList.remove("is-pressed");
+}, { passive: true });
+</script>
+
 
 </body>
 </html>
