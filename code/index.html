@@ -1135,20 +1135,6 @@
     touch-action: none;
 }
 
-.image-close-btn {
-    position: absolute;
-    top: -15px;
-    right: -15px;
-    background: #0084ff;
-    color: white;
-    border: none;
-    width: 38px;
-    height: 38px;
-    border-radius: 50%;
-    font-size: 20px;
-    cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.4);
-}
 .image-viewer-overlay {
     position: fixed;
     inset: 0;
@@ -1176,12 +1162,19 @@
 
 .image-viewer-close {
     position: absolute;
-    top: 20px;
-    right: 20px;
-    color: rgb(111, 111, 111);
-    font-size: 20px;
+    top: 25px;
+    right: 25px;
+    color: rgb(93, 93, 93);
+    font-size: 25px;
     cursor: pointer;
-    
+    background: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+
+    -webkit-tap-highlight-color: transparent;
+    -webkit-appearance: none;
+    appearance: none;
 
 }
 button, 
