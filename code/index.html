@@ -1188,8 +1188,11 @@ button,
 .home-btn, 
 .miro-map-btn, 
 .article-link {
-    transition: all 0.1s ease; /* быстрее анимация */
+    transition: all 0.1s ease;
+    -webkit-tap-highlight-color: transparent; /* для мобильных */
+    touch-action: manipulation; /* ускоряет отклик на касание */
 }
+
 
 button:active,
 .home-btn:active,
