@@ -24,6 +24,7 @@ openImage(url) {
     `;
 
     document.body.appendChild(viewer);
+    viewer.classList.add('active'); // делаем overlay активным
 
     const img = viewer.querySelector(".image-viewer-photo");
 
@@ -822,7 +823,6 @@ saveGoalsAndContinue() {
         </div>
     `;
 },
-
 
 
 findArticleById(id) {
