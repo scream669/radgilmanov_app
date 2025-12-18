@@ -5,7 +5,7 @@
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <script src="content-data.js"></script>
     <script src="app.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
     <style>
         * {
@@ -1213,6 +1213,17 @@ button:active,
     transform: scale(0.97); /* чуть сильнее эффект нажатия */
 }
 
+/* === HARD FIX FOR MOBILE TOUCH === */
+
+/* по умолчанию overlay НИКОГДА не ловит клики */
+.image-viewer-overlay {
+    pointer-events: none !important;
+}
+
+/* только когда реально открыт */
+.image-viewer-overlay.active {
+    pointer-events: auto !important;
+}
 
     </style>
 </head>
@@ -1223,33 +1234,6 @@ button:active,
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-<script>
-document.addEventListener("touchstart", function (e) {
-    const target = e.target.closest(
-        ".miro-map-btn, button, .article-link"
-    );
-    if (!target) return;
-    target.classList.add("is-pressed");
-}, { passive: true });
-
-document.addEventListener("touchend", function (e) {
-    const target = e.target.closest(
-        ".miro-map-btn, button, .article-link"
-    );
-    if (!target) return;
-    target.classList.remove("is-pressed");
-}, { passive: true });
-
-document.addEventListener("touchcancel", function (e) {
-    const target = e.target.closest(
-        ".miro-map-btn, button, .article-link"
-    );
-    if (!target) return;
-    target.classList.remove("is-pressed");
-}, { passive: true });
-</script>
-
 
 </body>
 </html>
