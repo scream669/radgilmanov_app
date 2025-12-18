@@ -680,7 +680,6 @@ saveGoalsAndContinue() {
 },
 
     
-    
     showSubsection(categoryId, subsectionIndex) {
         const categoryContent = this.content[categoryId];
         if (!categoryContent || !categoryContent.subsections) { this.navigateBack(); return; }
@@ -703,7 +702,7 @@ saveGoalsAndContinue() {
 
         document.getElementById('app').innerHTML = html;
     },
-    
+
     showTopic(categoryId, subsectionIndex, topicIndex) {
     const categoryContent = this.content[categoryId];
     if (!categoryContent || !categoryContent.subsections) { this.navigateBack(); return; }
