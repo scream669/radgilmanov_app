@@ -1100,22 +1100,22 @@ Via Negativa
 
     <div style="margin: 25px 0;">
     <div style="text-align: center;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg?raw=true')"
+        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
 
     <div style="text-align: center;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg?raw=true')"
+        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
 
     <div style="text-align: center;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg?raw=true')"
+        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
