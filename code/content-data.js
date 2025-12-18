@@ -1098,23 +1098,23 @@ Via Negativa
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я проснулся сегодня без мелких/горящих задач – все уже решено вчера.</strong></p>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Я заряжен и готов к новому рывку.</strong></p>
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg?raw=true')"
+    <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/vianegativa_1.jpg"
+             onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
 
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg?raw=true')"
+    <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/vianegativa_2.jpg"
+             onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
 
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg?raw=true"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg?raw=true')"
+    <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/vianegativa_3.jpg"
+             onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_4.jpg')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
