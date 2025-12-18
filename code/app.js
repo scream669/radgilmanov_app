@@ -118,22 +118,20 @@ closeImageViewer() {
 
     // Переход, который пушит текущую страницу в историю (если есть)
     navigateTo(pageFunction, ...args) {
-    console.log('NAVIGATE TO', pageFunction, args);
-
-    // 🔒 если это экран — пушим историю
+    // Обновляем currentPage *сразу*
+    const newPage = { function: pageFunction, args };
+    
+    // Сохраняем старую страницу в историю
     if (this.currentPage) {
-        this.navigationHistory.push({ ...this.currentPage });
+        const last = this.navigationHistory[this.navigationHistory.length - 1];
+        const sameAsLast = last && last.function === this.currentPage.function &&
+                           JSON.stringify(last.args) === JSON.stringify(this.currentPage.args);
+        if (!sameAsLast) this.navigationHistory.push({...this.currentPage});
     }
+    
+    this.currentPage = newPage;
 
-    // 🧠 если вызывают openArticle — считаем его ЭКРАНОМ
-    if (pageFunction === 'openArticle') {
-        this.currentPage = { function: 'openArticle', args };
-        this.openArticle(...args);
-        return;
-    }
-
-    this.currentPage = { function: pageFunction, args };
-
+    // Вызываем функцию рендера
     if (typeof this[pageFunction] === 'function') {
         this[pageFunction](...args);
     } else {
@@ -141,7 +139,6 @@ closeImageViewer() {
         this.showFullLibrary();
     }
 },
-
 
     // Переход без добавления в историю (замена текущей страницы)
     navigateReplace(pageFunction, ...args) {
@@ -162,24 +159,23 @@ closeImageViewer() {
 
     // Назад: восстанавливаем предыдущую страницу из стека
     navigateBack() {
-    console.log('NAVIGATE BACK');
-
-    const prev = this.navigationHistory.pop();
-
-    if (!prev) {
-        this.navigateReplace('showFullLibrary');
-        return;
-    }
-
-    this.currentPage = prev;
-
-    if (typeof this[prev.function] === 'function') {
-        this[prev.function](...prev.args);
-    } else {
-        this.showFullLibrary();
-    }
-},
-
+        
+        console.log('NAVIGATE BACK');
+        if (this.navigationHistory.length > 0) {
+            const prev = this.navigationHistory.pop();
+            console.log('POP ->', prev);
+            this.currentPage = prev;
+            if (typeof this[prev.function] === 'function') {
+                this[prev.function].apply(this, prev.args);
+            } else {
+                console.error('Unknown previous page function:', prev.function);
+                this.showFullLibrary();
+            }
+        } else {
+            // Если истории нет — возвращаемся в библиотеку (заменой)
+            this.navigateReplace('showFullLibrary');
+        }
+    },
 
     goHome() {
     this.navigationHistory = [];  // очищаем историю
@@ -812,18 +808,13 @@ saveGoalsAndContinue() {
 
     this.currentArticle = article;
 
-    document.getElementById("app").innerHTML = `
-        ${this.getBackButton()}
-        <div class="header text-left">
-            <h1>${article.title}</h1>
-        </div>
-        <div class="article-content">
-            ${article.content}
-        </div>
-    `;
+    const appDiv = document.getElementById("app");
+    appDiv.innerHTML = `
+    ${this.getBackButton()}
+    <h1>${article.title}</h1>
+    <div class="article-content">${article.content}</div>
+`;
 },
-
-
 
 findArticleById(id) {
     function search(obj) {
