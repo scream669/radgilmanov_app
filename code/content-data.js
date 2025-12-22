@@ -902,6 +902,11 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/321" target="_blank">Открыть в Телеграмм</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FТелефон%5Fсразу%5Fпосле%5Fпробуждения%5Fубийство%5F“Режима%5FБога”%5Fсобственными%20РАДкаст%20№0019%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Телефон сразу после пробуждения - убийство "Режима Бога" собственными руками</h1>
     
@@ -1123,6 +1128,11 @@ Via Negativa
 </div>` },
                             { id: 'vianegativa_2', title: "РАДкаст №22", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FГде%5Fнаходится%5Fсчастье%5FРАДкаст%5F№0022%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1623,6 +1633,11 @@ Via Negativa
                         articles: [
                             { id: 'digitalconsumption_1', title: "РАДкаст №12", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/redir?cid=8338045a46991313&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2867,6 +2882,11 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/99" target="_blank">Открыть в Телеграмм</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Режим дня - путь к лучшей версии себя</h1>
     
@@ -2931,6 +2951,11 @@ Via Negativa
 
 <div class="article-source" style="margin-top: 15px;">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FРежим%5Fдня%5Fот%5F1%5Fдо%5F3%5Fмлн%5Fр%5FРАДкаст%5F№0011%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3266,6 +3291,11 @@ Via Negativa
 
 <div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FМагия%20утра%2E%20%20Подкаст%20№3%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3850,6 +3880,11 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FТелефон%5Fсразу%5Fпосле%5Fпробуждения%5Fубийство%5F“Режима%5FБога”%5Fсобственными%20РАДкаст%20№0019%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Программирование главного процессора.</h1>
     
@@ -4009,6 +4044,11 @@ Via Negativa
 
 <div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FЭлемент%5Fслучайности%5FРАДкаст%5F№0010%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4556,6 +4596,11 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FЧто%5Fделать%5Fс%5Fэмоциями%5FРАДкаст%5F№0027%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Что делать с эмоциями?</h1>
     
@@ -4912,6 +4957,11 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FХодячая%5Fклассная%5Fкомната%5FРАДкаст%5F№0025%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">РАДкаст №0026<br>Ходячая классная комната</h1>
     
@@ -5025,6 +5075,11 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/116" target="_blank">Открыть в Телеграмм</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FОсновной%5Fурок%5Fбизнеса%5FРАДкаст%5F№0005%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Основной урок бизнеса</h1>
     
@@ -5047,6 +5102,11 @@ Via Negativa
 
 <div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/119" target="_blank">Открыть в Телеграмм</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FМашина%5Fпо%5Fдостижению%5Fцелей%5FРАДкаст%5F№0006%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5252,6 +5312,11 @@ Via Negativa
 
 <div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FИскусство%5Fпревращать%5Fбуквы%5Fв%5Fденьги%5FРАДкаст%5F№0032%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5672,6 +5737,11 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/120" target="_blank">Открыть в Телеграмм</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2F4%20сезона%20жизни%2E%20РАДкаст%20№0007%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">4 сезона в жизни</h1>
     
@@ -5733,6 +5803,11 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FКогда%5Fменьше%5Fэто%5Fлучше%5FРАДкаст%5F№0021%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Когда меньше - это лучше.</h1>
     
@@ -5776,6 +5851,11 @@ Via Negativa
 
 <div class="article-source">
     <strong>📚 Ссылка на библиотеку с подскастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FКто%20твой%20герой%2E%20РАДкаст%20№0018%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -5911,6 +5991,11 @@ Via Negativa
 
 <div class="article-source">
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FНайди%20дело%20жизни%2E%20РАДкаст%20№0027%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6709,6 +6794,11 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FРежим%5Fдня%5Fот%5F1%5Fдо%5F3%5Fмлн%5Fр%5FРАДкаст%5F№0011%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Что значит быть успешным?</h1>
     
@@ -6859,6 +6949,11 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FНовичек%5Fvs%5FЛюбитель%5Fvs%5FПрофи%5FРАДкаст%5F№0024%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Новичок vs Любитель vs Профи</h1>
     
@@ -6969,6 +7064,11 @@ Via Negativa
 
 <div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/367" target="_blank">Открыть в Телеграмм</a>
+</div>
+
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FСамое%5Fважно%5Fслово%5Fв%5Fрусском%5Fязыке%5FРАДкаст%5F№0024%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -8415,6 +8515,11 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/347" target="_blank">Открыть в Телеграмм</a>
 </div>
 
+<div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FГде%5Fнаходится%5Fсчастье%5FРАДкаст%5F№0022%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Где находится счастье?</h1>
     
@@ -9732,17 +9837,20 @@ Via Negativa
                         title: "РАДкаст №15",
                         articles: [
                             { id: 'radcast15_1', title: "РАДкаст № 0015 - Топ 10 книг к лучшей версии себя", content: `<div style="max-width: 100%; line-height: 1.7;">
-    <p style="margin: 0 0 25px 0; line-height: 1.7; color: #0066cc;">
-        <strong>📚 <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxPG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank" style="color: #0066cc;">Ссылка на библиотеку</a></strong>
-    </p>
+    <div class="article-source">
+<strong>📚 Ссылка на библиотеку с подкастом:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxPG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313&v=validatepermission" target="_blank">Открыть аудио-подкаст</a>
+</div>
     
-    <p style="margin: 0 0 25px 0; line-height: 1.7; color: #0066cc;">
-        <strong>📄 <a href="https://t.me/c/1635501098/208" target="_blank" style="color: #0066cc;">Ссылка на пост тг</a></strong>
-    </p>
+    <div class="article-source">
+<strong>📄 Ссылка на пост:</strong>
+<a href="https://t.me/c/1635501098/208" target="_blank">Открыть аудио-подкаст</a>
+</div>
     
-    <p style="margin: 0 0 25px 0; line-height: 1.7; color: #0066cc;">
-        <strong>🎧 <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxPG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank" style="color: #0066cc;">Ссылка на библиотеку с подкастом</a></strong>
-    </p>
+    <div class="article-source">
+<strong>🎙 Ссылка на РАДкаст:</strong>
+<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FРежим%5Fдня%5Fот%5F1%5Fдо%5F3%5Fмлн%5Fр%5FРАДкаст%5F№0011%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+</div>
     
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3; color: #0066cc;">
         Топ 10 книг к лучшей версии себя.
@@ -9939,10 +10047,1119 @@ Via Negativa
         ]
     },
     // ==================== БИБЛИОТЕКА РАД ====================
-    library: {
-        description: "Библиотека РАД",
-        subsections: []
-    }
+    // ==================== БИБЛИОТЕКА РАД ====================
+library: {
+    description: "Библиотека РАД",
+    subsections: [
+
+        // ==================================================
+        // 1. КОНСПЕКТЫ РАДКАСТОВ
+        // ==================================================
+        {
+            id: "radcasts_library",
+            title: "Конспекты РАДкастов 🎙️",
+            topics: [
+                {
+                    title: "РАДкасты",
+                    articles: [
+                        {
+                            id: "radcasts_catalog",
+                            title: "Все конспекты РАДкастов",
+                            content: `
+<h2>🎙️ Конспекты РАДкастов</h2>
+<p>Полный каталог всех конспектов РАДкастов.</p>
+
+<ul class="article-list">
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №1</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_2')">РАДкаст №2</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'morning_1')">РАДкаст №3</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №4</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'businesslesson_1')">РАДкаст №5</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'goalmachine_1')">РАДкаст №6</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'seasons_1')">РАДкаст №7</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'nonsense_1')">РАДкаст №8</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №9</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'randomness_1')">РАДкаст №10</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_3')">РАДкаст №11</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'digitalconsumption_1')">РАДкаст №12</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'success_1')">РАДкаст №13</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №14</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'radcast15_1')">РАДкаст №15</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №16</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'luck_2')">РАДкаст №17</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'expectations_1')">РАДкаст №17 — 2</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'hero_1')">РАДкаст №18</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'godmode_2')">РАДкаст №19</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №20</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lessismore_1')">РАДкаст №21</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'vianegativa_2')">РАДкаст №22</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'happylocation_2')">РАДкаст №22 — 2</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'mentalmodels_2')">РАДкаст №23</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'importantword_1')">РАДкаст №24</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'levels_1')">РАДкаст №25</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'walkingclassroom_1')">РАДкаст №26</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'emotions_1')">РАДкаст №27</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lifepurpose_1')">РАДкаст №28</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №29</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №30</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №31</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'writingmoney_1')">РАДкаст №32</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №33</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'yourway_1')">РАДкаст №34</a></li>
+</ul>
+`
+                        }
+                    ]
+                }
+            ]
+        },
+
+        // ==================================================
+        // 2. КОНСПЕКТЫ YOUTUBE ВИДЕО (31 СТАТЬЯ)
+        // ==================================================
+        {
+            id: "youtube_notes",
+            title: "Конспекты YouTube видео 📺",
+            topics: [
+                {
+                    title: "YouTube",
+                    articles: [
+
+                        // ---------- VIDEO 1 ----------
+                        {
+                            id: "yt_1",
+                            title: "Название YouTube видео",
+                            content: `
+<img src="COVER_URL" alt="Обложка видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>▶️ Смотреть видео:</strong>
+<a href="VIDEO_URL" target="_blank">Открыть</a>
+</div>
+
+<h3>Конспект</h3>
+<p>Текстовый конспект видео...</p>
+`
+                        },
+
+                        // ---------- VIDEO 2–31 ----------
+                        {
+                            id: "yt_2",
+                            title: "Название YouTube видео",
+                            content: `...`
+                        },
+                        {
+                            id: "yt_3",
+                            title: "Название YouTube видео",
+                            content: `...`
+                        },
+                        {
+                            id: "yt_4",
+                            title: "Название YouTube видео",
+                            content: `...`
+                        },
+                        {
+                            id: "yt_5",
+                            title: "Название YouTube видео",
+                            content: `...`
+                        }
+
+                        // 👉 ДОБАВЬ ДО yt_31
+                    ]
+                }
+            ]
+        },
+
+        // ==================================================
+        // 3. КОНСПЕКТЫ БОНУСНЫХ ВИДЕО (7 СТАТЕЙ)
+        // ==================================================
+        {
+            id: "bonus_video_notes",
+            title: "Конспекты бонусных видео ⭐",
+            topics: [
+                {
+                    title: "Бонусы",
+                    articles: [
+                        {
+                            id: "bonus_1",
+                            title: "Название бонусного видео",
+                            content: `
+<div class="article-source">
+<strong>▶️ Смотреть видео:</strong>
+<a href="VIDEO_URL" target="_blank">Открыть</a>
+</div>
+
+<h3>Конспект</h3>
+<p>Текстовый конспект...</p>
+`
+                        },
+                        { id: "bonus_2", title: "Название бонусного видео", content: `...` },
+                        { id: "bonus_3", title: "Название бонусного видео", content: `...` },
+                        { id: "bonus_4", title: "Название бонусного видео", content: `...` },
+                        { id: "bonus_5", title: "Название бонусного видео", content: `...` },
+                        { id: "bonus_6", title: "Название бонусного видео", content: `...` },
+                        { id: "bonus_7", title: "Название бонусного видео", content: `...` }
+                    ]
+                }
+            ]
+        },
+
+        // ==================================================
+        // 4. КНИГИ (PDF) — 35 СТАТЕЙ
+        // ==================================================
+        {
+        id: "books_pdf",
+        title: "Книги (PDF)",
+        topics: [
+            {
+                title: "Книги",
+                articles: [
+                    { id: "book_1", title: "101 вопрос перед помолвкой", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+                    ` },
+                    { id: "book_2", title: "21 урок для 21 века", content: `
+<h2>21 урок для 21 века</h2>
+<p><strong>Автор:</strong>  Юваля Ноя Харари</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/21%20урок%20для%2021%20века.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/21%20урок%20для%2021%20века.jpg?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>В книге рассматривается ряд проблем сегодняшнего дня, касающихся всех и каждого. Автор, опираясь на идеи предыдущих работ, пытается распутать клубок из политических, технологических, социальных и экзистенциальных проблем.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+` },
+
+{ id: "book_3", title: "4-часовая рабочая неделя", content: `
+<h2>4-часовая рабочая неделя</h2>
+<p><strong>Автор:</strong> Тимоти Феррис</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/4-х%20часовая%20рабочая%20неделя.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/4-х%20часовая%20рабочая%20неделя.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Руководство по созданию жизни с максимальной свободой, минимальной рутиной и эффективным управлением временем.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+` },
+
+{ id: "book_4", title: "48 законов власти", content: `
+<h2>48 законов власти</h2>
+<p><strong>Автор:</strong> Роберт Грин</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/48%20законов%20власти.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/48%20законов%20власти.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Сборник правил и стратегий о том, как люди приобретают, сохраняют и используют власть в различных сферах жизни.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+` },
+
+{ id: "book_5", title: "7 навыков высокоэффективных людей", content: `
+<h2>7 навыков высокоэффективных людей</h2>
+<p><strong>Автор:</strong> Стивен Р. Кови (1932–2012)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/7%20навыков%20высокоэффективных%20людей.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/7%20навыков%20высокоэффективных%20людей.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>В книге изложен системный подход к определению жизненных задач, который помогает читателю понять себя и чётко сформулировать приоритеты.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+` },
+
+{ id: "book_6", title: "Cashversiting", content: `
+<h2>Cashversiting</h2>
+<p><strong>Автор:</strong> Дрю Эрик Уитман</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/cashversiting.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/cashversiting.jpg?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Практическое руководство по использованию маркетинговых и рекламных стратегий для увеличения прибыли бизнеса.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+` },
+
+{ id: "book_7", title: "Оффер на 100 миллионов долларов", content: `
+<h2>Оффер на 100 миллионов долларов</h2>
+<p><strong>Автор:</strong> Алекс Хормози</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/оффер%20на%20100%20млн.png?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/оффер%20на%20100%20млн.png?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Советы по созданию эффективных коммерческих предложений, которые привлекают внимание и обеспечивают крупные сделки.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+` },
+
+
+                {
+                    id: "book_8",
+                    title: "Записки из тюрьмы Борон",
+                    content: `
+<h2>Записки из тюрьмы Борон</h2>
+<p><strong>Автор:</strong> Гэри Хэлберт</p>
+<div style="text-align: center; margin-bottom: 25px;">
+</div>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/записки%20борон.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/записки%20борон.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Личные записи и размышления заключённого, наполненные глубиной и раздумьями о свободе, смысле и жизни.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+                    `
+                },
+                {
+                    id: "book_9",
+                    title: "Алхимик",
+                    content: `
+<h2>Алхимик</h2>
+<p><strong>Автор:</strong> Пауло Коэльо</p>
+<div style="text-align: center; margin-bottom: 25px;">
+</div>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/алхимик.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/алхимик.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Философская история о пути к собственным мечтам, преодолении страхов и поиске себя.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+                    `
+                },
+                {
+                    id: "book_10",
+                    title: "Антихрупкость",
+                    content: `
+<h2>Антихрупкость</h2>
+<p><strong>Автор:</strong> Нассим Николас Талеб</p>
+<div style="text-align: center; margin-bottom: 25px;">
+</div>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/антихрупкость.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/антихрупкость.jpg?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Идеи о том, как системы и личности становятся сильнее под давлением и неопределённостью.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+                    `
+                },
+                {
+                    id: "book_11",
+                    title: "Атомные привычки",
+                    content: `
+<h2>Атомные привычки</h2>
+<p><strong>Автор:</strong> Джеймс Клир</p>
+<div style="text-align: center; margin-bottom: 25px;">
+</div>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/атомные%20привычки.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/атомные%20привычки.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Практическое руководство о том, как маленькие изменения привычек приводят к большим результатам.</p>
+</div>
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+                    `
+                },
+                {
+                    id: "book_12",
+                    title: "Будущий я",
+                    content: `
+<h2>Будущий я</h2>
+<p><strong>Автор:</strong> Бенжамин Харди</p>
+<div style="text-align: center; margin-bottom: 25px;">
+</div>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/будущий%20я.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/будущий%20я.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p>Рассуждения о будущем личности, целях и том, каким мы можем стать через самопознание и развитие.</p>
+</div>
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>
+                    `
+                },
+                        { id: "book_13", title: "В работа с голововой", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_14", title: "Война за креатив", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_15", title: "Гибкое сознание", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_16", title: "Дневник стоика", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_17", title: "Зеленый свет", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_18", title: "Модели. Привлекай женщин честностью", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_19", title: "Наедине с собой", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_20", title: "Начни с главного (одно дело)", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_21", title: "Отдых", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_22", title: "Превращаясь в профессионала", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_23", title: "Препятствие как путь (конспект)", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_24", title: "Рискуя собственной шкурой (Шкура на кону)", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_25", title: "Сила спокойствия", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_26", title: "Скажи жизни ДА!", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_27", title: "Стоицизм на каждый день", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_28", title: "Трансерфинг реальности", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_29", title: "Эссенциализм. Путь к простоте", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_30", title: "Реальность под вопросом", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_31", title: "Кризис комфорта", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_32", title: "Альманах Равала Навиканта", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_33", title: "Изнеженный американский разум", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_34", title: "Энергия", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` },
+                        { id: "book_35", title: "Как разбогатеть не полагаясь на удачу", content: `
+<h2>101 вопрос перед помолвкой</h2>
+<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+
+<div style="text-align: center; margin-bottom: 25px;">
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+         style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
+    <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
+</div>
+
+<h3>Аннотация:</h3>
+<div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
+  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
+
+  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
+
+  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
+
+  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+</div>
+
+
+
+<div class="article-source">
+<strong>📄 PDF:</strong>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+</div>` }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}
 };
 
 window.contentData = contentData;
