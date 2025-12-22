@@ -10535,7 +10535,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQA7p1xUHqdBQZah9phQoRJcAcRh2DHv9NctCaN0fv_iBDA?e=f4w8A3" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_14", title: "Война за креатив", content: `
 <h2>101 вопрос перед помолвкой</h2>
