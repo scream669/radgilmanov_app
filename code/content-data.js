@@ -10239,7 +10239,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQA7p1xUHqdBQZah9phQoRJcAcRh2DHv9NctCaN0fv_iBDA?e=5mcdSL" target="_blank">Скачать в Onedrive</a>
 </div>
                     ` },
                     { id: "book_2", title: "21 урок для 21 века", content: `
@@ -10260,7 +10260,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQCtC-jLCLkoRayOdVLi14xMAU-Vz-b19G8Wt0yfiuKsWrM?e=y8m5g2" target="_blank">Скачать в Onedrive</a>
 </div>
 ` },
 
@@ -10282,7 +10282,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQA9jQ_rb0lLT75Ryamu71XuAa1DQ_AiMdPu13pEmYYTtK4?e=xCUdel" target="_blank">Скачать в Onedrive</a>
 </div>
 ` },
 
@@ -10304,7 +10304,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBvh7CeKHiLQZpMyW_o7edCAQNPg27hLm2zN-XFdX9tn7A?e=QNhgzI" target="_blank">Скачать в Onedrive</a>
 </div>
 ` },
 
@@ -10326,7 +10326,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDRX30yDNFVRLakV6WCa_9gAb3XjkC57nymCnvgg62malk?e=9MJzpC" target="_blank">Скачать в Onedrive</a>
 </div>
 ` },
 
@@ -10370,7 +10370,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDW2Wk9PqsESJL9JJhnFbOVAdZzj49uhwmOw1gDGQsuQWM?e=FSLgwt" target="_blank">Скачать в Onedrive</a>
 </div>
 ` },
 
@@ -10398,7 +10398,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAMNJHEpPB6RbbDZ0bfag7AATU7ZI_ySqKtQrR7WX5vCVc?e=zfYWuA" target="_blank">Скачать в Onedrive</a>
 </div>
                     `
                 },
@@ -10425,7 +10425,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQCYbuo93umQR4dexOzxnDiJAcUzDvmISodY-GtRzRJ4qRs?e=gQmnuD" target="_blank">Скачать в Onedrive</a>
 </div>
                     `
                 },
@@ -10452,7 +10452,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAew4s7v-l2S5CLCNICs0W4AbSZaR95d0_FQ8Ouu6MD9r8?e=WmNSHh" target="_blank">Скачать в Onedrive</a>
 </div>
                     `
                 },
@@ -10535,7 +10535,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://1drv.ms/b/c/8338045a46991313/IQA7p1xUHqdBQZah9phQoRJcAcRh2DHv9NctCaN0fv_iBDA?e=f4w8A3" target="_blank">Скачать в Onedrive</a>
+<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_14", title: "Война за креатив", content: `
 <h2>101 вопрос перед помолвкой</h2>
