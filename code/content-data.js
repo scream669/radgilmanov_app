@@ -10348,7 +10348,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBmlDoRAzaeQ6jMqHHJ1hS2ATGy153qDKn_xVpVTOrYgfc?e=RSlcWU" target="_blank">Скачать в Onedrive</a>
 </div>
 ` },
 
@@ -10479,7 +10479,7 @@ library: {
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAKnlAJ2CVnRqoW2T3cPckjAU5RDWwh29z42dEtMQix-e0?e=HI5XMX" target="_blank">Скачать в Onedrive</a>
 </div>
                     `
                 },
@@ -10505,185 +10505,145 @@ library: {
 </div>
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQD60p0sg9xiS55FSRDpx-cfASj1YNRNWJ2P2YelJGQr--k?e=pb1Bty" target="_blank">Скачать в Onedrive</a>
 </div>
                     `
                 },
-                        { id: "book_13", title: "В работа с голововой", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+                        { id: "book_13", title: "В работу с головой", content: `
+<h2>В работу с головой</h2>
+<p ><strong>Автор:</strong> Кэл Ньюпорт</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/в%20работу%20с%20головой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/в%20работу%20с%20головой.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Освойте один из самых ценных навыков — умение сосредоточиться на сложной задаче, не отвлекаясь на мелочи. Только так можно справиться со сложной информацией и добиться лучших результатов за минимальное время.</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAWDiVlNLasQblt4NqW-nXKAUYnSFm2c7yddk9ml656a9g?e=KMOU7N" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_14", title: "Война за креатив", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Война за креатив</h2>
+<p ><strong>Автор:</strong> Стивен Прессфилд</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/война%20за%20креатив.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/война%20за%20креатив.jpg?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Книга предназначена для людей творческих профессий, но также будет полезна тем, кто хочет побороть привычку откладывать свои дела «на завтра» или «на потом».</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBAj7cg6kC_QJQ9-CM6N7KhAS4O0KL3FzQwKsCshX98JH4?e=6yDSav" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_15", title: "Гибкое сознание", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Гибкое сознание</h2>
+<p ><strong>Автор:</strong> Кэрол Дуек</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/гибкое%20сознание.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/гибкое%20сознание.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Из этой книги вы узнаете, как установка на данность обрекает людей на провал, а установка на рост — открывает путь к самореализации, выстраиванию успешной карьеры и налаживанию счастливых взаимоотношений с окружающими в любом возрасте. А ещё — как можно привить такую установку и себе, и другим</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBH8pZ7McHWSL2RlMp1ykDVAfFxjQyjlgH2p7en8xKE870?e=rsC4Rb" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_16", title: "Дневник стоика", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Дневник стоика</h2>
+<p ><strong>Авторы:</strong> Райан Холидей, Стивен Хансельман</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/дневник%20стоика.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/дневник%20стоика.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Книга предлагает 52 практики стоиков, где каждый день в течение года нужно задавать себе важные вопросы и записывать размышления.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDwDCUxEz8aTbgTauxHrykiAXwvxTO_bOxv4zQMAeLgG70?e=vxA7wP" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_17", title: "Зеленый свет", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Зеленый свет</h2>
+<p ><strong>Автор:</strong> Мэттью Макконахи</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/зеленый%20свет.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/зеленый%20свет.jpg?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Автор рассказывает о ключевых моментах, которые сформировали его как личность: от трудного детства в Техасе и годового отшельничества в Австралии до решения сменить карьеру звезды ромкомов на серьёзные драматические роли в таких проектах, как «Далласский клуб покупателей» и «Настоящий детектив».</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAxmsMGNxzmS7tPbxFjIUCKAWhHajvSFEFk85v7exL6Uxs?e=JLeJK7" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_18", title: "Модели. Привлекай женщин честностью", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Модели. Привлекай женщин честностью</h2>
+<p ><strong>Автор:</strong> Марк Мэнсон</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/модели.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/модели.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Книга о том, как стать привлекательным мужчиной, основываясь не на трюках, тактике, играх или техниках, а на саморазвитии.</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQARvC7qcLnITpud1vIAg0uhAY5mjKsDr1zDhs62SQ_DVz4?e=hl7QXo" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_19", title: "Наедине с собой", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Наедине с собой</h2>
+<p ><strong>Автор:</strong> Марк Аврелий</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/наедине%20с%20собой.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/наедине%20с%20собой.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
@@ -10692,466 +10652,356 @@ library: {
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
   <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
 
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Труд представляет собой личный дневник, где автор напоминает самому себе о необходимости сохранять спокойствие и быть милосердным, несмотря на внешние события и поступки других людей. Таким образом Аврелий не только продолжает, но и воплощает в собственной жизни убеждения философов-стоиков.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQA7NzdNIaqoRYJ7Xgo2EfCRAa6Rv1hzgoWyT91gwbZNl3w?e=y7bzmc" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_20", title: "Начни с главного (одно дело)", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Начни с главного (одно дело)</h2>
+<p ><strong>Автор:</strong> Гэри Келлер</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/начни%20с%20главного%20(одно%20дело).webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/начни%20с%20главного%20(одно%20дело).webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Автор утверждает, что успешные люди добиваются выдающихся результатов, фокусируясь на одном деле и выделяя для него время. По мнению Келлера, работа в режиме многозадачности — вредная привычка, которая мешает.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBqsgEa0poXSI8X_nbZJfeKAcvSfgJvsPS1sDwtIB72Txo?e=7wSIar" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_21", title: "Отдых", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Отдых</h2>
+<p ><strong>Автор:</strong> Алекс Сучжон-Ким Пан</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Отдых.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/Отдых.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Автор объясняет, что для повышения продуктивности необходимо меньше работать и больше отдыхать. Книга основана на научных исследованиях и содержит множество советов, как включить отдых в повседневную жизнь.</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBMkBRYJ1iFQKVM_RIqGKRrAdjajgtPjelARaXrhbhi8i0?e=cMhdgF" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_22", title: "Превращаясь в профессионала", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Превращаясь в профессионала</h2>
+<p ><strong>Автор:</strong> Стивен Прессфилд</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/превращаясь%20в%20профессионала.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/превращаясь%20в%20профессионала.jpg?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Автор считает, что недовольство жизнью связано не с тем, что человек болен или грешен, а с тем, что он живёт и действует как любитель, а не как профессионал. Превращение в профессионала — это не простой путь, и он требует изменения мышления.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDfg1E2jX2ZRbV5c8FVFxoWATibnRS17JwaUJQ-bFEqjBE?e=dMk4L8" target="_blank">Скачать в Onedrive</a>
 </div>` },
-                        { id: "book_23", title: "Препятствие как путь (конспект)", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+                        { id: "book_23", title: "Препятствие как путь", content: `
+<h2>Препятствие как путь (конспект)</h2>
+<p ><strong>Автор:</strong> Райан Холидей</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/препятствие%20как%20путь.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/препятствие%20как%20путь.jpg?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Автор исследует философию стоицизма и учит, как преодолевать трудности, превращая их в возможности для роста и успеха. Холидей использует примеры из истории, чтобы показать, как великие лидеры и мыслители справлялись с препятствиями, используя стойкость, дисциплину и рациональное мышление. 
+</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDBfyWe-rihTroTSa0hONurATKfqXHQ2TEEVq4e7-gzMsc?e=RlMcNe" target="_blank">Скачать в Onedrive</a>
 </div>` },
-                        { id: "book_24", title: "Рискуя собственной шкурой (Шкура на кону)", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+                        { id: "book_24", title: "Рискуя собственной шкурой", content: `
+<h2>Рискуя собственной шкурой (Шкура на кону)</h2>
+<p ><strong>Автор:</strong> Нассим Николас Талеб</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/рискуя%20собственной%20шкурой.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/рискуя%20собственной%20шкурой.jpg?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>В основе произведения лежит идея о том, что люди, ответственные за принятие решений, должны не только поощряться в случае успеха, но и нести потери в случае неудачи — этот принцип Талеб называет «Шкурой на кону». По его мнению, «шкура на кону» нужна, чтобы принимать правильные решения и лучше понимать жизнь.</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAGMsrA6BmQRZrIyiEk6k2zAdiOsqHJ6TxtP8C3jQ1gFQM?e=2n10z3" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_25", title: "Сила спокойствия", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Сила спокойствия</h2>
+<p ><strong>Автор:</strong> Райан Холидей</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/сила%20спокойствия.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/сила%20спокойствия.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>В книге рассказывается о том, как научиться не реагировать на внешние факторы и пользоваться своими способностями, несмотря на трудности. Автор приходит к выводу, что главный компонент успеха выдающихся лидеров, мыслителей, художников, спортсменов и бизнесменов — это спокойствие.</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBjNCMT27-fRKUiofJFcK4YAeuPeOr2a1CcZEOV0CTwLwI?e=4wTQAf" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_26", title: "Скажи жизни ДА!", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Скажи жизни ДА!</h2>
+<p ><strong>Автор:</strong> Виктор Франкл</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/скажи%20жизни%20ДА.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/скажи%20жизни%20ДА.jpg?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Автор рассказывает, как научиться жить осознанно, принимать решения, учитывая особенности настоящего. Читатели узнают, что можно придерживаться своих ценностей, даже если вокруг всё рушится.</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDGUFaMlgReR4vVF3cwKqMrAe3EOL9Mqj-q3Doa8tdy7Tw?e=pVvs09" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_27", title: "Стоицизм на каждый день", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Стоицизм на каждый день. (366 размышлений о мудрости, воле и искусстве жить.)</h2>
+<p ><strong>Авторы:</strong> Райан Холидей, Ствиен Хансельман</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/стоицизм%20на%20каждый%20день.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/стоицизм%20на%20каждый%20день.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Авторы изучили работы великих философов-стоиков и выбрали по одной мысли на каждый день года. Они проанализировали каждую из них, дополнили историями и упражнениями, чтобы помочь читателю лучше понять, о чём идёт речь, и найти ответы на волнующие вопросы.</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAm8RNfFBeFR79r3gGuO7XfATO41icL9SxdZ1l09d6mdeg?e=OVvnrJ" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_28", title: "Трансерфинг реальности", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Трансерфинг реальности</h2>
+<p ><strong>Автор:</strong> Вадим Зеланд</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/трансерфинг%20реальности.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/трансерфинг%20реальности.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Основная идея: человек может управлять своей индивидуальной реальностью, менять межличностное пространство и скользить между его вариантами. В результате жизнь меняется к лучшему, и индивид обретает счастье.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQAZwBENfZOfTZDcDmWbjQ9_AcQAqF7ibd6JrMRlZcja87Y?e=aspsPW" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_29", title: "Эссенциализм. Путь к простоте", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Эссенциализм. Путь к простоте</h2>
+<p ><strong>Автор:</strong> Грег МакКеон</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/эссенциализм.jpg?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/эссенциализм.jpg?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Книга помогает расставить приоритеты в жизни и рассказывает, как делать меньше, а добиваться большего. Автор объясняет, что эссенциализм — это не стратегия тайм-менеджмента или повышения продуктивности, а определение самых важных задач, отбрасывание всех ненужных и максимальная концентрация на вещах, которые действительно имеют значение.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBFmXf6zYV_Sa7nGs8zuDVfAdfv6DcasRH4L1AUgBJZ-BI?e=LdbQL1" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_30", title: "Реальность под вопросом", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Реальность под вопросом</h2>
+<p ><strong>Автор:</strong> Джейн Макгонигал</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/реальность%20под%20вопросом.png?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/реальность%20под%20вопросом.png?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Автор — гейм-дизайнер, рассказывает, как игры могут сделать мир в целом и каждого человека лучше. По мнению Макгонигал, игровой процесс — не просто развлечение, а способ совместной работы, направленный на решение реальных проблем — от голода и нищеты до изменения климата и мировых конфликтов.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQARRkVDIwEtRrmte6tA_tmlAYCDzICmwzH7jPxm-iv5Dos?e=LzTZHe" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_31", title: "Кризис комфорта", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Кризис комфорта</h2>
+<p ><strong>Автор:</strong> Майкл Истер</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/кризис%20комфорта.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/кризис%20комфорта.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Истер отправляется в путешествие, чтобы исследовать дикую природу внутри себя. В книге излагается план использования силы дискомфорта, который, по мнению автора, значительно улучшит здоровье и счастье и, возможно, даже поможет понять, что значит быть человеком.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQBHbXMlWSMATq6p9Ibd2Tg7AS_TFtmHySrBTmgP8JOAxu4?e=FkXZi9" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_32", title: "Альманах Равала Навиканта", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Альманах Равала Навиканта</h2>
+<p ><strong>Автор:</strong> Навал Равикант</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/альманах%20навала%20равиканта.png?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/альманах%20навала%20равиканта.png?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Советы о том, как построить богатство и правильно его использовать. При этом акцент сделан на конечных целях: хорошей жизни, свободе и помощи окружающим.</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDjuNav7qvAR5vRyPTGvcj3AeoHG4t6XCr-PqMo88kQcmo?e=GHXshd" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_33", title: "Изнеженный американский разум", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Изнеженный американский разум</h2>
+<p ><strong>Авторы:</strong> Грег Лукьянофф, Джонатан Хайдт</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Изнеженный%20американский%20разум.png?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/Изнеженный%20американский%20разум.png?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>«Изнеженность американского разума: как благие намерения и плохие идеи обрекают поколение на неудачу».</p>
 </div>
-
-
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQDIMBoSPm1cT5CwSIq4MbobAS1UJEC0XnUq1UxDwIlBixU?e=IcYvQG" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_34", title: "Энергия", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>Энергия</h2>
+<p ><strong>Автор:</strong> Саймон Александр Онг</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/энергия.webp?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/энергия.webp?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Книга о важности управления личной энергией для трансформации жизни. Автор рассматривает, как энергия влияет на продуктивность, отношения и общее благополучие. 
+Книга разделена на четыре части: «Пробуждение силы», «Перестройка энергетического состояния», «Защита личной энергии» и «Усиление влияния».</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQCFHER6B58lRoSB7l6gXRhmAazISVANSvBKbHm5nz9JoWc?e=6gPMxw" target="_blank">Скачать в Onedrive</a>
 </div>` },
                         { id: "book_35", title: "Как разбогатеть не полагаясь на удачу", content: `
-<h2>101 вопрос перед помолвкой</h2>
-<p ><strong>Автор:</strong> Х. Норман Райт (1937–2023)</p>
+<h2>"Как разбогатеть не полагаясь на удачу?"</h2>
+<p ><strong>Автор:</strong> Навал Равикант</p>
 
 <div style="text-align: center; margin-bottom: 25px;">
-    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true"
-         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/101%20вопрос%20перед%20помолвкой.webp?raw=true')"
+    <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/как%20стать%20богатым.png?raw=true"
+         onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/как%20стать%20богатым.png?raw=true')"
          style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
     <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
 </div>
 
 <h3>Аннотация:</h3>
 <div style="margin-bottom: 20px; line-height: 1.6; font-family: Arial, sans-serif; font-style: italic;">
-  <p><strong>В книге затрагивается широкий спектр тем</strong>: от личных ценностей и жизненных целей до взглядов на финансы, воспитание детей и разрешение конфликтов.</p>
-
-  <p><strong>Автор предлагает потенциальным женихам и невестам серии вопросов для самоанализа</strong>, чтобы понять, действительно ли они встретили «того самого».</p>
-
-  <p>Автор также обсуждает деликатную тему отмены свадьбы, если читатели поймут, что потенциальный партнёр не является подходящим спутником жизни.</p>
-
-  <p><strong>После ответов на эти вопросы пары могут стать более уверенными в том, стоит ли вступать в брак</strong>.</p>
+  <p>Богатство — это не только удача; счастье — это не просто врождённая черта. Эти стремления могут казаться недостижимыми, но накопление богатства и достижение счастья — это навыки, которым можно научиться. Так что же это за навыки и как их освоить? Какими принципами следует руководствоваться в своих усилиях? Как на самом деле выглядит прогресс?</p>
 </div>
 
 
 
 <div class="article-source">
 <strong>📄 PDF:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Скачать в Onedrive</a>
+<a href="https://1drv.ms/b/c/8338045a46991313/IQArIyibxSEjT573gZPdYAqbAeza9_ZUv7q_hXOblc59HXw?e=Z8OvuS" target="_blank">Скачать в Onedrive</a>
 </div>` }
                     ]
                 }
