@@ -899,9 +899,8 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/redir?cid=8338045a46991313&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
 </div>
 <div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/321" target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/328" target="_blank">Открыть в Телеграмм</a>
 </div>
-
 <div class="article-source">
 <strong>🎙 Ссылка на РАДкаст:</strong>
 <a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FТелефон%5Fсразу%5Fпосле%5Fпробуждения%5Fубийство%5F“Режима%5FБога”%5Fсобственными%20РАДкаст%20№0019%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
@@ -949,7 +948,9 @@ Via Negativa
 </div>` },
                             { id: 'godmode_3', title: "Убийство режима бога", content: `
 <div style="margin: 25px 0;">
-
+                                <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/349" target="_blank">Открыть в Телеграмм</a>
+</div>
     <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg"
              onclick="app.openImage('https://raw.githubusercontent.com/scream669/radgilmanov_app/main/pictures/killing_gm_1.jpg')"
@@ -989,8 +990,11 @@ Via Negativa
                             { id: 'vianegativa_1', title: "Via Negativa", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/321" target="_blank">Открыть в Телеграмм</a>
 </div>
-
+<div class="article-source">
+    <strong>📄 Ссылка на пост 2:</strong> <a href="https://t.me/c/1635501098/241" target="_blank">Открыть в Телеграмм</a>
+</div>
 <div style="max-width: 100%; line-height: 1.7;">
+
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Via Negativa</h1>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Управление людьми – это один из сложнейших скиллов.</strong></p>
@@ -1128,6 +1132,11 @@ Via Negativa
 </div>` },
                             { id: 'vianegativa_2', title: "РАДкаст №22", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
+</div>
+
+<div style="margin: 25px 0;">
+                                <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/199" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div class="article-source">
@@ -1339,10 +1348,11 @@ Via Negativa
                     {
                         title: "Ментальные модели",
                         articles: [
-                            { id: 'mentalmodels_1', title: "Разрушающая человека ментальная модель №1", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
-</div>
+                            { id: 'mentalmodels_1', title: "Разрушающая человека ментальная модель №1", content: `
 
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/230" target="_blank">Открыть в Телеграмм</a>
+</div>
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Разрушающая человека ментальная модель №1</h1>
     
@@ -1473,7 +1483,11 @@ Via Negativa
     </div>
 </div>` },
                             { id: 'mentalmodels_2', title: "РАДкаст №23", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
+                                
+    <div class="article-source">
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/364" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1518,6 +1532,12 @@ Via Negativa
                         articles: [
                             { id: 'twotypes_1', title: "Современный стоический мудрец", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/redir?cid=8338045a46991313&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
+</div>
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/131" target="_blank">Открыть в Телеграмм</a>
+</div>
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/418" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1634,7 +1654,9 @@ Via Negativa
                             { id: 'digitalconsumption_1', title: "РАДкаст №12", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/redir?cid=8338045a46991313&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
 </div>
-
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/184" target="_blank">Открыть в Телеграмм</a>
+</div>
 <div class="article-source">
 <strong>🎙 Ссылка на РАДкаст:</strong>
 <a href="" target="_blank">Открыть аудио-подкаст</a>
@@ -1911,7 +1933,11 @@ Via Negativa
                     {
                         title: "Открытые петли", 
                         articles: [
-                            { id: 'openloops_1', title: "Открытые петли", content: `<div style="margin: 20px 0; text-align: center;">
+                            { id: 'openloops_1', title: "Открытые петли", content: `
+                                <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/136" target="_blank">Открыть в Телеграмм</a>
+</div>
+                                <div style="margin: 20px 0; text-align: center;">
     <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/open_loops.jpg?raw=true"
              onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/open_loops.jpg?raw=true')"
@@ -2507,6 +2533,9 @@ Via Negativa
                         articles: [
                             { id: 'discipline_1', title: "Как включить тумблер дисциплины", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/203" target="_blank">Открыть в Телеграмм</a>
+</div>
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/246" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3194,7 +3223,7 @@ Via Negativa
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Самый главный тест на интеллект — сможете ли вы получить от жизни то, что действительно хотите.</p>
 </div>` },
                             { id: 'routine_5', title: "Утренняя рутина современного Хомо Сапиенса", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/421" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3364,7 +3393,7 @@ Via Negativa
     <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">(→ См. статью: "Магия утра")</h3>
 </div>` },
                             { id: 'morning_2', title: "Магия утра", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/240" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3545,7 +3574,7 @@ Via Negativa
                         title: "С чего начать если вообще не знаешь что делать?",
                         articles: [
                             { id: 'start_1', title: "С чего начать если вообще не знаешь что делать?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/440" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3644,6 +3673,13 @@ Via Negativa
                         title: "Алгоритм обучения",
                         articles: [
                             { id: 'learning_2', title: "Алгоритм обучения", content: `
+
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/348" target="_blank">Открыть в Телеграмм</a>
+</div>
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/213" target="_blank">Открыть в Телеграмм</a>
+</div>
                                 <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_1.jpg?raw=true"
              onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/algorithm_1.jpg?raw=true')"
@@ -3781,6 +3817,9 @@ Via Negativa
                         articles: [
                             { id: 'processor_1', title: "Запрограммируй главный процессор", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/197" target="_blank">Открыть в Телеграмм</a>
+</div>
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/232" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4010,6 +4049,9 @@ Via Negativa
     </ul>
 </div>` },
                             { id: 'luck_3', title: "Как стать везунчиком", content: `
+                                <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/316" target="_blank">Открыть в Телеграмм</a>
+</div>
                                 <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_1.jpg?raw=true"
              onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/lucky_1.jpg?raw=true')"
@@ -4501,6 +4543,10 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/134" target="_blank">Открыть в Телеграмм</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Занятие ерундой</h1>
     
@@ -4515,7 +4561,12 @@ Via Negativa
                     {
                         title: "Полнейшая скука", 
                         articles: [
-                            { id: 'boredom_1', title: "Полнейшая скука", content: `<div style="max-width: 100%; line-height: 1.7;">
+                            { id: 'boredom_1', title: "Полнейшая скука", content: `
+                                
+                                <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/170" target="_blank">Открыть в Телеграмм</a>
+</div>
+                                <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Полнейшая скука как путь самопознания</h1>
     
     <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
@@ -4876,7 +4927,12 @@ Via Negativa
                     {
                         title: "Фокус",
                         articles: [
-                            { id: 'focus_1', title: "Фокус", content: `<div style="max-width: 100%; line-height: 1.7;">
+                            { id: 'focus_1', title: "Фокус", content: `
+                                
+                                <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/424" target="_blank">Открыть в Телеграмм</a>
+</div>
+                                <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">От дисциплины к системе: как стать лучшей версией себя без насилия</h1>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Больше не резонирует.</p>
@@ -5762,6 +5818,13 @@ Via Negativa
     
 </div>` },
                     { id: 'seasons_2', title: "4 времени года в жизни и бизнесе", content: `
+
+                        <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/206" target="_blank">Открыть в Телеграмм</a>
+</div>
+<div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/344" target="_blank">Открыть в Телеграмм</a>
+</div>
                         <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_1.jpg?raw=true"
              onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/four_time_1.jpg?raw=true')"
@@ -8033,7 +8096,7 @@ Via Negativa
                         title: "Где найти время на чтение в современном мире?",
                         articles: [
                             { id: 'rememberreading_123423', title: "Где найти время на чтение в современном мире?", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/..." target="_blank">Открыть в Телеграмм</a>
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/406" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -8628,7 +8691,49 @@ Via Negativa
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Коротко о главном:</h1>
-</div>` }
+</div>
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<p style="font-style: italic; margin-bottom: 20px;">
+<strong>Когда моя жизнь шла внатяг, я измерял свои попытки единицами.</strong>
+</p>
+<p style="margin-bottom: 15px;">
+Пример: начну что-то делать — раз не получилось, два не получилось, три не получилось... и всё. Весь мир против меня. Я такой несчастный.
+</p>
+<p style="margin-bottom: 15px;">
+До того, как я пришел на YouTube, я пошел на студию и записал пять рилсов. На одном рилсе — 100 просмотров, на другом — 150, на другом — 75. И я думаю: «Какой я несчастный. Бедолага. Всё».
+</p>
+</div>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<p style="font-style: italic; margin-bottom: 20px;">
+<strong>Потом внутренний механизм сошелся. Я начал измерять свой успех десятками, а затем сотнями.</strong>
+</p>
+<p style="margin-bottom: 15px;">
+Сажусь писать сценарий — включаю секундомер. И потом я смотрю: «Вау, я работал над этим сценарием 100 часов».
+</p>
+<p style="margin-bottom: 15px;">
+100 часов — это просто метрика. Могут быть и 100 попыток.
+</p>
+</div>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<p style="font-style: italic; margin-bottom: 20px;">
+<strong>Сейчас ко мне пришла новая степень работы — быть открытым до завершения задачи.</strong>
+</p>
+<p style="margin-bottom: 15px;">
+Сколько надо усилий, попыток, времени потратить для достижения результата — столько мы и потратим.
+</p>
+<p style="margin-bottom: 15px;">
+Неважно: 100 часов, 200, 300 или 1000. Мы работаем до выполнения цели.
+</p>
+</div>
+
+<div style="margin-top: 30px; padding: 20px; border-radius: 10px; text-align: center;">
+<p style="font-size:1.1em; font-weight: bold; margin-bottom: 0;">
+И всегда имей следующий проект.
+</p>
+</div>
+` }
                         ]
                     },
                     {
@@ -8640,6 +8745,87 @@ Via Negativa
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Коротко о главном:</h1>
+</div>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<p style="font-size:1.2em; margin-bottom: 20px; font-weight: bold; text-align: center;">
+Для парней и мужчин в жизни важно двигаться с лёгкой долей беспечности.
+</p>
+<p style="margin-bottom: 15px;">
+<strong>Нас никто не учил ставить себя на первое место.</strong> Нужно двигаться с азартом по жизни.
+</p>
+<p style="margin-bottom: 15px;">
+Раньше таких мыслей не было. Думал, что скажут другие. Используй всё, что есть. <strong>Если надо кому-то что-то доказать — доказывай. Это хорошая мотивация, плохой мотивации не существует.</strong>
+</p>
+<p style="margin-bottom: 15px;">
+Не нужно постоянно извиняться перед всеми. <strong>Флиртуй с жизнью.</strong> Если есть энтузиазм и энергия, ты можешь свернуть горы.
+</p>
+<p style="font-size:1.1em; font-weight: bold; text-align: center;">
+Будь посвободнее.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<p style="font-style: italic; margin-bottom: 20px; text-align: center;">
+<strong>1 августа 2023 года я запостил свое первое видео на YouTube…</strong><br>
+44 миллиона просмотров, 291 видео, 3,4 миллиона рублей личных денег вложений спустя — у меня есть определенное соприкосновение с реальностью. И вот три основных вывода:
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 0;">
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">1. Система — это всё.</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Креативный разум обязан быть дисциплинированным. Если ты сознательно не выделяешь время для создания контента, ты никогда не начнешь системно создавать контент.
+</p>
+<p style="margin-bottom: 15px;">
+С 14 лет, с момента, когда у меня появился Sony Ericsson K700i, я хотел делать контент. <strong>Но на самом деле ДЕЛАТЬ я начал 18 лет спустя.</strong>
+</p>
+<p style="font-weight: bold; font-style: italic;">
+291 видео за год — это не вдохновение. Это результат системы.
+</p>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">2. Делай контент, который хочешь смотреть сам.</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Я сделал 264 коротких видео. Мой рекорд за месяц был 25 миллионов просмотров за счет короткого контента.
+</p>
+<p style="margin-bottom: 15px;">
+Если бы я продолжил делать короткие видео, на моем канале было бы в десять раз больше подписчиков. <strong>НО я сам не смотрю короткий контент — в нем нет глубины.</strong>
+</p>
+<p style="margin-bottom: 15px;">
+Моя цель — каждый день быть немного лучше, чем вчера. Я потребляю образовательный, длинный контент.
+</p>
+<p style="margin-bottom: 15px;">
+Поэтому свой контент я делаю без сложного монтажа, в большинстве случаев без музыки и только в длинной, развернутой форме.
+</p>
+<p style="font-weight: bold; font-style: italic;">
+Главное — дать зрителю столько пользы в единицу времени, чтобы было просто и понятно.
+</p>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">3. Не существует слов «алгоритм», «видео залетело». Есть только навыки.</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Чем больше я обучаюсь, тем выше качество моего контента.
+</p>
+<p style="margin-bottom: 15px;">
+За прошедший год я покупал курсы и консультации не только по самой платформе YouTube, но и у тренеров по голосу для развития речи.
+</p>
+<p style="font-weight: bold; font-style: italic;">
+Всё сводится к твоим навыкам. Везения не существует.
+</p>
+</li>
+
+</ol>
+
+<p style="margin-top: 30px; font-style: italic; text-align: center; border-top: 1px solid; padding-top: 20px;">
+P.S. Я только начал разминаться.
+</p>
+</div>
+
 </div>` }
                         ]
                     },
@@ -10128,41 +10314,4917 @@ library: {
                         // ---------- VIDEO 1 ----------
                         {
                             id: "yt_1",
-                            title: "Название YouTube видео",
+                            title: "7 СЕКРЕТОВ УСПЕШНОЙ ЖИЗНИ",
                             content: `
-<img src="COVER_URL" alt="Обложка видео" style="max-width:100%; border-radius:12px;">
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/7%20секретов%20миллиардера.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
 
 <div class="article-source">
-<strong>▶️ Смотреть видео:</strong>
-<a href="VIDEO_URL" target="_blank">Открыть</a>
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/Y3YEh1nqdWY?si=cbXOM5cEPzD9IIJy" target="_blank">Открыть в Youtube</a>
 </div>
 
-<h3>Конспект</h3>
-<p>Текстовый конспект видео...</p>
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    <strong style="font-size:1.3em;">Адаптированные принципы Чарли Мангера</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Заслужи то, что ты хочешь</strong><br>
+      Когда я делал свое агентство, я выписал все, что нужно клиенту для замечательного результата.
+      Я поставил себя на место клиента и думал: что бы я хотел, будь клиентом?
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Будь студентом</strong><br>
+      Ты должен постоянно обучаться. Жизнь - это игра в навыки.
+      Чем больше навыков, тем ты успешнее.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Научись размышлять над проблемами в обратном порядке</strong><br>
+      Например, ты хочешь больше зарабатывать. Спроси себя не "Как заработать?",
+      а "Почему я не зарабатываю столько, сколько хочу?"
+      Ты поймешь, что не хватает клиентов.
+      Поэтому: научись привлекать людей на свою услугу, научись продавать.
+      Обратное мышление - основной урок бизнеса.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Избавься от самосожаления</strong><br>
+      Не будь тряпкой. Мой совет: когда я прохожу через какие-либо трудности в жизни,
+      после них я говорю "Какая же классная будет история" и делаю фото.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Ты добьешься успеха там, где лежит твой интерес</strong><br>
+      Чтобы найти интерес, в первой колонке напиши, что тебе интересно,
+      а во второй - что сейчас в тренде.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Принцип железной задницы</strong><br>
+      Сядь и доведи дело до конца.
+      Именно такой тип человека создает будущее, остальные лишь следуют за ним.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Жить по средствам</strong><br>
+      Соблюдай простое правило: если всегда будешь тратить меньше,
+      чем зарабатываешь - ты никогда не будешь нуждаться в деньгах.
+    </li>
+
+  </ul>
+
+</div>
+
 `
                         },
 
                         // ---------- VIDEO 2–31 ----------
                         {
-                            id: "yt_2",
-                            title: "Название YouTube видео",
-                            content: `...`
-                        },
+  id: "yt_2",
+  title: "КЕМ ЖЕ ТЫ БУДЕШЬ? (НАУЧНЫЙ ЭФФЕКТ ПОБЕДИТЕЛЯ)",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Эффект%20победителя.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/Xja1RsBbHc4?si=CPusI2Q8SrsbWKNs" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    <strong style="font-size:1.3em;">Чем больше ты выигрываешь, тем больше у тебя шансов продолжать выигрывать</strong><br>
+    Сегодня будем перепрошивать твой мозг на победы.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Правильная постановка цели</strong><br>
+      Цель должна быть: специфичной, измеримой, достижимой, релевантной и ограниченной по времени.
+      Например, увеличить месячный доход до 300 тыс. рублей за 12 месяцев через оказание маркетинговых услуг.
+      Здесь не указано главное — действие.<br><br>
+      Поэтому мы должны сместить фокус с результата на действие.
+      Хочу 300к дохода в месяц, мой заказ стоит 30к, мне нужно 10 клиентов.
+      Чтобы найти этих 10 клиентов, я буду каждый день на протяжении месяца рассылать по 10 предложений
+      абсолютно незнакомым людям. И вот мы получили действие.<br><br>
+      Поэтому наша цель — отправлять на протяжении месяца каждый день по 10 офферов.
+      После моего краха на фрилансе я вышел на иностранный рынок и каждый день отправлял
+      по 5 видео с разбором маркетинговой стратегии компаниям на протяжении 30 дней.<br><br>
+      Когда цель — только результат, при неудаче мы опускаем руки и забиваем на дело.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Фокус на победах</strong><br>
+      Победы — субъективная характеристика.
+      Для кого-то 5 миллионов в месяц — победа, для кого-то — провал.
+      Чтобы перепрошить себя на победы, записывайте каждую свою победу.<br><br>
+      У меня за день выходит по 5 таких побед,
+      и мозг начинает играть в игру нахождения побед во всем.
+      Совет: заведите личный Telegram-канал и записывайте туда каждый день свои победы,
+      даже самые небольшие.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Правило ранних побед</strong><br>
+      Мы должны включить режим ранних побед,
+      что увеличивает количество дофамина и приучает мозг проявлять настойчивость
+      и доводить дело до конца.<br><br>
+      Совет: начните день с победы.
+      Ранний подъем, тренировка, медитация и т.д.
+      Для меня это ранний подъем, написание сценариев, чтение книг.
+      После таких действий я уже не могу провести день плохо.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Вера в свое слово</strong><br>
+      Доверяй себе и выполняй то, что пообещал.
+      Эффективный способ вернуть веру в себя —
+      начать заниматься спортом.
+      Повысите тестостерон, а дальше — большие победы.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Снизь ожидания</strong><br>
+      Счастье = реальность − твои ожидания.
+      Не жалуйся на свою жизнь и не завышай ожидания.<br><br>
+      В трудные моменты говори себе:
+      «Какая же классная получится история» и снимай себя на видео.
+      После победы ты взглянешь на себя прошлого и получишь удовольствие.<br><br>
+      Единственные ожидания, которые должны оставаться высокими —
+      ожидания к самому себе.
+      Минимум ожиданий к жизни, максимум ожиданий к себе.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Визуализация</strong><br>
+      Однажды я написал себе записку:
+      «Сегодня я заработал один миллион рублей в месяц».
+      Так и случилось.<br><br>
+      Сила визуализации работает, ведь оптимисты выигрывают эту жизнь.
+      Но нужно делать действие!
+    </li>
+
+  </ul>
+
+</div>
+`
+},
                         {
-                            id: "yt_3",
-                            title: "Название YouTube видео",
-                            content: `...`
-                        },
+  id: "yt_3",
+  title: "КАК ВКЛЮЧИТЬ РЕЖИМ БОГА В РЕАЛЬНОЙ ЖИЗНИ?",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Как%20включить%20Режим%20Бога%20в%20реальной%20жизни.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/VmWTgzwEBbk?si=M0F4drn6zkQGHV_Y" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    <strong style="font-size:1.3em;">Что такое «Режим Бога»</strong>
+  </p>
+
+  <p>
+    Ты чувствуешь, что способен на большее, чем сейчас? Тебе нужен режим Бога,
+    который мы будем активировать прямо сейчас.<br><br>
+    Режим Бога — это состояние потока: полное погружение в работу, гиперфокус,
+    когда задачи щёлкаются как орешки.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Главный блокатор Режима Бога</strong>
+  </p>
+
+  <p>
+    Телефон сразу после пробуждения.<br>
+    Мозг получает дешевый дофамин — вознаграждение без усилий.
+    В результате появляются прокрастинация, расфокус и унылое состояние на весь день.
+  </p>
+
+  <p>
+    <strong style="font-size:1.25em;">Для обретения фокуса:</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li style="margin-bottom: 10px;">Убери все уведомления с телефона.</li>
+    <li style="margin-bottom: 10px;">
+      Ограничь время в соцсетях или удали их вовсе.
+      Автор заходит туда только с ПК, сознательно создавая себе неудобство.
+    </li>
+    <li style="margin-bottom: 10px;">Никакого телефона после пробуждения.</li>
+  </ul>
+
+  <p>
+    Этот детокс меняет тебя. После «сброса к заводским настройкам»
+    нельзя возвращаться к прежним пагубным привычкам.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Режим работы</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li style="margin-bottom: 12px;">
+      После пробуждения и минимальной утренней рутины нужно сразу садиться
+      за углубленную работу. Не растягивай рутину на часы —
+      иначе начнешь день уставшим.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      Мозг будет хотеть залипнуть в телефоне — это нормально на старте.
+      Вот способы справиться с этим:
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Техника помодоро</strong><br>
+      25 минут работы и 5–10 минут отдыха.
+      Автор предпочитает 40–60 минут. Главное — делать перерывы.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Правильные перерывы</strong><br>
+      Телефон не восстанавливает.
+      Лучше прогулки, медитация, полное отключение от работы.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Смена картинки</strong><br>
+      Изменение окружения за окном повышает продуктивность.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Работа со звуком</strong><br>
+      В идеале — тишина.
+      При усталости или шуме помогает фоновая музыка для концентрации.
+    </li>
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Режим отдыха</strong>
+  </p>
+
+  <p>
+    Отдых нужно разделять на две части:
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li style="margin-bottom: 10px;">
+      <strong style="font-size:1.15em;">Расслабление</strong><br>
+      Соцсети и дешевый дофамин.
+    </li>
+
+    <li style="margin-bottom: 10px;">
+      <strong style="font-size:1.15em;">Восстановление</strong><br>
+      Медитация, физическая нагрузка, баня, ледяные ванны,
+      дыхательные практики и, самое главное, качественный сон.
+    </li>
+  </ul>
+
+  <p>
+    Автор не отдыхает по выходным, но для Режима Бога ему нужно
+    качественное восстановление. Оно начинается в пятницу утром.<br><br>
+    Каждую пятницу — отказ от кофе, повышение чувствительности к нему,
+    ранний сон: лечь в 21:00, убрать телефон в 18:00, проснуться в 5 утра.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Итог</strong>
+  </p>
+
+  <p>
+    Это основные методы разблокировки Режима Бога.<br>
+    Вопрос лишь в одном — хватит ли тебе смелости включить его?
+  </p>
+
+</div>
+`
+},
                         {
-                            id: "yt_4",
-                            title: "Название YouTube видео",
-                            content: `...`
-                        },
+  id: "yt_4",
+  title: "КАК ЧИТАТЬ МНОГО? (НЕ НАПРЯГАЯСЬ)",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/как%20читать%20много%20не%20напрягаясь.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/-YLborKlpbE?si=6enBNHA6w4WWZESP" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    Не все читатели книг — успешные люди,  
+    <strong>но все успешные люди — читающие.</strong>
+  </p>
+
+  <p>
+    За последние 5 лет автор прочитал 250 книг и вывел
+    <strong>3 простых правила</strong>, которые позволяют читать много и без напряга.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Читай то, что интересно именно тебе</strong><br>
+      Неинтересные книги делают чтение муторным и тяжелым.
+      Мозг отказывается погружаться в процесс.<br><br>
+      Автор начал с книги про баскетбол, который сильно любит,
+      и постепенно расширял круг чтения.<br><br>
+      Важно проявлять критическое мышление и читать то,
+      что интересно тебе, а не то, что «нужно» обществу.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Время для чтения у тебя есть</strong><br>
+      Ты просто тратишь свободное время на телефон.<br>
+      Посмотри свое экранное время и убедись в этом.<br><br>
+      Проблема не во времени, а в приоритетах.
+      Делай самые важные дела в первую очередь.<br><br>
+      Автор читал сразу после пробуждения и выделял
+      <strong>железное время</strong> для чтения.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Не дочитывай неинтересные книги</strong><br>
+      Принцип 10 процентов:
+      если первые 10% книги тебя не цепляют —
+      смело заканчивай её.<br><br>
+      Либо книга скучная, либо ты до неё пока не дорос.
+    </li>
+
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Топ-3 книги автора прямо сейчас</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li style="margin-bottom: 10px;">
+      <strong>В работу с головой</strong> — учит гиперфокусу и углубленной работе.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>Оффер на 100 миллионов долларов</strong> — о создании предложений,
+      от которых невозможно отказаться.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>Антихрупкость</strong> — учит жить в условиях неопределенности.
+    </li>
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Итог</strong>
+  </p>
+
+  <p>
+    Чтение тренирует главное —
+    <strong>фокус и умение концентрироваться</strong>.<br>
+    Ты получаешь ровно то, на чем держишь свой фокус.
+  </p>
+
+</div>
+`
+},
                         {
-                            id: "yt_5",
-                            title: "Название YouTube видео",
-                            content: `...`
-                        }
+  id: "yt_5",
+  title: "22 ОСОЗНАНИЯ ЗА 33 ГОДА (ОТ МИЛЛИОНЕРА)",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/22%20осознания%20за%2033%20года%20(от%20миллионера).jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/faN0_3F2U0I?si=tDLHKPhVZvoHZDiX" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Необычная жизнь требует необычных взглядов</strong><br>
+      Стандартный путь школа – университет – работа – семья – ипотека
+      приводит к стандартным и скучным результатам.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Три главных вопроса жизни</strong><br>
+      Что ты хочешь делать? С кем ты хочешь жить?
+      Где ты хочешь жить?<br>
+      Думай не о материальных благах, а об этих вопросах.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Бизнес — лучшее образование</strong><br>
+      Он тяжелый и стрессовый, но именно бизнес закаляет человека.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Эмоции — это шум</strong><br>
+      99% эмоций — шум и лишь 1% — сигнал.
+      Быть эмоциональным — значит быть перышком на ветру.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Деньги делают счастливее</strong><br>
+      Не смей себя одурачить — деньги точно повышают уровень счастья.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Дорога к целям одинока</strong><br>
+      99% людей не хотят развиваться
+      и будут тянуть тебя вниз.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Боль — лучший учитель</strong><br>
+      У тебя есть два пути: ныть или учиться.
+      Чтобы убрать боль — нужны действия.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Преследуй свои интересы</strong><br>
+      Они позволяют одновременно работать и получать удовольствие.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Цели одинаковые, действия разные</strong><br>
+      Чемпионы и неудачники имеют одни и те же цели.
+      Решают системы действий.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Сложный процент работает всегда</strong><br>
+      Накопительный эффект усиливает как хорошие,
+      так и плохие действия.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Усердная работа — и есть цель</strong><br>
+      Она дает внутреннее удовлетворение,
+      к результатам мы быстро привыкаем.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Смотри на общую картину</strong><br>
+      Не закапывайся в деталях и ненужном стрессе.
+      Живи для себя.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Тренируйся каждый день</strong><br>
+      Ради формы, статуса и программирования мозга
+      на сложные задачи.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Качественный сон — база</strong><br>
+      Без кофе за 12 часов до сна, полная темнота,
+      прохлада, беруши и никаких гаджетов.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Голод стимулирует развитие</strong><br>
+      Практикуй интервальное голодание.
+      Начни с формата 16/8.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Медитация возвращает в момент</strong><br>
+      После первого блока работы — 15 минут концентрации
+      на дыхании.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Ты получаешь то, что заслужил</strong><br>
+      Ты — творец себя.
+      Твой партнер — отражение тебя самого.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Делай контент</strong><br>
+      Привлечение внимания — самый ценный навык в мире.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Следи за потребляемой информацией</strong><br>
+      Залипание в соцсетях ведет к плохим результатам.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Учись говорить «нет»</strong><br>
+      Говори «да» только действительно важному.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Не жди идеального момента</strong><br>
+      Начинай сейчас, даже если не готов.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Давай советы самому себе</strong><br>
+      Ты знаешь себя лучше всех.
+    </li>
+
+  </ul>
+
+</div>
+`
+},
+{
+  id: "yt_6",
+  title: "ПОЗДРАВЛЯЮ! ТЕБЕ ПРОМЫЛИ МОЗГИ...",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/поздравляю!%20тебе%20промыли%20мозги.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/e0gl9jDFVm4?si=SJFW1W1l5v5APMaw" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    Стандартные решения приводят к стандартным результатам
+    и стандартной жизни. Ниже — три главные лжи,
+    которыми нас кормит общество.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Ложь №1 — система образования дает нужные навыки</strong><br>
+      Образование не учит тому,
+      что реально применяется в бизнесе.<br>
+      Единственный способ научиться —
+      взять и сделать.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Ложь №2 — завтрак самый важный прием пищи</strong><br>
+      Почему после сна и завтрака
+      мы чувствуем себя вялыми и уставшими?<br>
+      Наши предки сначала работали и добывали еду,
+      и только потом ели.<br>
+      Завтрак — навязанный обществом стереотип.<br><br>
+      Именно поэтому стоит попробовать интервальное голодание.
+      Сначала мозг будет сопротивляться,
+      но затем вы будто разблокируете чит-код организма —
+      концентрация выходит на максимум.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Ложь №3 — культ материальных ценностей</strong><br>
+      Люди ходят на работу за фантики,
+      а потом отдают их другим людям —
+      похоже на обман.<br><br>
+      Выход — минимализм.
+      Перед покупкой спроси себя:
+      действительно ли эта вещь тебе нужна?<br><br>
+      Ценность материального мира раздута —
+      мы быстро привыкаем к хорошему,
+      перестаем быть благодарными и обесцениваем то,
+      что имеем.<br><br>
+      В такие моменты я включаю режим стоика
+      и переезжаю из роскошной виллы
+      в гестхаус за гроши.
+      Именно гестхаус перепрошивает тебя
+      и возвращает ценность простым вещам.
+    </li>
+
+  </ul>
+
+</div>
+`
+},
+{
+  id: "yt_7",
+  title: "РЕЖИМ ДНЯ С 0 ДО 1 МЛН РУБЛЕЙ В МЕСЯЦ",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/режим%20дня%20с%200%20до%201%20млн.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/oS_i0mANckc?si=L9I7GhJtQgL7Oxi3" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    Однажды я потерял все и упал до полного нуля.
+    Спустя 19 месяцев, придерживаясь этого режима,
+    я заработал один миллион рублей в месяц.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Ранний подъем</strong><br>
+      Просто проснуться.
+      Ранний подъем закаляет самодисциплину —
+      краеугольный камень на пути к 1 млн в месяц.<br>
+      Я использую метод трех будильников:
+      на 5:00, 5:15 и 5:30 — постепенное пробуждение.
+      Никакого телефона после подъема.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Чтение после пробуждения</strong><br>
+      После небольших процедур я садился за чтение книг,
+      которые давали новую информацию
+      и позволяли общаться с лучшими умами мира.<br>
+      Чтение тренирует внимание и гиперфокус.
+      Книги, изменившие мою жизнь,
+      вы найдете в моей библиотеке РАД.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Deep Work с 7:00 до 11:00</strong><br>
+      Первый блок углубленной работы —
+      главный секрет успеха, о котором не говорят.<br>
+      Без deep work с высокой концентрацией
+      в умственном труде не будет больших результатов.<br>
+      Два правила: никаких уведомлений и телефона,
+      и четкий план задач.
+      В этом блоке я также уделял
+      40–60 минут образованию,
+      осваивая новую профессию.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Созвон с партнером с 11:00 до 12:00</strong><br>
+      Созвон с партнером,
+      с которым мы прошли через огонь и воду.<br>
+      Цель — напоминать друг другу о задачах и целях
+      и держать себя в тонусе.<br>
+      Главное условие партнерства —
+      разные навыки, которые дополняют друг друга.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Спортзал с 12:00 до 13:00</strong><br>
+      Цель простая —
+      получить удовольствие
+      и разгрузить голову от умственной работы.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Завтрак с 13:00 до 14:00</strong><br>
+      Это и есть интервальное голодание,
+      о пользе которого вы не раз слышали от меня.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Поверхностная работа с 14:00 до 18:30</strong><br>
+      Работа без сильного напряжения мозга —
+      задачи выполняются на автомате.<br>
+      Сюда входят созвоны
+      и знакомства с новыми людьми —
+      будущими клиентами.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Восстановление с 18:30 до 19:30</strong><br>
+      Цель — восстановить работу мозга
+      и снять аллостатическую нагрузку —
+      физический износ тела
+      из-за постоянного давления жизни.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Ужин и отдых</strong><br>
+      19:30–20:30 — ужин.<br>
+      20:30–21:30 — залипание в соцсетях.<br>
+      21:30–5:00 — сон.
+    </li>
+
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Мои лайфхаки продуктивности</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Смена обстановки и локаций</li>
+    <li>Телефон 80% времени в бесшумном режиме</li>
+    <li>Музыка для продуктивности</li>
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Чтобы иметь больше энергии</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Забивать сон в календарь и держать режим</li>
+    <li>Поддерживать здоровье физическими нагрузками</li>
+    <li>Иметь фиксированное время приема пищи</li>
+    <li>Планировать время для deep work</li>
+  </ul>
+
+  <p>
+    Мы не выбираем, когда заработаем большие деньги.
+    Мы выбираем — заработаем или нет.<br>
+    Режим дня — это и есть этот выбор.
+  </p>
+
+</div>
+`
+},
+{
+  id: "yt_8",
+  title: "КАК ОТЛИПНУТЬ ОТ ТЕЛЕФОНА (БЕЗ ЛОМКИ)",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/как%20отлипнуть%20от%20телефона%20(без%20ломки).jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/-ASB6bccG2E?si=O3E8g6SPkFdBx2Yi" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    Самое важное, что у тебя есть — фокус внимания.
+    И ты тратишь свой самый ценный жизненный ресурс
+    на скроллинг соцсетей и прочую чепуху?
+    Скорее всего, ты зависим от телефона.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Способы отлипнуть от телефона</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Не начинать утро с телефона</strong><br>
+      Телефон после пробуждения прожаривает мозг
+      дешевым дофамином — удовольствием без усилий.<br>
+      Утром я ставлю авиарежим
+      и убираю телефон из спальни.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Приложение One Sec</strong><br>
+      Приложение спрашивает перед заходом,
+      действительно ли вам это нужно,
+      и считает количество входов.<br>
+      Я даже соревновался с друзьями,
+      у кого будет меньше заходов
+      в то или иное приложение.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Чёрно-белый экран</strong><br>
+      Переведи экран телефона в ч/б режим —
+      так будет меньше шансов поддаться
+      манипуляциям яркого интерфейса.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Удаление соцсетей с телефона</strong><br>
+      Я использую соцсети только через неудобный ПК,
+      чтобы каждый раз осознанно спрашивать себя —
+      а действительно ли мне это нужно?
+    </li>
+
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Правильное использование телефона</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Никаких соцсетей утром</li>
+    <li>Никаких уведомлений</li>
+    <li>Никаких соцсетей на телефоне — нужна железная дисциплина</li>
+    <li>Осознанное потребление контента: курсы, образование</li>
+    <li>Весь полезный контент — через ПК с нужными вкладками</li>
+    <li>Дозированное залипание в соцсетях, строго вечером</li>
+  </ul>
+
+  <p>
+    Жить осознанную жизнь нелегко.
+    Но это единственный путь к успеху.
+  </p>
+
+</div>
+`
+},
+{
+  id: "yt_9",
+  title: "КАК ПРОМЫТЬ СЕБЕ МОЗГИ НА УСПЕХ?",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/как%20промыть%20себе%20мозги%20на%20успех.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/agj0BHj0Lac?si=kl37h4EiFl2O24pz" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    Сегодня дам вам ментальные модели, чтобы промыть себя на успех
+    до того, как это стало реальностью.
+    В 2022 году я потерял всё и съехал с элитной виллы в гестхаус.
+    С этого момента начался мой новый путь.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Фундамент перед ростом</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Дай всему прогореть</strong><br>
+      Пока отрицательная энергия присутствует в твоей жизни,
+      она занимает место и не пускает новую.
+      Нужно взять ответственность,
+      закрыть все обязательства и очиститься.
+      Лично я неделю лежал и ничего не делал.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Возвращение энергии</strong><br>
+      Лучший и самый простой способ —
+      заняться телом и пойти в зал.
+      Нельзя построить что-то без здоровья.
+      Как говорил Конфуций:
+      здоровый человек хочет тысячу вещей,
+      а больной — всего одну.
+    </li>
+
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">5 ментальных моделей для успеха</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Письмо из будущего</strong><br>
+      После провала я написал себе письмо:
+      «Сегодня я стал миллионером».
+      Я перечитывал его в трудные моменты.
+      Там были советы от будущего успешного меня
+      для меня прошлого.
+      Оптимисты выигрывают эту жизнь.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Визуальная доска</strong><br>
+      Создайте визуальную доску своих целей.
+      Сначала поймите, чего вы хотите,
+      затем найдите фото от первого лица.
+      Совмещайте фото целей с фото из реальной жизни.
+      Благодарность усиливает визуализацию.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Обычный идеальный вторник</strong><br>
+      Распишите каждый час вашего идеального дня.
+      Добавляйте мелкие детали —
+      утреннюю рутину, ощущения, действия.
+      Регулярно обновляйте этот сценарий
+      по мере своего роста.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Цели по SMART через действия</strong><br>
+      Цель должна быть конкретной, измеримой,
+      достижимой, актуальной и ограниченной по времени.
+      Но вместо результата
+      ставьте целью ежедневные действия.
+      Например: не «много просмотров»,
+      а «писать сценарий каждый день».
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Попробуй будущее на вкус</strong><br>
+      Начинайте постепенно проживать элементы
+      своей будущей жизни.
+      Я так повышал уровень комфорта —
+      сначала в такси, потом бизнес-класс.
+      И мозг привыкает к новому уровню.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Дофаминовый детокс</strong><br>
+      Снизьте потребление стимулов,
+      вызывающих резкие всплески дофамина.
+      Это повысит гиперфокус
+      и способность концентрироваться.
+    </li>
+
+  </ul>
+
+</div>
+`
+},
+{
+  id: "yt_10",
+  title: "КАК ПРАВИЛЬНО СТАВИТЬ ЦЕЛИ, ЧТОБЫ ОНИ 100% ВЫПОЛНЯЛИСЬ",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/как%20правильно%20ставить%20цели,%20чтобы%20они%20100%25%20выполнялись.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/eXQ0JV-6HWU?si=Qkm3dbJmHIe5DqUr" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    Простое написание цели на бумажке не работает.
+    Настоящее целеполагание — это система,
+    которая превращает желание в неизбежный результат.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Фундамент: Формула Цели</strong>
+  </p>
+
+  <p>
+    <strong style="font-size:1.15em;">ЦЕЛЬ = «ХОЧУ» / «ГОТОВНОСТЬ ПОТРУДИТЬСЯ»</strong><br>
+    Если ваша готовность потрудиться равна нулю,
+    то по законам математики цель невыполнима,
+    каким бы сильным ни было «хочу».
+  </p>
+
+  <p>
+    Цель должна быть конкретной, измеримой, достижимой,
+    значимой и привязанной к срокам.
+    Но главный ключ я нашел у Джеймса Клира:
+    «Чемпионы и неудачники имеют одни и те же цели».
+    Значит, секрет не в самой цели, а в системе ее достижения.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">1 УРОВЕНЬ: Система из 6 элементов для 100% выполнения</strong>
+  </p>
+
+  <p>
+    Вот пошаговая машина по превращению цели в результат.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Честная формулировка результата</strong><br>
+      Четко сформулируйте, чего вы хотите.
+      Но сразу спросите себя:
+      «Насколько я ГОТОВ за это платить временем и усилиями?».
+      Без честного ответа — двигаться бессмысленно.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Определение первоочередного действия</strong><br>
+      Разбейте большую цель на первоочередные вводные данные.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong>Пример:</strong><br>
+      Цель — 1 000 000 подписчиков.<br>
+      Что для этого нужно? — Регулярно выкладывать видео.<br>
+      А для этого что нужно? — Писать сценарии.<br>
+      Вывод: Писание сценариев — ваше первоочередное действие.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Интеграция в календарь</strong><br>
+      Вбейте это первоочередное действие в календарь
+      как незыблемую встречу с самим собой.
+      Не «когда-нибудь», а в конкретное время,
+      с конкретной продолжительностью.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Перепрограммирование мозга</strong><br>
+      Сместите фокус с результата
+      (1 000 000 подписчиков)
+      на процесс
+      (написание сценариев каждое утро).
+      Вы не контролируете алгоритмы YouTube,
+      но полностью контролируете
+      свои ежедневные действия.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Эффект Победителя</strong><br>
+      Выполняя ежедневные действия,
+      вы создаете цепь маленьких побед.
+      «Чем больше ты выигрываешь,
+      тем больше ты будешь продолжать выигрывать».
+      Вы начинаете верить в себя,
+      потому что видите,
+      как контролируете процесс.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Секретный 6-й элемент</strong><br>
+      Шестой, завершающий элемент системы,
+      который выводит ее на максимальную мощность,
+      ждет вас в моем закрытом сообществе «Олимп».
+    </li>
+
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">2 УРОВЕНЬ: Упущенная переменная — «КАК»</strong>
+  </p>
+
+  <p>
+    Частая ошибка — непонимание,
+    КАК именно достигать цели.
+    Чем меньше у вас опыта и навыков
+    в выбранной области,
+    тем детальнее вам нужно прописывать путь.
+  </p>
+
+  <p>
+    <strong style="font-size:1.15em;">Усовершенствованная формула:</strong><br>
+    ЦЕЛЬ = («ХОЧУ» x «КАК») / «ГОТОВНОСТЬ ПОТРУДИТЬСЯ»
+  </p>
+
+  <p>
+    Чем яснее вы видите путь («КАК»),
+    тем выше шанс на успех.
+    Дробите цель на мини-задачи,
+    пока каждый шаг
+    не станет простым и понятным.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">3 УРОВЕНЬ: Что делать, если не знаешь, какую цель поставить</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Метод «К ЧЕМУ БЕЖИТЬ И ОТ ЧЕГО БЕЖАТЬ»</strong><br>
+      Создайте два мощных стимула:
+      <ul style="margin-left: 20px; margin-top: 8px;">
+        <li>Ярко представьте идеальное будущее, когда цель достигнута.</li>
+        <li>Четко осознайте «ад», из которого вы бежите, если ничего не изменится.</li>
+      </ul>
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Фокус на процесс, а не на результат</strong><br>
+      Превратите путь в игру.
+      Сконцентрируйтесь на том,
+      чтобы получать удовольствие
+      от самих действий,
+      от процесса роста и движения.
+      Когда процесс в кайф,
+      результат становится
+      его естественным следствием.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Принцип «Гарантий нет — тестируй!»</strong><br>
+      Примите, что стопроцентных гарантий успеха
+      не даст никто.
+      Не ждите идеального плана.
+      Начните тестировать гипотезы
+      и двигаться быстрее.
+      Лучше быстро сделать
+      и получить feedback,
+      чем годами выстраивать
+      «идеальную» стратегию в уме.
+    </li>
+
+  </ul>
+
+</div>
+`
+},
+{
+  id: "yt_11",
+  title: "БИОХАКИНГ СНА",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/как%20правильно%20спать%20(биохакинг).jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/11JPQjUDPAo?si=AcA8VFCyoPojdm8J" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    Качество сна — это фундамент всей вашей продуктивности,
+    здоровья и благополучия.
+    Когда ты выспался, любая задача
+    щелкается как орешки.
+    Вы можете стать буквально богаче,
+    здоровее и счастливее,
+    просто научившись правильно спать.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Сколько нужно спать? Считаем циклами</strong>
+  </p>
+
+  <p>
+    Ключ — не в часах, а в 90-минутных циклах сна.
+    За ночь человеку нужно пройти
+    от 4 до 6 таких полных циклов.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li style="margin-bottom: 12px;">
+      <strong>6 часов (4 цикла):</strong>
+      Я часто чувствую себя лучше,
+      чем после 8 часов.
+      Почему?
+      Потому что пробуждение происходит
+      в конце четвертой фазы,
+      а не в середине шестой,
+      что делает подъем легче.
+    </li>
+    <li style="margin-bottom: 12px;">
+      <strong>9 часов (6 циклов):</strong>
+      Это состояние «супермэна».
+      Полные 6 циклов — идеал,
+      после которого ты чувствуешь себя
+      обновленным и заряженным на 100%.
+    </li>
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Как вовремя ложиться спать? Сила ритуала</strong>
+  </p>
+
+  <p>
+    Дисциплина отхода ко сну
+    так же важна,
+    как и дисциплина подъема.
+  </p>
+
+  <p>
+    <strong>Мой вечерний ритуал:</strong><br>
+    За 15 минут до сна
+    срабатывает будильник.
+    Без переговоров.
+    Я немедленно откладываю все дела
+    (ноутбук, телефон)
+    и иду чистить зубы.
+    Это физическое действие
+    сигнализирует мозгу:
+    «Всё, день окончен».
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Правильный сон: 5 факторов качества</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Убрать стимуляторы и депрессанты:</strong>
+      <ul style="margin-left: 20px; margin-top: 8px;">
+        <li>Кофеин — за 10–12 часов до сна.</li>
+        <li>Никотин — стимулятор.</li>
+        <li>
+          Алкоголь — он не помогает уснуть,
+          он разрушает архитектуру сна,
+          лишая вас глубоких фаз.
+        </li>
+      </ul>
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Прохладная комната:</strong><br>
+      Оптимальная температура
+      для спальни — около 18–20°C.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Отключить внешний мир:</strong>
+      <ul style="margin-left: 20px; margin-top: 8px;">
+        <li>Телефон — максимально далеко от кровати.</li>
+        <li>
+          Маска для сна и беруши —
+          создают идеальную сенсорную депривацию.
+        </li>
+      </ul>
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Добавки для сна:</strong><br>
+      Магний (глицинат / цитрат)
+      и Цинк —
+      принимаемые вечером,
+      помогают нервной системе
+      расслабиться
+      и улучшают качество сна.
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <strong style="font-size:1.15em;">Прием пищи:</strong><br>
+      Последний прием пищи —
+      минимум за 3 часа до сна.
+      Это позволяет организму
+      сосредоточиться на восстановлении,
+      а не на переваривании.
+    </li>
+
+  </ul>
+
+  <p>
+    <strong style="font-size:1.3em;">Ловушка саморазвития: как перестать переживать из-за сна</strong>
+  </p>
+
+  <p>
+    Самое страшное для сна —
+    это начать переживать
+    из-за его отсутствия.
+    «Я не усну!
+    Завтра будет ужасный день!» —
+    эти мысли гарантируют бессонницу.
+  </p>
+
+  <p>
+    <strong>Мое ментальное противоядие:</strong><br>
+    Я заранее программирую себя
+    на снятие важности:
+    «Даже если я не усну всю ночь,
+    я все равно сделаю всё,
+    что должен на следующий день».
+  </p>
+
+  <p>
+    Эта установка снимает панику.
+    Как только исчезает давление
+    «обязательности» сна,
+    исчезает и тревога,
+    мешающая уснуть.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Как экстренно восстановить режим</strong>
+  </p>
+
+  <p>
+    Если вы «сбили» режим,
+    действуйте радикально:
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Не спать всю ночь. Это сложно, но эффективно.</li>
+    <li>На следующий день полностью отказаться от кофеина.</li>
+    <li>
+      Главное условие — дотерпеть!
+      Бороться со сном до 19:00–20:00 вечера.
+      Никакого дневного сна!
+    </li>
+  </ul>
+
+  <p>
+    Этот метод «жесткого перезапуска»
+    болезненный,
+    но он за одну ночь
+    возвращает ваш циркадный ритм в норму.
+    Вы ляжете в нужное время
+    и уснете глубоким,
+    здоровым сном.
+  </p>
+
+</div>
+`
+},
+{
+  id: "yt_12",
+  title: "3 ГЛАВНЫХ ЧИТ-КОДА, ЧТОБЫ ВКЛЮЧИТЬ «РЕЖИМ БОГА» В РЕАЛЬНОЙ ЖИЗНИ",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/3%20главных%20чит-кода%20для%20активации.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/8MyZfFR7Nbs?si=-fxp1wl3WYlSX7qv" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    «Режим Бога» — это не мистическое состояние,
+    а ваша лучшая,
+    максимально продуктивная
+    и сильная версия,
+    которая всегда с вами.
+    Ниже — ключи,
+    которые помогают ее разблокировать.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Чит-код 1: Определи цель через анти-цель</strong>
+  </p>
+
+  <p>
+    Самый частый вопрос:
+    «С чего начать,
+    если я не знаю,
+    кем хочу быть?»
+    Ответ простой —
+    начните с того,
+    кем вы быть не хотите.
+  </p>
+
+  <p>
+    <strong>Метод «от противного»:</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Опишите детальный портрет своей худшей версии.</li>
+    <li>Не тренируется.</li>
+    <li>Не умеет зарабатывать и живет в долгах.</li>
+    <li>Прокрастинирует и поддается лени.</li>
+    <li>Постоянно ноет, стрессует и сдается.</li>
+    <li>Живет в страхе и откладывает действия.</li>
+  </ul>
+
+  <p>
+    Далее создайте инверсию —
+    разверните каждое качество
+    на 180 градусов.
+    Это и будет образ
+    вашего «Режима Бога».
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Тренируется регулярно.</li>
+    <li>Владеет навыками маркетинга и продаж.</li>
+    <li>Действует, несмотря на лень.</li>
+    <li>Стрессоустойчив и не сдается.</li>
+    <li>Боится, но все равно делает.</li>
+  </ul>
+
+  <p>
+    Это не абстрактная мечта,
+    а четкий и понятный список
+    качеств для ежедневной работы.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Чит-код 2: Система побеждает мотивацию</strong>
+  </p>
+
+  <p>
+    Не ждите вдохновения
+    или особого состояния.
+    Действия не только
+    приводят к результату —
+    они формируют личность.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Мотивация приходит после действия, а не до него.</li>
+    <li>
+      «Режим Бога» включается
+      не от эмоций,
+      а от совершенных поступков.
+    </li>
+  </ul>
+
+  <p>
+    Главный принцип —
+    <strong>«Просто делай»</strong>.
+    Сделал первое запланированное действие —
+    запустил маховик продуктивности.
+    Ждешь подходящего момента —
+    так его и не дождешься.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">Чит-код 3: Дробление до атомарного уровня</strong>
+  </p>
+
+  <p>
+    Чем меньше у вас опыта,
+    тем более пугающей кажется
+    большая цель.
+    Решение — дробить задачу,
+    пока шаг не станет
+    настолько простым,
+    что для него
+    не требуется сила воли.
+  </p>
+
+  <p>
+    <strong>Пример:</strong>
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>
+      <strong>Новичок:</strong>
+      «Написать книгу»
+      → «Написать абзац»
+      → «Открыть документ и написать одно предложение».
+    </li>
+    <li>
+      <strong>Профессионал:</strong>
+      Может держать в голове большую цель
+      и автоматически разбивать ее на этапы.
+    </li>
+  </ul>
+
+  <p>
+    <strong>Ваш чек-лист:</strong><br>
+    Любую задачу,
+    которая вызывает сопротивление,
+    нужно разложить
+    на настолько мелкие
+    и простые шаги,
+    что отказ их выполнить
+    будет выглядеть абсурдно
+    даже для вас самих.
+  </p>
+
+</div>
+`
+},
+{
+  id: "yt_13",
+  title: "АЛГОРИТМ ПРЕОДОЛЕНИЯ ЖИЗНЕННЫХ КРИЗИСОВ",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Алгоритм%20преодоления%20жизненных%20кризисов.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/MpQBrHC2j68?si=MIwt_9QubGWdG3mz" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+  <p>
+    «Зима» бывает у каждого.
+    Это период,
+    когда рушится здоровье,
+    бизнес,
+    финансы
+    и пропадают цели.
+    Единственный выход —
+    не избегать ее,
+    а научиться проживать,
+    становясь сильнее.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">
+      1. Выбери свою дорогу: Жертва или Выживший
+    </strong>
+  </p>
+
+  <p>
+    Первый и самый важный выбор —
+    как ты проживешь кризис.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>
+      <strong>Путь жертвы:</strong>
+      постоянный поиск виноватых.
+      Для жертвы «зима» —
+      это навсегда.
+    </li>
+    <li>
+      <strong>Путь выжившего:</strong>
+      принятие реальности
+      и фокус на том,
+      что МОЖНО контролировать.
+      Выживший знает —
+      он пройдет через это.
+    </li>
+  </ul>
+
+  <p>
+    Ваш выбор определяет всё.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">
+      2. Прими: зима — это период, а не приговор
+    </strong>
+  </p>
+
+  <p>
+    Это не конец жизни,
+    а ее фаза.
+    Как и в природе,
+    за зимой всегда приходит весна.
+    Твоя задача —
+    пройти этот этап,
+    а не сломаться в нем.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">
+      3. Проведи инвентаризацию ресурсов
+    </strong>
+  </p>
+
+  <p>
+    Перестань жить в парадигме:
+    «КОГДА у меня будет X,
+    ТОГДА я начну Y».
+    Сфокусируйся на том,
+    что у тебя есть
+    прямо сейчас.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Какие навыки (даже базовые)?</li>
+    <li>Какие связи?</li>
+    <li>Какое здоровье?</li>
+    <li>Сколько времени?</li>
+  </ul>
+
+  <p>
+    Действуй,
+    исходя из текущих активов,
+    а не гипотетических возможностей.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">
+      4. Восстанови и культивируй энергию — валюту кризиса
+    </strong>
+  </p>
+
+  <p>
+    Без энергии
+    невозможно бороться.
+    Твоя первоочередная задача —
+    вернуть силы.
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Убери токсичное окружение с мышлением жертвы.</li>
+    <li>Ограничь скроллинг и негативные новости.</li>
+    <li>Почини базу: сон, питание, движение.</li>
+  </ul>
+
+  <p>
+    Запомни правило:
+    энергия порождает энергию.
+    Чем больше ты действуешь
+    через «не могу» —
+    тем больше сил появляется.
+    Чем больше лежишь —
+    тем слабее становишься.
+  </p>
+
+  <p>
+    Смена обстановки —
+    обязательна:
+    зал вместо дома,
+    коворкинг вместо кухни.
+    Новый контекст —
+    новые нейронные связи.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">
+      5. Только после этого — анализ причин
+    </strong>
+  </p>
+
+  <p>
+    Никогда не анализируй провал,
+    находясь в апатии.
+    Сначала верни себе
+    базовый уровень энергии
+    через действия.
+    Трезвый анализ возможен
+    только с «холодной» головой.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">
+      6. Найди свой смысл
+    </strong>
+  </p>
+
+  <p>
+    Спроси себя:
+    «ЗАЧЕМ мне это?
+    Что этот кризис
+    может мне дать?»
+    Кризис —
+    это шанс пересобрать ценности
+    и выйти на более глубокий смысл.
+  </p>
+
+  <p>
+    <strong style="font-size:1.3em;">
+      7. Создай «летопись зимы»
+    </strong>
+  </p>
+
+  <p>
+    После выхода из кризиса
+    обязательно зафиксируй опыт:
+  </p>
+
+  <ul style="margin-left: 20px; margin-bottom: 20px;">
+    <li>Что ты чувствовал?</li>
+    <li>Какие действия помогли?</li>
+    <li>Что ты понял о себе?</li>
+  </ul>
+
+  <p>
+    Эта летопись —
+    твой самый ценный актив.
+    В следующий кризис
+    она даст не страх,
+    а уверенность:
+    ты уже знаешь,
+    что способен пройти через это.
+  </p>
+
+  <p>
+    <strong>
+      Финальный аккорд:
+    </strong><br>
+    Не желай,
+    чтобы жизнь стала легче.
+    Желай,
+    чтобы СИЛЬНЕЕ СТАЛ ТЫ.
+    Именно в «зиме»
+    куется твоя лучшая версия.
+  </p>
+
+</div>
+`
+},
+{
+  id: "yt_14",
+  title: "Уличный миллионер раздает БАЗУ 73 минуты подряд",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/уличный%20миллионер%20раздает%20базу.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/xtHyBlRXiBQ?si=aq0OOIkXF0LP6a_P" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p>
+<strong style="font-size:1.3em;">На чём сейчас можно заработать очень много денег?</strong> Забудь про крипту, таргет и веб-дизайн. Настоящий прорыв начинается не с поиска "горячей" ниши, а с тотальной перепрошивки собственного мышления.
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Жесткая правда: знания без действий — это интеллектуальный мусор</strong><br>
+В современном мире информация девальвировала. Количество знаний в твоей голове обратно пропорционально количеству денег на счету, если ты их не применяешь.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Парадокс:</strong> Ты можешь досконально изучить теорию, но твое тело будет парализовано — "ноги налиты свинцом".</li>
+<li style="margin-bottom: 8px;"><strong>Диагноз:</strong> Информационная интоксикация. Мозг перегружен теорией, которая не прошла проверку реальностью.</li>
+<li style="margin-bottom: 8px;"><strong>Лечение:</strong> Прекрати потреблять. Начни тестировать. Один реальный эксперимент ценнее 1000 прочитанных книг.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Новая аксиома: деньги любят не умных, а "борзых"</strong><br>
+Финансовый успех — это производная от уровня твоей наглости и готовности действовать в условиях неопределенности.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Формула успеха:</strong> Деньги = ("Хочу" × "Борзость") / "Страх"</li>
+<li style="margin-bottom: 8px;"><strong>Статистика:</strong> 95% людей предпочитают безопасное бездействие риску действий. Их удел — стагнация.</li>
+<li style="margin-bottom: 8px;"><strong>Твой выбор:</strong> Присоединиться к 5%, которые действуют без железных гарантий. "Любой результат лучше его полного отсутствия".</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Твой главный актив: Личный бренд как социальный лифт</strong><br>
+Забудь о поиске инвесторов и уникальных бизнес-идеях. Самый мощный капитал сегодня — это ты сам.
+<p style="margin-top: 10px;"><strong>Архитектура личного бренда:</strong></p>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>СТАТУС:</strong> Контроль над дефицитным ресурсом.<br>
+Это не только деньги. Энергия, экспертность, уникальный опыт — тоже валюта.<br>
+<em>Кейс:</em> "Я провалил 10 стартапов" — статус через приобретенный опыт ценнее диплома МВА.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>СИЛА:</strong> Неразрывная связь между сказанным и сделанным.<br>
+Твой контент должен решать реальные боли аудитории.<br>
+Документируй путь, даже если сейчас ты в минусе. Искренность builds trust лучше, чем показной успех.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>ЧАСТОТА:</strong> Аутентичность как магнит.<br>
+Ты — человеческая радиостанция. Будешь вещать на чужой частоте — притянешь не свою аудиторию.<br>
+<em>Закон Юнга:</em> "Работай искренне — и незнакомые союзники найдут тебя".
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Фундаментальные навыки: два столпа новой экономики</strong><br>
+В эпоху ИИ ценность рутинных знаний падает. На пирамиде ценностей теперь два архаичных, но критичных навыка.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>СПОСОБНОСТЬ ГОВОРИТЬ = ВЛИЯТЬ</strong><br>
+Влияние — это валюта современности. Все сделки, переговоры и продажи происходят через слово.<br>
+<strong>Практика:</strong> Записывай свою речь. Выявляй и устраняй "вирусы" — слова-паразиты, нечеткую дикцию.<br>
+<em>Это не риторика. Это осознанная коммуникация.</em>
+</li>
+<li style="margin-bottom: 12px;">
+<strong>СПОСОБНОСТЬ ПИСАТЬ = МЫСЛИТЬ</strong><br>
+Письмо — это карта твоего мышления. Кто ясно пишет — ясно мыслит.<br>
+<strong>Практика:</strong> Веди "мыследневник". Не "что я делал", а "какие проблемы решал и какие инсайты получил".<br>
+<em>Пример:</em> Мои поиски ответа на вопрос "Что такое дисциплина?" в дневнике привели к формуле: "Дисциплина = Система > Сила воли".
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Биохакинг успеха: тестостерон как метрика смелости</strong><br>
+Когда ты в ступоре, не беги к психологу. Сначала проверь биохимию.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Низкая энергия + выгорание + тревожность = возможный низкий тестостерон.</li>
+<li style="margin-bottom: 12px;">Высокий тестостерон автоматически переключает мозг из режима "как бы не проиграть" в режим "как выиграть".</li>
+</ul>
+<p style="margin-top: 10px;"><strong>Жизненный пример: "Защита vs Нападение"</strong></p>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Проблема:</strong> Нехватка денег.</li>
+<li style="margin-bottom: 8px;"><strong>Защита (низкий тестостерон):</strong> Человек учится экономить. Через год он — гуру выживания.</li>
+<li style="margin-bottom: 8px;"><strong>Нападение (высокий тестостерон):</strong> Человек учится зарабатывать. Через год он выходит на 700К, через 3 года — на миллионы.</li>
+</ul>
+<p style="margin-top: 10px;"><em>Мантра, которая меняет всё: "Не будь самым смелым. Будь чуть-чуть посмелее, чем был вчера".</em></p>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Высший пилотаж: Агентность как поиск смысла</strong><br>
+Самый сложный жизненный квест — не "Как достичь цели?", а "Какую цель вообще стоит достигать?".
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Ответ ищется не в книгах, а в полевых экспериментах.</li>
+<li style="margin-bottom: 8px;">99% твоих действий будут вести в тупик. Это не провал. Это процесс картографирования территории "чего я НЕ хочу".</li>
+<li style="margin-bottom: 8px;"><strong>Агентность</strong> — это мускул, который качается только одним способом: принимать решения и нести за них полную ответственность.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Антикризисный протокол: инструкция по выживанию в "зиме"</strong><br>
+Когда всё рушится, включай холодный расчет, а не панику.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>ДЕКОМПРЕССИЯ.</strong> Прекрати психическую самопорку. Спринтер бьет рекорды, потому что его мышцы расслаблены.</li>
+<li style="margin-bottom: 8px;"><strong>"ПОЛУЧИЛ СООБЩЕНИЕ — КЛАДИ ТРУБКУ".</strong> Хватит искать ответы вовне. Все инструменты у тебя уже в руках. Действуй.</li>
+<li style="margin-bottom: 8px;"><strong>ПЕРЕЗАГРУЗКА ОС.</strong> Если не даешь мозгу конкретную задачу, он начинает пожирать тебя изнутри страхами и сомнениями.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Квантовая физика успеха: энергия как первичный ресурс</strong><br>
+Деньги, связи, идеи — все это вторично. Энергия — валюта валют.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Твой энергоуровень — это высокоточный механизм. Одно неверное решение — и система дает сбой.</li>
+<li style="margin-bottom: 8px;">Стань биохакером для самого себя. Экспериментируй со сном, нутриентами, циркадными ритмами.</li>
+<li style="margin-bottom: 8px;"><strong>Железное правило:</strong> Ответственность за уровень твоей энергии несешь только ты. Обвинения других — самообман.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong style="font-size:1.15em;">Финальный чит-код: внутренний компас</strong><br>
+В мире шума и чужих советов единственный надежный источник координат — твой внутренний голос.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Он может привести к ошибкам, но только он выведет на твой уникальный путь.</li>
+<li style="margin-bottom: 8px;"><strong>Закон атрофии:</strong> Чем реже пользуешься внутренним компасом, тем тише он становится.</li>
+<li style="margin-bottom: 8px;"><strong>Точка невозврата:</strong> Начнешь систематически себя обманывать — компас "уснет".</li>
+</ul>
+</li>
+
+</ol>
+
+<p style="margin-top: 30px; font-size: 1.1em; font-weight: bold; padding-left: 15px;">
+<strong>ФИНАЛЬНЫЙ АККОРД:</strong><br>
+Ты никогда не узнаешь, когда именно придет успех. Ты можешь выбрать только одно: быть в игре или наблюдать со стороны. И этот выбор упирается в единственное качество — твою готовность быть "борзым".
+</p>
+
+</div>
+`
+},
+{
+  id: "yt_15",
+  title: "ЭЙ, ПАРЕНЬ! ТЕБЯ ОБМАНУЛИ. ВОТ ПРАВИЛА ЖИЗНИ, КОТОРЫМ ТЕБЯ НЕ НАУЧИЛИ",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/эй%20парень%20тебе%20от%2018%20до%2035.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/kdEHan6bdyU?si=yvMYWTOGX-tJ-ISR" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 20px;">
+<strong style="font-size:1.3em;">Тебя воспитали удобным. Услужливым. Твои интересы всегда были на последнем месте. Пора это исправить.</strong>
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Сила — не в правде. Сила — в СИЛЕ</strong><br>
+Красивые фразы из кино — это сказки для Иванушек-дурачков.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Правда субъективна.</strong> Для большевиков 1917 год — великая революция. Для их противников — кровавый переворот.</li>
+<li style="margin-bottom: 12px;"><strong>Сила объективна.</strong> Её можно измерить. Сила = Энергия = Ресурсы.</li>
+</ul>
+<p style="margin-top: 10px;"><strong>Твой фундамент, когда у тебя «ноль»:</strong></p>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Эмоции.</strong> В переводе с латинского — «то, что приводит в движение». Это твое топливо.</li>
+<li style="margin-bottom: 8px;"><strong>Здоровье.</strong> Больной человек хочет только одного — выздороветь. Здоровый — тысячи вещей.</li>
+<li style="margin-bottom: 8px;"><strong>Фокус внимания.</strong> Время без фокуса ничего не стоит.</li>
+<li style="margin-bottom: 8px;"><strong>Твой разум.</strong> Он должен быть твоим главным союзником, а не источником страхов.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Деньги — это инструмент. Презирать их — глупо</strong><br>
+«Деньги не приносят счастья» — это сказка для бедных.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Деньги — это универсальный усилитель.</strong></li>
+<li style="margin-bottom: 8px;">Если ты дурак, с деньгами станешь мега-дураком.</li>
+<li style="margin-bottom: 8px;">Если ты адекватен, деньги дадут тебе свободу, безопасность и время.</li>
+<li style="margin-bottom: 8px;">Недостаток ресурсов вызывает стресс. Их изобилие — нет.</li>
+<li style="margin-bottom: 8px;"><strong>Смысл денег — стать от них независимым.</strong> Чтобы думать о чём-то, кроме них.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Твой автобус едет не туда. Пора выходить</strong><br>
+Тебя с детства посадили в автобус с вывеской «Надо» и «Должен».
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Образование готовило тебя быть винтиком на заводе.</li>
+<li style="margin-bottom: 8px;">Работа заставляет делать то, в чём ты не видишь смысла.</li>
+<li style="margin-bottom: 8px;">Общество предлагает тебе «счастье»-суррогат, как Coca-Cola Zero: красиво, сладко, но внутри — химия и пустота.</li>
+</ul>
+<p style="margin-top: 10px; font-weight: bold">
+<strong>Что делать? Немедленно выйти из этого автобуса.<br>
+Чем дольше едешь не туда, тем дольше обратный путь.</strong>
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Счастье — в ПРОИЗВОДСТВЕ, а не в ПОТРЕБЛЕНИИ</strong><br>
+Настоящая жизнь — это движение к своим целям через препятствия.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Ты чувствуешь себя живым, когда:</strong></li>
+<li style="margin-bottom: 8px;">Подходишь знакомиться к симпатичной девушке (даже если получишь отказ).</li>
+<li style="margin-bottom: 8px;">Увольняешься с надоевшей работы.</li>
+<li style="margin-bottom: 8px;">Путешествуешь один, чтобы встретиться с самим собой.</li>
+</ul>
+<p style="margin-top: 10px; font-style: italic;">
+<strong>Счастье — это не цель, а побочный эффект движения по своему пути.</strong>
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Формула денег: Внимание → Ценность → Деньги</strong><br>
+Забудь про сложные схемы. Всё просто.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Деньги — это ценность, которую ты обменял.</strong></li>
+<li style="margin-bottom: 10px;"><strong>Проблема наёмного работника:</strong> он меняет ценность на деньги только с одним «клиентом» (работодателем). Его доход привязан ко времени.</li>
+<li style="margin-bottom: 10px;"><strong>Решение предпринимателя:</strong> он убирает посредника и меняет ценность на деньги напрямую с обществом. Деньги можно делать во сне.</li>
+</ul>
+<p style="margin-top: 10px;"><strong>Где брать внимание?</strong></p>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Улица, по которой ходят все в 2025 году, — это интернет.</li>
+<li style="margin-bottom: 8px;">Твой «киоск с хот-догами» — это личный бренд.</li>
+<li style="margin-bottom: 8px;"><strong>Создавай себя в интернете, и ты сможешь продавать что угодно.</strong></li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Ключ ко всему — твоё «ХОЧУ»</strong><br>
+Подчинись своему «хочу» — и тело с разумом выдадут тебе невероятную энергию.
+<p style="margin-top: 10px;"><strong>Как найти своё «хочу»?</strong></p>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Создай вакуум.</strong> Вырвись из рутины. Уединись.</li>
+<li style="margin-bottom: 8px;"><strong>Спроси себя:</strong> Что меня зажигало в детстве? От какого процесса я кайфую сейчас?</li>
+<li style="margin-bottom: 8px;"><strong>Вспомни метод Тарантино:</strong> Выпиши всё, что ненавидишь в своей жизни. А потом — как это исправить и чем хочешь заниматься.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Эмоции — это бесплатная энергия. Научись ей управлять</strong><br>
+Тебя учили подавлять эмоции. Это тупик. Приводит к выгоранию, болезням и зависимостям.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Эмоции живут в теле.</strong> Работай с телом, чтобы перепрошить голову.</li>
+<li style="margin-bottom: 12px;"><strong>Главный враг мужской энергии:</strong> низкий тестостерон.</li>
+<li style="margin-bottom: 8px;"><strong>Причины:</strong> сидячий образ жизни, недосып, фастфуд, алкоголь.</li>
+<li style="margin-bottom: 8px;"><strong>Решение:</strong> спорт, сон, правильное питание, отказ от ядов.</li>
+<li style="margin-bottom: 12px;"><strong>Создай «буферную зону» между эмоцией и действием.</strong></li>
+<li style="margin-bottom: 8px;"><strong>Инструменты:</strong> медитация (тренировка «внутреннего наблюдателя») и письменные практики (дневник, анализ своих состояний).</li>
+</ul>
+<p style="margin-top: 10px;"><strong>Лайфхак:</strong> Превращай негативные эмоции в топливо.</p>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Злость →</strong> Иди в зал, трансформируй в силу.</li>
+<li style="margin-bottom: 8px;"><strong>Обида →</strong> Используй как мотивацию стать лучше.</li>
+</ul>
+</li>
+
+</ol>
+
+<div style="margin-top: 30px; padding: 20px;">
+<p style="font-size: 1.2em; font-weight: bold; margin-bottom: 15px">
+ФИНАЛЬНЫЙ АККОРД
+</p>
+<p style="margin-bottom: 12px;">
+<strong>Перестань быть удобным. Поставь себя на первое место. Ты — главный проект своей жизни.</strong>
+</p>
+<ul style="margin-left: 20px;">
+<li style="margin-bottom: 8px;">Выжимай максимум из любой ситуации. 100%, а не 70%.</li>
+<li style="margin-bottom: 8px;">Декодируй своё «хочу» и иди к нему через препятствия.</li>
+<li style="margin-bottom: 8px;">Строй личный бренд — это твой социальный лифт в 2025 году.</li>
+<li style="margin-bottom: 8px;">Управляй эмоциями, направляя их энергию на созидание.</li>
+</ul>
+<p style="margin-top: 15px; font-weight: bold; font-size: 1.1em;">
+Твои пределы — там, где ты сам их поставил. Время их снести.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_16",
+  title: "ЭЙ, ПАРЕНЬ! ТЫ ИНТРОВЕРТ? ВОТ КАК ВКЛЮЧИТЬ РЕЖИМ БОГА",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/эй%20парень,%20ты%20интроверт.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/dYpB4kANG1o?si=5tHHlRzAFc_fI5x2" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 20px;">
+<strong style="font-size:1.3em;">В мире, где правят экстраверты, интроверт чувствует себя на обочине. Но твоя натура — не слабость, а суперсила.</strong> Великие умы — Ньютон, Тесла, Дарвин — были интровертами. Они не пытались играть по чужим правилам. Они создавали свои.
+</p>
+
+<p style="margin-bottom: 25px;">
+<strong>Интроверт — это не тот, кто боится людей. Это тот, кто черпает энергию в одиночестве.</strong> Если шумная компания опустошает тебя, а тишина заряжает — ты интроверт. И это твоя сила.
+</p>
+
+<h4 style="font-size:1.4em; margin-bottom: 20px">7 ЧИТ-КОДОВ ДЛЯ РЕЖИМА БОГА</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 30px;">
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em">Чит-код 1: Уединение — твоя суперсила</strong><br>
+Общество навязывает нам, что одиночество — это удел неудачников. Это ложь.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Изоляция</strong> — это когда ты хочешь быть с людьми, но не можешь. Это больно.</li>
+<li style="margin-bottom: 10px;"><strong>Уединение</strong> — это сознательный выбор. Путь к себе.</li>
+</ul>
+<p style="margin-top: 15px;">
+Твое подсознание шепчет тебе о чём-то большем. Услышь его. Как Колумб открыл Америку, ты можешь открыть себя. Но для этого нужно отплыть от шумного берега. <strong>Перестань чувствовать вину за то, что выбираешь себя.</strong>
+</p>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em">Чит-код 2: Магия слова «НЕТ»</strong><br>
+Ты не сможешь сохранить энергию, если будешь всем угождать.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">«Нет» — это полный ответ. Он не требует объяснений.</li>
+<li style="margin-bottom: 10px;">«Нет» — это перевёрнутое «ДА». Ты говоришь «ДА» тому, что для тебя важно.</li>
+</ul>
+<p style="margin-top: 15px; font-weight: bold; padding: 10px; border-radius: 5px;">
+<strong>Формула вежливого, но железного отказа:</strong><br>
+«Нет, но спасибо за предложение».<br>
+<em>Сначала — твёрдый отказ. Потом — вежливость. Так ты контролируешь разговор, а не он — тебя.</em>
+</p>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Чит-код 3: Убей мысль или реализуй её</strong><br>
+Твой мозг — генератор идей. Но незавершённая мысль — как открытая вкладка в браузере. Она тормозит всю систему.
+<p style="margin-top: 10px;"><strong>У любой мысли всего два исхода:</strong></p>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Убей её.</strong> Скажи: «Спасибо, не моё». Это требует мудрости.</li>
+<li style="margin-bottom: 10px;"><strong>Реализуй её.</strong> Действуй быстро. Не застревай в анализе.</li>
+</ul>
+<p style="margin-top: 15px;">
+Нереализованные идеи — это камни на дне горной реки твоей жизни. Они мешают течь энергии. <strong>Действуй или отпускай. Третьего не дано.</strong>
+</p>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Чит-код 4: Сначала заплати себе (энергией)</strong><br>
+С деньгами работает правило: «Сначала заплати себе, потом трать». С энергией — так же.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Проигрышная стратегия:</strong><br>
+Проснулся → Проверил соцсети → Потратил силы на дорогу и работу → Вечером ты — выжатый лимон.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Стратегия победителя:</strong><br>
+Проснулся → Вложил энергию в себя (спорт, чтение, письмо) → Потом отдал её миру.
+</li>
+</ul>
+<p style="margin-top: 15px; font-weight: bold;">
+<strong>Утренняя рутина для интроверта — это не блажь. Это необходимость. Сначала заряди свой аккумулятор.</strong>
+</p>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Чит-код 5: Не сотвори себе кумира</strong><br>
+Взрослых не существует. Стив Джобс лечил рак соком, Моцарт умирал в долгах, Ньютон 30 лет искал философский камень.
+<p style="margin-top: 15px;">
+<strong>Люди, достигшие гениальности в одном, могут быть полными профанами в другом.</strong> Платить по их счетам будешь ты. Не перекладывай ответственность за свою жизнь на кумиров.
+</p>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Чит-код 6: Лень — это не порок. Это сигнал</strong><br>
+Лень — это логичная и защитная функция твоего организма. Она включается, когда ты делаешь то, что ненавидишь.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Пример:</strong> Ты изучаешь маркетинг в универе по учебникам 1884 года. Мозг спрашивает: «Нахрена?» и отключает энергию.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Решение:</strong> Найди то, что зажигает. Сфокусируйся на результате (например, поездке в Таиланд на заработанные деньги). Энергия появится сама.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Чит-код 7: Удали слово «интроверт» из своего словаря</strong><br>
+Это самый главный чит-код. «Интроверт» — это ярлык, а ярлык — это клетка.
+<p style="margin-top: 15px; font-weight: bold;">
+<strong>Ты не обязан вписываться в рамки. Ты — не коробка, ты — её создатель.</strong>
+</p>
+</li>
+
+</ol>
+
+<div style="margin-top: 40px; padding: 25px; border-radius: 10px;">
+<h4 style="font-size:1.5em; margin-bottom: 20px;">ФИНАЛЬНЫЙ БОСС: ПСИХОЛОГИЯ ПОБЕДИТЕЛЯ</h4>
+
+<p style="margin-bottom: 20px;">
+<strong>Забудь про ярлыки. Выйди на уровень выше.</strong>
+</p>
+
+<p style="margin-bottom: 20px;">
+<strong>Чем отличается любитель от профессионала?</strong>
+</p>
+
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Любитель</strong> побеждает, только когда достигает большой цели (медаль, миллион, слава). Если цель не достигнута — он проиграл.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Профессионал</strong> побеждает каждый день. Его победа — в самих действиях.
+</li>
+</ul>
+
+<p style="margin-bottom: 20px;"><strong>Пример:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;"><strong>Любитель на YouTube:</strong> «Победа = видео набрало 1 млн просмотров».</li>
+<li style="margin-bottom: 10px;"><strong>Профессионал на YouTube:</strong> «Победа = я сел и написал сценарий, даже когда не было вдохновения».</li>
+</ul>
+
+<p style="margin-bottom: 20px;">
+<strong>Профессионал не знает слова «поражение». Он знает слово «корректировка курса».</strong> Каждое «неудачное» действие для него — ценные данные, ведущие к победе.
+</p>
+
+<p style="font-size:1.2em; margin-bottom: 20px; font-weight: bold;">
+Твоя задача — не быть интровертом или экстравертом. Твоя задача — ПОБЕЖДАТЬ.
+</p>
+
+<p style="margin-bottom: 20px;">
+Перестань копаться в себе и искать оправдания. Просто побеждай в том, что для тебя важно. Один раз. Потом другой. С каждым разом это будет получаться всё легче.
+</p>
+
+<p style="font-size:1.3em; font-weight: bold; text-align: center; margin-top: 30px;">
+Режим Бога активирован. Твой ход.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_17",
+  title: "Формула железной дисциплины в \"Режиме Бога\"",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Формула%20железной%20дисциплины.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/AeXTQx_0BA0?si=T0GyoYYx9bVLQcFo" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Железная дисциплина (ID) = выполнение действий для будущего результата, несмотря на то, как ты себя чувствуешь в моменте.</strong>
+</p>
+
+<p style="margin-bottom: 25px; font-style: italic; padding: 15px; border-radius: 8px;">
+За 10 лет с этой формулой я выучил два языка, защитил диссертацию и построил два бизнеса. Просто? Да. Легко? Нет. Это система из 5 переменных, где первые две — враги твоей дисциплины.
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 30px;">
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">1. УБЕРИ ВСЕ ЛИШНИЕ ПРИОРИТЕТЫ (P)</strong><br>
+«Приоритеты» — это иллюзия. В единицу времени у тебя может быть только один фокус.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Правило:</strong> Один приоритет = километровые шаги. Несколько «приоритетов» = движение по миллиметру в разных направлениях.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Матрица Эйзенхауэра:</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;"><strong>Важно и срочно:</strong> Делай сейчас (тушение пожаров).</li>
+<li style="margin-bottom: 8px;"><strong>Важно, но не срочно:</strong> Планируй и выполняй неуклонно (зона роста).</li>
+<li style="margin-bottom: 8px;"><strong>Срочно, но не важно:</strong> Делегируй (чужой срочный план).</li>
+<li style="margin-bottom: 8px;"><strong>Не важно и не срочно:</strong> Устрани как мусор (соцсети, новости).</li>
+</ul>
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Многозадачность (мультитаскинг)</strong> — это профессиональное выполнение нескольких дел через одно место. Каждое переключение между задачами стоит тебе 23 минуты на возвращение в состояние потока.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">2. УБЕЙ В СЕБЕ ИДЕЮ «БАЛАНСА» (B)</strong><br>
+Баланс между работой и жизнью — это ложь, созданная для тех, кто ненавидит свою работу.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">Работа — это часть жизни, как дыхание. Разделяя их, ты создаешь внутренний конфликт.</li>
+<li style="margin-bottom: 12px;">Экстраординарные результаты рождаются в дисбалансе. Пока ты ищешь «баланс», кто-то платит цену за твою мечту.</li>
+<li style="margin-bottom: 12px;"><strong>Цена есть всегда.</strong> Либо ты платишь ее деньгами и энергией сейчас, двигаясь к цели, либо потом — сожалениями о несделанном.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">3. СОЗДАЙ СИСТЕМУ ДЕЙСТВИЙ (A)</strong><br>
+Железная дисциплина — это не сила воли, а система, которая работает даже при нулевой мотивации.
+<p style="margin-top: 15px; margin-bottom: 15px;"><strong>Элементы системы:</strong></p>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 8px;">• ФОКУС: Ты получаешь то, на чем фокусируешься.</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;"><strong>Устрани главные «дыры» фокуса:</strong></li>
+<li style="margin-bottom: 8px;">Удали соцсети с телефона.</li>
+<li style="margin-bottom: 8px;">Отключи все уведомления, кроме экстренных.</li>
+<li style="margin-bottom: 8px;">Переведи телефон в черно-белый режим (снижает время использования на 30%).</li>
+</ul>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;"><strong>Найди действие-домино:</strong> В каждой сфере есть одно ключевое действие, дающее 80% результата (например, в моем бизнесе — это письмо).</li>
+</ul>
+</div>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 8px;">• АРЕНА: Создай физическое и цифровое пространство для работы.</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;"><strong>Физическая арена:</strong> Рабочий стол — только для работы. Диван — только для отдыха.</li>
+<li style="margin-bottom: 8px;"><strong>Цифровая арена:</strong> Отдельный браузер или профиль только для рабочих задач. Никаких отвлечений в один клик.</li>
+</ul>
+</div>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 8px;">• БЛОКИРОВКА ВРЕМЕНИ: Жестко планируй время для ключевых задач.</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;">Выделяй в календаре «свидания с музой» и защищай это время.</li>
+<li style="margin-bottom: 8px;">Качество часов важнее их количества. 1 час глубокой работы ценнее 8 часов в суете.</li>
+</ul>
+</div>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 8px;">• ОСОЗНАННАЯ ПРАКТИКА: Не просто делай, а улучшайся.</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;"><strong>Конкретная цель:</strong> Не «хочу круто говорить», а «сегодня отрабатываю использование пауз».</li>
+<li style="margin-bottom: 8px;"><strong>Полный фокус:</strong> Никаких отвлечений.</li>
+<li style="margin-bottom: 8px;"><strong>Мгновенная обратная связь:</strong> Анализируй, что получилось, а что нет.</li>
+<li style="margin-bottom: 8px;"><strong>Выход из зоны комфорта:</strong> Должно быть трудно. Если легко — ты не растешь.</li>
+</ul>
+</div>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 8px;">• ЭНЕРГИЯ: Интеллектуальный атлет восстанавливается, как физический.</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;">Сон, питание и спорт — это не опции, а топливо для дисциплины.</li>
+<li style="margin-bottom: 8px;">Восстановление — это не листание соцсетей, а смена деятельности или отдых.</li>
+</ul>
+</div>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">4. ИСПОЛЬЗУЙ МОТИВАЦИЮ КАК СТАРТЕР (M)</strong><br>
+Мотивация — это спичка, которая разжигает костер. Она не может гореть вечно.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Найди свой «огонь»:</strong> Что вызывает в тебе злость на текущее положение дел? Преврати эту энергию в смелость действовать.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Создай «Антибудущее»:</strong> Детально представь, что будет, если ты ничего не изменишь. Используй этот страх как топливо.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Визуализируй победы:</strong> Создай доску с целями, но добавляй туда и уже достигнутое. Так мозг поверит, что мечты реализуемы.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">5. ЭКОНОМЬ СИЛУ ВОЛИ (WP)</strong><br>
+Сила воли — конечный ресурс. Ее хватает ненадолго. Тебе нужно всего 1-2% силы воли, чтобы запустить систему действий.
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Формула прогресса:</strong> 1.01^365 ≈ 37.7. Всего 1% улучшения каждый день за год делает тебя в 37 раз лучше.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Сила воли — это не дисциплина.</strong> Дисциплина — это когда система работает, даже когда сила воли на нуле.
+</li>
+</ul>
+</li>
+
+</ol>
+
+<div style="margin-top: 40px; padding: 25px; border-radius: 10px;">
+<h4 style="font-size:1.5em; margin-bottom: 20px; text-align: center;">ФИНАЛЬНАЯ ФОРМУЛА</h4>
+
+<p style="font-size:1.4em; margin-bottom: 20px; text-align: center; font-weight: bold;">
+Железная Дисциплина = (Мотивация + 1% Силы Воли) x (Действия) / (Приоритеты + Баланс)
+</p>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<ul style="margin-left: 20px;">
+<li style="margin-bottom: 15px;">Убери «Приоритеты» и «Баланс» из знаменателя (сделай их равными 1).</li>
+<li style="margin-bottom: 15px;">Используй Мотивацию для старта.</li>
+<li style="margin-bottom: 15px;">Сохраняй 1% Силы Воли, чтобы не сойти с дистанции.</li>
+<li style="margin-bottom: 15px;">Включи Систему Действий (Фокус x Арена x Время x Практика x Энергия).</li>
+</ul>
+</div>
+
+<p style="font-size:1.2em; margin-top: 25px; text-align: center; font-weight: bold; padding-top: 20px;">
+Когда система запущена, ты больше не зависишь от настроения. Ты просто делаешь. Результат становится неизбежным.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_18",
+  title: "7 уроков самому себе за 2024 год",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/7%20уроков%20самому%20себе%20за%202024%20год.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/LY4IJtT-4BA?si=K44iKTPnePA_gQWa" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<h4 style="font-size:1.3em; margin-bottom: 15px;">7 ключевых уроков, усвоенных за прошедший год</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 30px;">
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Урок 1: Счастье можно купить</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Деньги как инструмент:</strong> Это не цель, а средство обмена на комфорт, безопасность близких и самый ценный ресурс — время. Когда у тебя нет денег, ты постоянно о них думаешь. Когда они есть — можешь думать о чём-то другом.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Истинное богатство:</strong> Это не фантики, которые могут обесцениться, а образование и реальные навыки. Они не обесценятся никогда.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Деньги — это алгоритм:</strong> Если ты выполняешь действия А и Б (например, осваиваешь навыки и создаёшь качественный продукт), то результат В (деньги) станет следствием.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Принцип потока:</strong> Нужно сделать так, чтобы деньги текли через тебя. Для этого — создавай предложения, от которых невозможно отказаться, играя на разнице между ценой и огромной ценностью.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Урок 2: Мы все умрём</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Ставка на себя:</strong> Поскольку всё заканчивается, главная и единственная осмысленная ставка — это инвестиции в прокачку собственного персонажа, в лучшую версию себя.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Знания = Опыт:</strong> Теория и чужой опыт — не знания. Знания — это только твой собственный, прожитый на практике опыт. Философ (любитель знаний) — это, по сути, мастер накопленного опыта.
+</li>
+</ul>
+<p style="margin-top: 10px; margin-bottom: 10px;"><strong>Особенности настоящего опыта:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;"><strong>Глубина, а не ширина:</strong> Долбить в одну точку продуктивнее, чем прыгать по верхам.</li>
+<li style="margin-bottom: 8px;"><strong>Эксперименты:</strong> Опыт создаётся через действие. Цель — убрать из жизни сожаления "а что, если бы...".</li>
+<li style="margin-bottom: 8px;"><strong>Ошибки — это уроки:</strong> В реальном мире сначала идёт "контрольная" (действие), а потом — усвоение материала. Ошибка — это не провал, а точка данных.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Урок 3: Когда получил послание — клади трубку</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Глитч саморазвития:</strong> Бесконечное потребление книг и курсов без практики — это "ментальная мастурбация". Это как читать книги о плавании, но не заходить в воду.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Действие — лучшее обучение:</strong> Настоящие изменения происходят, когда теория превращается в действие.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Ключевое осознание:</strong> Ты уже знаешь, что делать. Проблема не в нехватке знаний, а в недостатке действий и энергии на их совершение.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Урок 4: Энергия — твоя валюта</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Ценность времени определяется твоим уровнем энергии.</strong> Без энергии время утекает сквозь пальцы.
+</li>
+</ul>
+<p style="margin-top: 10px; margin-bottom: 10px;"><strong>Энергетические "чёрные дыры" (куда утекает энергия):</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Неоткалиброванный разум:</strong> Бегство в прошлое (сожаления) или будущее (тревоги). Единственное, что у тебя есть, — настоящее.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Люди с мировоззрением жертвы:</strong> Им не нужны решения, им нужно внимание к их проблемам. Их мышление заразно и высасывает энергию.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Новости и соцсети:</strong> Вызывают тревогу, страх и зависть. Ты в неравном бою с системами, цель которых — рейдерский захват твоего внимания.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Урок 5: Три навыка для новой экономики</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Провал системы образования:</strong> Она не учит агентности — главному навыку (самостоятельности и инициативности, умению учиться самому).
+</li>
+</ul>
+<p style="margin-top: 10px; margin-bottom: 10px;"><strong>Три фундаментальных навыка:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;"><strong>Читать</strong> = навык обучения и получения информации.</li>
+<li style="margin-bottom: 8px;">
+<strong>Писать</strong> = навык думать. Переводит мозг из режима потребления в режим создания, заставляет выстраивать логические связи.
+</li>
+<li style="margin-bottom: 8px;">
+<strong>Говорить</strong> = навык влиять и управлять вниманием. Речь не о дикции, а об умении заражать идеями и энергией.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Урок 6: Одиночество — это подарок</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Цена экстраординарности:</strong> Нельзя получить выдающиеся результаты, будучи "нормальным" и удобным для общества. Нужно отличаться — критическим мышлением, дисциплиной, уровнем энтузиазма.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Выбор конфликта:</strong> Лучше внешний конфликт (быть неудобным для других, но верным себе), чем внутренний (прогибаться и подшлифовывать себя).
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Различие:</strong> Уединение (сознательный выбор для роста) — это подарок. Изоляция (неосознанное одиночество) — это проблема. Уединение умерло с появлением смартфонов, и его нужно сознательно возвращать.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Урок 7: В чём же мой урок?</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Жизнь как учитель:</strong> Строгий, но справедливый. Она будет подкидывать одни и те же уроки в разных обёртках, пока ты их не усвоишь.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Учись и на успехах:</strong> Задавай вопрос "В чём мой урок?" не только после провалов, но и в моменты успеха, чтобы декодировать формулу своего успеха.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Битва никогда не кончается:</strong> Для того, кто движется вперёд, арена будет меняться, но битва за лучшую версию себя — вечна. Всегда оставайся "хорошим студентом" жизни.
+</li>
+</ul>
+</li>
+
+</ol>
+
+</div>
+`
+},
+{
+  id: "yt_19",
+  title: "Ты НАВСЕГДА перестанешь пользоваться соцсетями бессознательно после этого видео",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/ты%20навсегда%20перестанешь%20тратить%20безсознательно.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/cPY4ODM-iy4?si=DsqR8PwCEnpXtyvw" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Механизмы зависимости и путь к осознанности</h4>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h5 style="font-size:1.3em; margin-bottom: 15px;">1. КАК ТЕБЯ ПРЕВРАЩАЮТ В ЗАВИСИМОГО</h5>
+
+<p style="margin-bottom: 15px;"><strong>Гормональный механизм зависимости:</strong></p>
+<p style="margin-bottom: 15px;">
+Когда приходит уведомление, твой мозг переживает сложную химическую реакцию. Дофамин создает ощущение предвкушения - возможно, это важное сообщение или интересное событие. Одновременно вырабатываются кортизол и адреналин - гормоны стресса, вызванные неопределенностью. Эта комбинация создает мощнейший импульс, заставляющий тебя немедленно проверить телефон. Каждая такая проверка укрепляет нейронные связи, формируя устойчивую привычку.
+</p>
+
+<p style="margin-bottom: 15px;"><strong>Инженерные уловки:</strong></p>
+<p style="margin-bottom: 15px;">
+Бесконечная лента - это не случайность, а тщательно спроектированный механизм. В ранних версиях соцсетей лента заканчивалась, что давало тебе естественную паузу для возвращения в реальность. Современные алгоритмы устранили эту возможность. Автор бесконечной ленты позже выражал сожаление о своем изобретении, но механизм уже невозможно остановить.
+</p>
+
+<p style="margin-bottom: 15px;"><strong>Экономика внимания:</strong></p>
+<p style="margin-bottom: 15px;">
+Ты стал товаром в системе, где твое внимание - это валюта. Соцсети бесплатны потому, что настоящими клиентами являются рекламодатели. Чем дольше ты остаешься в приложении, тем больше данных о тебе собирается и тем дороже можно продать рекламные показы. Твоя лента персонализирована так, чтобы максимизировать время твоего пребывания в платформе.
+</p>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h5 style="font-size:1.3em; margin-bottom: 15px;">2. РЕАЛЬНАЯ ЦЕНА БЕССОЗНАТЕЛЬНОГО СКРОЛЛИНГА</h5>
+
+<p style="margin-bottom: 15px;"><strong>Хроноцид:</strong></p>
+<p style="margin-bottom: 15px;">
+Среднестатистические 2.5 часа в день в соцсетях кажутся незначительными, но в масштабе жизни это колоссальные потери. С 15 до 75 лет ты проводишь в ленте около 6 лет непрерывного времени. Это годы, которые ты не помнишь, которые прошли как в тумане, без реальных воспоминаний и переживаний.
+</p>
+
+<p style="margin-bottom: 15px;"><strong>Когнитивные последствия:</strong></p>
+<p style="margin-bottom: 15px;">
+Способность к глубокой концентрации - "Режиму Бога" - постепенно атрофируется. Многозадачность, которую навязывают соцсети, является иллюзией - на самом деле мозг просто быстро переключается между задачами, теряя до 23 минут на каждое такое переключение. Теряется способность погружаться в сложные задачи, требующие продолжительной фокусировки.
+</p>
+
+<p style="margin-bottom: 15px;"><strong>Психологический ущерб:</strong></p>
+<p style="margin-bottom: 15px;">
+Постоянное сравнение своих будней с чужими хайлайтами вызывает хроническую неудовлетворенность. Алгоритмы преимущественно показывают контент, вызывающий сильные эмоции - чаще всего негативные. Это приводит к тревожности, депрессивным состояниям, нарушениям сна и пищевого поведения.
+</p>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h5 style="font-size:1.3em; margin-bottom: 20px;">3. ПРАКТИЧЕСКИЕ ШАГИ К ОСОЗНАННОСТИ</h5>
+
+<div style="margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 10px;">Технические барьеры:</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">Начни с удаления социальных сетей с телефона. Оставь доступ только через компьютер - это создаст естественную паузу между импульсом и действием.</li>
+<li style="margin-bottom: 10px;">Отключи все уведомления, кроме действительно важных.</li>
+<li style="margin-bottom: 10px;">Переведи интерфейс в черно-белый режим - это визуально сделает контент менее привлекательным.</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 10px;">Изменение среды:</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">Создай физические барьеры между собой и телефоном. Клади устройство в другую комнату, используй специальные боксы с таймером.</li>
+<li style="margin-bottom: 10px;">Воспользуйся приложениями вроде OneSec, которые добавляют осознанную паузу перед открытием соцсетей.</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 10px;">Переход в активную позицию:</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">Превратись из потребителя в создателя контента. Начни вести блог, снимать видео, писать статьи.</li>
+<li style="margin-bottom: 10px;">Это кардинально меняет восприятие соцсетей - из источника развлечения они превращаются в инструмент для творчества и самовыражения.</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 10px;">Цифровая гигиена:</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">Установи четкие временные рамки для использования соцсетей. Например, только с 19:00 до 20:00.</li>
+<li style="margin-bottom: 10px;">Устраивай регулярные цифровые детоксы - начинай с одного дня в неделю, постепенно увеличивая продолжительность.</li>
+</ul>
+</div>
+
+<p style="margin-top: 20px; font-style: italic; padding: 15px; border-radius: 8px;">
+Каждое из этих изменений разрывает петлю зависимости и возвращает тебе контроль над собственным вниманием и временем. <strong>Осознанное использование соцсетей - это не про полный отказ, а про превращение их из хозяина в инструмент.</strong>
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_20",
+  title: "4 ключа для активации «Режима Бога»",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/4%20ключа%20для%20активации%20Режима%20Бога.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/PlzZuI5ojqc?si=huznMKO-eEOYnDgD" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Режим Бога — это ваша лучшая, максимально реализованная версия.</strong> Чтобы ее активировать, нужен прочный фундамент.
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 30px;">
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">Ключ 1: Ментальная антихрупкость (Стань Гидрой)</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Антихрупкость</strong> — это не просто устойчивость к стрессу, а способность становиться сильнее под его давлением. Как Гидра, у которой на месте отрубленной головы вырастают две новые.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Инструмент: Стоицизм.</strong> Это не про подавление эмоций, а про контроль над своей реакцией. Стоик, как термос, сохраняет внутреннее спокойствие независимо от внешних обстоятельств.
+</li>
+</ul>
+
+<p style="margin-top: 15px; margin-bottom: 10px;"><strong>Как тренировать:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Медитация:</strong> Наблюдайте за своими мыслями, не вовлекаясь. Это тренировка паузы между импульсом и действием.</li>
+<li style="margin-bottom: 10px;"><strong>Кардио (например, бег):</strong> Учитесь действовать, несмотря на дискомфорт и усталость.</li>
+<li style="margin-bottom: 10px;"><strong>Дневник:</strong> Фиксируйте мысли, чтобы «распутать клубок» в голове. Задавайте себе вопросы и давайте письменные ответы.</li>
+<li style="margin-bottom: 10px;"><strong>Самоанализ:</strong> Анализируйте свои реакции. Произошло X, я отреагировал Y, получил Z. Если Z не устраивает, в следующий раз меняйте Y.</li>
+<li style="margin-bottom: 10px;"><strong>Перспектива:</strong> Не давайте событиям сиюминутную оценку. Помните притчу о китайском крестьянине, который на все события говорил «может быть».</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">Ключ 2: Физическая антихрупкость (Максимизация энергии)</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+<strong>Ваше тело — оболочка персонажа, оно напрямую связано с ядром.</strong>
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 12px;">
+<strong>Проблема:</strong> Комфорт и легкодоступная калорийная еда ведут к лишнему весу и болезням. Вы едите не из-за голода, а от скуки или стресса.
+</li>
+</ul>
+
+<p style="margin-top: 10px; margin-bottom: 10px;"><strong>Решение:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">
+<strong>Осознанное питание:</strong> Вернитесь к мысли, что еда — это в первую очередь топливо. Сведите к минимуму ультраобработанные продукты.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Периодическое голодание (например, 16/8):</strong> Это не диета, а система питания, которая возвращает организм к его эволюционным настройкам. Помогает контролировать вес и повышает уровень энергии.
+</li>
+</ul>
+
+<p style="margin-top: 15px; padding: 10px; border-radius: 5px;">
+<strong>Итог:</strong> Ваша задача — максимизировать «емкость батарейки» здоровья, чтобы у вас было больше энергии для достижения целей.
+</p>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">Ключ 3: Свобода (Финансов, Времени, Местоположения)</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+<strong>Истинная свобода — это сочетание всех трех элементов.</strong>
+</p>
+
+<p style="margin-top: 10px; margin-bottom: 10px;"><strong>Принципы достижения свободы:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Деньги — это навык.</strong> Ему можно и нужно учиться.</li>
+<li style="margin-bottom: 10px;">Вы не станете богатым, сдавая время в аренду. Нужно создавать активы, которые работают на вас (игра в «богатство»), а не тратить все на демонстрацию статуса (игра в «деньги»).</li>
+<li style="margin-bottom: 10px;"><strong>Важнее над чем вы работаете, а не как усердно.</strong> Работайте над проектами, которые имеют потенциал масштабирования (Тесла, а не шашлычная).</li>
+<li style="margin-bottom: 10px;"><strong>Фокус — суперсила.</strong> Научитесь концентрироваться на одной задаче до ее завершения.</li>
+<li style="margin-bottom: 10px;"><strong>Используйте сложный процент.</strong> Это касается не только денег, но и знаний и репутации. Долгосрочная работа в одной области приносит экспоненциально большие результаты.</li>
+<li style="margin-bottom: 10px;"><strong>Другие должны хотеть познакомиться с вами.</strong> Вместо беготни по нетворкингам, сфокусируйтесь на том, чтобы стать профессионалом, к которому потянутся сами. Ваша репутация и компетенции — ваш пропуск.</li>
+<li style="margin-bottom: 10px;"><strong>Ставьте шкуру на кон.</strong> Берите на себя риски и ответственность. Только так вы воспитаете в себе настоящую антихрупкость.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">Ключ 4: Критическое мышление (Думай своей головой)</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+<strong>Современный мир атакует ваше внимание, чтобы сделать вас управляемой марионеткой.</strong>
+</p>
+
+<p style="margin-top: 10px; margin-bottom: 10px;"><strong>Как вернуть критический разум:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Верните себе свободное время.</strong> Останьтесь наедине со своими мыслями без внешних стимулов.</li>
+<li style="margin-bottom: 10px;"><strong>Включите «надсмотрщика».</strong> Наблюдайте за своими мыслями со стороны, анализируйте их.</li>
+<li style="margin-bottom: 10px;"><strong>Практикуйте письмо.</strong> Это лучший инструмент для структурирования мыслей и выявления мусорных убеждений.</li>
+<li style="margin-bottom: 10px;"><strong>Верните любопытство.</strong> Задавайте вопросы «почему?» как в детстве.</li>
+<li style="margin-bottom: 10px;"><strong>Проверяйте все на личном опыте.</strong> Не верьте слепо информации. Проводите собственные эксперименты (как с питанием или тренировками), чтобы найти свою истину.</li>
+</ul>
+</li>
+
+</ol>
+
+<div style="margin-top: 40px; padding: 20px; border-radius: 10px;">
+<p style="font-size:1.2em; font-weight: bold; margin-bottom: 15px;">
+Финальный вывод:
+</p>
+<p>
+<strong>Ваш потенциал уже в вас.</strong> Чтобы его раскрыть, нужно последовательно работать над собой: укреплять психику, заботиться о теле, создавать источники свободы и всегда мыслить критически.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_21",
+  title: "Режим дня: от 0 до 2+ млн руб/мес",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Режим%20дня%20с%200%20до%202%20млн%20в%20месяц.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/giaAic9bdJU?si=Xli4XwWboewQCqB9" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<div style="margin-bottom: 25px; padding: 15px; border-radius: 8px;">
+<p style="font-size:1.2em; font-weight: bold; margin-bottom: 10px;">
+Философия:
+</p>
+<p>
+Успех — это не тумблер, который можно включить раз и навсегда. Это процесс и привычка «кусать жизнь». Если не прогрессируешь — регрессируешь. <strong>Основа — дисциплина, а не мотивация.</strong> Ваша сила — только внутри вас.
+</p>
+</div>
+
+<h4 style="font-size:1.4em; margin-bottom: 20px;">Утро (5:00 - 8:00): Фундамент дня</h4>
+
+<ul style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 20px;">
+<strong>5:00 - Подъем.</strong> Цель — взять жизнь под контроль до начала суеты. Это тренировка дисциплины. Неважно, «сова» вы или «жаворонок» — мозг можно перепрограммировать.
+<p style="margin-top: 10px;"><strong>Как вставать:</strong></p>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">Примите, что будет тяжело.</li>
+<li style="margin-bottom: 8px;">Используйте «умный» будильник, имитирующий рассвет.</li>
+<li style="margin-bottom: 8px;">Сразу вставайте с кровати.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Утренняя рутина (5:00 - 5:30):</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Вода с электролитами (1-1,5 л). Восполняет потерю жидкости за ночь.</li>
+<li style="margin-bottom: 8px;">Легкая разминка (15 мин). Приседания, отжимания, растяжка — чтобы проснуться.</li>
+<li style="margin-bottom: 8px;">Холодный душ. Тренирует дисциплину и мгновенно бодрит.</li>
+<li style="margin-bottom: 12px;">
+<strong>Кофе («Эликсир режима бога»).</strong><br>
+<strong>Правила:</strong> Не пить сразу после пробуждения (выждать 40-60 мин). Пить только крепкий (американо, эспрессо). Стоп-кран — за 10 часов до сна. Регулярно устраивать дни без кофе, чтобы «почистить рецепторы».
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Главный грех утра:</strong> Брать в руки телефон и проверять соцсети/чаты. Вы включаете режим реакции, а не производства, и забиваете мозг мусором до того, как он начал работать.
+</li>
+</ul>
+
+<h5 style="font-size:1.2em; margin-bottom: 15px;">Глубинная работа «Deep Work» (5:30 - 8:00)</h5>
+<ul style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 12px;"><strong>Deep Work</strong> — это сконцентрированная работа над сложной, когнитивной задачей без отвлечений. Это создание ценности (написание сценариев, программирование, создание систем бизнеса).</li>
+<li style="margin-bottom: 12px;"><strong>Поверхностная работа</strong> — это ответы на сообщения, созвоны, рутинные задачи. Она лишь поддерживает функционирование, но не дает роста.</li>
+</ul>
+<p style="margin-bottom: 15px;"><strong>Правила Deep Work:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 8px;"><strong>Приоритет:</strong> Это самое важное, поэтому делается первым.</li>
+<li style="margin-bottom: 8px;"><strong>Одна цель на блок:</strong> Не «написать 5 страниц», а «работать над сценарием».</li>
+<li style="margin-bottom: 8px;"><strong>Ноль отвлечений:</strong> Телефон убрать, уведомления выключить.</li>
+<li style="margin-bottom: 8px;"><strong>Ритуал:</strong> Рабочее место, наушники с шумоподавлением, кофе. Мозг привыкает к последовательности.</li>
+<li style="margin-bottom: 8px;"><strong>Нестимулирующие перерывы:</strong> Отдых не должен быть интереснее работы (прогулка, медитация, а не соцсети).</li>
+</ul>
+
+<h4 style="font-size:1.4em; margin-bottom: 20px;">Рабочий день (8:00 - 17:00)</h4>
+
+<ul style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 20px;">
+<strong>8:00 - 8:30</strong> — Проверка чатов и почты. Необходимое зло для управления текущим бизнесом. Планирование дня.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>8:30 - 9:30</strong> — Второй блок Deep Work. Менее продуктивный, чем утренний, но все же эффективный.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>9:30 - 12:00</strong> — «Календарь менеджера» (встречи-дементоры).<br>
+<strong>Правила:</strong> Встречи без цели — отклонять. Сокращать время встреч (15-30 мин). Проводить встречи на ходу. Всегда готовиться заранее (изучить собеседника). Включать камеру и выглядеть профессионально. Делать заметки.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>12:00 - 13:00</strong> — Медиабизнес (YouTube, Telegram). Философия — игра в долгую, создание ценности с накопительным эффектом.<br>
+<strong>Принципы:</strong> Минимум одноразовых действий (сторис). Никаких созвонов (только лум-видео и сообщения). Автоматизация всего, что можно. Фокус на продуктивизации себя.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>13:00 - 14:30</strong> — Восстановление энергии (Тренировка + холодная ванна).<br>
+<strong>Тренировка:</strong> Каждый день, но с разной интенсивностью (исходя из самочувствия). Цель — не «порвать себя», а зарядиться энергией. Миксуйте виды активности (бег, баскетбол, бокс).<br>
+<strong>Холодная ванна:</strong> Тренирует фокус на «здесь и сейчас» и дает прилив энергии.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>14:30 - 15:00</strong> — Обед.<br>
+<strong>Принципы питания:</strong> Периодическое голодание (окно 6-8 часов). Еда как топливо (качественные белки, овощи, минимум обработанной пищи). Автоматизация (доставка, кафе). Осознанное потребление (есть в тишине, без телефона).
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>15:00 - 15:30</strong> — Искусство подремать (сиеста). Мощнейший буст продуктивности.<br>
+<strong>Как:</strong> Будильник на 20-30 минут, маска для глаз, техника дыхания 4-7-8. Проснулся — сразу за работу, без соцсетей.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>15:30 - 17:00</strong> — Рабочий блок «Надо». Задачи, которые требуют силы воли и дисциплины, а не вдохновения (финансы, рабочие чаты, коммуникация с командой).
+</li>
+</ul>
+
+<h4 style="font-size:1.4em; margin-bottom: 20px;">Вечер (17:00 - 22:00): Восстановление и жизнь</h4>
+
+<ul style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 20px;">
+<strong>17:00 - 18:00</strong> — Ритуал окончания рабочего дня.<br>
+Закрыть открытые петли: Проверить задачи, почту, чаты.<br>
+План на завтра: Определить задачи для Deep Work и поверхностной работы.<br>
+Ментальная точка: Символическое действие (например, написать и порвать листок «Я закончил работать на кого-либо сегодня»).
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>18:00 - 19:00</strong> — Сила длинных прогулок.<br>
+Интегральная привычка: Физическая активность + потребление качественного контента (аудиокниги, подкасты) + генерация собственных идей. Половину пути — слушать, половину — думать и делать заметки.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>19:00 - 19:30</strong> — Снятие аллостатической нагрузки (накопленного стресса).<br>
+Активное восстановление: Баня/сауна, холодная вода, медитация, дыхательные практики. Это не пассивное лежание на диване, а осознанная «чистка» мозга.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>19:30 - 21:00</strong> — Свободное время (3 опции):<br>
+1. Работа над контентом (приоритет, если есть дедлайн).<br>
+2. Свидание. Ценность не в красоте (это ширпотреб), а в моральных качествах и общих ценностях. Чтобы иметь выбор, нужно самому соответствовать высоким стандартам («формула И, но, и»: И деньги, но не жадный; И в форме, но не зациклен; и т.д.).<br>
+3. Встречи с друзьями. Качество важнее количества. Основа дружбы: взаимное уважение, развитие, профессионализм, отсутствие нытья.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>21:00 - 22:00</strong> — Час «ничегонеделания». Планируемое время для отдыха без чувства вины (просмотр YouTube по интересам, расслабление).
+</li>
+</ul>
+
+<h5 style="font-size:1.2em; margin-bottom: 15px;">Завершение дня (22:00)</h5>
+<p style="margin-bottom: 25px;">
+<strong>Сон — главный инструмент продуктивности.</strong> Будильник ставится не только на подъем, но и на отбой. Завтра — новая битва, и к ней нужно быть готовым.
+</p>
+
+<h4 style="font-size:1.4em; margin-bottom: 20px;">Ключевые ментальные модели</h4>
+<ul style="margin-left: 20px; margin-bottom: 30px;">
+<li style="margin-bottom: 15px;">
+<strong>Новичок vs Профессионал:</strong><br>
+<strong>Новичок:</strong> работает на мотивации, ищет отговорки, уверенность внешняя, эготист (ищет одобрение), чилит.<br>
+<strong>Профессионал:</strong> работает на дисциплине, не имеет отговорок, уверенность внутренняя, эгоист (питается изнутри), восстанавливается.
+</li>
+<li style="margin-bottom: 12px;"><strong>Деньги — это навык, а не дар свыше.</strong></li>
+<li style="margin-bottom: 12px;"><strong>Важнее над чем вы работаете, а не как усердно.</strong></li>
+<li style="margin-bottom: 12px;"><strong>Создавайте ценность (игра в богатство), а не гонитесь за статусом (игра в деньги).</strong></li>
+<li style="margin-bottom: 12px;"><strong>Ваш круг общения определяет ваш уровень. Большинство людей не хочет, чтобы у вас было лучше, чем у них.</strong></li>
+</ul>
+
+<div style="margin-top: 30px; padding: 20px; border-radius: 10px;">
+<p style="font-size:1.2em; font-weight: bold; margin-bottom: 15px;">
+Итог:
+</p>
+<p>
+Этот режим дня — всего лишь инструмент. Настройте его под свои цели. <strong>Самый главный тест на интеллект — сможете ли вы получить от жизни то, что действительно хотите.</strong>
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_22",
+  title: "9 вирусов, блокирующих «Режим Бога»",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/9%20вирусов,%20блокирующих%20режим%20бога.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/7-ciLZMrmaM?si=6GSF43q_QsGhEAwu" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Режим Бога — это состояние, в котором вы — главный герой своей жизни, действуете осознанно и создаете реальность.</strong> Режим бота — это жизнь на автопилоте, по чужим сценариям.
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 30px;">
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 1: Некритичное копирование</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Вы бессознательно перенимаете чужие убеждения, модели поведения и «программное обеспечение», не задаваясь вопросом, полезны ли они вам.</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> Убеждения вроде «деньги — зло», «все богатые — жулики», «честным трудом не разбогатеть». Они заставляют вас подсознательно избегать денег и успеха.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Критическое мышление.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Постоянно спрашивайте себя: «Это убеждение делает меня сильнее или слабее? Приносит оно мне пользу или вред?».</li>
+<li style="margin-bottom: 8px;">Проводите регулярную «диагностику» своего мышления. Не принимайте информацию на веру.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 2: Беззубая жизнь (Отсутствие риска)</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Вы никогда по-настоящему не испытываете свои силы, не рискуете и не вкладываетесь в себя. Вы «бережете» свой потенциал на потом, которое никогда не наступает.</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> Не использовать молодость и энергию для прихода в феноменальную форму. Не рисковать, чтобы начать свой бизнес, предпочитая стабильную, но ограничивающую работу по найму.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Действие и риск.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Начинайте что-то делать. Ошибайтесь. Выглядите глупо.</li>
+<li style="margin-bottom: 8px;">Поймите: всем вокруг в основном все равно на ваши успехи и неудачи. Страх осуждения — иллюзия.</li>
+<li style="margin-bottom: 8px;">Бойтесь, но делайте все равно. Бездействие гарантирует, что через год вы окажетесь в той же точке, только станете старше.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 3: Бесконтрольные желания («Я хочу»)</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Желание — это контракт с самим собой быть несчастным, пока вы не получите желаемое. Чем больше неисполненных «хочу», тем ниже уровень счастья (Счастье = Реальность - Ожидания).</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> Желание купить новейший гаджет или модную вещь, возникшее не из реальной потребности, а под влиянием рекламы и окружения.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Контроль и фокус.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Осознавайте, откуда берутся ваши желания. Не позволяйте ими манипулировать.</li>
+<li style="margin-bottom: 8px;">Фокусируйтесь на одном главном желании/цели в единицу времени. Не распыляйтесь.</li>
+<li style="margin-bottom: 8px;">Разделяйте большие цели на «квесты» и проходите их последовательно.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 4: Неправильное обучение</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Обучение ради получения диплома или накопления теоретических знаний, которые не применяются на практике. Это создает «интеллектуальных идиотов» — образованных, но неспособных к действию.</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> 9 лет готовиться к бизнесу, получая MBA, но так и не начав его.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Обучение через действие.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Помните: настоящее обучение — это изменение в поведении.</li>
+<li style="margin-bottom: 8px;">Прямой опыт (действие) — король.</li>
+<li style="margin-bottom: 8px;">Используйте чужой опыт, но проверяйте его через «принципы первого порядка» (фундаментальные истины, например, для YouTube: «платформа продвигает контент, который удерживает зрителей»).</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 5: Неумение мечтать</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Отсутствие смелых, вдохновляющих целей, особенно в среде, где такие цели кажутся недостижимыми (малые города).</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> Окружение, где максимум — это работа «в нефтянке» с циклами работы и запойного отдыха.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Концепт «Антибудущего».</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Начните с того, чего вы точно не хотите. Проанализируйте жизнь людей вокруг — хотите ли вы оказаться на их месте?</li>
+<li style="margin-bottom: 8px;">Составьте подробный список того, от чего хотите избавиться.</li>
+<li style="margin-bottom: 8px;">Спроектируйте свой «идеальный обычный вторник» в деталях. Качество жизни определяется качеством будней, а не редких ярких событий.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 6: Пренебрежение здоровьем</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Тратить время и здоровье на зарабатывание денег, чтобы потом тратить деньги на восстановление здоровья. Отсутствие энергии для великих свершений.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Инвестиции в здоровье.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Регулярные тренировки (2-3 раза в неделю по 30-40 минут) — это минимальная цена за энергию, ясность ума и продление «пиковой» формы.</li>
+<li style="margin-bottom: 8px;">Здоровое тело дает уверенность и привлекает людей.</li>
+<li style="margin-bottom: 8px;">Найдите время, пересмотрев свое «экранное время» в телефоне.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 7: Потребление ментального фастфуда</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Бессмысленное потребление контента (сериалы, желтые новости, соцсети), который не делает вас умнее, сильнее или лучше. Это форма социального программирования.</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> Просмотр сериалов, где главный герой — «эмоциональный идиот», неспособный к действию в критической ситуации.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Осознанное потребление.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Спрашивайте себя: «Это делает меня умнее, здоровее или сильнее?».</li>
+<li style="margin-bottom: 8px;">Проверяйте новости на достоверность, смотря на старые заголовки. Помните: «Мужчины врут, женщины врут, а цифры — нет».</li>
+<li style="margin-bottom: 8px;">Позволяйте манипулировать собой, чтобы понять механизм, но используйте разум, чтобы выйти из ловушки победителем.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 8: Хроническое беспокойство</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Постоянное состояние тревоги, вызванное информационным шумом, навязанными желаниями и страхом нехватки денег. Мозг в режиме «параноика», реагирующий на «зайцев» как на «саблезубых тигров».</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Чистота сознания через действие и анализ.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;"><strong>Действие:</strong> Дайте мозгу конкретную задачу (например, «заработать X суммы»), а не повод для беспокойства.</li>
+<li style="margin-bottom: 8px;"><strong>Медитация:</strong> Садитесь в тишине, слушайте свой «внутренний диалог» как наблюдатель. Это «чистка» операционной системы.</li>
+<li style="margin-bottom: 8px;"><strong>Письмо:</strong> Выписывайте мысли на бумагу, чтобы «распутать клубок» и увидеть картину целиком.</li>
+<li style="margin-bottom: 8px;"><strong>Прогулки на природе:</strong> Помогают упорядочить мысли.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.2em;">Вирус 9: Менталитет бедняка</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Глубинное убеждение, что богатство недостижимо честным путем, что богатые — плохие, а быть бедным — почти что морально превосходно. Это установка, внедренная для воспитания управляемого персонажа.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот: Мышление создателя.</strong></li>
+</ul>
+<ul style="margin-left: 40px; margin-top: 5px; margin-bottom: 10px;">
+<li style="margin-bottom: 8px;">Поймите разницу: деньги — инструмент; богатство — активы, которые работают на вас.</li>
+<li style="margin-bottom: 8px;">Играйте в игру «создания ценности» (как Тимур с карпами), а не в игру «статуса».</li>
+<li style="margin-bottom: 8px;"><strong>Формула богатства:</strong> (Желание + Навыки + Количество попыток) * Рычаги.</li>
+<li style="margin-bottom: 8px;">Используйте современные рычаги, не требующие разрешения других людей: <strong>код и медиа</strong> (создание контента).</li>
+</ul>
+</li>
+
+</ol>
+
+<div style="margin-top: 40px; padding: 20px; color: white; border-radius: 10px;">
+<p style="font-size:1.3em; font-weight: bold; margin-bottom: 15px; text-align: center;">
+Финальный вывод:
+</p>
+<p style="text-align: center; font-size:1.1em;">
+<strong>Ваша задача — установить «антивирус» критического мышления, брать ответственность на себя и постоянно действовать. Создавайте себя, иначе это сделают за вас.</strong>
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_23",
+  title: "97,5% советов о ПРОДУКТИВНОСТИ - это БРЕД. Вот рабочая система",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/97,5%25%20советов%20о%20ПРОДУКТИВНОСТИ%20-%20это%20БРЕД.%20Вот%20рабочая%20система.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/Eq4tf3KFsEo?si=o-JMRoIppK6YDUg9" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Большинство советов о продуктивности не работают, потому что игнорируют главное препятствие — внутреннее сопротивление.</strong>
+</p>
+<p style="margin-bottom: 25px;">
+Сопротивление — это внутренний голос, который саботирует ваши усилия: «ты не готов», «это слишком сложно», «начнешь с понедельника». Ваша реакция на сопротивление делит мир на две категории:
+</p>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">1. Любитель vs. Профессионал (по Стивену Прессфилду)</h4>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+<div style="flex: 1; min-width: 300px; padding: 15px; border-radius: 8px;">
+<h5 style="font-size:1.2em; margin-bottom: 15px;">Любитель</h5>
+<ul style="margin-left: 20px;">
+<li style="margin-bottom: 8px;">Работает на мотивации. Ждет вдохновения (музы).</li>
+<li style="margin-bottom: 8px;">Имеет отговорки на все случаи жизни. Винит обстоятельства.</li>
+<li style="margin-bottom: 8px;">Не уверен и бездействует.</li>
+<li style="margin-bottom: 8px;">Жертва.</li>
+</ul>
+</div>
+
+<div style="flex: 1; min-width: 300px; padding: 15px; border-radius: 8px;">
+<h5 style="font-size:1.2em; margin-bottom: 15px;">Профессионал</h5>
+<ul style="margin-left: 20px;">
+<li style="margin-bottom: 8px;">Работает на дисциплине. Действует, даже когда нет настроения.</li>
+<li style="margin-bottom: 8px;">Не имеет права на отговорки. Действует по принципу «получилось, несмотря на...».</li>
+<li style="margin-bottom: 8px;">Не уверен, но действует.</li>
+<li style="margin-bottom: 8px;">Выживший.</li>
+</ul>
+</div>
+</div>
+
+<p style="font-style: italic; padding: 10px; border-radius: 5px;">
+<strong>Как стать профессионалом:</strong> Начните делать действия, которые делает профессионал. Ваши привычки определяют вашу идентичность.
+</p>
+</div>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">2. Что такое настоящая продуктивность?</h4>
+<p style="margin-bottom: 15px;">
+<strong>Продуктивность в интеллектуальном труде — это не количество, а качество и ценность.</strong>
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;">
+<strong>Линейная продуктивность</strong> (таксист, рабочий на заводе): результат прямо пропорционален времени.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Экспоненциальная продуктивность</strong> (программист, писатель, создатель): долгое время кажется, что ничего не происходит, а затем следует прорыв с огромной ценностью (результат 10x).
+</li>
+</ul>
+<p style="font-weight: bold;">
+Задача — создавать условия для глубокой работы, которая и рождает такую ценность.
+</p>
+</div>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">3. Система Глубокой Работы (по Кэлу Ньюпорту)</h4>
+<p style="margin-bottom: 15px;">
+Чтобы создавать ценность, нужны условия для глубокого погружения. <strong>Правило «четырех одно»:</strong>
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;">
+<strong>Одно время.</strong> Выделяйте в расписании непрерывные блоки (например, с 10:00 до 13:00) для глубокой работы. Найдите свои энергетические пики.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Одно место.</strong> Имейте фиксированное рабочее место. Мозг связывает контекст с действием, и это помогает быстрее входить в состояние фокуса.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Одни и те же триггеры.</strong> Создайте ритуалы, сигнализирующие мозгу о начале работы (например, определенный сорт кофе, плейлист для продуктивности, надевание наушников).
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Одна цель.</strong> Фокусируйтесь на одной сложной задаче за раз. Мультитаскинг убивает глубину.
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">4. Сила осознанного отдыха</h4>
+<p style="margin-bottom: 20px;">
+<strong>Отдых — это не безделье, а активный процесс восстановления.</strong> Это партнер труда, а не его противоположность.
+</p>
+
+<div style="margin-left: 20px; margin-bottom: 25px;">
+<p style="font-weight: bold; margin-bottom: 10px;">Физический отдых (активный):</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;">Вымывает гормон стресса (кортизол).</li>
+<li style="margin-bottom: 8px;">Вырабатывает гормоны счастья (эндорфины).</li>
+<li style="margin-bottom: 8px;">Улучшает кровоснабжение мозга, делая вас умнее.</li>
+</ul>
+</div>
+
+<div style="margin-left: 20px; margin-bottom: 25px;">
+<p style="font-weight: bold; margin-bottom: 10px;">Умственный отдых (режим мозга по умолчанию):</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;">Прогулки без цели, медитация, душ, мытье посуды.</li>
+<li style="margin-bottom: 8px;">В этом режиме мозг перерабатывает информацию и выдает прорывные идеи и озарения.</li>
+<li style="margin-bottom: 8px;">Современный человек лишил себя этого типа отдыха, постоянно залипая в соцсетях.</li>
+</ul>
+</div>
+
+<p style="font-size:1.1em; font-weight: bold; text-align: center; padding: 15px; border-radius: 8px; margin-top: 20px;">
+<strong>Формула мастерства:</strong><br>
+10 000 часов осознанной практики + 10 000 часов осознанного отдыха + 30 000 часов качественного сна
+</p>
+</div>
+
+<div style="margin-top: 40px; padding: 25px; border-radius: 10px;">
+<h4 style="font-size:1.5em; margin-bottom: 20px; text-align: center;">Итог: Ваша Новая Реальность</h4>
+<p style="font-size:1.2em; margin-bottom: 20px; text-align: center;">
+<strong>Секрет экстраординарной продуктивности не в лайфхаках, а в системе:</strong>
+</p>
+
+<ul style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 15px;">
+<strong>Станьте профессионалом:</strong> Признавайте сопротивление, но действуйте на дисциплине.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Внедрите глубокую работу:</strong> Создавайте ценность, используя правило «четырех одно».
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Отдыхайте осознанно:</strong> Используйте активный отдых и режим «по умолчанию» для восстановления и генерации идей.
+</li>
+</ul>
+
+<p style="font-style: italic; text-align: center; margin-top: 25px; padding-top: 20px;">
+Когда вас спросят о секрете успеха, вы сможете честно ответить: «Я делаю то, что люблю, не дожидаясь вдохновения. Я много сплю, гуляю, занимаюсь спортом и постоянно учусь делать свою работу немного лучше». <strong>В этом и есть настоящая продуктивность.</strong>
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_24",
+  title: "Вот что я понял за 10 лет за границей",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/вот%20что%20я%20понял%20за%2010%20лет%20за%20границей.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/WS26OtmhTJo?si=ItwtFTLh93MIh6qi" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">10 лет назад я уехал из России. За это время я жил в Китае, США, Индонезии, Таиланде, Филиппинах.</strong> Вот главные выводы, которые я сделал за это время.
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 30px;">
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.25em;">Вывод №1: Хочешь поменять жизнь — отправляйся в одинокое путешествие</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Мой опыт:</strong> Мой первый день в Китае в 2014 году. Я не говорил ни на китайском, ни на английском. С двумя чемоданами, без интернета и с купюрами рублей, которые никто не брал, я с помощью мычания и жестов пытался заселиться в общежитие в 40-тысячном университетском городке. Это было начало 4-летнего пути.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Суть вывода:</strong> Оказавшись в одиночестве в новой стране, ваше прошлое программирование (убеждения, навязанные обществом, школой, окружением) останавливается. Вы оказываетесь в вакууме, где у вас появляется уникальный выбор — сформировать свои собственные мысли.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Почему это работает:</strong> Ваши мысли определяют ваши действия, а действия определяют вашу жизнь. Чтобы поменять жизнь, нужно сначала поменять мысли. Одинокое путешествие в новую среду — самый мощный катализатор для этого.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.25em;">Вывод №2: Хочешь интересную историю — ассимилируйся</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Мой опыт:</strong> Переехав в Чикаго, я, вопреки советам об опасности, погрузился в местную жизнь с головой. Я играл в баскетбол в самом криминальном районе города, где был единственным белым в зале, и слышал в свой адрес угрозы. Параллельно я играл в 6 утра с состоятельными бизнесменами в пригороде.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Суть вывода:</strong> Многие мигранты за границей общаются только с соотечественниками, создавая мини-гетто. В этом случае вы просто меняете картинку за окном, но не проживаете настоящий опыт.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Почему это работает:</strong> Чтобы получить самую интересную и насыщенную историю, нужно полностью погрузиться в общество, где вы находитесь: заводить местных друзей, ходить на их тусовки, понимать их культуру изнутри.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 30px;">
+<strong style="font-size:1.25em;">Вывод №3: Не попадай на крючок «иллюзии мигранта»</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Мой опыт:</strong> Я думал, что Америка — это Диснейленд, где сбываются все мечты. Реальность оказалась иной: тебя никто не ждет, а в местном супермаркете нет твоего любимого творога. Сравнивая жизнь в мегаполисе (например, Москве) и на Бали, я понял, что везде есть цена.
+</li>
+<li style="margin-bottom: 12px;">
+<strong>Суть вывода:</strong> Не существует идеального места, где вас ждет готовая «лучшая жизнь». Это иллюзия. Каждое место имеет свои плюсы и минусы.
+</li>
+</ul>
+
+<div style="margin-left: 40px; margin-top: 15px; margin-bottom: 15px;">
+<p style="font-weight: bold; margin-bottom: 8px;">Мегаполис:</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;">Плюсы: Карьера в корпорации, культура, инфраструктура.</li>
+<li style="margin-bottom: 8px;">Минусы: Ценной является время, фокус и энергия, которые съедают дороги и суета.</li>
+</ul>
+</div>
+
+<div style="margin-left: 40px; margin-top: 15px; margin-bottom: 15px;">
+<p style="font-weight: bold; margin-bottom: 8px;">Деревня/курорт:</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;">Плюсы: Свобода, природа, фокус.</li>
+<li style="margin-bottom: 8px;">Минусы: Ценной является отсутствие качественной медицины, инфраструктуры и культурной жизни.</li>
+</ul>
+</div>
+
+<ul style="margin-left: 20px;">
+<li style="margin-bottom: 12px;">
+<strong>Почему это важно:</strong> Ключ к лучшей жизни — не в локации, а в качестве деятельности, которой вы занимаетесь. А для качественной деятельности (фриланс, предпринимательство) нужны три вещи: ноутбук, интернет и фокус. Современные технологии демократизировали возможности, и сегодня можно «отвязать» себя от конкретного места. Главное — честно определить, какие плюсы для вас важны, и какую цену вы готовы за них платить.
+</li>
+</ul>
+</li>
+
+</ol>
+
+</div>
+`
+},
+{
+  id: "yt_25",
+  title: "5 БАДов, чтобы включить \"Режим Бога\" в реальной жизни",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/7%20БАДов,%20чтобы%20включить%20режим%20Бога.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/E8xeS8U7TWY?si=Kvfh95watnryGxMY" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Волшебной таблетки NZT из «Областей тьмы» не существует.</strong> Но есть комплекс добавок, который может выжать из вашего мозга дополнительные 5-15%, помогая войти в состояние потока — тот самый «Режим Бога».
+</p>
+<p style="margin-bottom: 30px; font-style: italic; padding: 15px; border-radius: 8px;">
+<strong>ВАЖНО:</strong> Эти БАДы — не волшебная пилюля, а добавки. Они работают только при наличии фундамента.
+</p>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Фундамент: Верните себе украденный фокус</h4>
+<p style="margin-bottom: 15px;">
+<strong>Прежде чем принимать что-либо, задайте себе 3 вопроса:</strong>
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;">У вас включены уведомления на телефоне?</li>
+<li style="margin-bottom: 10px;">Вы часто залипаете в рилсы, тиктоки и другой цифровой фастфуд?</li>
+<li style="margin-bottom: 10px;">Вы читали книгу после школы?</li>
+</ul>
+<p style="margin-bottom: 20px;">
+Если вы ответили «да» — привычки фокусироваться у вас нет. Ее украли. <strong>Верните ее, прежде чем что-либо принимать.</strong>
+</p>
+
+<p style="margin-bottom: 15px;"><strong>Как вернуть фокус:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;">Не берите телефон сразу после пробуждения. Программируйте себя на создание, а не потребление.</li>
+<li style="margin-bottom: 8px;">Отключите уведомления. Не позволяйте другим красть ваше внимание.</li>
+<li style="margin-bottom: 8px;">Уберите цифровой фастфуд. Короткие видео разрушают способность к концентрации.</li>
+<li style="margin-bottom: 8px;">Тренируйте фокус через чтение книг.</li>
+<li style="margin-bottom: 8px;">Найдите проект, который полностью поглотит ваше внимание.</li>
+</ul>
+<p style="font-weight: bold;">
+Только с этим фундаментом добавки дадут максимальный эффект.
+</p>
+</div>
+
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Протокол из 5 БАДов для «Режима Бога»</h4>
+<p style="margin-bottom: 20px; text-align: center;">
+<strong>Эти добавки работают в комплексе, как часть дневного протокола.</strong>
+</p>
+
+<ol style="margin-left: 20px; margin-bottom: 30px;">
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">БАД №1: Электролиты (Фундамент ясности ума)</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 12px;">
+<strong>Проблема:</strong> Современная вода гиперочищена и не восполняет минералы. Обезвоживание и дисбаланс электролитов (натрий, калий, магний) приводят к «туману в голове», усталости и плохой проводимости нейронных связей.
+</li>
+<li style="margin-bottom: 12px;"><strong>Решение:</strong> Восполнять электролиты.</li>
+</ul>
+<p style="margin-top: 15px; margin-bottom: 10px;"><strong>Протокол:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">
+<strong>Сразу после пробуждения:</strong> Растворить пакетик электролитов (например, с содержанием ~480 мг натрия, 175 мг калия) в 1 литре воды. Ночью организм обезвожен, и ему нужна не просто вода, а вода с минералами.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Во время тренировки:</strong> Пить воду с электролитами для компенсации интенсивных потерь.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">БАД №2: Кофеин + L-Теанин (Эликсир фокуса)</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Это «турбокнопка» для входа в состояние потока. Но использовать ее нужно правильно.
+</p>
+<p style="margin-bottom: 15px;"><strong>Правила приема кофеина:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;">Не пейте кофе сразу после пробуждения. Дайте естественному кортизолу сделать свою работу. Отсрочьте прием на 60-90 минут.</li>
+<li style="margin-bottom: 10px;">Используйте «стоп-кран». Период полураспада кофеина — 6 часов. Не пейте кофе за 8-10 часов до сна, чтобы не нарушать его качество.</li>
+<li style="margin-bottom: 10px;">Пейте крепкий кофе. Латте и капучино не подходят — белки и жиры молока замедляют усвоение кофеина. Идеально — американо или эспрессо.</li>
+</ul>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 10px;"><strong>L-Теанин — секретный ингредиент:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">
+<strong>Проблема:</strong> Чистый кофеин может вызывать нервозность и тревожность («кофеиновая тревожка»), мешая фокусу.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Решение:</strong> L-Теанин (содержится в зеленом чае) убирает побочные эффекты кофеина.
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Протокол:</strong> Примите 250 мг L-Теанина перед чашкой кофе. Эффект — «дзен-фокус»: спокойная, собранная и глубокая концентрация без тревоги.
+</li>
+</ul>
+</div>
+</li>
+
+<li style="margin-bottom: 35px;">
+<strong style="font-size:1.25em;">БАД №4 и №5: Цинк и Магний (Почва для мотивации и энергии)</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Чтобы «Режим Бога» включался легче, нужно работать с первоисточником — дофамином и тестостероном (важен и для мужчин, и для женщин для уровня энергии и мотивации). Чем выше чувствительность рецепторов, тем меньше стимуляции нужно для входа в поток.
+</p>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 10px;"><strong>Цинк (БАД №4):</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;"><strong>Роль:</strong> Строительный материал для производства тестостерона.</li>
+<li style="margin-bottom: 8px;"><strong>Протокол:</strong> 20-40 мг цинка перед сном.</li>
+</ul>
+</div>
+
+<div style="margin-left: 20px; margin-bottom: 20px;">
+<p style="font-weight: bold; margin-bottom: 10px;"><strong>Магний (БАД №5):</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 8px;"><strong>Роль:</strong> Естественный релаксант для нервной системы. Улучшает качество сна — главный фактор выработки тестостерона и восстановления мозга.</li>
+<li style="margin-bottom: 8px;"><strong>Протокол:</strong> 200-400 мг магния перед сном (в электролитах его доза слишком мала).</li>
+</ul>
+</div>
+</li>
+
+</ol>
+
+<div style="margin-top: 40px; padding: 25px; color: white; border-radius: 10px;">
+<p style="font-size:1.3em; font-weight: bold; margin-bottom: 15px; text-align: center;">
+Итог
+</p>
+<p style="text-align: center; font-size:1.1em;">
+<strong>Этот протокол — не волшебная таблетка, а инструмент.</strong> Он поможет разблокировать состояние потока, если у вас есть дисциплина, фокус и базовые привычки. <strong>Настоящая «волшебная пилюля» — это вы сами.</strong>
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_26",
+  title: "Ты НАВСЕГДА перестанешь смотреть Reels, Shorts, Tiktok, после этого видео",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/ты%20навсегда%20перестанешь%20смотреть%20тик%20токи.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/c2zSpjpCHfY?si=RknqOx3IyWeDH9Os" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Вы уже знаете, что короткий контент убивает фокус. Но это лишь верхушка айсберга.</strong> Настоящая проблема гораздо глубже. Короткие видео действуют как дементор, который высасывает вашу жизненную энергию. Когда вы это поймете, вы перестанете их смотреть навсегда.
+</p>
+
+<div style="margin-bottom: 35px; padding: 20px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Что вы на самом деле смотрите? Вы листаете эмоции</h4>
+<p style="margin-bottom: 15px;">
+Вы смотрите не видео, а самые популярные, «вирусные» ролики. А вирусным видео становится только то, что вызывает сильную эмоцию.
+</p>
+<p style="margin-bottom: 15px;"><strong>Какие эмоции вызывают рилсы?</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;">Девушка в купальнике → Похоть, возбуждение.</li>
+<li style="margin-bottom: 10px;">Дурак на Майбахе → Зависть.</li>
+<li style="margin-bottom: 10px;">Дорожный конфликт → Гнев, злость.</li>
+</ul>
+<p style="margin-bottom: 15px;">
+Ядро любого вирусного видео — это одна из «смертных грехов»: гордыня, гнев, зависть, похоть. А следствием их потребления становится чревоугодие (не можете остановиться), что ведет к лени и апатии.
+</p>
+<p style="margin-bottom: 15px;">
+<strong>Что такое эмоция?</strong> С латыни «emovere» — «приводить в движение». Эмоция — это выброс гормонов, который должен вести к действию (например, адреналин при опасности ведет к бегству или драке).
+</p>
+<p style="margin-bottom: 15px;">
+<strong>Что происходит, когда вы листаете ленту?</strong><br>
+Вы потребляете коктейль из эмоций без какого-либо действия. 15 секунд похоти сменяются 20 секундами гнева, затем 10 секундами зависти. Ваш мозг получает ударную дозу дофамина, адреналина, серотонина, но вам некуда направить эту энергию.
+</p>
+<p style="margin-bottom: 15px;">
+<strong>Результат — «эмоциональное похмелье»:</strong> После часа скроллинга вы чувствуете себя опустошенным, никчемным и странным. Это последствие гормонального коктейля, который не нашел выхода в действии.
+</p>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Долгосрочные последствия: два пути в никуда</h4>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Эмоциональная атрофия.</strong> Вы привыкаете к фейковым эмоциональным горкам, и реальные эмоции притупляются. Рушится связь «триггер → эмоция → действие». Вы хотите изменить жизнь, но нет запала действовать.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Гиперэмоциональность.</strong> Мозг, привыкший к постоянной стимуляции, начинает искать ее в реальной жизни, провоцируя конфликты, драмы и депрессию. Когда в бизнесе или учебе нет мгновенной награды (как в тиктоке), наступает скука и желание все бросить.
+</li>
+</ul>
+<p style="font-weight: bold; font-style: italic; padding: 10px; background-color: #fff3e0; border-radius: 5px;">
+<strong>Вывод:</strong> Пролистывая короткий контент, вы пролистываете свою жизнь. Качество вашей жизни зависит от эмоций, которые вы проживаете. Если вы потребляете злость, зависть и похоть, наивно ждать радости и умиротворения в реальном мире.
+</p>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">План по освобождению: как слезть с иглы</h4>
+
+<p style="font-weight: bold; margin-bottom: 10px;">Шаг 1: Включите осознанность</p>
+<p style="margin-left: 20px; margin-bottom: 20px;">
+Поймайте себя в момент, когда тянетесь к телефону, и честно скажите: «Сейчас я буду скроллить свои эмоции». Просто осознайте этот факт.
+</p>
+
+<p style="font-weight: bold; margin-bottom: 10px;">Шаг 2: Найдите причину побега из реальности</p>
+<p style="margin-left: 20px; margin-bottom: 10px;">
+Задайте себе вопрос: «От чего я бегу?»
+</p>
+<ul style="margin-left: 40px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;"><strong>Неуверенность в себе?</strong> → Начните тренироваться. Речь не о теле как о магните, а об уверенности, которую дают силовые тренировки.</li>
+<li style="margin-bottom: 10px;"><strong>Отсутствие денег?</strong> → Начните генерировать идеи, как их заработать.</li>
+</ul>
+<p style="margin-left: 20px; font-style: italic;">
+Устраните коренную причину, и потребность в побеге в виртуальный мир исчезнет.
+</p>
+
+<p style="font-weight: bold; margin-bottom: 10px;">Шаг 3: Перестаньте делать несколько дел сразу</p>
+<p style="margin-left: 20px; margin-bottom: 10px;">
+Это лечение «тотального расфокуса». Начните с малого:
+</p>
+<ul style="margin-left: 40px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;">Если моете посуду — просто мойте посуду. Не слушайте подкаст и не смотрите видео.</li>
+<li style="margin-bottom: 10px;">Делайте ОДНО дело в единицу времени.</li>
+</ul>
+<p style="margin-left: 20px; font-style: italic;">
+Это тренирует «мышцу» фокуса и со временем станет новой нормой.
+</p>
+
+<p style="font-weight: bold; margin-bottom: 10px;">Шаг 4: Уберите приложения с телефона</p>
+<p style="margin-left: 20px; margin-bottom: 20px;">
+Лучший способ не играть с дьяволом — не садиться с ним за один стол. Самые лучшие умы мира работают над тем, чтобы удержать вас в приложении. Если его нет на телефоне, вы не сможете им воспользоваться.
+</p>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Чем заполнить образовавшийся вакуум?</h4>
+<p style="margin-bottom: 20px; font-style: italic;">
+Если убрать яд, нужно дать организму здоровую пищу. Иначе вы вернетесь к старой привычке.
+</p>
+
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Начните читать.</strong> Чтение — это феноменальная тренировка фокуса (вы не можете делать ничего другого) и внутренний диалог с лучшими умами мира. Читайте то, что вам интересно, а не то, что заставляли в школе.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Создавайте.</strong> В 2025 году в дефиците доверие. Начните документировать свой опыт:
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Пишите свои мысли (письмо развивает мышление).</li>
+<li style="margin-bottom: 8px;">Снимите длинное образовательное видео (как это).</li>
+<li style="margin-bottom: 8px;">Создайте свой личный бренд.</li>
+</ul>
+<p style="margin-top: 10px; font-style: italic;">
+Представьте, что вместо 2.5 часов в соцсетях вы создаете свое кино. Какие дивиденды это принесет через год?
+</p>
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Инвестируйте в здоровье и отношения.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Ходите в зал. Инвестиции в здоровье всегда окупаются.</li>
+<li style="margin-bottom: 8px;">Общайтесь с друзьями осмысленно. Вместо жалоб на жизнь, спросите: «Давай по миллиону в месяц. Как мы можем это сделать?».</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div style="margin-top: 40px; padding: 25px; color: white; border-radius: 10px; text-align: center;">
+<p style="font-size:1.3em; font-weight: bold; margin-bottom: 15px;">
+Теперь у вас есть не только понимание вреда, но и стратегия по спасению самого себя.
+</p>
+<p style="font-size:1.2em; font-weight: bold;">
+Выбор, как всегда, только за вами.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_27",
+  title: "Ты НАВСЕГДА перестанешь тратить время по вечерам в пустую после этого видео",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/ты%20навсегда%20перестанешь%20тратить%20время%20по%20вечерам.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/JnJ4pMWJ1UU?si=yeoNVA4hLgVxYU2q" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Знакомая картина?</strong> Вечер, еда, YouTube, мягкий диван и телефон в руках для дофаминового передоза. Если вы тратите вечера так, значит, вы не генерируете энергию для завтрашних побед и не создаете ценность. Пора прикрутить к этому времени положительный КПД.
+</p>
+
+<p style="margin-bottom: 25px;">
+Советы в духе «поставь цель» или «используй тайм-менеджмент» не работают, потому что игнорируют главное — <strong>силу воли</strong>. Это исчерпаемый ресурс, который к вечеру заканчивается, превращая вас в животное, идущее на поводу у инстинктов.
+</p>
+
+<div style="margin-bottom: 30px; padding: 15px; border-radius: 8px;">
+<p style="margin-bottom: 15px;">
+Когда вы даете себе обещание (поработать над бизнесом) и нарушаете его (листая инстаграм), вы попадаете в ловушку <strong>«негатива на негатив»</strong>:
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">Вы расстроены, что прокрастинировали.</li>
+<li style="margin-bottom: 10px;">Вы расстроены, что расстроены.</li>
+<li style="margin-bottom: 10px;">Вы расстроены, что не можете перестать быть расстроенным.</li>
+</ul>
+<p>
+Вся энергия уходит на самобичевание, а не на дело. Ваш разум начинает пожирать сам себя.
+</p>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Решение №1: Система «Обменяй вечер на утро»</h4>
+<p style="margin-bottom: 15px;">
+Сила воли с утра — максимальна. Логично использовать эту энергию для инвестиций в себя, а не тратить ее на работу по найму.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Личный эксперимент (радикальный):</strong> Я ложился спать в 19:00, просыпался в 2:00 и имел 5 часов до работы, чтобы инвестировать в свои проекты. Социальная жизнь обнулилась, продуктивность на работе упала, но это была цена за свободу.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Результат:</strong> Это дало невероятную скорость действий. В тишине раннего утра нет соблазнов. Зачем просыпаться в 2 ночи, чтобы листать соцсети? Лучше поспать.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Устойчивая система (после эксперимента):</strong> Просыпаться за 3 часа до начала наемной работы. Это дает 2 часа сконцентрированной работы над собой. Вечер же посвящается восстановлению для следующего утреннего спринта.
+</li>
+</ul>
+<p style="font-weight: bold; font-style: italic;">
+Вывод: Глобальные изменения требуют глобальных действий. Обмен вечера на утро — одно из них. Но одного этого недостаточно.
+</p>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Решение №2: Смена мировоззрения (Забудьте о продуктивности)</h4>
+<p style="margin-bottom: 20px;">
+Обратимся к биографии великих ученых и мыслителей (Дарвин, Уотсон). Закономерность: они редко работали больше 4 часов в день глубокого, сфокусированного труда.
+</p>
+<p style="margin-bottom: 15px;"><strong>Что они делали в остальное время?</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 10px;">Хобби (теннис, девушки, искусство).</li>
+<li style="margin-bottom: 10px;">Долгие пешие прогулки.</li>
+<li style="margin-bottom: 10px;">Дневной сон.</li>
+</ul>
+<p style="margin-bottom: 20px; font-style: italic;">
+Они оптимизировали свою жизнь не для продуктивности, а для креативности. Секрет в том, что прорывные идеи приходят не во время работы, а в моменты бездействия: на прогулке, в душе, во время отдыха.
+</p>
+
+<p style="margin-bottom: 15px;"><strong>Три слоя матрицы, которые крадут вашу энергию и креативность:</strong></p>
+<ol style="margin-left: 20px; margin-bottom: 25px;">
+<li style="margin-bottom: 15px;">
+<strong>Фейковый отдых.</strong> Соцсети, сериалы и фастфуд не восстанавливают, а добивают вашу энергию. Это отдых, который изнашивает.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Отрицание природных циклов.</strong> Человек — не машина. У нас есть подъемы и спады энергии. Общество же требует постоянной продуктивности, заставляя вас чувствовать вину за отдых. Но именно в моменты скуки и покоя рождается креативность.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Иллюзия занятости.</strong> Вы можете быть загружены «срочными» делами (звонки, сообщения, презентации), но не создавать ничего важного, что определит вашу жизнь через 5-10 лет. Занятость стала статусом и адреналиновым наркотиком, который не оставляет места для глубоких мыслей.
+</li>
+</ol>
+</div>
+
+<div style="margin-bottom: 35px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Ваш план действий</h4>
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Определите свои ритмы.</strong> Поймите, когда ваш пик энергии. Кому-то лучше творить утром, кому-то — вечером. Кому-то тренироваться днем, а кому-то — вечером. Декодируйте свой организм.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Защитите фокус.</strong> Не позволяйте красть ваше внимание. Отключите уведомления, практикуйте информационную диету. Ваше время и фокус — это ваша жизнь.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Чередуйте интенсив и отдых.</strong> Организуйте день не для постоянной работы, а для чередования коротких периодов глубокой работы и настоящего отдыха (прогулки, хобби, сон, общение).
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Проявите осознанность.</strong> Вечером, прежде чем потянуться к телефону, спросите себя: «Это восстановит мои силы для завтрашнего рывка или добьет их?». Не переводите жизнь на автопилот.
+</li>
+</ol>
+</div>
+
+<div style="margin-top: 40px; padding: 25px; border-radius: 10px; text-align: center;">
+<p style="font-size:1.3em; font-weight: bold; margin-bottom: 15px;">
+Итог:
+</p>
+<p style="font-size:1.1em; margin-bottom: 20px;">
+Перестать тратить вечера впустую — это не про силу воли. Это про <strong>систему</strong>, которая использует вашу естественную энергию, и про <strong>мировоззрение</strong>, которое ценит креативность и восстановление выше занятости.
+</p>
+<p style="font-size:1.2em; font-weight: bold;">
+Настоящая роскошь в современном мире — это возможность спокойно погулять или подремать днем. Отвоевайте ее у мира, который хочет сделать вас своей марионеткой.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_28",
+  title: "Куда вложить 17 890 руб, чтобы получить 1млн руб/месяц? (инструкция)",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/куда%20вложить%2017%20890.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/PIZT9sX9_Gk?si=oopapgmm7nMVp_uZ" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Вложение в банк или крипту не решат задачу. Лучший актив — это вы сами.</strong> Инструкция, как за 1-3 года создать бизнес на образовательном контенте и выйти на 1 млн руб./мес.
+</p>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Часть 1: На что потратить 17 890 рублей?</h4>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Регистрация бизнеса (0 руб.):</strong> Самозанятость (4% налог) или ИП (6% налог).</li>
+<li style="margin-bottom: 10px;"><strong>Платёжная система (~10 000 руб.):</strong> Чтобы принимать оплату по ссылке.</li>
+<li style="margin-bottom: 10px;"><strong>Звук (1 322 руб.):</strong> Микрофон Boya M1. Главное в контенте — это звук и информация.</li>
+<li style="margin-bottom: 10px;"><strong>Свет (6 314 руб.) и штатив (174 руб.):</strong> Для качественной картинки.</li>
+<li style="margin-bottom: 10px;"><strong>Telegram (0 руб.):</strong> Для ведения канала и коммуникации.</li>
+</ul>
+<p style="font-weight: bold;">
+Итого: 17 890 руб. Этого достаточно, чтобы начать.
+</p>
+</div>
+
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 20px;">Часть 2: Пошаговый план из 7 шагов</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 0;">
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.15em;">ШАГ 1: Ниша — образовательный контент для предпринимателей и экспертов.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Почему?</strong> Предприниматели платят хорошо, так как видят отдачу в бизнесе.</li>
+<li style="margin-bottom: 10px;"><strong>В чём плюс?</strong> Не нужны миллионы просмотров. Достаточно небольшой, но целевой аудитории.</li>
+<li style="margin-bottom: 10px;"><strong>Почему сейчас?</strong> Алгоритмы соцсетей ("тиктокофикация") продвигают качественный контент, а не количество подписчиков. Ваши навыки решают всё.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.15em;">ШАГ 2: Инвестируйте время в обучение и начинайте учить публично.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Изучайте:</strong> Смотрите 40-50 видео на YouTube о создании контента.</li>
+<li style="margin-bottom: 10px;">
+<strong>Практикуйтесь:</strong> Заведите YouTube и Telegram-канал. Документируйте свой путь обучения — записывайте видео (например, в Loom) и пишите статьи. Это прокачает два ключевых навыка: умение говорить и писать.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.15em;">ШАГ 3: Ставьте правильные цели.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Не ставьте цели по просмотрам или деньгам.</strong> Это внешние факторы, которые вы не контролируете.</li>
+<li style="margin-bottom: 10px;">
+<strong>Ставьте цели по действиям:</strong> «Одно видео в неделю», «два поста в день». Ваши действия — это ваша цель. Постоянство — ключ к успеху.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.15em;">ШАГ 4: Начните зарабатывать на услугах.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Услуга:</strong> Написание сценариев для YouTube-видео экспертов.</li>
+<li style="margin-bottom: 10px;">
+<strong>Финансовая модель:</strong> Предложите оплату за результат. Узнайте у предпринимателя, сколько ему приносит один подписчик в Telegram. Предложите плату за каждого привлеченного вашим сценарием подписчика (например, 100-500 руб. за подписчика). Это язык, который предприниматели понимают.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.15em; ">ШАГ 5: Найдите клиентов.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Составьте список «100 клиентов мечты»</strong> на YouTube (каналы от 10к до 100к+ подписчиков).
+</li>
+<li style="margin-bottom: 10px;">
+<strong>Создавайте ценность бесплатно:</strong> Пишите им в комментариях, что посмотрели все их видео и сделали разбор канала с 10 идеями для контента. Предложите ссылку на видео-разбор и свои услуги по модели «оплата за результат». Это тяжело, но это работает.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.15em;">ШАГ 6: Повышайте чек.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Улучшите оборудование</strong> (камера, объектив, микрофон) на заработанные деньги.</li>
+<li style="margin-bottom: 10px;">
+<strong>Предложите услугу «под ключ»:</strong> Вы приезжаете к эксперту, снимаете 4 длинных и 10-20 коротких видео за раз.
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 6px;"><strong>Стоимость пакета:</strong> 150 000 руб.</li>
+<li style="margin-bottom: 6px;"><strong>Расходы на монтаж фрилансеру:</strong> 50 000 руб.</li>
+<li style="margin-bottom: 6px;"><strong>Прибыль:</strong> 100 000 руб. с одного клиента.</li>
+</ul>
+</li>
+<li style="margin-bottom: 10px;">Чтобы заработать 1 млн руб.: Нужно 10 таких клиентов в месяц.</li>
+<li style="margin-bottom: 10px;">
+<strong>Далее — увеличивайте чек:</strong> Сфокусируйтесь на узкой нише, где вы даете лучший результат, и берите 250 000 руб. с клиента. Тогда для 1 млн руб. прибыли нужно всего 5 клиентов.
+</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.15em;">ШАГ 7: Создайте продуктовый рычаг.</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;">
+<strong>Упакуйте весь свой опыт и систему в цифровой продукт</strong> (онлайн-курс, воркшоп).
+</li>
+<li style="margin-bottom: 10px;"><strong>Цена продукта:</strong> например, 50 000 руб.</li>
+<li style="margin-bottom: 10px;">Чтобы заработать 1 млн руб., нужно всего 20-25 клиентов на продукт в месяц.</li>
+<li style="margin-bottom: 10px;">
+<strong>Вы больше не привязаны к своему времени.</strong> Контент, который вы создавали с самого начала, работает на вас 24/7 и приводит клиентов.
+</li>
+</ul>
+</li>
+
+</ol>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_29",
+  title: "\"Режим Бога\" в эпоху революции нейросетей (3 критических навыка)",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Режим%20бога%20в%20эпоху%20революции%20нейросетей.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/XUtRCRqzQZQ?si=bTLnPVd278jMpYg4" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px;">
+<strong style="font-size:1.3em;">Революция нейросетей уже здесь, и скорость изменений растет экспоненциально.</strong> Чтобы не оказаться на обочине новой экономики, нужно развивать навыки, которые нельзя автоматизировать или делегировать ИИ. Таких навыка три.
+</p>
+
+<div style="margin-bottom: 40px; padding: 25px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px;">Навык №1: Агентность (Agency)</h4>
+<p style="margin-bottom: 20px;"><strong>Что это?</strong> Агентность — это способность самостоятельно ставить цели и начинать действия для их достижения без внешних инструкций, побуждений или разрешения. Ключевое слово — «самостоятельно».</p>
+<p style="margin-bottom: 20px;"><strong>Почему это важно?</strong> В 2025 году неспособность быть «как все» становится суперспособностью. Копируя навязанные обществом цели, вы становитесь «репликантом» — копией копии. Единственный путь к уникальной жизни — следовать за своими собственными интересами, как это сделал Стив Джобс, чьи, казалось бы, разрозненные увлечения привели к созданию компании-триллионника. <em>«Соединить точки можно, только оглядываясь назад».</em></p>
+<p style="margin-bottom: 20px;"><strong>В чем загвоздка?</strong> Агентность вызывает панику у мозга, который жаждет безопасности и предсказуемости. Возникают вопросы: «Как я буду зарабатывать?», «А если не получится?». Но мозг не ясновидящий, он не может предсказать будущее. Нужно смотреть на общую картину: <strong>сегодня — лучшее время для людей с агентностью, потому что интернет демократизировал все возможности.</strong></p>
+
+<p style="margin-bottom: 15px; font-weight: bold;">Как развивать агентность?</p>
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Поверьте, что это реально.</strong> Осознайте, что агентность — это не дар, а навык, который можно развить.</li>
+<li style="margin-bottom: 12px;"><strong>Возьмите ответственность.</strong> Главная причина бездействия — страх, который является производной от отсутствия ответственности. Перестаньте винить систему, государство или судьбу. Когда вы берете на себя полную ответственность, винить больше некого.</li>
+<li style="margin-bottom: 12px;">
+<strong>Выбирайте «трудные» цели.</strong> Цели бывают трех типов:
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 8px;"><strong>Легкие:</strong> вы уверены в их достижении (у вас есть навыки и ресурсы).</li>
+<li style="margin-bottom: 8px;"><strong>Невыполнимые:</strong> они не укладываются в вашу систему убеждений (например, для большинства — заработать $1 млн за день).</li>
+<li style="margin-bottom: 8px;"><strong>Трудные:</strong> у вас пока нет нужных навыков или ресурсов, но есть убеждение: «Придется потрудиться, но я могу». Агентность живет именно в этой категории.</li>
+</ul>
+</li>
+</ol>
+<p style="font-style: italic; padding: 10px; border-radius: 5px; margin-top: 15px;">
+<strong>Агентность — это фундамент, способность начать действовать.</strong> Но что делать с этими действиями дальше?
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 25px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px;">Навык №2: Системное мышление</h4>
+<p style="margin-bottom: 20px;"><strong>Почему это критически важно?</strong> Скорость изменений огромна, но главная проблема не в этом. Нейросеть — это инструмент, которому нужен мастер. Проблема в том, что современная система образования и многие jobs превращают самого человека в инструмент — исполнителя узкого набора инструкций. А машина всегда будет лучшим инструментом. <strong>Свободный человек — не специалист в чем-то одном, а универсал, способный сам определить, в чем ему становиться специалистом.</strong> Ему нужно системное мышление.</p>
+<p style="margin-bottom: 20px;"><strong>Что это такое?</strong> Это способность видеть не простые причинно-следственные связи, а всю картину целиком, взаимовлияние всех элементов системы.</p>
+<p style="margin-bottom: 20px;"><strong>На что опереться?</strong> На мотивацию и силу воли опереться нельзя — они непостоянны. Опора — это выстроенная система действий.</p>
+
+<p style="margin-bottom: 15px; font-weight: bold;">Из чего состоит любая система?</p>
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Входные данные:</strong> Исходные условия.</li>
+<li style="margin-bottom: 12px;"><strong>Процесс:</strong> То, что вы делаете с вводными данными (например, бизнес как система-«труба»: похищение внимания → выстраивание отношений → торговое предложение → оказание услуги).</li>
+<li style="margin-bottom: 12px;"><strong>Результат:</strong> Итог, который вы получаете (деньги — это не причина, а результат).</li>
+<li style="margin-bottom: 12px;"><strong>Обратная связь:</strong> Анализ результата и корректировка системы. Без обратной связи нет развития.</li>
+<li style="margin-bottom: 12px;"><strong>Окружающая среда:</strong> Важный упускаемый элемент. Вы сами — система. Ваша энергия и состояние зависят от среды.</li>
+</ol>
+<p style="margin-bottom: 20px; font-style: italic;">Системное мышление — это не догма, а живой, развивающийся организм. Если система не работает, ее меняют.</p>
+
+<p style="margin-bottom: 15px; font-weight: bold;">Будущее с ИИ — это «буква К»:</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Нисходящая черта:</strong> 80% людей-«инструментов» будут заменены ИИ, потому что он — идеальный инструмент.</li>
+<li style="margin-bottom: 12px;"><strong>Восходящая черта:</strong> 20% людей с системным мышлением увеличат свою продуктивность в разы, используя ИИ как инструмент внутри своей системы.</li>
+</ul>
+<p style="font-style: italic; padding: 10px; border-radius: 5px; margin-top: 15px;">
+Но даже с идеальной системой все может пойти не так, если не освоить третий навык.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 25px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px;">Навык №3: Быть мастером своего состояния</h4>
+<p style="margin-bottom: 20px;"><strong>В чем проблема?</strong> Интернет большинством используется для дробления внимания. В среднем человек проводит в соцсетях 2,5 часа в сутки. Это приводит к апатии, тревоге и ощущению «жижи». Мозг, как «дурачок», идет за сиюминутным удовольствием, что разрушает его носителя.</p>
+<p style="margin-bottom: 20px;"><strong>Решение:</strong> Научиться управлять своим состоянием. Нужно не идти на поводу у первого импульса, а уметь «перещелкнуть тумблер».</p>
+
+<p style="margin-bottom: 15px; font-weight: bold;">Три приема, как стать мастером своего состояния:</p>
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Через тело.</strong> Самый простой способ изменить ментальное состояние — изменить физическое. Даже легкая тренировка, прогулка или контрастный душ способны кардинально поменять уровень энергии. Вы никогда не пожалеете, что сделали это.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Через фокус внимания.</strong> Ваша жизнь зависит от того, на чем вы сфокусированы. Нужно быть рациональным оптимистом, сознательно выбирая фокус на том, что работает и что можно улучшить, а не на том, что плохо.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Через историю, которую вы себе рассказываете.</strong> Мы все живем в narratives. Если вы представите трудную ситуацию как главу в своей приключенческой истории выживания, это породит совершенно иное, решительное состояние.
+</li>
+</ol>
+</div>
+
+<div style="margin-top: 40px; padding: 30px; color: white; border-radius: 10px; text-align: center;">
+<h4 style="font-size:1.5em; margin-bottom: 25px; ">Заключение</h4>
+<p style="font-size:1.2em; margin-bottom: 20px;">
+<strong>Ваш счет в эпоху революции ИИ зависит от трех навыков:</strong>
+</p>
+<ul style="margin-left: 20px; margin-bottom: 25px; display: inline-block; text-align: left;">
+<li style="margin-bottom: 15px;"><strong>Агентность:</strong> Способность самостоятельно ставить цели и начинать действовать.</li>
+<li style="margin-bottom: 15px;"><strong>Системное мышление:</strong> Умение выстраивать процессы для достижения целей.</li>
+<li style="margin-bottom: 15px;"><strong>Мастерство состояния:</strong> Умение управлять своей энергией и фокусом.</li>
+</ul>
+<p style="font-size:1.3em; font-weight: bold; margin-top: 20px;">
+Обладая этим трио, вам нечего бояться. В противном случае вы рискуете оказаться в числе тех, кого заменит идеальный инструмент — искусственный интеллект.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_30",
+  title: "Тебе 18-35 лет? Вот 21 чит-код для \"Режима Бога\" в реальной жизни",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/21%20чит-код%20для%20активации%20Режима%20Бога.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/ym8Ab_cDu0w?si=BWa4sP1sj9HYjbMF" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px; text-align: center;">
+<strong style="font-size:1.4em;">Ты отыграл уже от 25 до 50% игры под названием «Жизнь». Как успехи?</strong><br>
+Зарплата покрывает первичные потребности? Партнер на «пятерку», но по 10-балльной шкале? Пора включать чит-коды и активировать <strong>«Режим Бога»</strong> — состояние неуязвимости, бесконечных ресурсов и максимальной мощности твоего персонажа.
+</p>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.5em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">Фундамент: Прокачка Персонажа</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 0;" start="1">
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em; ">Чит-код 1: Код уникальности — Фокус и Дисциплина</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Уникальность — не в синих волосах, а в выполнении обычных действий в течение необычно долгого времени. 99,9% блогеров бросают канал после 5-го видео. Большинство недисциплинированно, подвластно импульсам и прыгает с одной идеи на другую. Выигрывать легко, потому что большинство сходит с дистанции.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 12px;">
+<strong>Твоя мантра:</strong> «Мой острый ум в сочетании с железной выдержкой и неустанной настойчивостью делает меня опаснейшим оппонентом в любой сфере человеческой деятельности».
+</li>
+<li style="margin-bottom: 10px;"><strong>Острый ум</strong> — это лазерный фокус.</li>
+<li style="margin-bottom: 10px;"><strong>Железная выдержка</strong> — контроль над эмоциональными импульсами.</li>
+<li style="margin-bottom: 10px;"><strong>Неустанная настойчивость</strong> — бить в одну точку снова и снова.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em; ">Чит-код 2: Избегай ловушки «протоптанной дорожки»</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Главные квесты жизни: что делать, где жить и с кем. Шаблон: школа, универ, работа, ранний брак, ипотека. Итог? 73% разводов, средняя зарплата 67 тыс. рублей, нервы и отсутствие лидерства в семье. Ипотека лишает мобильности и свободы, переводя тебя в оборону, когда ты должен быть в атаке. Не избегай квестов, но проходи их, когда станешь опытным игроком.
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em; ">Чит-код 3: Переустанови «Программное Обеспечение» — Мышление</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Богатый отличается от бедного только мышлением. Успех оставляет следы. Твои менторы — не комики и нытики из TikTok, а те, кто реально добился целей.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Книги для перепрошивки:</strong></li>
+<li style="margin-bottom: 8px;">«Живи здесь и сейчас» Навала Равиканта.</li>
+<li style="margin-bottom: 8px;">«Гибкое сознание» Кэрол Дуэк.</li>
+<li style="margin-bottom: 8px;">«Антихрупкость» Нассима Талеба.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em; ">Чит-код 4: Сила поляризации и физическая форма</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Имей смелое, пусть и спорное, мнение. Это отсеет NPC и притянет единомышленников. Но чтобы твое мнение имело вес, ты должен быть в превосходной физической форме. Это сигнализирует о дисциплине и силе.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">Лучшее время для прихода в форму — 18-25 лет. Следующее лучшее — сейчас.</li>
+<li style="margin-bottom: 10px;"><strong>Основа:</strong> сон (7.5-9 часов), вода (2-3 л), белок (1.5-2 г на кг веса).</li>
+<li style="margin-bottom: 10px;"><strong>Тренировки:</strong> выбери одну систему (базовые упражнения: присед, жим, становая) и придерживайся ее полгода.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em; ">Чит-код 5: Внешность как генератор энергии</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Парикмахерская каждые две недели — простейший буст уверенности. Операционализируй это: найди барбера рядом, покажи фото стрижки, плати вдвое больше за стрижку за 15 минут. Время — деньги.
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 6: Перестань сливать энергию</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Порнография и бесцельный скроллинг соцсетей (тот же Instagram) — это дементоры, высасывающие твою силу.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">Порно развращает разум и формирует неуважительное отношение к женщинам.</li>
+<li style="margin-bottom: 10px;">Инстаграм — это порнография в другом формате.</li>
+<li style="margin-bottom: 10px;"><strong>Эксперимент:</strong> откажись от порно, инстаграма и мастурбации на 30 дней и почувствуй разницу в энергии.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 7: Действуй здесь и сейчас</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+«Делай то, что сейчас перед тобой, используя то, что сейчас имеешь». Не думай о 10-м шаге, думай о первом. Не жди идеальных условий. Если у тебя есть только злость — используй ее как топливо. Заведи заметку «Вот почему» и перечитывай ее, когда трудно.
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em; ">Чит-код 8: Управляй эмоциями через стоицизм</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Стоицизм — не про подавление эмоций, а про управление ими.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Формула стоика:</strong> Преврати страх в благоразумие, боль в информацию, ошибки в уроки, а желания в действия.</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> Пинать дверь от злости на преподавателя — глупо и стоит тебе 100 часов пересдач. Действуй рассудительно даже в гневе.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 9: Время — главная валюта</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Люди с мышлением бедняка боготворят деньги и разбрасываются временем. Игроки «Режима Бога» боготворят время, ведь деньги можно заработать.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Будь беспощаден к своему времени.</strong> Если что-то не приносит денег или знаний (твой «хлеб с маслом и вареньем»), делегируй это или устраняй.</li>
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> Не трать час на возврат бракованной дешевой вещи. За это время ты заработаешь в десятки раз больше.</li>
+</ul>
+</li>
+
+</ol>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.5em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">Экономика: Заработок Поинтов (Денег)</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 0;" start="10">
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em; ">Чит-код 10: Переход на фриланс (обмен результата на деньги, а не времени)</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+В найме ты продаешь время. Во фрилансе и бизнесе — результат. Клиенту все равно, сделал ты сайт за 8 или 18 часов. Начни с онлайн-услуг, чтобы иметь свободу и мобильность.
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 11: Формула успешного фриланса</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+<strong>Успешный фрилансер = Маркетинг & Продажи + Услуга + Финансы.</strong><br>
+Ключевое слагаемое — Маркетинг и Продажи. Без клиентов нет бизнеса. Большинство фрилансеров ими не владеют.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Книги-инструкции:</strong></li>
+<li style="margin-bottom: 8px;">Алекс Хормози — «Офферы на 100 миллионов».</li>
+<li style="margin-bottom: 8px;">Дрю Эриксон — «Касвертайзинг».</li>
+<li style="margin-bottom: 8px;">Роберт Чалдини — «Психология влияния».</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 12: Смени локацию (переезд в Азию)</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Окружение — якорь твоего старого мышления. Чтобы его сменить, смени декорации.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Почему Азия (Таиланд, Вьетнам):</strong> низкие затраты, легко заводить друзей-иностранцев, прокачка английского, новые бизнес-модели перед глазами, отрыв от шаблонного мышления.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 13: Стань создателем контента</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Реальная сила не у говорящих голов по ТВ, а у создателей. Документируй свой путь.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Плюсы:</strong> ты себе хозяин, прокачиваешь навыки (съемка, речь, мышление), создаешь «банк истории», открываешь неограниченные возможности. За год на этом канале — 44 млн просмотров и поток предложений.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 14: Управление деньгами и снятие тревоги</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Деньги — не причина, а следствие. Стань человеком, через которого деньги текут.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>План:</strong></li>
+<li style="margin-bottom: 8px;">Веди бюджет. Деньги любят счет.</li>
+<li style="margin-bottom: 8px;"><strong>Чрезвычайный фонд:</strong> 2 месяца расходов в кэше. Не трогать.</li>
+<li style="margin-bottom: 8px;"><strong>Финансовая антихрупкость:</strong> 12 месяцев расходов.</li>
+<li style="margin-bottom: 8px;"><strong>Правило 50/50:</strong> 50% денег трать/инвестируй так, будто тебе жить 50 лет (долгосрок), а на остальные 50% играй в атаку.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 15: Шестимесячная задержка уровня жизни</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Когда доход растет, не увеличивай расходы сразу. Выжди 6 месяцев. Это смягчит возможное падение и покажет игре, что ты не ведешься на крючок.
+</p>
+</li>
+
+</ol>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.5em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">Психология Победителя</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 0;" start="16">
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 16: Копилка уверенности</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Уверенность приходит после прохождения сложных квестов. Вспомни свой самый большой вызов (например, выучить язык с нуля). Ты — тот же персонаж. Если справился тогда, справишься и сейчас. Начинай с квеста «один из нуля».
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 17: Разбирайся в определениях</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Самоуверенность (уверенность в себе) — это сила. Высокомерие (пренебрежение к другим) — слабость. Эгоист — человек, который ставит свои интересы на первое место. И это правильно. Сначала надень маску на себя, потом на соседа.
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 18: Системы важнее целей</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Мы падаем до уровня своих систем, а не поднимаемся до уровня целей.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Калибровка системы:</strong> ежедневный набор действий, создающих внутреннюю опору.</li>
+<li style="margin-bottom: 10px;"><strong>Моя система:</strong> 1.5 часа фокуса, 1 тренировка, голодание до 12:00, 15 минут медитации.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 19: Управление Эго</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>В отношении СЕБЯ:</strong> включай эго на максимум. «Я достоин большего! Чем я хуже?». Это топливо для действий.</li>
+<li style="margin-bottom: 10px;"><strong>В отношении ДРУГИХ:</strong> своди эго к нулю. Будь скромен и открыт. Возможности приходят от людей.</li>
+</ul>
+</p>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 20: Говори «НЕТ»</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Говорить «ДА» легко в моменте, но жить с последствиями — тяжело. Говорить «НЕТ» тяжело в моменте, но жить с последствиями — легко.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Друг</strong> — тот, кто хочет для тебя лучшего. Тот, кто дробит твой фокус, — не друг. Говоря «нет», ты освобождаешь место для настоящих друзей.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Чит-код 21: Возьми ответственность. Жизнь случается ДЛЯ тебя.</strong>
+<p style="margin-top: 10px; margin-bottom: 15px;">
+Два взгляда на игру:
+<ul style="margin-left: 20px; margin-bottom: 15px;">
+<li style="margin-bottom: 10px;"><strong>Жизнь случается СО МНОЙ</strong> (мышление жертвы, NPC).</li>
+<li style="margin-bottom: 10px;"><strong>Жизнь случается ДЛЯ МЕНЯ</strong> (мышление игрока, творца).</li>
+</ul>
+Если ты в своей ситуации по своей «вине», то и вилла на Бали, и бизнес-класс — тоже будет твоей «виной». Бери ответственность за все — это единственный способ получить контроль над игрой.
+</p>
+</li>
+
+</ol>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 20px;">Финальный Босс: Твой Разум</h4>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Распутай клубок мыслей.</strong> Твой ум мечется между прошлым (сожаления) и будущим (тревоги). Решение — в моменте «здесь и сейчас».
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Алгоритм фокуса:</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 8px;">Выбери один проект (или решай свою главную боль).</li>
+<li style="margin-bottom: 8px;">Выдели 1 час сразу после пробуждения.</li>
+<li style="margin-bottom: 8px;">Отключи все уведомления.</li>
+<li style="margin-bottom: 8px;">Измеряй прогресс усилиями, а не результатом.</li>
+</ul>
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Избегай гедонистической ада.</strong> Бесконечная погоня за удовольствиями (алкоголь, вейпы, шопинг) — это черная дыра, ведущая к вопросу «в чем смысл?».
+</li>
+</ul>
+</div>
+
+<div style="margin-top: 40px; padding: 30px; color: white; border-radius: 10px; text-align: center;">
+<p style="font-size:1.5em; font-weight: bold; margin-bottom: 15px;">
+Итог:
+</p>
+<p style="font-size:1.2em; margin-bottom: 20px;">
+Твой главный квест — прокачать самого себя в лучшую версию. <strong>«Режим Бога» — это и есть лучшая версия тебя.</strong>
+</p>
+<p style="font-size:1.3em; font-weight: bold;">
+Побеждай обстоятельства, побеждай врагов, побеждай лень и, самое главное, побеждай самого себя.
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_31",
+  title: "18 чит-кодов, чтобы включить \"Режим Бога\" в реальной жизни",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/18%20чит-кодов,%20чтобы%20включить%20Режим%20Бога.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/ae_UMYKiPho?si=pxMJ56dsrXmmqREe" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 25px; text-align: center;">
+<strong style="font-size:1.4em;">«Режим Бога» — это состояние максимальной продуктивности, неуязвимости и сверхспособностей вашего «персонажа».</strong> Вот коды для его активации и вирусы, которые его блокируют.
+</p>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">ЧАСТЬ 1: 4 ВИРУСА, УБИВАЮЩИХ РЕЖИМ БОГА</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 0;">
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Вирус 1: Бессознательное использование соцсетей и телефона</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Вред:</strong> 4 часа 49 минут среднего экранного времени в день — это «фастфуд» для мозга, который крадет фокус и энергию сразу после пробуждения.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот:</strong> Не бери телефон в первые часы после пробуждения. Преврати соцсети из инструмента развлечения в машину для обучения (YouTube с образовательным контентом). Instagram используй только как цифровое портфолио для статуса и знакомств.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Вирус 2: Вейпы и зависимости</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Вред:</strong> Мгновенно формируют сильную зависимость, которая постоянно крадет фокус внимания сигналами «давай покурим». Это постоянный слив энергии.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот:</strong> Полный отказ. Осознай, что это не круто, а слабость.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Вирус 3: Окружение негативщиков и NPC</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Вред:</strong> Ты — среднее арифметическое пяти людей, с которыми проводишь больше всего времени. Окружение программирует тебя на неудачи и жалобы.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот:</strong> Жестко фильтруй окружение. Общайся только с теми, кто приносит решения, а не проблемы.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 25px;">
+<strong style="font-size:1.2em;">Вирус 4: Деструктивная музыка</strong>
+<ul style="margin-left: 20px; margin-top: 10px;">
+<li style="margin-bottom: 10px;"><strong>Вред:</strong> Тексты о несчастной любви, алкоголе и наркотиках медленно строят твою личность, программируя на негатив и слабость.</li>
+<li style="margin-bottom: 10px;"><strong>Антидот:</strong> Слушай инструментальную музыку (например, саундтрек из «Интерстеллара»), которая на уровне рефлекса включает фокус и режим потока.</li>
+</ul>
+</li>
+
+</ol>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.5em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">ЧАСТЬ 2: 18 ЧИТ-КОДОВ ДЛЯ АКТИВАЦИИ РЕЖИМА БОГА</h4>
+
+<ol style="margin-left: 20px; margin-bottom: 0;" start="1">
+
+<li style="margin-bottom: 20px;">
+<strong>Заверши открытые петли.</strong> Непринятые решения (от «ответить в WhatsApp» до «сменить работу») съедают оперативную память мозга.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Решение:</strong> Автоматизируй рутину (например, униформа). Выписывай средние и крупные задачи, расставляй приоритеты и принимай решения.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Используй соцсети как форму образования.</strong> Настрой алгоритмы так, чтобы в ленте был только контент, который делает тебя лучше.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Оформи свой Digital Avatar.</strong> Инстаграм — это визитка. Качественные фото и хайлайты жизни повышают твой статус в современном мире.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Отключи все уведомления.</strong> Ты не Бэтмен. Постоянная готовность к уведомлениям — это страх что-то упустить, который крадет твой фокус. Включай уведомления только на время конкретной задачи.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Принимай холодный душ.</strong> Это качественный выброс дофамина, в отличие от дешевого дофамина соцсетей. Дает заряд энергии и силы воли.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Правильно используй кофеин.</strong> Кофе — это чит-код на концентрацию.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Правила:</strong> Пей его только для конкретной сложной задачи. Делай перерывы (раз в неделю без кофе). Не пей после 12:00, чтобы не нарушать сон.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Ищи ответы в старых книгах.</strong> Для фундаментальных вопросов (стресс, смысл) ищи ответы в проверенной временем литературе (например, стоицизм), а не в сомнительных современных течениях.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Тренируйся каждый день.</strong> Мозг и тело работают без выходных.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Как:</strong> Чередуй виды нагрузок (бег, бокс, тяжелое). Меняй интенсивность (дни рекордов, средние и легкие тренировки). Основа — сон, вода и 1.5-2 г белка на кг веса.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Кради энергию экологично.</strong> Энергия трансформируется. Делай комплименты, шути, дари кофе незнакомцам (например, бариста). Их позитивная реакция вернется к тебе бумерангом энергии.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Высыпайся.</strong> Качественный сон — основа всего.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Правила:</strong> Прекрати пить кофе за 10-12 часов до сна. Спи в прохладной комнате (16-19°C). Используй маску для сна и беруши. Поставь будильник не на подъем, а на отход ко сну.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Пройди полную перезагрузку (Випассана).</strong> 11 дней в тишине и без внешних раздражителей (как в буддийском ретрите) позволяют «сжечь» старые травмы и проблемы, очистив «гараж» разума для новых, полезных привычек.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Медитируй по 15 минут в день.</strong> Это не «расслабление под аудиогид», а тренировка для ума. Наблюдай за мыслями, не цепляясь за них. Это включает «режим по умолчанию», когда лучшие идеи приходят сами.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Операционализируй эмоции.</strong> Преврати эмоции в план действий.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Беспокойство = слишком много опций.</strong> Выпиши все на листок, расставь приоритеты и начни действовать.</li>
+<li style="margin-bottom: 8px;"><strong>Печаль = нет опций.</strong> Начни изучать проблему. Незнание — временно, пока ты не вооружился знаниями.</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Много ходи пешком.</strong>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">Физическая нагрузка (те самые 10 000 шагов).</li>
+<li style="margin-bottom: 8px;">Солнечный свет для настроения и качественного сна.</li>
+<li style="margin-bottom: 8px;">Завершение открытых петель на ходу.</li>
+<li style="margin-bottom: 8px;">Социальная активность (совмещай с созвонами).</li>
+<li style="margin-bottom: 8px;">Обучение (слушай аудиокниги и подкасты).</li>
+</ul>
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Слушай музыку для фокуса.</strong> Инструментальные саундтреки (как из «Интерстеллара») на уровне рефлекса помогают мозгу войти в состояние потока.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Начинай работать сразу после пробуждения.</strong> Пик энергии и предрасположенности к режиму потока — сразу после сна. Не трать его на ритуалы «осознанности», максимизируй его для самой важной задачи.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Восстанавливайся после фокуса.</strong> Настоящее восстановление — это не сериалы, а активные и часто дискомфортные в моменте практики: холодный душ, медитация, прогулка, тренировка.
+</li>
+
+<li style="margin-bottom: 20px;">
+<strong>Используй дневной сон.</strong> Это «волшебная таблетка» для продуктивности.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Правила:</strong> Не больше 30 минут. Не позже 15:00. Спи на диване, а не в кровати. Слушай релаксирующую музыку. Имей четкий план на действие после пробуждения.</li>
+</ul>
+</li>
+
+</ol>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.3em; margin-bottom: 25px; ">ФИНАЛЬНЫЙ БОСС: ГЛИЧ САМОРАЗВИТИЯ</h4>
+<p style="margin-bottom: 20px;">
+Не попади в ловушку «глича саморазвития» — бесконечного потребления информации без действий.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 15px;">
+<strong>Система важнее идеального инструмента.</strong> Лучше посредственная система, которой ты следуешь, чем идеальная, которую ты ищешь.
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Действуй, а не потребляй.</strong> «Когда ты получил сообщение, перестань звонить. Клади трубку и начинай делать».
+</li>
+<li style="margin-bottom: 15px;">
+<strong>Прими «задержку в обновлении игры».</strong> Между твоим внутренним изменением и изменением внешней реальности может пройти от 1 до 3 лет. Это «одинокая глава», когда ты уже не старый, но еще не новый. Пройди через нее.
+</li>
+</ul>
+</div>
+
+<div style="margin-top: 40px; padding: 25px; color: white; border-radius: 10px; text-align: center;">
+<p style="font-size:1.3em; font-weight: bold; margin-bottom: 15px;">
+Итог:
+</p>
+<p style="font-size:1.1em;">
+Избегай 4 вируса, применяй 18 чит-кодов, действуй и пройди через «задержку». Только так ты разблокируешь «Режим Бога» и получите контроль над игрой под названием «Жизнь».
+</p>
+</div>
+
+</div>
+`
+},
+{
+  id: "yt_32",
+  title: "Выгорание. Деньги. Одиночество",
+  content: `
+<img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/Выгорание.%20Деньги.%20Одиночество.jpg?raw=true" alt="Превью видео" style="max-width:100%; border-radius:12px;">
+
+<div class="article-source">
+<strong>🎬 Смотреть видео:</strong>
+<a href="https://youtu.be/ybypIec8jDU?si=d38mFbjn77LX-NQt" target="_blank">Открыть в Youtube</a>
+</div>
+
+<h3>Конспект:</h3>
+<div style="margin-bottom: 20px; line-height: 1.7; font-family: Arial, sans-serif; font-size: 1.05em;">
+
+<p style="margin-bottom: 30px; text-align: center;">
+<strong style="font-size:1.4em;">Ответы на ключевые вопросы о финансах, мотивации, выгорании, бизнесе и личном развитии.</strong>
+</p>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">ДЕНЬГИ И ФИНАНСЫ</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 1: Вести ли учет доходов и расходов?</strong><br>
+<strong>Ответ:</strong> Да, это основа финансового контроля. Не нужно считать каждую копейку, но вести бюджет по категориям (жизнь, образование, YouTube) — обязательно. Это снимает стресс и дает управление. Я живу по принципу 50/50: 50% денег трачу, как будто жить осталось 50 дней (на опыт, качество жизни), а другие 50% — как будто впереди еще 50 лет (инвестиции, сбережения).
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 2: Как бороться с импульсивными покупками?</strong><br>
+<strong>Ответ:</strong> Осознанно ограничивать входящий поток рекламы (не ходить по ТЦ, не листать ленту). Любую покупку дороже 100 тыс. рублей я откладываю на месяц, если ее нет в бюджете. Исключение — инвестиции в качественное образование.
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">МОТИВАЦИЯ И ЦЕЛИ</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 3: Что вас мотивирует?</strong><br>
+<strong>Ответ:</strong> Мотивация ненадежна. Мной движет:
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">Цель «Лучшая версия себя» — это бесконечная игра.</li>
+<li style="margin-bottom: 8px;">Ответственность перед предками, которые прошли через невероятные трудности, чтобы я мог жить.</li>
+<li style="margin-bottom: 8px;">Опыт прошлых побед. Когда оглядываюсь и вижу, что смог переехать в Китай, США, построить бизнес с нуля и подняться после потери всего, это дает силы идти дальше.</li>
+</ul>
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 4: Как правильно ставить цели?</strong><br>
+<strong>Ответ:</strong> Цели — это маяк, но важнее система. Неудачники и чемпионы имеют одни и те же цели. Разница в действиях.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Формула:</strong> Цель = Ежедневные действия × «Как» (понимание процесса).</li>
+<li style="margin-bottom: 8px;"><strong>Ключ:</strong> Приравнивай цель к действию. Например, цель «1 млн подписчиков» превращается в действие «писать сценарий с 5:30 до 7:00». Над действиями у тебя полный контроль.</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">ПРИНЦИПЫ И ЦЕННОСТИ</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 5: Какие принципы и ценности вы считаете важными в бизнесе и жизни?</strong><br>
+<strong>Ответ:</strong>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Фокус внимания.</strong> Умение концентрироваться — суперсила в мире, где все расфокусированы.</li>
+<li style="margin-bottom: 8px;"><strong>Стоицизм.</strong> Контроль над эмоциями. «Ты не равно твоей эмоции».</li>
+<li style="margin-bottom: 8px;"><strong>Умение делать предложения, от которых нельзя отказаться.</strong> Это база бизнеса.</li>
+<li style="margin-bottom: 8px;"><strong>Создание качественного продукта.</strong> В онлайн-образовании это означает минимум воды, максимум практики и систему, которая заставляет действовать.</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">ВЫГОРАНИЕ, СТРЕСС И ЭМОЦИИ</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 6: Существует ли выгорание?</strong><br>
+<strong>Ответ:</strong> Выгорание — это фейк, выдумка современного общества. Это концепция, которая не делает тебя сильнее. Чаще всего это признак того, что ты занимаешься бессмысленным для тебя делом. Пример: я работал по 12-16 часов на фрилансе с энтузиазмом, а в найме чувствовал себя «выброшенной на берег рыбой» после 8 часов. Рекомендую использовать только те ментальные модели, которые приносят тебе пользу.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 7: Как справляться с неудачами, стрессом и эмоциями?</strong><br>
+<strong>Ответ:</strong>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Неудачи:</strong> Сейчас весь фокус развернут вовнутрь. Я формирую свой фундамент: здоровье, семья, труд. Если что-то не получилось, я знаю, что выложился на максимум.</li>
+<li style="margin-bottom: 8px;"><strong>Стресс:</strong> Я убираю «фейковый» стресс (например, из-за отмены рейса).</li>
+<li style="margin-bottom: 8px;"><strong>Эмоции:</strong> Понимаю, что эмоции — это 99% шум. Ищу их причину в физическом состоянии (недосып, перетренированность). Действия при этом остаются прежними.</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">ОКРУЖЕНИЕ И ОДИНОЧЕСТВО</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 8: Как выбирать правильное окружение?</strong><br>
+<strong>Ответ:</strong> Мы — среднее арифметическое пяти людей, с которыми проводим больше всего времени. Поэтому нужно быть очень аккуратным.
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Старые друзья:</strong> У них есть большой «запас доверия», они проверены в «бою».</li>
+<li style="margin-bottom: 8px;"><strong>Новые друзья:</strong> Не имеют права на ошибку. Малейшее проявление неуважения (например, сорвать встречу без предупреждения) — и человек выбывает из круга общения.</li>
+</ul>
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 9: Как не быть засранцем в глазах друзей, говоря «нет»?</strong><br>
+<strong>Ответ:</strong> Надо быть засранцем. Иначе с якорем из старых друзей пойдешь на дно. Говорить «нет» тяжело в моменте, но легко жить с последствиями. Говорить «да» — наоборот. Те, кто дробит твой фокус, — не друзья.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 10: Как преодолевать одиночество на пути к успеху?</strong><br>
+<strong>Ответ:</strong> Дорога к тому, что ты хочешь, по большой части будет одинокая, и это окей. «Ты боишься не одиночества, ты боишься скуки». Решение — быть занятым, работать над тем, что тебе интересно. Когда ты достигнешь результатов, предложений пообщаться будет больше, чем ты сможешь принять.
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">БИЗНЕС И КАРЬЕРА</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 11: Когда пора из фрилансера переходить в свое агентство?</strong><br>
+<strong>Ответ:</strong> Тогда, когда ты сам захочешь. Никто не пришлет уведомление. Ключевые навыки:
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>Формула фриланса:</strong> Маркетинг/Продажи + Навык (услуга) + Финансы.</li>
+<li style="margin-bottom: 8px;"><strong>Формула предпринимательства:</strong> Добавляется навык управления людьми.</li>
+</ul>
+Начинайте нанимать помощников, как только начали зарабатывать (например, 70-100 тыс. рублей). Это дает новые вызовы.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 12: Стоит ли идти в найм, чтобы поднабраться опыта перед своим делом?</strong><br>
+<strong>Ответ:</strong> Абсолютно точно нет. Получение образования о бизнесе — это не делать бизнес. Единственный способ научиться бизнесу — открыть свой. Начинайте с диджитал-бизнеса (минимальные риски), а не с физического.
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">СОЗДАНИЕ КОНТЕНТА И ЛИЧНЫЙ БРЕНД</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 13: Почему вы убрали короткий контент (рилсы) и сфокусировались на длинном?</strong><br>
+<strong>Ответ:</strong> Короткий контент по большей части смотрят люди с низкой концентрацией внимания. Аудитория, которая смотрит короткий и длинный контент, — разная. Моя философия: «Лучше иметь меньше просмотров, но создавать реальные изменения в жизни зрителя». Длинный формат позволяет дать реальную ценность и глубоко погрузиться в тему.
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">СОН И ПРОДУКТИВНОСТЬ</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 14: Пробовали ли вы полифазный сон?</strong><br>
+<strong>Ответ:</strong> Да, пробовал. Никаких улучшений в продуктивности не заметил. Наоборот, было постоянное чувство разбитости и приходилось выезжать на одной дисциплине. Полифазный сон — не для меня.
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center; padding-bottom: 10px;">САМОРАЗВИТИЕ И КНИГИ</h4>
+<ul style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 15: Как научиться работать с информацией из книг?</strong><br>
+<strong>Ответ:</strong>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">Читать в одном месте (например, на iPad) и делать заметки.</li>
+<li style="margin-bottom: 8px;">Использовать сервисы для повторения (например, Readwise), которые каждый день присылают выдержки из прочитанного.</li>
+<li style="margin-bottom: 8px;">Постоянно задавать вопрос: «Как это применимо в моей жизни?».</li>
+<li style="margin-bottom: 8px;">Для лучших книг покупать еще и аудиоверсию, чтобы задействовать разные центры мозга.</li>
+</ul>
+Цель — не просто потреблять, а находить и применять лучшие идеи.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 16: Как заменить вредные привычки на полезные?</strong><br>
+<strong>Ответ:</strong> Самый эффективный способ — поменять среду обитания. Привычки зависят от контекста. Если вы хотите изменить поведение, измените окружение и триггеры, которые провоцируют нежелательные действия. Контролировать энергию (включая сексуальную) — это признак силы воли. Вы не животное, вы человек, способный сказать себе "нет".
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 17: С какими людьми налаживать коммуникацию для роста?</strong><br>
+<strong>Ответ:</strong>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">С теми, с кем общение приносит искреннее удовольствие</li>
+<li style="margin-bottom: 8px;">С теми, кто несет позитивную энергию и конструктивный настрой</li>
+</ul>
+Я не верю в формальный нетворкинг. Будьте лучшей версией себя — и нужные люди появятся в вашей жизни естественным образом.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 18: Нужно ли прекращать общение с людьми, которые не подходят по целям?</strong><br>
+<strong>Ответ:</strong> Проблема не в разных целях, а в разном отношении к жизни. Меня отталкивает не то, что человек хочет быть сварщиком, а то, что он не хочет быть лучшим сварщиком на планете. Друзья должны вдохновлять, а не тянуть на дно.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 19: Стоит ли поступать в магистратуру?</strong><br>
+<strong>Ответ:</strong> Магистратура — прошлый век. За 4 года в бизнесе можно пройти путь от нуля до миллиона в месяц, получить бесценный опыт и построить дело. Магистратура — это безопасный путь, а самый большой риск — никогда не рисковать.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 20: Как долго вы шли к той версии себя, которой являетесь?</strong><br>
+<strong>Ответ:</strong> Лучшая версия себя — это бесконечный процесс. Я встал на путь развития в 20 лет, начав с фитнеса. При смене мышления существует "задержка в обновлении реальности" — от 1 до 3 лет, когда ты уже думаешь по-новому, а внешние доказательства еще не появились. Главное — пройти через этот период.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 21: Какой совет по тренировкам?</strong><br>
+<strong>Ответ:</strong> Тренируйтесь каждый день, как чистите зубы. Секрет в разнообразии: бег, качалка, бокс, кроссфит — чтобы мозгу было интересно. Самое главное — оставаться активным.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 22: Что делать, если не знаешь, с чего начать?</strong><br>
+<strong>Ответ:</strong> Применить "путь Сантьяго":
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">Определить "антибудущее" — то, от чего вы бежите</li>
+<li style="margin-bottom: 8px;">Найти то, что для вас как игра — ваши врожденные интересы</li>
+<li style="margin-bottom: 8px;">Принять, что гарантий нет — нужно тестировать на своей шкуре</li>
+</ul>
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 23: Что делать, когда нет мотивации и не видишь смысла?</strong><br>
+<strong>Ответ:</strong> На помощь приходит стоицизм. Эмоции — это 99% шум. Обязательно закрывать базу: сон, питание, тренировки, восстановление. Смысл есть всегда — нужно продолжать действовать, даже когда его не видно в моменте.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 24: Как объяснить себе, зачем зарабатывать большие деньги?</strong><br>
+<strong>Ответ:</strong> Ответ в вашей личной системе ценностей. Деньги — это не цель, а инструмент для реализации амбиций, помощи близким, создания наследия.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 25: Как развивать софт-скиллы?</strong><br>
+<strong>Ответ:</strong> Разбить на конкретные действия. Хотите быть дисциплинированным? Тренируйтесь каждый день, ложитесь вовремя, выполняйте обещания. Главный софт-скилл — умение слушать. У вас два уха и один рот — используйте их пропорционально.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 26: Как выбрать перспективную профессию?</strong><br>
+<strong>Ответ:</strong> В жизни нет гарантий. Вместо поиска "перспективной профессии" развивайте фундаментальные навыки: учиться учиться, управлять энергией, осваивать маркетинг, продажи, копирайтинг, сторителлинг. Английский — обязательный навык.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 27: Как отличать качественные книги от бесполезных?</strong><br>
+<strong>Ответ:</strong>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">Читать книги, прошедшие проверку временем</li>
+<li style="margin-bottom: 8px;">Смотреть рекомендации людей со схожим мировоззрением</li>
+<li style="margin-bottom: 8px;">Читать много и использовать правило 10% — если книга не зашла, менять</li>
+</ul>
+Цель — не прочитать все, а найти лучшие книги для себя.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 28: Какой один общий совет?</strong><br>
+<strong>Ответ:</strong> Делай. Знание без действия бесполезно. Преодолевай паралич анализа через действие.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 29: Как находить клиентов фрилансеру?</strong><br>
+<strong>Ответ:</strong>
+<ul style="margin-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 8px;">Сделать неотразимое предложение</li>
+<li style="margin-bottom: 8px;">Оформить профиль в соцсетях как эксперта</li>
+<li style="margin-bottom: 8px;">Написать всем знакомым</li>
+<li style="margin-bottom: 8px;">Запустить рекламу на себя</li>
+<li style="margin-bottom: 8px;">Формировать личный бренд через длинный контент</li>
+</ul>
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 30: Как совмещать карьеру и отношения?</strong><br>
+<strong>Ответ:</strong> Главное — не количество времени, а качество. Я сразу объясняю правила игры: например, не завтракаю вместе, но готов ужинать каждый вечер. С выбором партнера не стоит торопиться — это один из главных выборов в жизни.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Вопрос 31: Что такое кризис среднего возраста?</strong><br>
+<strong>Ответ:</strong> Кризис среднего возраста — это фейк, термин слабых людей, ищущих оправдания. Я принимаю только те мировоззрения, которые делают меня лучше. Вера в кризис среднего возраста не делает меня сильнее, поэтому я ее отвергаю.
+</li>
+</ul>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">3 КНИГИ ДЛЯ БУДУЩЕГО МИЛЛИОНЕРА</h4>
+<p style="margin-bottom: 20px;">
+<strong>Найм — тупик. Стань предпринимателем.</strong> Это сложно: стресс, неопределенность. Я сам прошел путь от 0 до 800к, потом до 0, и снова до миллиона в месяц. Вот 3 книги, с которых все началось.
+</p>
+<ol style="margin-left: 20px; margin-bottom: 0;">
+<li style="margin-bottom: 20px;">
+<strong>БЕНДЖАМИН ХАРДИ «БУДУЩИЙ Я»</strong><br>
+Ты — среднее тех пяти людей, с кем общаешься больше всего. Если окружение тянет на дно — меняй его. Большинство людей не хочет, чтобы у тебя было лучше, чем у них. Книга учит перестать сравнивать себя с другими и начать двигаться к лучшей версии себя.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>КЭЛ НЬЮПОРТ «ГЛУБОКАЯ РАБОТА»</strong><br>
+Успех требует фокуса. Вся разница между глубокой работой (создает ценность, развивает навыки) и рутиной (легко воспроизводима). Убери все отвлекающие факторы, заблокируй время в календаре, отдыхай без соцсетей. Фокус — главный актив предпринимателя.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>АЛЕКС ХАРМОЗИ «ОФЕРЫ НА 100 МИЛЛИОНОВ ДОЛЛАРОВ»</strong><br>
+Не создавай продукт в вакууме. Основа бизнеса — неотразимое торговое предложение. Научись давать клиентам то, что им действительно нужно, и так, чтобы отказ казался им глупостью. Ценность должна многократно превышать цену.
+</li>
+</ol>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Ты не успешен, потому что не умеешь отдыхать</h4>
+<p style="margin-bottom: 20px;">
+Обычный отдых — это соцсети, алкоголь и сериалы. Так отдыхают среднестатистические люди со средними результатами. Если ты хочешь большего, тебе нужен другой подход.
+</p>
+<p style="margin-bottom: 20px;">
+<strong>Проблема не в усталости, а в алостатической нагрузке</strong> — износе тела и ума из-за постоянного давления жизни. Это как газовать с затянутым ручным тормозом.
+</p>
+<p style="margin-bottom: 15px;"><strong>Есть два типа отдыха:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;"><strong>Расслабление (соцсети, сериалы)</strong> — фейковый отдых, который не восстанавливает.</li>
+<li style="margin-bottom: 10px;"><strong>Восстановление</strong> — активный процесс, который вычищает нагрузку из мозга.</li>
+</ul>
+<p style="margin-bottom: 15px;"><strong>8 видов настоящего восстановления:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 8px;">Медитация</li>
+<li style="margin-bottom: 8px;">Физическая нагрузка</li>
+<li style="margin-bottom: 8px;">Баня и ледяная вода</li>
+<li style="margin-bottom: 8px;">Дыхательные практики</li>
+<li style="margin-bottom: 8px;">Массаж</li>
+<li style="margin-bottom: 8px;">Растяжка</li>
+<li style="margin-bottom: 8px;">Сон</li>
+</ul>
+<p style="margin-bottom: 20px;"><strong>Пример моего пятничного протокола:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 8px;">Отказ от кофе для восстановления чувствительности</li>
+<li style="margin-bottom: 8px;">Выключение телефона в 17:00</li>
+<li style="margin-bottom: 8px;">Пробежка 5 км</li>
+<li style="margin-bottom: 8px;">3 раунда баня + ледяная ванна</li>
+<li style="margin-bottom: 8px;">Легкий ужин</li>
+<li style="margin-bottom: 8px;">Сон в 21:00</li>
+</ul>
+<p style="margin-bottom: 20px;">
+Результат — 10 часов качественного сна и заряд энергии на 104 выходных дня в году, которые я использую для работы, пока другие "отдыхают".
+</p>
+<p style="font-weight: bold; font-style: italic;">
+Настоящий отдых — это не слабость, а стратегическое оружие. Если ты хочешь раскрыть свой потенциал, научись восстанавливаться правильно.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Кризис комфорта</h4>
+<p style="margin-bottom: 20px;">
+Мы живем в самое комфортное время в истории, но этот комфорт стал ловушкой. Пока у тебя есть отопление, еда и развлечения в телефоне, нет реального стимула что-то менять. Жизнь проходит на "троечку", потому что не хватает боли, чтобы действовать.
+</p>
+<p style="margin-bottom: 20px;"><strong>Чем это грозит?</strong><br>
+Ты превращаешься в индюшку, которую тысячу дней кормят, а на тысячу первый — забивают. "Дядя мясник" приходит в разных обличьях: болезни сердца (треть всех смертей), лишний вес (у 60% россиян), истощение энергии.
+</p>
+<p style="margin-bottom: 20px;"><strong>Почему мотор не выдерживает?</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;"><strong>Лишний вес</strong> — те же 20-50 кг, которые ты носишь постоянно</li>
+<li style="margin-bottom: 10px;"><strong>Некачественное топливо</strong> — ультраобработанные продукты, которые даже мухи не едят</li>
+<li style="margin-bottom: 10px;"><strong>Перегрузка</strong> — едим не от голода, а от скуки или стресса</li>
+</ul>
+<p style="margin-bottom: 20px;">
+<strong>В чем корень проблемы?</strong><br>
+Мозг запрограммирован на дефицит, поэтому при виде калорийной бомбы (жир+сахар+соль) не может остановиться. Еда стала не топливом, а средством от фейкового стресса.
+</p>
+<p style="margin-bottom: 20px;"><strong>Решение</strong><br>
+Нужно вернуться к "заводским настройкам":
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;"><strong>Периодическое голодание</strong> — окно питания 8 часов, голодание 16 часов</li>
+<li style="margin-bottom: 10px;"><strong>Осознанное питание</strong> — не есть за компанию или от скуки</li>
+<li style="margin-bottom: 10px;"><strong>Качество еды</strong> — выбирать то, что создала природа, а не завод</li>
+</ul>
+<p style="margin-bottom: 20px;">
+<strong>Личный опыт:</strong> за 6 лет голодания я пришел к лучшей форме и получил в разы больше энергии, просто исключив завтрак. Это не рекомендация, а повод провести собственное исследование.
+</p>
+<p style="font-weight: bold; font-style: italic;">
+Комфорт сделал нас хрупкими. Настоящая сила — в умении сознательно создавать себе здоровый дискомфорт.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Навык делать деньги</h4>
+<p style="margin-bottom: 20px;">
+Делать деньги — это навык, как игра на пианино. Нелепо ожидать от себя уровня Моцарта с первых дней. Тебя никто не учил этому — система образования готовит наемных работников, а не создателей. 80% отличников работают на троечников — это приговор системе.
+</p>
+<p style="margin-bottom: 20px;"><strong>Принцип 1:</strong> Не станешь богатым, сдавая время в аренду. Суть не только в деньгах, а в смеси свободы, денег и выбора местоположения. Единственный путь — стать предпринимателем.</p>
+<p style="margin-bottom: 20px;"><strong>Принцип 2:</strong> То, над чем ты работаешь, важнее, чем то, как усердно ты работаешь. Ашот с шашлычной и Илон Маск могут работать одинаково много, но результаты несопоставимы. Целься сразу в Tesla и SpaceX.</p>
+<p style="margin-bottom: 20px;"><strong>Принцип 3:</strong> Ключ — не просто product-market fit, а product-market-founder fit. Бизнес рушится, когда у основателя кончается запал. Нужно, чтобы дело совпадало с твоим опытом, знаниями и внутренней мотивацией.</p>
+<p style="margin-bottom: 20px;"><strong>Пример из жизни:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Маркетинговое агентство</strong> — работа на «искусственных» навыках (управление, найм). Деньги есть, но интереса нет.</li>
+<li style="margin-bottom: 12px;"><strong>YouTube-канал</strong> — работа на природных интересах. Расту один, без зависимости от команды.</li>
+</ul>
+<p style="margin-bottom: 20px;"><strong>Формула:</strong> Сначала работай и много, и умно. Если твой час стоит 10 000 ₽, работай 16 часов и зарабатывай 160 000. Потом оптимизируй и переходи на новый уровень.</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Как понять, что ты хочешь? (на самом деле)</h4>
+<p style="margin-bottom: 20px;">
+Жизнь в маленьком городе лишает тебя даже представления о больших возможностях. Ты не видишь Майбахов и не веришь, что такое вообще реально. Главная проблема — неумение мечтать.
+</p>
+<p style="margin-bottom: 20px;"><strong>Как пройти этот квест?</strong><br>
+Начни с антибудущего — того, что ты точно не хочешь:
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Анализируй окружение.</strong> Смотри на людей старше себя. К чему привел их путь? Хочешь ли ты оказаться на их месте? (Пример: работа вахтой → гедонизм → потеря амбиций).</li>
+<li style="margin-bottom: 12px;"><strong>Изучи прошлое.</strong> Твой опыт — это ценные данные. Что тебе уже категорически не нравилось?</li>
+<li style="margin-bottom: 12px;"><strong>Составь конкретный список того, от чего ты хочешь избавиться.</strong> Например: "Меня тошнит от корпоративных созвонов, где 10 человек теряют время". Это создает дискомфорт, который мотивирует действовать.</li>
+</ul>
+<p style="margin-bottom: 20px;"><strong>Что дальше?</strong><br>
+Пойми: счастье — это не редкие яркие события (первый полет бизнес-классом), а качество твоего обычного вторника.
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Забудь про гедонизм.</strong> Мечтать о лежании на пляже с мохито — ловушка. В реальности это скучно, жарко и бессмысленно.</li>
+<li style="margin-bottom: 12px;"><strong>Опиши свой идеальный будний день в деталях:</strong> какая у тебя рутина, сколько времени на работу, на что направлен фокус, что ты делаешь в каждый час.</li>
+</ul>
+<p style="font-weight: bold; font-style: italic;">
+Ты — продукт своих ежедневных действий. Пойми, к чему приведет твой нынешний образ жизни через 10 лет. Если картинка не устраивает — начинай строить свой идеальный "вторник" уже сегодня.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Вирусы мышления NPC</h4>
+<p style="margin-bottom: 20px;">
+Как компьютерный вирус, вредоносные убеждения стараются оставаться незамеченными, чтобы глубже проникнуть в твое сознание и перевести тебя в режим бота.
+</p>
+<p style="margin-bottom: 20px;">
+С детства тебе загружали программы, которые ты не подвергал сомнению. Например:
+</p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;">«Деньги — корень зла»</li>
+<li style="margin-bottom: 10px;">«Все богатые — жулики»</li>
+</ul>
+<p style="margin-bottom: 20px;">
+Эти вирусы заставляют тебя подсознательно избегать денег, как будто играешь в футбол, мечтая о баскетболе.
+</p>
+<p style="margin-bottom: 20px;"><strong>Антивирус — критическое мышление</strong><br>
+Главное отличие самостоятельной личности от бота — умение фильтровать информацию. Всегда задавай вопрос: «Это убеждение делает меня сильнее или слабее?»
+</p>
+<p style="margin-bottom: 20px;"><strong>Пример из жизни</strong><br>
+Раньше я думал: «Сначала нужно всему научиться, а потом начинать бизнес». Это убеждение украло у меня 9 лет. Настоящее обучение началось только с первыми реальными шагами. Даже MBA оказалась «филькиной грамотой» — теория не имела ничего общего с практикой.
+</p>
+<p style="margin-bottom: 20px;"><strong>Образовательная система — плохая симуляция</strong><br>
+В жизни всё наоборот: сначала получаешь тест (проблему), а потом ищешь решение. Школа учит следовать инструкциям, а не думать.
+</p>
+<p style="margin-bottom: 20px;"><strong>Ты — то, что ты потребляешь</strong><br>
+Мы живем в эпоху гиперреальности (термин Бодрийяра), где симуляции в соцсетях заменяют настоящую жизнь. Глянцевые картинки создают иллюзию, что у всех всё идеально, а ты отстаёшь.
+</p>
+<p style="margin-bottom: 20px;"><strong>Решение</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 10px;">Регулярно проверяй свои убеждения через призму пользы.</li>
+<li style="margin-bottom: 10px;">Потребляй контент, который соответствует твоим целям, а не отвлекает от них.</li>
+<li style="margin-bottom: 10px;">Опирайся на собственный разум, а не на чужие симуляции.</li>
+</ul>
+<p style="font-weight: bold; font-style: italic;">
+Пока ты не осознаешь эти вирусы, ты будешь жить в режиме иллюзий, а не в режиме бога.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Как обучаться ПРАВИЛЬНО</h4>
+<p style="margin-bottom: 20px;">
+Настоящее обучение — это не зазубривание, а изменение поведения. Жизнь учит через пощечины: показывают «красную карточку» — не среагировал — получил удар. Среагировал — избежал боли. Это и есть обучение.
+</p>
+<p style="margin-bottom: 20px;"><strong>Что такое умный человек?</strong><br>
+Это не тот, кто много знает, а тот, кто быстро меняет поведение на основе новых знаний. Если ты знаешь, что нужно делать, но не делаешь — ты на стороне «тупых».
+</p>
+<p style="margin-bottom: 20px;"><strong>Алгоритм правильного обучения:</strong></p>
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Разбирайся в определениях.</strong> Понимай точный смысл терминов, а не просто заучивай слова.</li>
+<li style="margin-bottom: 12px;"><strong>Действуй.</strong> Прямой опыт — король. Теория без практики бесполезна.</li>
+<li style="margin-bottom: 12px;"><strong>Покупай чужой опыт.</strong> Консультируйся с экспертами, чтобы не набивать шишки самому.</li>
+<li style="margin-bottom: 12px;">
+<strong>Проверяй советы через «принципы первого порядка».</strong> Это базовые истины, которые нельзя оспорить.
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 8px;"><strong>Пример:</strong> Два агентства сказали мне не бросать короткие видео на YouTube, иначе алгоритм заблокирует канал.</li>
+<li style="margin-bottom: 8px;"><strong>Принцип первого порядка:</strong> YouTube продвигает контент, который удерживает зрителей на платформе.</li>
+<li style="margin-bottom: 8px;"><strong>Вывод:</strong> Важно качество и удержание, а не просто длина видео. Совет агентств — не истина.</li>
+</ul>
+</li>
+</ol>
+<p style="margin-bottom: 20px;">
+<strong>Остерегайся «интеллектуального идиота»</strong> (термин Нассима Талеба). Это человек, перегруженный теорией, но неспособный применять знания в реальной жизни. Не будь как преподаватель маркетинга, который знает все теории, но не может на них заработать.
+</p>
+<p style="font-weight: bold; font-style: italic;">
+Вывод: Обучение ради галочки — пустая трата времени. Учись, чтобы менять свои действия и получать реальные результаты.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Как стать энергичным</h4>
+<p style="margin-bottom: 20px;">
+Твоя энергия — это твоя главная батарейка. У кого-то она на 1500 мАч, у кого-то на 10000. Чтобы раскрыть свой потенциал, нужно перестать копировать других и начать экспериментировать со своим организмом.
+</p>
+<p style="margin-bottom: 20px;"><strong>Проблема: мозг пещерного человека в мире 2024 года</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Пещерный человек (300 000 лет назад):</strong> Просыпался с солнцем, искал еду, физически активен. Принимал мало решений.</li>
+<li style="margin-bottom: 12px;"><strong>Современный человек (2024 год):</strong> С утра проверяет телефон, получает десятки сообщений и новостей, едет в офис. Принимает 35 000 решений в день.</li>
+<li style="margin-bottom: 12px;"><strong>Итог:</strong> Твой процессор не справляется. Это вызывает алостатическую нагрузку — износ мозга от постоянного стресса, даже мелкого.</li>
+</ul>
+<p style="margin-bottom: 20px;"><strong>Решение: два фундаментальных подхода</strong></p>
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 20px;">
+<strong>Философия минимализма (фокус на главном)</strong>
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 10px;"><strong>Суть:</strong> Систематизируй или устрани всё неважное, чтобы освободить ментальные ресурсы.</li>
+<li style="margin-bottom: 10px;"><strong>Пример с едой:</strong> Если для тебя еда — в основном топливо, закажи доставку готового правильного питания. Это уберет из твоей «операционки» походы в магазин, готовку и мытье посуды. Готовь сам только тогда, когда в этом есть смысл (например, ужин с семьей).</li>
+<li style="margin-bottom: 10px;"><strong>Пример с гардеробом:</strong> Как Стив Джобс, носи одно и то же. Если вещь нравится, купи несколько одинаковых. Избавься от хлама, который занимает не только полки, но и пространство в голове.</li>
+</ul>
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Профессиональная чистка алостатической нагрузки</strong><br>
+Твоему мозгу, как и машине, нужно техобслуживание.
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 10px;"><strong>Короткий сон (сиеста):</strong> 20-30 минут днем, чтобы перезагрузиться.</li>
+<li style="margin-bottom: 10px;"><strong>«Поставить жизнь на паузу»:</strong> Закрой глаза в тишине, отключи все потоки информации. Проанализируй, что происходит в твоей жизни, какие мысли тебя беспокоят, какие люди тебя истощают. Это и есть настоящая медитация.</li>
+<li style="margin-bottom: 10px;"><strong>Качественный ночной сон:</strong> Главный способ очистки мозга.</li>
+</ul>
+</li>
+</ol>
+<p style="margin-bottom: 20px;">
+<strong>Важно:</strong> Кофеин блокирует аденозин (гормон сонливости). Период его полураспада — 6 часов. Если выпьешь кофе в 16:00, это как выпить полчашки в 22:00. Прекращай употреблять кофеин за 10-12 часов до сна.
+</p>
+<p style="font-weight: bold; font-style: italic;">
+Вывод: Профессионал становится мастером в базовых вещах: он создает системы, а не ищет волшебные таблетки. Дилетант, наоборот, цепляется за детали, упуская суть. Освой эти фундаментальные модели, чтобы построить антихрупкую систему здоровья и энергии. Без прочного фундамента невозможно решать сложные жизненные задачи.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px; text-align: center;">Техника исполнения желаний</h4>
+<ol style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 20px;">
+<strong>«Я хочу» — это контракт на несчастье</strong><br>
+Каждое «хочу» — это договор с собой быть неудовлетворенным, пока цель не достигнута. Большинство желаний навязаны извне (новая машина соседа, свежий айфон). Пока ты не прокачал своего «персонажа», ты будешь хотеть барахло.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Формула счастья</strong><br>
+Счастье = Реальность - Желания<br>
+Реальность нейтральна. Чем больше неисполненных «хочу», тем меньше счастья. Есть два пути:
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 10px;">Убрать желания (как монахи-аскеты)</li>
+<li style="margin-bottom: 10px;">Взять их под контроль</li>
+</ul>
+Но даже монахи не свободны от «хочу» — они подсажены на сладкий чай. Нельзя полностью избавиться от желаний, да и не нужно. Мир создан для жизни здесь и сейчас.
+</li>
+<li style="margin-bottom: 20px;">
+<strong>Стратегия профессионала: один квест за раз</strong><br>
+Нельзя одновременно хотеть все: тело Аполлона, миллионы, духовность. Дилетант мечется, профессионал фокусируется.
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 10px;"><strong>Пример:</strong> В 20 лет сфокусируйся на теле — гормоны помогут, а результат останется с тобой надолго.</li>
+<li style="margin-bottom: 10px;">Духовность требует предварительного решения материальных вопросов («fuck you money»). Легко быть «духовным» бедняком. Истинная духовность проверяется, когда тебе ничего ни от кого не нужно.</li>
+</ul>
+</li>
+<li style="margin-bottom: 20px;">
+<strong>План действий</strong>
+<ul style="margin-left: 20px; margin-top: 8px;">
+<li style="margin-bottom: 10px;"><strong>Заключи один «контракт».</strong> Выбери одну главную цель на данный период. Множество целей = расфокус и провал.</li>
+<li style="margin-bottom: 10px;"><strong>Тренируй разум.</strong> Медитация (как на безмолвных ретритах) — это мышца между мыслью и действием. Она помогает не быть собакой Павлова, которая тянется к телефону по первому сигналу.</li>
+</ul>
+</li>
+</ol>
+<p style="font-weight: bold; font-style: italic;">
+Итог: Не распыляйся. Выбери одну ключевую миссию, достигни ее и только затем переходи к следующей. Так ты будешь двигаться как профессионал, а не как дилетант.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 20px; border-radius: 10px;">
+<h4 style="font-size:1.4em; margin-bottom: 25px;  text-align: center;">Привычка “кусать” жизнь</h4>
+<p style="margin-bottom: 20px;">
+Ты как водитель Lamborghini, который всю жизнь ездит 40 км/ч на дачу и обратно. Никогда не дал ей раскрыться. Состарившись, понимаешь: "Я прожил беззубую жизнь". Твои разум и тело — та самая Lambo. Большинство людей так и не тестируют их на пределе.
+</p>
+<p style="margin-bottom: 20px;"><strong>Главная ошибка:</strong><br>
+В 18-25 лет ты — мешок с гормонами. Можно прийти в феноменальную форму, а потом всю жизнь лишь поддерживать ее (это требует в 10 раз меньше усилий). Но вместо этого ты остаешься просто "мешком". Не рискуешь, не тестируешь себя.
+</p>
+<p style="margin-bottom: 20px;"><strong>Парадокс:</strong> Если бы ты использовал свои "зубы", они становились бы только острее.</p>
+<p style="margin-bottom: 20px;"><strong>Пример с бизнесом:</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;">В 2022-23 я потерял всех клиентов и оказался в долгу в 1 млн рублей.</li>
+<li style="margin-bottom: 12px;">Варианты: устроиться на работу и медленно выплачивать ИЛИ продолжать играть в "бизнес-казино".</li>
+<li style="margin-bottom: 12px;">Бизнес — это казино, где тебе нужен всего один крупный выигрыш, чтобы улететь в стратосферу. Попыток — бесконечность.</li>
+<li style="margin-bottom: 12px;">Я вкладывал все в бизнес, не тратясь ни на что. В итоге отдал весь долг за один месяц.</li>
+</ul>
+<p style="margin-bottom: 20px;"><strong>Что мешает "кусать"?</strong></p>
+<ul style="margin-left: 20px; margin-bottom: 20px;">
+<li style="margin-bottom: 12px;"><strong>Синдром маленького города:</strong> Кажется, что твой городок — это вся вселенная. Ты боишься упасть, потому что думаешь, что все на тебя смотрят.</li>
+<li style="margin-bottom: 12px;"><strong>Правда:</strong> Никому нет до тебя дела. Все зациклены на себе. Вначале, может, кто-то и кинет камень из-за "глитча в матрице". Потом — тишина. Тебя не заметят, пока ты не добьешься успеха.</li>
+</ul>
+<p style="font-weight: bold; font-style: italic;">
+Вывод: Рискуй, выгляди глупо, делай ошибки. Пока тебя хейтят — ты уже впереди. Если не рискнешь сейчас, через 3 года окажешься в той же точке, только на 3 года старше. Возможность "кусать" есть прямо сейчас. Всем все равно — это твой главный козырь.
+</p>
+</div>
+
+<div style="margin-bottom: 40px; padding: 25px; color: white; border-radius: 10px; text-align: center;">
+<h4 style="font-size:1.5em; margin-bottom: 25px; ">Овладей свободой финансов, времени и местоположения</h4>
+<p style="font-size:1.2em; margin-bottom: 20px;">
+Эти три свободы неразделимы. Бессмысленно иметь деньги, но быть привязанным к месту и графику. И так же бессмысленно быть кочевником, считая копейки. Нужно стремиться к триединству, и чем раньше — тем лучше. Свобода в 30 лет и в 70 — это разные жизни.
+</p>
+<p style="margin-bottom: 20px;">
+<strong>Мы — самые везучие люди в истории</strong><br>
+30-40 лет назад собрать все три «камня бесконечности» было почти утопией. Даже Уоррен Баффет признает роль удачи: он родился в нужной семье, в нужной стране и получил стартовый капитал.
+</p>
+<p style="margin-bottom: 20px;">
+<strong>Но сейчас — диджитал-ренессанс.</strong> Интернет демократизировал возможности. Неважно, кто ты и откуда. Твои шансы стать «новым богатым» (богатым деньгами, временем и местоположением) — лучшие за всю историю.
+</p>
+<p style="margin-bottom: 20px;">
+<strong>Сегодня тяжелее быть бедным, чем богатым</strong><br>
+Парадокс нашего времени: усерднее работать на кого-то за зарплату, чем создавать свое дело.
+</p>
+<p style="font-size:1.1em;">
+Что тебе нужно? Не случайная удача (вложился в биткоин и разбогател), а принципы, алгоритмы и схемы. Системное знание, которое позволит тебе снова «сесть на коня» даже после падения на дно, дав себе всего год-два.
+</p>
+<p style="font-size:1.3em; font-weight: bold; margin-top: 20px;">
+Формула свободы больше не утопия. Она требует не везения, а освоения правил игры нового времени.
+</p>
+</div>
+
+</div>
+`
+}
+
 
                         // 👉 ДОБАВЬ ДО yt_31
                     ]
@@ -10185,7 +15247,7 @@ library: {
                             title: "4 ПРОВЕРЕННЫХ СПОСОБА ПОИСКА КЛИЕНТОВ В 2025 ГОДУ",
                             content: `
 <div class="article-source">
-<strong>▶🎬 Смотреть видео:</strong>
+<strong>🎬 Смотреть видео:</strong>
 <a href="https://www.youtube.com/watch?v=-FpoRutFdE4" target="_blank">Открыть в Youtube</a>
 </div>
 
@@ -10271,7 +15333,7 @@ library: {
                             title: "ФОРМУЛА УБОЙНОГО ОФФЕРА - БАЗА ЛЮБОГО БИЗНЕСА",
                             content: `
 <div class="article-source">
-<strong>▶🎬 Смотреть видео:</strong>
+<strong>🎬 Смотреть видео:</strong>
 <a href="https://youtu.be/U9kTfeF6pLU?si=yDllg7WDryr_AfjJ" target="_blank">Открыть в Youtube</a>
 </div>
 
@@ -10399,7 +15461,7 @@ library: {
                             title: "ЛУКСМАКСИНГ - НАСТОЯЩИЙ ГАЙД ДЛЯ МУЖЧИН",
                             content: `
 <div class="article-source">
-<strong>▶🎬 Смотреть видео:</strong>
+<strong>🎬 Смотреть видео:</strong>
 <a href="https://www.youtube.com/watch?si=yDllg7WDryr_AfjJ&v=U9kTfeF6pLU&feature=youtu.be" target="_blank">Открыть в Youtube</a>
 </div>
 
@@ -10445,7 +15507,7 @@ library: {
                             title: "ГЛАВНЫЙ СЕКРЕТ ПРОДУКТИВНОГО ДНЯ (99% ЭТОГО НЕ ДЕЛАЮТ)",
                             content: `
 <div class="article-source">
-<strong>▶🎬 Смотреть видео:</strong>
+<strong>🎬 Смотреть видео:</strong>
 <a href="https://youtu.be/JQdhSLj24XY?si=OXMhjq9rzOKWl0vl" target="_blank">Открыть в Youtube</a>
 </div>
 
@@ -10547,7 +15609,7 @@ library: {
                             title: "Как использовать нейросети для самообучения",
                             content: `
 <div class="article-source">
-<strong>▶🎬 Смотреть видео:</strong>
+<strong>🎬 Смотреть видео:</strong>
 <a href="https://t.me/c/1635501098/379" target="_blank">Открыть в Телеграмм</a>
 </div>
 
@@ -10607,7 +15669,7 @@ library: {
                             title: "4 города для комфортной жизни за границей",
                             content: `
 <div class="article-source">
-<strong>▶🎬 Смотреть видео:</strong>
+<strong>🎬 Смотреть видео:</strong>
 <a href="https://t.me/c/1635501098/435" target="_blank">Открыть в Телеграмме</a>
 </div>
 
@@ -10682,7 +15744,7 @@ library: {
                             title: "Режим дня. Бонус №1. Как управлять временем",
                             content: `
 <div class="article-source">
-<strong>▶🎬 Смотреть видео:</strong>
+<strong>🎬 Смотреть видео:</strong>
 <a href="https://www.loom.com/share/7a8f0cc70e1143c68e22a5b55e97b6d4?sid=8b03b9a3-e5a3-44ad-915a-db5da6411926" target="_blank">Открыть в Loom</a>
 </div>
 
