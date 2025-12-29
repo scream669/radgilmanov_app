@@ -1473,17 +1473,16 @@ Via Negativa
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
 </div>` },
-                            { id: 'mentalmodels_2', title: "РАДкаст №23", content: `<div class="article-source">
-                                
+                            { id: 'mentalmodels_2', title: "РАДкаст №23", content: `
     <div class="article-source">
-    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
+    <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a></div>
 <div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/364" target="_blank">Открыть в Телеграмм</a>
 </div>
 
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">РАДкаст №23</h1>
-    
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Коротко о главном:</strong></p>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Ты не повторишь путь другого успешного человека.</strong></p>
@@ -8035,7 +8034,7 @@ Via Negativa
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">В 2025 году уж точно нельзя отмазаться отсутствием времени:</p>
     
-    <div style="background: rgba(255, 59, 48, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0; border-left: 4px solid #FF3B30;">
+    <div style="background: rgba(255, 59, 48, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0;">
         <p style="margin: 0; line-height: 1.6; font-weight: 600; font-size: 1.1em;">
             Твоя проблема не во времени, твоя проблема – в приоритетности.
         </p>
@@ -8066,7 +8065,7 @@ Via Negativa
     
     <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Система приоритетности работает во всем</h2>
     
-    <div style="background: rgba(0, 122, 255, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0; border-left: 4px solid #007AFF;">
+    <div style="background: rgba(0, 122, 255, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0;">
         <p style="margin: 0; line-height: 1.6; font-weight: 600; font-size: 1.1em;">
             Делай самые важные дела раньше остальных.
         </p>
@@ -8075,12 +8074,12 @@ Via Negativa
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Таким образом я выучил китайский и английский языки – потому что вставал в 5 утра и занимался этим приоритетно перед всеми остальными делами.</p>
     
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 25px 0;">
-        <div style="background: rgba(88, 86, 214, 0.1); padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #5856D6;">
+        <div style="background: rgba(88, 86, 214, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
             <div style="font-size: 1.3em; font-weight: 700; margin-bottom: 5px;">🇨🇳</div>
             <div style="font-weight: 600;">Китайский</div>
             <div style="font-size: 0.9em; color: #8e8e93; margin-top: 5px;">Изучен приоритетно</div>
         </div>
-        <div style="background: rgba(88, 86, 214, 0.1); padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #5856D6;">
+        <div style="background: rgba(88, 86, 214, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
             <div style="font-size: 1.3em; font-weight: 700; margin-bottom: 5px;">🇺🇸</div>
             <div style="font-weight: 600;">Английский</div>
             <div style="font-size: 0.9em; color: #8e8e93; margin-top: 5px;">Изучен приоритетно</div>
@@ -8091,11 +8090,11 @@ Via Negativa
     
     <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
     
-    <div style="background: rgba(255, 204, 0, 0.1); padding: 25px; border-radius: 12px; margin: 30px 0; text-align: center; border: 2px solid #FFCC00;">
+    <div style="background: rgba(255, 204, 0, 0.1); padding: 25px; border-radius: 12px; margin: 30px 0; text-align: center;">
         <p style="margin: 0 0 15px 0; line-height: 1.6; font-size: 1.1em;">
             Какой вывод?
         </p>
-        <p style="margin: 0; line-height: 1.6; font-weight: 700; font-size: 1.3em; color: #FF9500;">
+        <p style="margin: 0; line-height: 1.6; font-weight: 700; font-size: 1.3em;">
             Забей в календарь свое железное время для чтения.
         </p>
     </div>
@@ -10211,32 +10210,32 @@ library: {
 <p>Полный каталог всех конспектов подкастов:</p>
 
 <ul style="list-style: none; padding-left: 0; margin: 18px 0 25px 0;">
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_2')">РАДкаст №2</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'morning_1')">РАДкаст №3</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'businesslesson_1')">РАДкаст №5</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'goalmachine_1')">РАДкаст №6</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'seasons_1')">РАДкаст №7</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'nonsense_1')">РАДкаст №8</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'randomness_1')">РАДкаст №10</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_3')">РАДкаст №11</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'digitalconsumption_1')">РАДкаст №12</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'success_1')">РАДкаст №13</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'radcast15_1')">РАДкаст №15</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'luck_2')">РАДкаст №17</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'expectations_1')">РАДкаст №17 — 2</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'hero_1')">РАДкаст №18</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'godmode_2')">РАДкаст №19</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lessismore_1')">РАДкаст №21</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'vianegativa_2')">РАДкаст №22</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'happylocation_2')">РАДкаст №22 — 2</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'mentalmodels_2')">РАДкаст №23</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'importantword_1')">РАДкаст №24</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'levels_1')">РАДкаст №25</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'walkingclassroom_1')">РАДкаст №26</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'emotions_1')">РАДкаст №27</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lifepurpose_1')">РАДкаст №28</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'writingmoney_1')">РАДкаст №32</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'yourway_1')">РАДкаст №34</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_2')">Режим дня - путь к лучшей версии себя</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'morning_1')">Магия утра</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'businesslesson_1')">Основной урок бизнеса</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'goalmachine_1')">Машина по достижению целей</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'seasons_1')">4 сезона жизни</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'nonsense_1')">Занятие ерундой</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'randomness_1')">Элемент случайности</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_3')">Режим дня от 1 до 3 млн рублей/месяц.</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'digitalconsumption_1')">Общество диджитал-потребления</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'success_1')">Что значит быть успешным?</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'radcast15_1')">Топ 10 книг к лучшей версии себя</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'luck_2')">Как стать везунчиком?</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'expectations_1')">Ожидания к жизни</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'hero_1')">Кто твой герой?</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'godmode_2')">Телефон сразу после пробуждения - убийство "Режима Бога"</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lessismore_1')">Когда меньше — это лучше</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'vianegativa_2')">Via Negativa</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'happylocation_2')">Где находится счастье?</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'mentalmodels_2')">Топ 10 книг к лучшей версии себя</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'importantword_1')">Самое важное слово в русском языке</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'levels_1')">Новичок vs Любитель vs Профи</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'walkingclassroom_1')">Ходячая классная комната</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'emotions_1')">Что делать с эмоциями</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lifepurpose_1')">Найди дело жизни</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'writingmoney_1')">Искусство превращать буквы в деньги</a></li>
+    <li><a class="article-link" onclick="app.navigateTo('openArticle', 'yourway_1')">Делай по-своему</a></li>
 </ul>
 `
                         }
