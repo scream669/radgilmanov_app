@@ -811,7 +811,7 @@ Via Negativa
                     {
                         title: "Режим Бога",
                         articles: [
-                            { id: 'godmode_1', title: '"Как родился Режим Бога"', content: `<div class="article-source">
+                            { id: 'godmode_1', title: '"Как родился Режим Бога?"', content: `<div class="article-source">
     <strong>📄 Ссылка на статью:</strong> <a href="https://t.me/c/1635501098/181" target="_blank">Открыть в Телеграмм</a>
 </div>
 
@@ -900,10 +900,6 @@ Via Negativa
 </div>
 <div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/328" target="_blank">Открыть в Телеграмм</a>
-</div>
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FТелефон%5Fсразу%5Fпосле%5Fпробуждения%5Fубийство%5F“Режима%5FБога”%5Fсобственными%20РАДкаст%20№0019%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1137,11 +1133,6 @@ Via Negativa
 <div style="margin: 25px 0;">
                                 <div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/199" target="_blank">Открыть в Телеграмм</a>
-</div>
-
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FГде%5Fнаходится%5Fсчастье%5FРАДкаст%5F№0022%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -1656,10 +1647,6 @@ Via Negativa
 </div>
 <div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/184" target="_blank">Открыть в Телеграмм</a>
-</div>
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -2911,11 +2898,6 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/99" target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0VsMV91SEtKekNKTXJHQlRwb3F6b3lNQmRPY2RNcXhyemVNY0VWUGRvcTFFaWc%5FZT16a2VwQm0&cid=8338045A46991313&id=8338045A46991313%21s545ca73ba71e414196a1f69850a1125c&parId=8338045A46991313%21s5021ee95d45245bbbc4c973f4a1e537d&o=OneUp" target="_blank">Открыть аудио-подкаст</a>
-</div>
-
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Режим дня - путь к лучшей версии себя</h1>
     
@@ -2982,10 +2964,6 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FРежим%5Fдня%5Fот%5F1%5Fдо%5F3%5Fмлн%5Fр%5FРАДкаст%5F№0011%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Режим дня от 1 до 3 млн рублей/месяц. РАДкаст №0011</h1>
@@ -3314,17 +3292,14 @@ Via Negativa
                     {
                         title: "Магия утра",
                         articles: [
-                            { id: 'morning_1', title: "РАДкаст №3", content: `<div class="article-source">
-    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/107" target="_blank">Открыть в Телеграмм</a>
-</div>
-
-<div class="article-source">
+                            { id: 'morning_1', title: "РАДкаст №3", content: `
+                                <div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FМагия%20утра%2E%20%20Подкаст%20№3%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
+                                
+                                <div class="article-source">
+    <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/107" target="_blank">Открыть в Телеграмм</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -3919,11 +3894,6 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FТелефон%5Fсразу%5Fпосле%5Fпробуждения%5Fубийство%5F“Режима%5FБога”%5Fсобственными%20РАДкаст%20№0019%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
-
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Программирование главного процессора.</h1>
     
@@ -4086,11 +4056,6 @@ Via Negativa
 
 <div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
-</div>
-
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FЭлемент%5Fслучайности%5FРАДкаст%5F№0010%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -4647,10 +4612,7 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FЧто%5Fделать%5Fс%5Fэмоциями%5FРАДкаст%5F№0027%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
+
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Что делать с эмоциями?</h1>
@@ -5013,10 +4975,6 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FХодячая%5Fклассная%5Fкомната%5FРАДкаст%5F№0025%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">РАДкаст №0026<br>Ходячая классная комната</h1>
@@ -5131,10 +5089,7 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/116" target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FОсновной%5Fурок%5Fбизнеса%5FРАДкаст%5F№0005%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
+
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Основной урок бизнеса</h1>
@@ -5160,10 +5115,6 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/119" target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FМашина%5Fпо%5Fдостижению%5Fцелей%5FРАДкаст%5F№0006%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Машина по достижению целей</h1>
@@ -5370,10 +5321,7 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FИскусство%5Fпревращать%5Fбуквы%5Fв%5Fденьги%5FРАДкаст%5F№0032%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
+
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Искусство превращать буквы в деньги</h1>
@@ -5793,11 +5741,6 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/120" target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2F4%20сезона%20жизни%2E%20РАДкаст%20№0007%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
-
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">4 сезона в жизни</h1>
     
@@ -5866,10 +5809,6 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FКогда%5Fменьше%5Fэто%5Fлучше%5FРАДкаст%5F№0021%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Когда меньше - это лучше.</h1>
@@ -5914,11 +5853,6 @@ Via Negativa
 
 <div class="article-source">
     <strong>📚 Ссылка на библиотеку с подскастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
-</div>
-
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FКто%20твой%20герой%2E%20РАДкаст%20№0018%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -6056,10 +5990,7 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FНайди%20дело%20жизни%2E%20РАДкаст%20№0027%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
+
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Найди дело жизни.</h1>
@@ -6857,10 +6788,7 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FРежим%5Fдня%5Fот%5F1%5Fдо%5F3%5Fмлн%5Fр%5FРАДкаст%5F№0011%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
+
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Что значит быть успешным?</h1>
@@ -7012,10 +6940,6 @@ Via Negativa
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&v=validatepermission" target="_blank">Открыть</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FНовичек%5Fvs%5FЛюбитель%5Fvs%5FПрофи%5FРАДкаст%5F№0024%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
 
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Новичок vs Любитель vs Профи</h1>
@@ -7127,11 +7051,6 @@ Via Negativa
 
 <div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/367" target="_blank">Открыть в Телеграмм</a>
-</div>
-
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FСамое%5Fважно%5Fслово%5Fв%5Fрусском%5Fязыке%5FРАДкаст%5F№0024%20%28online%2Daudio%2Dconverter%2Ecom%29%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
@@ -8578,11 +8497,6 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/347" target="_blank">Открыть в Телеграмм</a>
 </div>
 
-<div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FГде%5Fнаходится%5Fсчастье%5FРАДкаст%5F№0022%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
-
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Где находится счастье?</h1>
     
@@ -9379,6 +9293,51 @@ P.S. Я только начал разминаться.
                             { id: 'firstvideo_1', title: "Первое видео на YouTube", content: `<div class="article-source">
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/88" target="_blank">Открыть в Телеграмм</a>
 </div>
+<div style="max-width: 100%; line-height: 1.7;">
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">1 августа 2023 года я запостил свое первое видео на YouTube…</h1>
+    
+    <p style="font-size: 1.1em; margin: 0 0 25px 0; line-height: 1.6;">44 миллиона просмотров, 291 видео, 3,4 миллиона рублей личных денег вложений спустя — у меня есть определенное соприкосновение с реальностью. И вот три основных вывода:</p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">1. Система — это всё.</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Креативный разум обязан быть дисциплинированным.<br>Если ты сознательно не выделяешь время для создания контента, ты никогда не начнешь системно создавать контент.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">С 14 лет, с момента, когда у меня появился Sony Ericsson K700i, я хотел делать контент. Но на самом деле <strong>ДЕЛАТЬ</strong> я начал 18 лет спустя.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>291 видео за год — это не вдохновение. Это результат системы.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">2. Делай контент, который хочешь смотреть сам.</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Я сделал 264 коротких видео. Мой рекорд за месяц был 25 миллионов просмотров за счет короткого контента.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Если бы я продолжил делать короткие видео, на моем канале было бы в десять раз больше подписчиков. <strong>НО</strong> я сам не смотрю короткий контент — в нем нет глубины.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Моя цель — каждый день быть немного лучше, чем вчера.<br>Я потребляю образовательный, длинный контент.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Поэтому свой контент я делаю без сложного монтажа, в большинстве случаев без музыки и только в длинной, развернутой форме.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Главное — дать зрителю столько пользы в единицу времени, чтобы было просто и понятно.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">3. Не существует слов «алгоритм», «видео залетело». Есть только навыки.</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">Чем больше я обучаюсь, тем выше качество моего контента.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;">За прошедший год я покупал курсы и консультации не только по самой платформе YouTube, но и у тренеров по голосу для развития речи.</p>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Всё сводится к твоим навыкам. Везения не существует.</strong></p>
+    
+    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
+    
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">P.S.</h2>
+    
+    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я только начал разминаться.</strong></p>
+</div>
 <div style="text-align: center; margin-bottom: 25px;">
         <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_1.jpg?raw=true"
              onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_1.jpg?raw=true')"
@@ -9398,7 +9357,8 @@ P.S. Я только начал разминаться.
              onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/youtube_3.jpg?raw=true')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>` }
+    </div>
+    ` }
                         ]
                     }
                 ]
@@ -10033,11 +9993,6 @@ P.S. Я только начал разминаться.
 <a href="https://t.me/c/1635501098/208" target="_blank">Открыть аудио-подкаст</a>
 </div>
     
-    <div class="article-source">
-<strong>🎙 Ссылка на РАДкаст:</strong>
-<a href="https://onedrive.live.com/?listurl=%2Fpersonal%2F8338045a46991313%2FDocuments&viewid=7cdb8663%2D585b%2D452f%2D92eb%2Df932a3032238&id=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты%2FРежим%5Fдня%5Fот%5F1%5Fдо%5F3%5Fмлн%5Fр%5FРАДкаст%5F№0011%2Emp3&parent=%2Fpersonal%2F8338045a46991313%2FDocuments%2FБиблиотека%20РАД%2FРАДкасты" target="_blank">Открыть аудио-подкаст</a>
-</div>
-    
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3; color: #0066cc;">
         Топ 10 книг к лучшей версии себя.
     </h1>
@@ -10253,30 +10208,24 @@ library: {
                             title: "Все конспекты РАДкастов",
                             content: `
 <h2>🎙️ Конспекты РАДкастов</h2>
-<p>Полный каталог всех конспектов РАДкастов.</p>
+<p>Полный каталог всех конспектов подкастов:</p>
 
-<ul class="article-list">
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №1</a></li>
+<ul style="list-style: none; padding-left: 0; margin: 18px 0 25px 0;">
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_2')">РАДкаст №2</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'morning_1')">РАДкаст №3</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №4</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'businesslesson_1')">РАДкаст №5</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'goalmachine_1')">РАДкаст №6</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'seasons_1')">РАДкаст №7</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'nonsense_1')">РАДкаст №8</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №9</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'randomness_1')">РАДкаст №10</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'routine_3')">РАДкаст №11</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'digitalconsumption_1')">РАДкаст №12</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'success_1')">РАДкаст №13</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №14</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'radcast15_1')">РАДкаст №15</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №16</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'luck_2')">РАДкаст №17</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'expectations_1')">РАДкаст №17 — 2</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'hero_1')">РАДкаст №18</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'godmode_2')">РАДкаст №19</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №20</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lessismore_1')">РАДкаст №21</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'vianegativa_2')">РАДкаст №22</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'happylocation_2')">РАДкаст №22 — 2</a></li>
@@ -10286,11 +10235,7 @@ library: {
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'walkingclassroom_1')">РАДкаст №26</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'emotions_1')">РАДкаст №27</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'lifepurpose_1')">РАДкаст №28</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №29</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №30</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №31</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'writingmoney_1')">РАДкаст №32</a></li>
-    <li><a class="article-link" onclick="app.navigateTo('openArticle', '')">РАДкаст №33</a></li>
     <li><a class="article-link" onclick="app.navigateTo('openArticle', 'yourway_1')">РАДкаст №34</a></li>
 </ul>
 `
