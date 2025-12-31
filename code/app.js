@@ -332,6 +332,19 @@ closeImageViewer() {
         // Используем navigateReplace — заменяем текущую страницу (мы не хотим пушить overlay в историю)
         this.navigateReplace('showGoalSelection');
     };
+    // гарантируем актуальное состояние сразу
+document.body.classList.toggle(
+    'light-theme',
+    this.currentTheme === 'light'
+);
+
+document.body.classList.remove(
+    'text-size-small',
+    'text-size-medium',
+    'text-size-large'
+);
+document.body.classList.add('text-size-' + this.textSize);
+
 },
 
 
@@ -341,17 +354,47 @@ closeImageViewer() {
     },
 
     toggleTheme() {
-        this.currentTheme = this.currentTheme === 'dark' ? 'light' : 'dark';
-        localStorage.setItem('appTheme', this.currentTheme);
-        this.applySettings();
-    },
+    this.currentTheme = this.currentTheme === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('appTheme', this.currentTheme);
+
+    // 🔴 СРАЗУ меняем DOM
+    document.body.classList.toggle(
+        'light-theme',
+        this.currentTheme === 'light'
+    );
+
+    // 🔴 обновляем кнопку в меню настроек
+    const btn = document.getElementById('theme-toggle-btn');
+    if (btn) {
+        btn.textContent =
+            this.currentTheme === 'dark'
+                ? '☀️ Светлая'
+                : '🌙 Тёмная';
+
+        btn.classList.toggle(
+            'active',
+            this.currentTheme === 'dark'
+        );
+    }
+},
 
     changeTextSize(size) {
-        this.textSize = size;
-        localStorage.setItem('textSize', size);
-        document.body.classList.remove('text-size-small', 'text-size-medium', 'text-size-large');
-        document.body.classList.add('text-size-' + size);
-    },
+    this.textSize = size;
+    localStorage.setItem('textSize', size);
+
+    // применяем размер
+    document.body.classList.remove(
+        'text-size-small',
+        'text-size-medium',
+        'text-size-large'
+    );
+    document.body.classList.add('text-size-' + size);
+
+    // 🔴 сразу обновляем UI кнопок
+    document.getElementById('text-small-btn')?.classList.toggle('active', size === 'small');
+    document.getElementById('text-medium-btn')?.classList.toggle('active', size === 'medium');
+    document.getElementById('text-large-btn')?.classList.toggle('active', size === 'large');
+},
 
     showGoalSelection() {
     this.currentScreen = 'goal-selection';
@@ -390,11 +433,24 @@ closeImageViewer() {
 
 
     toggleGoal(goalId) {
+    const btn = document.getElementById(`goal-${goalId}`);
+    if (!btn) return;
+
     const idx = this.selectedGoals.indexOf(goalId);
-    if (idx > -1) this.selectedGoals.splice(idx, 1);
-    else if (this.selectedGoals.length < 3) this.selectedGoals.push(goalId);
+
+    if (idx > -1) {
+        this.selectedGoals.splice(idx, 1);
+        btn.classList.remove('selected');
+    } else {
+        if (this.selectedGoals.length >= 3) return;
+        this.selectedGoals.push(goalId);
+        btn.classList.add('selected');
+    }
+
     this.updateCounter();
 },
+
+
 
     updateCounter() {
     const counter = document.getElementById('counter');
