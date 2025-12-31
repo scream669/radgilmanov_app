@@ -4853,41 +4853,44 @@ Via Negativa
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
+    <style>
+        .article-content a {
+            color: #4dabf7 !important; /* Яркий голубой */
+            text-decoration: none;
+            transition: opacity 0.2s;
+        }
+        .article-content a:hover {
+            opacity: 0.8;
+        }
+    </style>
+    
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Музыка для максимальной продуктивности</h1>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">В концепте "Режим Бога" я отмечал: музыка помогает полностью слиться с задачей.</p>
     
-    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
-    
     <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Мои подборки</h2>
     
-    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">1. Плейлист на YouTube (бесплатно)</h3>
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">1. <a href="https://youtube.com/playlist?list=PL9agsA0P90FrwhT2OcOrOtfW02fyrNHfZ&si=mnaeWs5Wb9LDzwYz" target="_blank">Плейлист на YouTube (бесплатно)</a></h3>
     
-    <p style="margin: 0 0 18px 0; line-height: 1.7;">Ссылка: https://youtube.com/playlist?list=PL9agsA0P90FrwhT2OcOrOtfW02fyrNHfZ&si=mnaeWs5Wb9LDzwYz</p>
+    <h4 style="font-size: 1.1em; font-weight: 600; margin: 22px 0 12px 0; line-height: 1.3;">Структура плейлиста:</h4>
     
-    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Структура плейлиста:</strong></p>
-    
-    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
-        <li style="margin-bottom: 10px; line-height: 1.6;">Трек 1-4: для утра</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">Трек 5-9: после обеда</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">Трек 10-12: вечернее время</li>
+    <ul style="margin: 0 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Трек 1-4:</strong> для утра</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Трек 5-9:</strong> после обеда</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Трек 10-12:</strong> вечернее время</li>
     </ul>
     
-    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">2. Brain.FM (платное приложение)</h3>
+    <h3 style="font-size: 1.2em; font-weight: 600; margin: 28px 0 14px 0; line-height: 1.3;">2. <a href="https://www.brain.fm/" target="_blank">Brain.FM (платное приложение)</a></h3>
     
-    <p style="margin: 0 0 18px 0; line-height: 1.7;">Ссылка: https://www.brain.fm/</p>
+    <h4 style="font-size: 1.1em; font-weight: 600; margin: 22px 0 12px 0; line-height: 1.3;">Рекомендуемые настройки:</h4>
     
-    <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Рекомендуемые настройки:</strong></p>
-    
-    <ul style="margin: 18px 0 25px 0; padding-left: 20px;">
-        <li style="margin-bottom: 10px; line-height: 1.6;">Activity: Deep work</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">Genre: Electronic</li>
-        <li style="margin-bottom: 10px; line-height: 1.6;">Effect Level: High</li>
+    <ul style="margin: 0 0 25px 0; padding-left: 20px;">
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Activity:</strong> Deep work</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Genre:</strong> Electronic</li>
+        <li style="margin-bottom: 10px; line-height: 1.6;"><strong>Effect Level:</strong> High</li>
     </ul>
     
-    <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
-    
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Оба варианта проверены лично и помогают достигать состояния глубокой концентрации.</h2>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">Оба варианта проверены лично и помогают достигать состояния глубокой концентрации.</p>
 </div>` }
                         ]
                     },
@@ -8502,6 +8505,10 @@ Via Negativa
     <strong>📄 Ссылка на пост:</strong> <a href="https://t.me/c/1635501098/347" target="_blank">Открыть в Телеграмм</a>
 </div>
 
+<div class="article-source">
+    <strong>📚 Ссылка на библиотеку РАД:</strong> <a href="https://1drv.ms/f/c/8338045a46991313/IgDujNfP6WG9T6Nqjr9eODFrAaJcYRQ8P03hbrAuuMMWFD4" target="_blank">Открыть</a>
+</div>
+
 <div style="max-width: 100%; line-height: 1.7;">
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Где находится счастье?</h1>
     
@@ -9743,7 +9750,7 @@ P.S. Я только начал разминаться.
                         title: "ТОП-30 книг, делящих жизнь на «ДО» и «ПОСЛЕ»",
                         articles: [
                             { id: 'top30books_1', title: "ТОП-30 книг, делящих жизнь на «ДО» и «ПОСЛЕ»", content: `<div class="article-source">
-    <strong>📚 Ссылка на библиотеку:</strong> <a href="https://onedrive.live.com/?cid=8338045a46991313&id=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&resid=8338045A46991313!scfd78cee61e94fbda36a8ebf5e38316b&ithint=folder&e=ngdtcX&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g&v=validatepermission" target="_blank" style="color: #0066cc;">Открыть</a>
+    <strong>📚 Ссылка на библиотеку:</strong> <a href="https://1drv.ms/f/c/8338045a46991313/IgDujNfP6WG9T6Nqjr9eODFrAaJcYRQ8P03hbrAuuMMWFD4" target="_blank" style="color: #0066cc;">Открыть</a>
 </div>
 
 <div class="article-source" style="margin-top: 15px;">
@@ -9990,7 +9997,7 @@ P.S. Я только начал разминаться.
                             { id: 'radcast15_1', title: "РАДкаст № 0015 - Топ 10 книг к лучшей версии себя", content: `<div style="max-width: 100%; line-height: 1.7;">
     <div class="article-source">
 <strong>📚 Ссылка на библиотеку с подкастом:</strong>
-<a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxPG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE_ZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313&v=validatepermission" target="_blank">Открыть аудио-подкаст</a>
+<a href="https://1drv.ms/f/c/8338045a46991313/IgDujNfP6WG9T6Nqjr9eODFrAaJcYRQ8P03hbrAuuMMWFD4" target="_blank">Открыть аудио-подкаст</a>
 </div>
     
     <div class="article-source">
@@ -10001,6 +10008,59 @@ P.S. Я только начал разминаться.
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3; color: #0066cc;">
         Топ 10 книг к лучшей версии себя.
     </h1>
+</div>
+<div style="max-width: 100%; line-height: 1.7;">
+    <p style="font-size: 1.1em; margin: 0 0 25px 0; line-height: 1.6;">
+        Во время чтения у тебя должна приходить задача к выполнению. У тебя нет задачи прочитать книги всего мира, у тебя есть задача использовать полученные из книги знания на практике.
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        Чтение- это работа над фокусом. Успех зависит не от широты, а от глубины знаний.
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Сначала заложим цель.</strong>
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Будущее. Как начать выполнять поставленные цели. Бенджемин харди.</strong> Нужно сформировать цель, прежде чем идти
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Эссенциализм- путь к простоте.</strong> Чтобы достигнуть чего-то, нужно убрать хлам из своей жизни и сфокусироваться на главном.
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Стоицизм на каждый день. Как стать современным стоиком.</strong> Стоицизм укрепляет твой внутренний мир, несмотря на внешние обстоятельства. Книга полна мудростей на каждый день
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Атомные привычки.</strong> Сначала ты формируешь привычки, потом привычки формируют тебя. Книга рассказывает, как формировать привычки
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>В работу с головой.</strong> Книга научится фокусироваться на своей деле, не отвлекаясь на всякую чушь
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Альманах Навала Равиканта.</strong> Книга дает комплексный подход на жизнь
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Война за креатив.</strong> Чтобы двигаться дальше, нужно победить внутренний конфликт. У тебя должен быть креативный подход к делу.
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Шкура на кону.</strong> Чтобы стать лучшим, нужно рисковать и принимать ответственность за свои действия. Книга научит предпринимать действия
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Антихрупкость.</strong> Как стать лучше под воздействием стресса?
+    </p>
+    
+    <p style="margin: 0 0 25px 0; line-height: 1.7;">
+        <strong>Скажи жизни Да!</strong> На всем твоем пути будут трудности. И ты, вспоминая те муки, через которые прошел Франкл, поймешь, что твои проблемы не такик большие, как бывают у заключенный конц. лагеря.
+    </p>
 </div>` }
                         ]
                     },
