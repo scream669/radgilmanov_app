@@ -60,7 +60,7 @@ personal: {
 
 <p><a class="article-link" onclick="app.navigateTo('openArticle', 'goalmachine_1')">«Машина по достижению целей»</a> — Большие цели — это страшно. Первоочередные действия — нет. Разложи цель на простейшие шаги и выполняй их по алгоритму.</p>
 
-<p><a class="article-link" href="https://www.youtube.com/" target="_blank">"Куда вложить 17 890 руб, чтобы получить 1 млн руб/месяц?"</a></p>
+<p><a class="article-link" onclick="app.navigateTo('openArticle', 'yt_28')">"Куда вложить 17 890 руб, чтобы получить 1 млн руб/месяц?"</a></p>
 
 <h3 style="font-size:1.3em;">Этап 2: ПРОДАЖИ И МОНЕТИЗАЦИЯ</h3>
 <p><a class="article-link" onclick="app.navigateTo('openArticle', 'selling_1')">«Как продавать, не впаривая»</a> — Продажи — это не обман. Это — помощь. Ты решаешь проблему клиента. Говори на его языке, а не на языке своего кошелька.</p>
@@ -69,8 +69,8 @@ personal: {
 
 <p><a class="article-link" onclick="app.navigateTo('openArticle', 'stupidgames_1')">«Играешь в глупые игры — получаешь глупые призы»</a> — Выбор бизнес-модели определяет твой результат. Не ищи «халяву». Строишь системный бизнес — будь готов к системной работе.</p>
 
-<p><a class="article-link" href="#" target="_blank">"4 проверенных способа поиска клиентов в 2025"</a></p>
-<p><a class="article-link" href="#" target="_blank">"Формула убойного оффера"</a></p>
+<p><a class="article-link" onclick="app.navigateTo('openArticle', 'bonus_1')">"4 проверенных способа поиска клиентов в 2025"</a></p>
+<p><a class="article-link" onclick="app.navigateTo('openArticle', 'bonus_2')">"Формула убойного оффера"</a></p>
 
 <h3 style="font-size:1.3em;">Этап 3: МАСШТАБИРОВАНИЕ</h3>
 <p><a class="article-link" onclick="app.navigateTo('openArticle', 'professions_1')">«ТОП-14 ПЕРСПЕКТИВНЫХ ПРОФЕССИЙ»</a> — Это не просто список профессий. Это анализ «болей» рынка. Найди боль и создай убойное предложение.</p>
@@ -134,8 +134,8 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
-Как понять, что ты хочешь?
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_32')">
+Как понять, что ты хочешь? <br>( Конспект можно найти в "Выгорание. Деньги. Одиночество" )
 </a>
 </p>
 
@@ -154,13 +154,13 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_2')">
 Кем же будешь ты?
 </a> — Научный эффект победителя.
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_13')">
 Алгоритм преодоления жизненных кризисов
 </a>
 </p>
@@ -225,8 +225,8 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
-Как стать энергичным
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_32')">
+Как стать энергичным? <br>( Конспект можно найти в "Выгорание. Деньги. Одиночество" )
 </a>
 </p>
 
@@ -251,7 +251,7 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'bonus_4')">
 ГЛАВНЫЙ СЕКРЕТ ПРОДУКТИВНОГО ДНЯ
 </a> — 99% этого не делают.
 </p>
@@ -320,8 +320,8 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
-Привычка «кусать» жизнь
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_32')">
+Привычка «кусать» жизнь <br>( Конспект можно найти в "Выгорание. Деньги. Одиночество" )
 </a>
 </p>
 
@@ -391,7 +391,7 @@ personal: {
 <h3 style="font-size:1.3em;">Этап 2: ПРАКТИЧЕСКИЕ ИНСТРУМЕНТЫ</h3>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_8')">
 «Как отлипнуть от телефона (без ломки)»
 </a> — Пошаговый алгоритм: Ч/Б режим, уведомления OFF, таймеры, якорные привычки.
 </p>
@@ -448,13 +448,13 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_25')">
 5 БАДов, чтобы включить Режим Бога
 </a> — Магний, цинк, витамин D, омега-3. Дополнение, не основа.
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_11')">
 Как правильно спать (биохакинг)
 </a> — 7–9 часов сна — инвестиция в энергию и гормоны.
 </p>
@@ -512,7 +512,7 @@ personal: {
 <h3 style="font-size:1.3em;">Этап 1: ОСНОВЫ ОБУЧЕНИЯ</h3>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'startreading_1')">
 Как начать много читать (не напрягаясь)
 </a> — Не много, а регулярно. 10 страниц в день.
 </p>
@@ -524,8 +524,8 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
-Как обучаться ПРАВИЛЬНО
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_32')">
+Как обучаться ПРАВИЛЬНО <br>( Конспект можно найти в "Выгорание. Деньги. Одиночество" )
 </a>
 </p>
 
@@ -536,7 +536,7 @@ personal: {
 </p>
 
 <p>
-<a class="article-link" href="#">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'top30books_1')">
 Топ-30 книг, делящих жизнь на «ДО» и «ПОСЛЕ»
 </a>
 </p>
@@ -564,13 +564,13 @@ personal: {
 <h3 style="font-size:1.3em;">Этап 3: МАСТЕРСТВО</h3>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_29')">
 Режим Бога в эпоху нейросетей
 </a> — 3 критических навыка будущего.
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'bonus_5')">
 Как использовать нейросети для самообучения
 </a>
 </p>
@@ -690,7 +690,7 @@ Via Negativa
 <h3 style="font-size:1.3em;">Этап 1: ОСНОВЫ ЦИФРОВОЙ ГИГИЕНЫ</h3>
 
 <p>
-<a class="article-link" href="#">
+<a onclick="app.navigateTo('openArticle', 'bonus_5')">
 Как использовать нейросети для самообучения
 </a> — ИИ — это левередж. Используй для мышления, а не пустоты.
 </p>
@@ -702,7 +702,7 @@ Via Negativa
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_8')">
 Как отлипнуть от телефона (без ломки)
 </a> — Защита внимания и фокуса.
 </p>
@@ -722,13 +722,13 @@ Via Negativa
 </p>
 
 <p>
-<a class="article-link" href="#">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'bonus_1')">
 4 проверенных способа поиска клиентов в 2025
 </a> — Где брать заказчиков и превращать навык в доход.
 </p>
 
 <p>
-<a class="article-link" href="#">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'bonus_2')">
 Формула убойного оффера
 </a> — Упаковка экспертизы — ключ к продажам.
 </p>
@@ -742,20 +742,20 @@ Via Negativa
 <h3 style="font-size:1.3em;">Этап 3: ПРОДВИНУТОЕ ИСПОЛЬЗОВАНИЕ</h3>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_29')">
 Режим Бога в эпоху революции нейросетей
 </a> — Как оставаться ценным, когда ИИ автоматизирует рутину.
 </p>
 
 <p>
-<a class="article-link" href="#" target="_blank">
+<a class="article-link" onclick="app.navigateTo('openArticle', 'freedom_1')">
 Овладей свободой финансов, времени и местоположения
 </a> — Технологии как средство создания образа жизни.
 </p>
 
 <p>
-<a class="article-link" href="#">
-Делать деньги — это навык
+<a class="article-link" onclick="app.navigateTo('openArticle', 'yt_32')">
+Делать деньги — это навык <br>( Конспект можно найти в "Выгорание. Деньги. Одиночество" )
 </a> — Переход от исполнителя к создателю доходов.
 </p>
 
@@ -773,7 +773,7 @@ Via Negativa
     ]
 },
 
-
+    
 
     navigation: {
         description: "Навигация по карте", 
@@ -782,16 +782,23 @@ Via Negativa
                 title: "Карта мышления РАД",
                 topics: [
                     {
-                        title: "Открыть карту Miro",
+                        title: "Список карт Miro",
                         articles: [
-                            { 
-                                id: 'miro_map_1', 
-                                title: '📌 Навигационная карта РАД', 
-                                content: `<button class="miro-map-btn" onclick="window.open('https://miro.com/app/board/uXjVJqKyXxw=/?share_link_id=434098608523', '_blank')">
-    <span class="miro-icon">🗺️</span>
-    <span class="miro-text">Открыть карту Miro</span>
-    <span class="miro-arrow">↗</span>
-</button>`
+                            { id: 'miro_map_1', title: '<strong>📌 Навигационная карта РАД</strong>', content:`
+                                <p style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 10px; border-left: 4px solid #007aff; margin: 20px 0;">
+    <strong>💡 Совет:</strong> На карте вы можете посмотреть все темы и выбрать для вас самые интересные.
+</p>
+                                <div class="article-source">
+    <strong>📄 Ссылка на карту Miro:</strong> <a href="https://miro.com/app/board/uXjVJqKyXxw=/?share_link_id=434098608523" target="_blank">Открыть</a>
+</div>`
+                            },
+                            { id: 'miro_map_2', title: '<strong>📌 Навигационная карта РАД 2</strong> <br>( Если не открывается 1-й вариант )', content:`
+                                <p style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 10px; border-left: 4px solid #007aff; margin: 20px 0;">
+    <strong>💡 Совет:</strong> На карте вы можете посмотреть все темы и выбрать для вас самые интересные.
+</p>
+                                <div class="article-source">
+    <strong>📄 Ссылка на карту Miro:</strong> <a href="https://miro.com/app/board/uXjVJqKyXxw=/?share_link_id=434098608523" target="_blank">Открыть</a>
+</div>`
                             },
                         ]
                     }
@@ -989,6 +996,8 @@ Via Negativa
 <div class="article-source">
     <strong>📄 Ссылка на пост 2:</strong> <a href="https://t.me/c/1635501098/241" target="_blank">Открыть в Телеграмм</a>
 </div>
+
+
 <div style="max-width: 100%; line-height: 1.7;">
 
     <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Via Negativa</h1>
@@ -1101,31 +1110,28 @@ Via Negativa
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Я проснулся сегодня без мелких/горящих задач – все уже решено вчера.</strong></p>
     
-    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Я заряжен и готов к новому рывку.</strong></p>
+    <p style="margin: 0 0 25px 0; line-height: 1.7;"><strong>Я заряжен и готов к новому рывку.</strong></p></div>
 
-    <div style="margin: 25px 0;">
     <div style="text-align: center;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg')"
+        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg?raw=true"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_1.jpg?raw=true')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
 
     <div style="text-align: center;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg')"
+        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg?raw=true"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_2.jpg?raw=true')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
     </div>
 
     <div style="text-align: center;">
-        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg"
-             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg')"
+        <img src="https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg?raw=true"
+             onclick="app.openImage('https://github.com/scream669/radgilmanov_app/blob/main/pictures/vianegativa_3.jpg?raw=true')"
              style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;">
         <div style="margin-top: 8px; color: #8e8e93; font-size: 14px;">Нажмите для увеличения</div>
-    </div>
-    </div>
-</div>` },
+    </div>` },
                             { id: 'vianegativa_2', title: "РАДкаст №22", content: `<div class="article-source">
     <strong>📚 Ссылка на библиотеку с подкастом:</strong> <a href="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84MzM4MDQ1YTQ2OTkxMzEzL0V1Nk0xOF9wWWIxUG8ycU92MTQ0TVdzQm5uSXZHcXFJSmtiemJXbklGck5VVFE%5FZT1uZ2R0Y1g&id=8338045A46991313%21scfd78cee61e94fbda36a8ebf5e38316b&cid=8338045A46991313" target="_blank">Открыть</a>
 </div>
@@ -1509,7 +1515,7 @@ Via Negativa
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод:</h2>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;"><strong>Знайте: если вы на дне — это ваша вина.</strong></p>
     
@@ -2026,7 +2032,7 @@ Via Negativa
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод:</h2>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;">Время от времени мы все попадаем в яму. И каким бы чемпионом ты не был, негативные мысли прилетают.</p>
     
@@ -4292,7 +4298,7 @@ Via Negativa
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Финальный вывод</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Финальный вывод:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Или ты управляешь своей энергией, или она управляет тобой.</p>
     
@@ -6291,7 +6297,7 @@ Via Negativa
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Ключевой вывод</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Ключевой вывод:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Лучшее обучение – действие.</p>
     
@@ -7761,7 +7767,7 @@ Via Negativa
 </div>
 
 <div style="max-width: 100%; line-height: 1.7;">
-    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Коротко о важном:</h1>
+    <h1 style="font-size: 1.8em; font-weight: 700; margin: 0 0 25px 0; line-height: 1.3;">Коротко о важном.</h1>
 </div>` }
                         ]
                     },
@@ -8034,7 +8040,7 @@ Via Negativa
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">В 2025 году уж точно нельзя отмазаться отсутствием времени:</p>
     
-    <div style="background: rgba(255, 59, 48, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0;">
+    <div padding: 20px; border-radius: 10px; margin: 25px 0;">
         <p style="margin: 0; line-height: 1.6; font-weight: 600; font-size: 1.1em;">
             Твоя проблема не во времени, твоя проблема – в приоритетности.
         </p>
@@ -8054,8 +8060,8 @@ Via Negativa
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">В течение 5 лет я читал сразу после пробуждения, и как результат – прочитал 250 книг.</p>
     
-    <div style="background: rgba(52, 199, 89, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0; text-align: center;">
-        <div style="font-size: 2.5em; font-weight: 700; color: #34C759; margin-bottom: 10px;">250</div>
+    <div padding: 20px; border-radius: 10px; margin: 25px 0; text-align: center;">
+        <div style="font-size: 2.5em; font-weight: 700; margin-bottom: 10px;">250</div>
         <div style="font-size: 1.1em; font-weight: 600;">книг за 5 лет</div>
     </div>
     
@@ -8065,7 +8071,7 @@ Via Negativa
     
     <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Система приоритетности работает во всем</h2>
     
-    <div style="background: rgba(0, 122, 255, 0.1); padding: 20px; border-radius: 10px; margin: 25px 0;">
+    <div padding: 20px; border-radius: 10px; margin: 25px 0;">
         <p style="margin: 0; line-height: 1.6; font-weight: 600; font-size: 1.1em;">
             Делай самые важные дела раньше остальных.
         </p>
@@ -8088,9 +8094,9 @@ Via Negativa
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод:</h2>
     
-    <div style="background: rgba(255, 204, 0, 0.1); padding: 25px; border-radius: 12px; margin: 30px 0; text-align: center;">
+    <div padding: 25px; border-radius: 12px; margin: 30px 0; text-align: center;">
         <p style="margin: 0 0 15px 0; line-height: 1.6; font-size: 1.1em;">
             Какой вывод?
         </p>
@@ -8186,7 +8192,7 @@ Via Negativa
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод:</h2>
     
     <p style="margin: 0 0 18px 0; line-height: 1.7;">Используя эти 4 пункта я запоминаю прочитанное.</p>
     
@@ -8469,7 +8475,7 @@ Via Negativa
     
     <hr style="margin: 35px 0; height: 1px; background: currentColor; opacity: 0.1; border: none;">
     
-    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод</h2>
+    <h2 style="font-size: 1.4em; font-weight: 600; margin: 35px 0 18px 0; line-height: 1.3;">Вывод:</h2>
     
     <p style="margin: 0 0 25px 0; line-height: 1.7;">Ну и конечно, надо понять, что момент счастья находится не где-то снаружи – он всегда - внутри нас.</p>
     
