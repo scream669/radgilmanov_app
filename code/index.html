@@ -78,11 +78,6 @@
             color: #ffffff;
         }
         
-        .goal-btn.selected {
-            background: linear-gradient(90deg, #007aff 0%, #0056cc 100%);
-            border-color: #007aff;
-        }
-        
         .goal-btn .emoji {
             font-size: 20px;
             margin-right: 12px;
@@ -286,6 +281,17 @@
             border: 1px solid #38383a;
         }
         
+
+        .goal-btn.selected {
+    background: #2f80ff;
+    color: #fff;
+    border-color: #2f80ff;
+}
+
+.goal-btn.selected .check {
+    opacity: 1;
+}
+
         .setting-item {
             display: flex;
             justify-content: space-between;
@@ -431,6 +437,15 @@
         .text-size-large * {
             font-size: inherit;
         }
+        .light-theme .goal-btn.selected {
+    background: linear-gradient(90deg, #007aff 0%, #0056cc 100%);
+    border-color: #007aff;
+    color: #ffffff;
+}
+
+.light-theme .goal-btn.selected .check {
+    opacity: 1;
+}
         /* === КОНЕЦ НОВЫХ СТИЛЕЙ === *//* === СТИЛИ ДЛЯ МЕНЮ НАСТРОЕК === */
         .menu-btn {
             background: none;
@@ -629,7 +644,7 @@
             background: rgba(41, 182, 246, 0.2);
         }
                 .logo-image {
-            width: 150px;
+            width: 120px;
             filter: brightness(0) invert(1); /* Белый для темной темы */
         }
 
