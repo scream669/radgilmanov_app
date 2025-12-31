@@ -299,9 +299,9 @@ closeImageViewer() {
             <div class="setting-item">
                 <span>Размер текста:</span>
                 <div class="text-size-controls">
-                    <button class="text-size-btn ${this.textSize === 'small' ? 'active' : ''}" id="text-small-btn">A</button>
-                    <button class="text-size-btn ${this.textSize === 'medium' ? 'active' : ''}" id="text-medium-btn">A</button>
-                    <button class="text-size-btn ${this.textSize === 'large' ? 'active' : ''}" id="text-large-btn">A</button>
+                    <button class="text-size-btn ${this.textSize === 'small' ? 'active' : ''}" id="text-small-btn">1</button>
+                    <button class="text-size-btn ${this.textSize === 'medium' ? 'active' : ''}" id="text-medium-btn">2</button>
+                    <button class="text-size-btn ${this.textSize === 'large' ? 'active' : ''}" id="text-large-btn">3</button>
                 </div>
             </div>
             <div class="setting-item">
